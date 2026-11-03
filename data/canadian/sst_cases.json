@@ -1,0 +1,802 @@
+{
+ "sst/0000_2026_SST_113": {
+  "domain": "sst",
+  "title": "SW v Minister of Employment and Social Development (2026 SST 113)",
+  "citation": "2026 SST 113",
+  "date": "2026-02-18T00:00:00+00:00",
+  "court": "",
+  "chars": 7215
+ },
+ "sst/0001_2026_SST_77": {
+  "domain": "sst",
+  "title": "AC v Minister of Employment and Social Development (2026 SST 77)",
+  "citation": "2026 SST 77",
+  "date": "2026-02-02T00:00:00+00:00",
+  "court": "",
+  "chars": 19871
+ },
+ "sst/0002_2026_SST_24": {
+  "domain": "sst",
+  "title": "MW v Minister of Employment and Social Development (2026 SST 24)",
+  "citation": "2026 SST 24",
+  "date": "2026-01-30T00:00:00+00:00",
+  "court": "",
+  "chars": 22183
+ },
+ "sst/0003_2026_SST_45": {
+  "domain": "sst",
+  "title": "TO v Minister of Employment and Social Development (2026 SST 45)",
+  "citation": "2026 SST 45",
+  "date": "2026-01-23T00:00:00+00:00",
+  "court": "",
+  "chars": 12639
+ },
+ "sst/0004_2026_SST_79": {
+  "domain": "sst",
+  "title": "BR v Minister of Employment and Social Development (2026 SST 79)",
+  "citation": "2026 SST 79",
+  "date": "2026-01-23T00:00:00+00:00",
+  "court": "",
+  "chars": 22780
+ },
+ "sst/0005_2026_SST_48": {
+  "domain": "sst",
+  "title": "JL v Minister of Employment and Social Development (2026 SST 48)",
+  "citation": "2026 SST 48",
+  "date": "2026-01-22T00:00:00+00:00",
+  "court": "",
+  "chars": 11329
+ },
+ "sst/0006_2026_SST_32": {
+  "domain": "sst",
+  "title": "FV v Minister of Employment and Social Development and DT (2026 SST 32)",
+  "citation": "2026 SST 32",
+  "date": "2026-01-20T00:00:00+00:00",
+  "court": "",
+  "chars": 44517
+ },
+ "sst/0007_2026_SST_23": {
+  "domain": "sst",
+  "title": "PH v Minister of Employment and Social Development (2026 SST 23)",
+  "citation": "2026 SST 23",
+  "date": "2026-01-19T00:00:00+00:00",
+  "court": "",
+  "chars": 13156
+ },
+ "sst/0008_2026_SST_25": {
+  "domain": "sst",
+  "title": "BC v Minister of Employment and Social Development (2026 SST 25)",
+  "citation": "2026 SST 25",
+  "date": "2026-01-19T00:00:00+00:00",
+  "court": "",
+  "chars": 21403
+ },
+ "sst/0009_2026_SST_26": {
+  "domain": "sst",
+  "title": "TD v Minister of Employment and Social Development (2026 SST 26)",
+  "citation": "2026 SST 26",
+  "date": "2026-01-19T00:00:00+00:00",
+  "court": "",
+  "chars": 17541
+ },
+ "sst/0010_2025_SST_1381": {
+  "domain": "sst",
+  "title": "AB v Minister of Employment and Social Development (2025 SST 1381)",
+  "citation": "2025 SST 1381",
+  "date": "2025-12-29T00:00:00+00:00",
+  "court": "",
+  "chars": 4230
+ },
+ "sst/0011_2025_SST_1392": {
+  "domain": "sst",
+  "title": "Minister of Employment and Social Development v CE (2025 SST 1392)",
+  "citation": "2025 SST 1392",
+  "date": "2025-12-29T00:00:00+00:00",
+  "court": "",
+  "chars": 34765
+ },
+ "sst/0012_2025_SST_1379": {
+  "domain": "sst",
+  "title": "Minister of Employment and Social Development v AS (2025 SST 1379)",
+  "citation": "2025 SST 1379",
+  "date": "2025-12-24T00:00:00+00:00",
+  "court": "",
+  "chars": 22910
+ },
+ "sst/0013_2025_SST_1378": {
+  "domain": "sst",
+  "title": "Appellant v Minister of Employment and Social Development (2025 SST 1378)",
+  "citation": "2025 SST 1378",
+  "date": "2025-12-23T00:00:00+00:00",
+  "court": "",
+  "chars": 24281
+ },
+ "sst/0014_2025_SST_1380": {
+  "domain": "sst",
+  "title": "MP v Minister of Employment and Social Development (2025 SST 1380)",
+  "citation": "2025 SST 1380",
+  "date": "2025-12-19T00:00:00+00:00",
+  "court": "",
+  "chars": 3806
+ },
+ "sst/0015_2025_SST_1353": {
+  "domain": "sst",
+  "title": "TN v Minister of Employment and Social Development (2025 SST 1353)",
+  "citation": "2025 SST 1353",
+  "date": "2025-12-18T00:00:00+00:00",
+  "court": "",
+  "chars": 28394
+ },
+ "sst/0016_2025_SST_1358": {
+  "domain": "sst",
+  "title": "JM v Minister of Employment and Social Development (2025 SST 1358)",
+  "citation": "2025 SST 1358",
+  "date": "2025-12-18T00:00:00+00:00",
+  "court": "",
+  "chars": 8985
+ },
+ "sst/0017_2025_SST_1346": {
+  "domain": "sst",
+  "title": "NL v Minister of Employment and Social Development (2025 SST 1346)",
+  "citation": "2025 SST 1346",
+  "date": "2025-12-16T00:00:00+00:00",
+  "court": "",
+  "chars": 11088
+ },
+ "sst/0018_2025_SST_1323": {
+  "domain": "sst",
+  "title": "MB v Minister of Employment and Social Development (2025 SST 1323)",
+  "citation": "2025 SST 1323",
+  "date": "2025-12-15T00:00:00+00:00",
+  "court": "",
+  "chars": 30365
+ },
+ "sst/0019_2025_SST_1306": {
+  "domain": "sst",
+  "title": "RF v Minister of Employment and Social Development (2025 SST 1306)",
+  "citation": "2025 SST 1306",
+  "date": "2025-12-10T00:00:00+00:00",
+  "court": "",
+  "chars": 18124
+ },
+ "sst/0020_2025_SST_1313": {
+  "domain": "sst",
+  "title": "AB v Minister of Employment and Social Development (2025 SST 1313)",
+  "citation": "2025 SST 1313",
+  "date": "2025-12-09T00:00:00+00:00",
+  "court": "",
+  "chars": 7792
+ },
+ "sst/0021_2025_SST_1296": {
+  "domain": "sst",
+  "title": "DC v Minister of Employment and Social Development (2025 SST 1296)",
+  "citation": "2025 SST 1296",
+  "date": "2025-12-09T00:00:00+00:00",
+  "court": "",
+  "chars": 9320
+ },
+ "sst/0022_2025_SST_1287": {
+  "domain": "sst",
+  "title": "BC v Minister of Employment and Social Development (2025 SST 1287)",
+  "citation": "2025 SST 1287",
+  "date": "2025-12-08T00:00:00+00:00",
+  "court": "",
+  "chars": 17626
+ },
+ "sst/0023_2025_SST_1286": {
+  "domain": "sst",
+  "title": "AD v Minister of Employment and Social Development (2025 SST 1286)",
+  "citation": "2025 SST 1286",
+  "date": "2025-12-08T00:00:00+00:00",
+  "court": "",
+  "chars": 13488
+ },
+ "sst/0024_2025_SST_1288": {
+  "domain": "sst",
+  "title": "KM v Minister of Employment and Social Development (2025 SST 1288)",
+  "citation": "2025 SST 1288",
+  "date": "2025-12-08T00:00:00+00:00",
+  "court": "",
+  "chars": 22890
+ },
+ "sst/0025_2025_SST_1307": {
+  "domain": "sst",
+  "title": "BG v Minister of Employment and Social Development (2025 SST 1307)",
+  "citation": "2025 SST 1307",
+  "date": "2025-12-08T00:00:00+00:00",
+  "court": "",
+  "chars": 17351
+ },
+ "sst/0026_2025_SST_1305": {
+  "domain": "sst",
+  "title": "LK v Minister of Employment and Social Development (2025 SST 1305)",
+  "citation": "2025 SST 1305",
+  "date": "2025-12-08T00:00:00+00:00",
+  "court": "",
+  "chars": 14658
+ },
+ "sst/0027_2025_SST_1293": {
+  "domain": "sst",
+  "title": "RP v Minister of Employment and Social Development (2025 SST 1293)",
+  "citation": "2025 SST 1293",
+  "date": "2025-12-08T00:00:00+00:00",
+  "court": "",
+  "chars": 17245
+ },
+ "sst/0028_2025_SST_1284": {
+  "domain": "sst",
+  "title": "AH v Minister of Employment and Social Development (2025 SST 1284)",
+  "citation": "2025 SST 1284",
+  "date": "2025-12-05T00:00:00+00:00",
+  "court": "",
+  "chars": 5959
+ },
+ "sst/0029_2025_SST_1278": {
+  "domain": "sst",
+  "title": "MM v Minister of Employment and Social Development (2025 SST 1278)",
+  "citation": "2025 SST 1278",
+  "date": "2025-12-04T00:00:00+00:00",
+  "court": "",
+  "chars": 6333
+ },
+ "sst/0030_2025_SST_1276": {
+  "domain": "sst",
+  "title": "MC v Minister of Employment and Social Development (2025 SST 1276)",
+  "citation": "2025 SST 1276",
+  "date": "2025-12-03T00:00:00+00:00",
+  "court": "",
+  "chars": 11031
+ },
+ "sst/0031_2025_SST_1271": {
+  "domain": "sst",
+  "title": "AA v Minister of Employment and Social Development (2025 SST 1271)",
+  "citation": "2025 SST 1271",
+  "date": "2025-12-03T00:00:00+00:00",
+  "court": "",
+  "chars": 11611
+ },
+ "sst/0032_2025_SST_1270": {
+  "domain": "sst",
+  "title": "JL v Minister of Employment and Social Development (2025 SST 1270)",
+  "citation": "2025 SST 1270",
+  "date": "2025-12-03T00:00:00+00:00",
+  "court": "",
+  "chars": 16133
+ },
+ "sst/0033_2025_SST_1265": {
+  "domain": "sst",
+  "title": "SK v Minister of Employment and Social Development (2025 SST 1265)",
+  "citation": "2025 SST 1265",
+  "date": "2025-12-03T00:00:00+00:00",
+  "court": "",
+  "chars": 6388
+ },
+ "sst/0034_2025_SST_1248": {
+  "domain": "sst",
+  "title": "CM v Minister of Employment and Social Development (2025 SST 1248)",
+  "citation": "2025 SST 1248",
+  "date": "2025-12-02T00:00:00+00:00",
+  "court": "",
+  "chars": 18793
+ },
+ "sst/0035_2025_SST_1267": {
+  "domain": "sst",
+  "title": "PL v Minister of Employment and Social Development (2025 SST 1267)",
+  "citation": "2025 SST 1267",
+  "date": "2025-12-02T00:00:00+00:00",
+  "court": "",
+  "chars": 24096
+ },
+ "sst/0036_2025_SST_1266": {
+  "domain": "sst",
+  "title": "EV v Minister of Employment and Social Development (2025 SST 1266)",
+  "citation": "2025 SST 1266",
+  "date": "2025-12-02T00:00:00+00:00",
+  "court": "",
+  "chars": 13834
+ },
+ "sst/0037_2025_SST_1310": {
+  "domain": "sst",
+  "title": "SW v Minister of Employment and Social Development (2025 SST 1310)",
+  "citation": "2025 SST 1310",
+  "date": "2025-12-02T00:00:00+00:00",
+  "court": "",
+  "chars": 17311
+ },
+ "sst/0038_2025_SST_1251": {
+  "domain": "sst",
+  "title": "KS v Minister of Employment and Social Development (2025 SST 1251)",
+  "citation": "2025 SST 1251",
+  "date": "2025-11-30T00:00:00+00:00",
+  "court": "",
+  "chars": 14674
+ },
+ "sst/0039_2025_SST_1238": {
+  "domain": "sst",
+  "title": "SD v Minister of Employment and Social Development (2025 SST 1238)",
+  "citation": "2025 SST 1238",
+  "date": "2025-11-28T00:00:00+00:00",
+  "court": "",
+  "chars": 19851
+ },
+ "sst/0040_2025_SST_1237": {
+  "domain": "sst",
+  "title": "PL v Minister of Employment and Social Development (2025 SST 1237)",
+  "citation": "2025 SST 1237",
+  "date": "2025-11-28T00:00:00+00:00",
+  "court": "",
+  "chars": 22698
+ },
+ "sst/0041_2025_SST_1222": {
+  "domain": "sst",
+  "title": "SS v Minister of Employment and Social Development (2025 SST 1222)",
+  "citation": "2025 SST 1222",
+  "date": "2025-11-26T00:00:00+00:00",
+  "court": "",
+  "chars": 16566
+ },
+ "sst/0042_2025_SST_1214": {
+  "domain": "sst",
+  "title": "AJ v Minister of Employment and Social Development (2025 SST 1214)",
+  "citation": "2025 SST 1214",
+  "date": "2025-11-25T00:00:00+00:00",
+  "court": "",
+  "chars": 20685
+ },
+ "sst/0043_2025_SST_1239": {
+  "domain": "sst",
+  "title": "CC v Minister of Employment and Social Development (2025 SST 1239)",
+  "citation": "2025 SST 1239",
+  "date": "2025-11-25T00:00:00+00:00",
+  "court": "",
+  "chars": 21458
+ },
+ "sst/0044_2025_SST_1308": {
+  "domain": "sst",
+  "title": "TB v Minister of Employment and Social Development (2025 SST 1308)",
+  "citation": "2025 SST 1308",
+  "date": "2025-11-20T00:00:00+00:00",
+  "court": "",
+  "chars": 21177
+ },
+ "sst/0045_2025_SST_1184": {
+  "domain": "sst",
+  "title": "JP v Minister of Employment and Social Development (2025 SST 1184)",
+  "citation": "2025 SST 1184",
+  "date": "2025-11-17T00:00:00+00:00",
+  "court": "",
+  "chars": 22904
+ },
+ "sst/0046_2025_SST_1187": {
+  "domain": "sst",
+  "title": "CO v Minister of Employment and Social Development (2025 SST 1187)",
+  "citation": "2025 SST 1187",
+  "date": "2025-11-17T00:00:00+00:00",
+  "court": "",
+  "chars": 6466
+ },
+ "sst/0047_2025_SST_1314": {
+  "domain": "sst",
+  "title": "AB v Minister of Employment and Social Development (2025 SST 1314)",
+  "citation": "2025 SST 1314",
+  "date": "2025-11-17T00:00:00+00:00",
+  "court": "",
+  "chars": 7904
+ },
+ "sst/0048_2025_SST_1199": {
+  "domain": "sst",
+  "title": "JJ v Minister of Employment and Social Development (2025 SST 1199)",
+  "citation": "2025 SST 1199",
+  "date": "2025-11-14T00:00:00+00:00",
+  "court": "",
+  "chars": 20707
+ },
+ "sst/0049_2026_SST_73": {
+  "domain": "sst",
+  "title": "DP v Canada Employment Insurance Commission (2026 SST 73)",
+  "citation": "2026 SST 73",
+  "date": "2026-02-03T00:00:00+00:00",
+  "court": "",
+  "chars": 9342
+ },
+ "sst/0050_2026_SST_74": {
+  "domain": "sst",
+  "title": "RM v Canada Employment Insurance Commission (2026 SST 74)",
+  "citation": "2026 SST 74",
+  "date": "2026-02-02T00:00:00+00:00",
+  "court": "",
+  "chars": 8565
+ },
+ "sst/0051_2026_SST_64": {
+  "domain": "sst",
+  "title": "JB v Canada Employment Insurance Commission (2026 SST 64)",
+  "citation": "2026 SST 64",
+  "date": "2026-01-30T00:00:00+00:00",
+  "court": "",
+  "chars": 15987
+ },
+ "sst/0052_2026_SST_56": {
+  "domain": "sst",
+  "title": "MH v Canada Employment Insurance Commission (2026 SST 56)",
+  "citation": "2026 SST 56",
+  "date": "2026-01-27T00:00:00+00:00",
+  "court": "",
+  "chars": 16362
+ },
+ "sst/0053_2026_SST_54": {
+  "domain": "sst",
+  "title": "CR v Canada Employment Insurance Commission (2026 SST 54)",
+  "citation": "2026 SST 54",
+  "date": "2026-01-26T00:00:00+00:00",
+  "court": "",
+  "chars": 15295
+ },
+ "sst/0054_2026_SST_40": {
+  "domain": "sst",
+  "title": "KR v Canada Employment Insurance Commission (2026 SST 40)",
+  "citation": "2026 SST 40",
+  "date": "2026-01-22T00:00:00+00:00",
+  "court": "",
+  "chars": 10435
+ },
+ "sst/0055_2026_SST_38": {
+  "domain": "sst",
+  "title": "YP v Canada Employment Insurance Commission (2026 SST 38)",
+  "citation": "2026 SST 38",
+  "date": "2026-01-22T00:00:00+00:00",
+  "court": "",
+  "chars": 5982
+ },
+ "sst/0056_2026_SST_35": {
+  "domain": "sst",
+  "title": "OP v Canada Employment Insurance Commission (2026 SST 35)",
+  "citation": "2026 SST 35",
+  "date": "2026-01-21T00:00:00+00:00",
+  "court": "",
+  "chars": 12129
+ },
+ "sst/0057_2026_SST_36": {
+  "domain": "sst",
+  "title": "Canada Employment Insurance Commission v RD (2026 SST 36)",
+  "citation": "2026 SST 36",
+  "date": "2026-01-20T00:00:00+00:00",
+  "court": "",
+  "chars": 5418
+ },
+ "sst/0058_2026_SST_29": {
+  "domain": "sst",
+  "title": "SM v Canada Employment Insurance Commission (2026 SST 29)",
+  "citation": "2026 SST 29",
+  "date": "2026-01-19T00:00:00+00:00",
+  "court": "",
+  "chars": 8948
+ },
+ "sst/0059_2026_SST_65": {
+  "domain": "sst",
+  "title": "JB v Canada Employment Insurance Commission (2026 SST 65)",
+  "citation": "2026 SST 65",
+  "date": "2026-01-16T00:00:00+00:00",
+  "court": "",
+  "chars": 3648
+ },
+ "sst/0060_2026_SST_22": {
+  "domain": "sst",
+  "title": "TM v Canada Employment Insurance Commission (2026 SST 22)",
+  "citation": "2026 SST 22",
+  "date": "2026-01-16T00:00:00+00:00",
+  "court": "",
+  "chars": 10998
+ },
+ "sst/0061_2026_SST_31": {
+  "domain": "sst",
+  "title": "AD v Canada Employment Insurance Commission (2026 SST 31)",
+  "citation": "2026 SST 31",
+  "date": "2026-01-16T00:00:00+00:00",
+  "court": "",
+  "chars": 10113
+ },
+ "sst/0062_2026_SST_16": {
+  "domain": "sst",
+  "title": "AS v Canada Employment Insurance Commission (2026 SST 16)",
+  "citation": "2026 SST 16",
+  "date": "2026-01-15T00:00:00+00:00",
+  "court": "",
+  "chars": 7593
+ },
+ "sst/0063_2026_SST_18": {
+  "domain": "sst",
+  "title": "AS v Canada Employment Insurance Commission (2026 SST 18)",
+  "citation": "2026 SST 18",
+  "date": "2026-01-15T00:00:00+00:00",
+  "court": "",
+  "chars": 8628
+ },
+ "sst/0064_2026_SST_30": {
+  "domain": "sst",
+  "title": "IG v Canada Employment Insurance Commission (2026 SST 30)",
+  "citation": "2026 SST 30",
+  "date": "2026-01-14T00:00:00+00:00",
+  "court": "",
+  "chars": 8968
+ },
+ "sst/0065_2026_SST_14": {
+  "domain": "sst",
+  "title": "BC v Canada Employment Insurance Commission (2026 SST 14)",
+  "citation": "2026 SST 14",
+  "date": "2026-01-14T00:00:00+00:00",
+  "court": "",
+  "chars": 5527
+ },
+ "sst/0066_2026_SST_15": {
+  "domain": "sst",
+  "title": "OO v Canada Employment Insurance Commission (2026 SST 15)",
+  "citation": "2026 SST 15",
+  "date": "2026-01-14T00:00:00+00:00",
+  "court": "",
+  "chars": 9876
+ },
+ "sst/0067_2026_SST_10": {
+  "domain": "sst",
+  "title": "CS v Canada Employment Insurance Commission (2026 SST 10)",
+  "citation": "2026 SST 10",
+  "date": "2026-01-12T00:00:00+00:00",
+  "court": "",
+  "chars": 18540
+ },
+ "sst/0068_2026_SST_12": {
+  "domain": "sst",
+  "title": "SS v Canada Employment Insurance Commission (2026 SST 12)",
+  "citation": "2026 SST 12",
+  "date": "2026-01-12T00:00:00+00:00",
+  "court": "",
+  "chars": 6432
+ },
+ "sst/0069_2026_SST_7": {
+  "domain": "sst",
+  "title": "Canada Employment Insurance Commission v LB (2026 SST 7)",
+  "citation": "2026 SST 7",
+  "date": "2026-01-09T00:00:00+00:00",
+  "court": "",
+  "chars": 3289
+ },
+ "sst/0070_2026_SST_13": {
+  "domain": "sst",
+  "title": "X v Canada Employment Insurance Commission and LF (2026 SST 13)",
+  "citation": "2026 SST 13",
+  "date": "2026-01-09T00:00:00+00:00",
+  "court": "",
+  "chars": 25762
+ },
+ "sst/0071_2026_SST_6": {
+  "domain": "sst",
+  "title": "JB v Canada Employment Insurance Commission (2026 SST 6)",
+  "citation": "2026 SST 6",
+  "date": "2026-01-08T00:00:00+00:00",
+  "court": "",
+  "chars": 6731
+ },
+ "sst/0072_2026_SST_39": {
+  "domain": "sst",
+  "title": "YP v Canada Employment Insurance Commission (2026 SST 39)",
+  "citation": "2026 SST 39",
+  "date": "2026-01-07T00:00:00+00:00",
+  "court": "",
+  "chars": 5372
+ },
+ "sst/0073_2026_SST_4": {
+  "domain": "sst",
+  "title": "SA v Canada Employment Insurance Commission (2026 SST 4)",
+  "citation": "2026 SST 4",
+  "date": "2026-01-05T00:00:00+00:00",
+  "court": "",
+  "chars": 8712
+ },
+ "sst/0074_2026_SST_17": {
+  "domain": "sst",
+  "title": "AS v Canada Employment Insurance Commission (2026 SST 17)",
+  "citation": "2026 SST 17",
+  "date": "2026-01-05T00:00:00+00:00",
+  "court": "",
+  "chars": 2984
+ },
+ "sst/0075_2026_SST_19": {
+  "domain": "sst",
+  "title": "AS v Canada Employment Insurance Commission (2026 SST 19)",
+  "citation": "2026 SST 19",
+  "date": "2026-01-05T00:00:00+00:00",
+  "court": "",
+  "chars": 12554
+ },
+ "sst/0076_2026_SST_2": {
+  "domain": "sst",
+  "title": "AB v Minister of Employment and Social Development (2026 SST 2)",
+  "citation": "2026 SST 2",
+  "date": "2026-01-05T00:00:00+00:00",
+  "court": "",
+  "chars": 20996
+ },
+ "sst/0077_2026_SST_3": {
+  "domain": "sst",
+  "title": "MB v Canada Employment Insurance Commission (2026 SST 3)",
+  "citation": "2026 SST 3",
+  "date": "2026-01-05T00:00:00+00:00",
+  "court": "",
+  "chars": 6552
+ },
+ "sst/0078_2026_SST_1": {
+  "domain": "sst",
+  "title": "OO v Canada Employment Insurance Commission (2026 SST 1)",
+  "citation": "2026 SST 1",
+  "date": "2026-01-05T00:00:00+00:00",
+  "court": "",
+  "chars": 8102
+ },
+ "sst/0079_2025_SST_1384": {
+  "domain": "sst",
+  "title": "DF v Canada Employment Insurance Commission (2025 SST 1384)",
+  "citation": "2025 SST 1384",
+  "date": "2025-12-31T00:00:00+00:00",
+  "court": "",
+  "chars": 25204
+ },
+ "sst/0080_2025_SST_1382": {
+  "domain": "sst",
+  "title": "SA v Canada Employment Insurance Commission (2025 SST 1382)",
+  "citation": "2025 SST 1382",
+  "date": "2025-12-30T00:00:00+00:00",
+  "court": "",
+  "chars": 4278
+ },
+ "sst/0081_2025_SST_1386": {
+  "domain": "sst",
+  "title": "LK v Canada Employment Insurance Commission (2025 SST 1386)",
+  "citation": "2025 SST 1386",
+  "date": "2025-12-30T00:00:00+00:00",
+  "court": "",
+  "chars": 8120
+ },
+ "sst/0082_2025_SST_1391": {
+  "domain": "sst",
+  "title": "VL v Canada Employment Insurance Commission (2025 SST 1391)",
+  "citation": "2025 SST 1391",
+  "date": "2025-12-30T00:00:00+00:00",
+  "court": "",
+  "chars": 16557
+ },
+ "sst/0083_2026_SST_52": {
+  "domain": "sst",
+  "title": "BM v Minister of Employment and Social Development (2026 SST 52)",
+  "citation": "2026 SST 52",
+  "date": "2026-01-26T00:00:00+00:00",
+  "court": "",
+  "chars": 8798
+ },
+ "sst/0084_2025_SST_1377": {
+  "domain": "sst",
+  "title": "Minister of Employment and Social Development v JP (2025 SST 1377)",
+  "citation": "2025 SST 1377",
+  "date": "2025-12-23T00:00:00+00:00",
+  "court": "",
+  "chars": 35187
+ },
+ "sst/0085_2025_SST_1334": {
+  "domain": "sst",
+  "title": "PY v Minister of Employment and Social Development (2025 SST 1334)",
+  "citation": "2025 SST 1334",
+  "date": "2025-12-12T00:00:00+00:00",
+  "court": "",
+  "chars": 12351
+ },
+ "sst/0086_2025_SST_1315": {
+  "domain": "sst",
+  "title": "PB v Canada Employment Insurance Commission (2025 SST 1315)",
+  "citation": "2025 SST 1315",
+  "date": "2025-12-10T00:00:00+00:00",
+  "court": "",
+  "chars": 9534
+ },
+ "sst/0087_2025_SST_1261": {
+  "domain": "sst",
+  "title": "DK v Minister of Employment and Social Development (2025 SST 1261)",
+  "citation": "2025 SST 1261",
+  "date": "2025-12-03T00:00:00+00:00",
+  "court": "",
+  "chars": 20866
+ },
+ "sst/0088_2025_SST_1215": {
+  "domain": "sst",
+  "title": "MM v Minister of Employment and Social Development and KK (2025 SST 1215)",
+  "citation": "2025 SST 1215",
+  "date": "2025-11-21T00:00:00+00:00",
+  "court": "",
+  "chars": 5365
+ },
+ "sst/0089_2025_SST_1198": {
+  "domain": "sst",
+  "title": "AJ v Minister of Employment and Social Development (2025 SST 1198)",
+  "citation": "2025 SST 1198",
+  "date": "2025-11-20T00:00:00+00:00",
+  "court": "",
+  "chars": 10946
+ },
+ "sst/0090_2025_SST_1168": {
+  "domain": "sst",
+  "title": "The Estate of TV v Minister of Employment and Social Development (2025 SST 1168)",
+  "citation": "2025 SST 1168",
+  "date": "2025-11-12T00:00:00+00:00",
+  "court": "",
+  "chars": 7095
+ },
+ "sst/0091_2025_SST_1144": {
+  "domain": "sst",
+  "title": "GB v Minister of Employment and Social Development (2025 SST 1144)",
+  "citation": "2025 SST 1144",
+  "date": "2025-11-12T00:00:00+00:00",
+  "court": "",
+  "chars": 15184
+ },
+ "sst/0092_2025_SST_1177": {
+  "domain": "sst",
+  "title": "MG v Minister of Employment and Social Development (2025 SST 1177)",
+  "citation": "2025 SST 1177",
+  "date": "2025-11-12T00:00:00+00:00",
+  "court": "",
+  "chars": 127319
+ },
+ "sst/0093_2025_SST_1152": {
+  "domain": "sst",
+  "title": "JS v Minister of Employment and Social Development (2025 SST 1152)",
+  "citation": "2025 SST 1152",
+  "date": "2025-11-10T00:00:00+00:00",
+  "court": "",
+  "chars": 17454
+ },
+ "sst/0094_2025_SST_1148": {
+  "domain": "sst",
+  "title": "YS v Minister of Employment and Social Development (2025 SST 1148)",
+  "citation": "2025 SST 1148",
+  "date": "2025-11-07T00:00:00+00:00",
+  "court": "",
+  "chars": 7180
+ },
+ "sst/0095_2025_SST_1146": {
+  "domain": "sst",
+  "title": "CA v Minister of Employment and Social Development and JA (2025 SST 1146)",
+  "citation": "2025 SST 1146",
+  "date": "2025-11-07T00:00:00+00:00",
+  "court": "",
+  "chars": 7640
+ },
+ "sst/0096_2025_SST_1137": {
+  "domain": "sst",
+  "title": "SR v Minister of Employment and Social Development (2025 SST 1137)",
+  "citation": "2025 SST 1137",
+  "date": "2025-11-04T00:00:00+00:00",
+  "court": "",
+  "chars": 13252
+ },
+ "sst/0097_2025_SST_1134": {
+  "domain": "sst",
+  "title": "CD v Minister of Employment and Social Development (2025 SST 1134)",
+  "citation": "2025 SST 1134",
+  "date": "2025-11-04T00:00:00+00:00",
+  "court": "",
+  "chars": 29383
+ },
+ "sst/0098_2025_SST_1124": {
+  "domain": "sst",
+  "title": "KL v Minister of Employment and Social Development (2025 SST 1124)",
+  "citation": "2025 SST 1124",
+  "date": "2025-10-31T00:00:00+00:00",
+  "court": "",
+  "chars": 44772
+ },
+ "sst/0099_2025_SST_1119": {
+  "domain": "sst",
+  "title": "MS v Minister of Employment and Social Development (2025 SST 1119)",
+  "citation": "2025 SST 1119",
+  "date": "2025-10-24T00:00:00+00:00",
+  "court": "",
+  "chars": 11475
+ }
+}

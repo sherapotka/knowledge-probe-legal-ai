@@ -1,0 +1,4002 @@
+{
+ "tax/0000_2026_TCC_40": {
+  "domain": "tax",
+  "title": "C & W Offshore Ltd. v. The King (2026 TCC 40)",
+  "citation": "2026 TCC 40",
+  "date": "2026-03-04T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 108021
+ },
+ "tax/0001_2026_TCC_39": {
+  "domain": "tax",
+  "title": "Heritage Square Retirement Living Inc. v. The King (2026 TCC 39)",
+  "citation": "2026 TCC 39",
+  "date": "2026-03-03T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 14083
+ },
+ "tax/0002_2026_TCC_38": {
+  "domain": "tax",
+  "title": "Twisted Leaves Ltd. v. The King (2026 TCC 38)",
+  "citation": "2026 TCC 38",
+  "date": "2026-02-25T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 19290
+ },
+ "tax/0003_2026_TCC_26": {
+  "domain": "tax",
+  "title": "Alarakhia v. The King (2026 TCC 26)",
+  "citation": "2026 TCC 26",
+  "date": "2026-02-25T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 14373
+ },
+ "tax/0004_2026_TCC_37": {
+  "domain": "tax",
+  "title": "Ratti v. The King (2026 TCC 37)",
+  "citation": "2026 TCC 37",
+  "date": "2026-02-23T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 37176
+ },
+ "tax/0005_2026_TCC_32": {
+  "domain": "tax",
+  "title": "Alberta Peloton Association v. The King (2026 TCC 32)",
+  "citation": "2026 TCC 32",
+  "date": "2026-02-18T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 21985
+ },
+ "tax/0006_2026_TCC_36": {
+  "domain": "tax",
+  "title": "Culig v. The King (2026 TCC 36)",
+  "citation": "2026 TCC 36",
+  "date": "2026-02-18T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 20739
+ },
+ "tax/0007_2026_TCC_33": {
+  "domain": "tax",
+  "title": "Patel v. The King (2026 TCC 33)",
+  "citation": "2026 TCC 33",
+  "date": "2026-02-17T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 33297
+ },
+ "tax/0008_2026_TCC_31": {
+  "domain": "tax",
+  "title": "Opheim v. The King (2026 TCC 31)",
+  "citation": "2026 TCC 31",
+  "date": "2026-02-16T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 58259
+ },
+ "tax/0009_2026_TCC_30": {
+  "domain": "tax",
+  "title": "Salehi v. The King (2026 TCC 30)",
+  "citation": "2026 TCC 30",
+  "date": "2026-02-12T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 27605
+ },
+ "tax/0010_2026_TCC_28": {
+  "domain": "tax",
+  "title": "Talukdar v. The King (2026 TCC 28)",
+  "citation": "2026 TCC 28",
+  "date": "2026-02-10T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 26216
+ },
+ "tax/0011_2026_TCC_23": {
+  "domain": "tax",
+  "title": "Ginevro v. The King (2026 TCC 23)",
+  "citation": "2026 TCC 23",
+  "date": "2026-02-02T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 25513
+ },
+ "tax/0012_2026_TCC_27": {
+  "domain": "tax",
+  "title": "Caddell v. The King (2026 TCC 27)",
+  "citation": "2026 TCC 27",
+  "date": "2026-02-02T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 40711
+ },
+ "tax/0013_2026_TCC_18": {
+  "domain": "tax",
+  "title": "Gill v. The King (2026 TCC 18)",
+  "citation": "2026 TCC 18",
+  "date": "2026-01-30T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 22789
+ },
+ "tax/0014_2026_TCC_21": {
+  "domain": "tax",
+  "title": "Opheim v. The King (2026 TCC 21)",
+  "citation": "2026 TCC 21",
+  "date": "2026-01-30T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 32947
+ },
+ "tax/0015_2026_TCC_22": {
+  "domain": "tax",
+  "title": "Marleau v. The King (2026 TCC 22)",
+  "citation": "2026 TCC 22",
+  "date": "2026-01-29T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 34646
+ },
+ "tax/0016_2026_TCC_5": {
+  "domain": "tax",
+  "title": "1478873 Ontario Inc. v. The King (2026 TCC 5)",
+  "citation": "2026 TCC 5",
+  "date": "2026-01-26T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 20551
+ },
+ "tax/0017_2026_TCC_16": {
+  "domain": "tax",
+  "title": "Gao v. The King (2026 TCC 16)",
+  "citation": "2026 TCC 16",
+  "date": "2026-01-26T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 77567
+ },
+ "tax/0018_2026_TCC_17": {
+  "domain": "tax",
+  "title": "John Doe v. The King (2026 TCC 17)",
+  "citation": "2026 TCC 17",
+  "date": "2026-01-22T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 81416
+ },
+ "tax/0019_2026_TCC_14": {
+  "domain": "tax",
+  "title": "Tolley v. The King (2026 TCC 14)",
+  "citation": "2026 TCC 14",
+  "date": "2026-01-15T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 18730
+ },
+ "tax/0020_2026_TCC_15": {
+  "domain": "tax",
+  "title": "Cineplex Inc. v. The King (2026 TCC 15)",
+  "citation": "2026 TCC 15",
+  "date": "2026-01-15T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 48017
+ },
+ "tax/0021_2026_TCC_12": {
+  "domain": "tax",
+  "title": "King v. The King (2026 TCC 12)",
+  "citation": "2026 TCC 12",
+  "date": "2026-01-14T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 17377
+ },
+ "tax/0022_2026_TCC_7": {
+  "domain": "tax",
+  "title": "Willowglen Systems Inc. v. The King (2026 TCC 7)",
+  "citation": "2026 TCC 7",
+  "date": "2026-01-09T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 52459
+ },
+ "tax/0023_2026_TCC_4": {
+  "domain": "tax",
+  "title": "Maragos v. The King (2026 TCC 4)",
+  "citation": "2026 TCC 4",
+  "date": "2026-01-07T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 32964
+ },
+ "tax/0024_2026_TCC_3": {
+  "domain": "tax",
+  "title": "Ingredion Canada Corporation v. The King (2026 TCC 3)",
+  "citation": "2026 TCC 3",
+  "date": "2026-01-07T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 45450
+ },
+ "tax/0025_2026_TCC_2": {
+  "domain": "tax",
+  "title": "Premier Fasteners Inc. v. The King (2026 TCC 2)",
+  "citation": "2026 TCC 2",
+  "date": "2026-01-06T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 102953
+ },
+ "tax/0026_2025_TCC_192": {
+  "domain": "tax",
+  "title": "Boylu v. The King (2025 TCC 192)",
+  "citation": "2025 TCC 192",
+  "date": "2025-12-22T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 47331
+ },
+ "tax/0027_2025_TCC_193": {
+  "domain": "tax",
+  "title": "Malik v. The King (2025 TCC 193)",
+  "citation": "2025 TCC 193",
+  "date": "2025-12-22T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 19507
+ },
+ "tax/0028_2025_TCC_196": {
+  "domain": "tax",
+  "title": "Rowe v. The King (2025 TCC 196)",
+  "citation": "2025 TCC 196",
+  "date": "2025-12-22T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 19557
+ },
+ "tax/0029_2025_TCC_191": {
+  "domain": "tax",
+  "title": "Fe Virrey v. The King (2025 TCC 191)",
+  "citation": "2025 TCC 191",
+  "date": "2025-12-18T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 15363
+ },
+ "tax/0030_2025_TCC_190": {
+  "domain": "tax",
+  "title": "Postalong Technology Inc. v. The King (2025 TCC 190)",
+  "citation": "2025 TCC 190",
+  "date": "2025-12-17T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 15923
+ },
+ "tax/0031_2025_TCC_189": {
+  "domain": "tax",
+  "title": "Vibert v. The King (2025 TCC 189)",
+  "citation": "2025 TCC 189",
+  "date": "2025-12-12T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 17202
+ },
+ "tax/0032_2025_TCC_187": {
+  "domain": "tax",
+  "title": "Sharma v. The King (2025 TCC 187)",
+  "citation": "2025 TCC 187",
+  "date": "2025-12-12T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 19577
+ },
+ "tax/0033_2025_TCC_184": {
+  "domain": "tax",
+  "title": "Brown v. The King (2025 TCC 184)",
+  "citation": "2025 TCC 184",
+  "date": "2025-12-11T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 52321
+ },
+ "tax/0034_2025_TCC_186": {
+  "domain": "tax",
+  "title": "Gaitanis v. The King (2025 TCC 186)",
+  "citation": "2025 TCC 186",
+  "date": "2025-12-10T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 23922
+ },
+ "tax/0035_2025_TCC_185": {
+  "domain": "tax",
+  "title": "Amicarelli v. The King (2025 TCC 185)",
+  "citation": "2025 TCC 185",
+  "date": "2025-12-09T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 35619
+ },
+ "tax/0036_2025_TCC_175": {
+  "domain": "tax",
+  "title": "Afdon Contracting Ltd. v. The King (2025 TCC 175)",
+  "citation": "2025 TCC 175",
+  "date": "2025-12-08T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 65391
+ },
+ "tax/0037_2025_TCC_182": {
+  "domain": "tax",
+  "title": "Oram's Enterprises Limited v. The King (2025 TCC 182)",
+  "citation": "2025 TCC 182",
+  "date": "2025-12-08T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 7569
+ },
+ "tax/0038_2025_TCC_183": {
+  "domain": "tax",
+  "title": "Tuna Temple Inc. v. The King (2025 TCC 183)",
+  "citation": "2025 TCC 183",
+  "date": "2025-12-05T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 35070
+ },
+ "tax/0039_2025_TCC_179": {
+  "domain": "tax",
+  "title": "Redpath Sugar Ltd. v. The King (2025 TCC 179)",
+  "citation": "2025 TCC 179",
+  "date": "2025-11-27T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 15156
+ },
+ "tax/0040_2025_TCC_180": {
+  "domain": "tax",
+  "title": "Ojaide v. The King (2025 TCC 180)",
+  "citation": "2025 TCC 180",
+  "date": "2025-11-27T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 24009
+ },
+ "tax/0041_2025_TCC_181": {
+  "domain": "tax",
+  "title": "Saskatchewan v. The King (2025 TCC 181)",
+  "citation": "2025 TCC 181",
+  "date": "2025-11-27T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 21755
+ },
+ "tax/0042_2025_TCC_173": {
+  "domain": "tax",
+  "title": "Éléments Chauffants Tempora Inc. v. The King (2025 TCC 173)",
+  "citation": "2025 TCC 173",
+  "date": "2025-11-20T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 143016
+ },
+ "tax/0043_2025_TCC_171": {
+  "domain": "tax",
+  "title": "Dandees v. The King (2025 TCC 171)",
+  "citation": "2025 TCC 171",
+  "date": "2025-11-19T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 10258
+ },
+ "tax/0044_2025_TCC_172": {
+  "domain": "tax",
+  "title": "Ng v. The King (2025 TCC 172)",
+  "citation": "2025 TCC 172",
+  "date": "2025-11-19T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 14200
+ },
+ "tax/0045_2025_TCC_155": {
+  "domain": "tax",
+  "title": "President's Choice Bank v. The King (2025 TCC 155)",
+  "citation": "2025 TCC 155",
+  "date": "2025-11-13T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 21783
+ },
+ "tax/0046_2025_TCC_167": {
+  "domain": "tax",
+  "title": "Golden View Management Group Inc. v. M.N.R. (2025 TCC 167)",
+  "citation": "2025 TCC 167",
+  "date": "2025-11-13T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 15247
+ },
+ "tax/0047_2025_TCC_168": {
+  "domain": "tax",
+  "title": "Mohamed v. The King (2025 TCC 168)",
+  "citation": "2025 TCC 168",
+  "date": "2025-11-10T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 16540
+ },
+ "tax/0048_2025_TCC_169": {
+  "domain": "tax",
+  "title": "Tanafranca v. The King (2025 TCC 169)",
+  "citation": "2025 TCC 169",
+  "date": "2025-11-10T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 7154
+ },
+ "tax/0049_2025_TCC_165": {
+  "domain": "tax",
+  "title": "Norman v. The King (2025 TCC 165)",
+  "citation": "2025 TCC 165",
+  "date": "2025-11-05T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 9096
+ },
+ "tax/0050_2026_TCC_40": {
+  "domain": "tax",
+  "title": "C & W Offshore Ltd. v. The King (2026 TCC 40)",
+  "citation": "2026 TCC 40",
+  "date": "2026-03-04T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 108021
+ },
+ "tax/0051_2026_TCC_39": {
+  "domain": "tax",
+  "title": "Heritage Square Retirement Living Inc. v. The King (2026 TCC 39)",
+  "citation": "2026 TCC 39",
+  "date": "2026-03-03T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 14083
+ },
+ "tax/0052_2026_TCC_38": {
+  "domain": "tax",
+  "title": "Twisted Leaves Ltd. v. The King (2026 TCC 38)",
+  "citation": "2026 TCC 38",
+  "date": "2026-02-25T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 19290
+ },
+ "tax/0053_2026_TCC_26": {
+  "domain": "tax",
+  "title": "Alarakhia v. The King (2026 TCC 26)",
+  "citation": "2026 TCC 26",
+  "date": "2026-02-25T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 14373
+ },
+ "tax/0054_2026_TCC_37": {
+  "domain": "tax",
+  "title": "Ratti v. The King (2026 TCC 37)",
+  "citation": "2026 TCC 37",
+  "date": "2026-02-23T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 37176
+ },
+ "tax/0055_2026_TCC_32": {
+  "domain": "tax",
+  "title": "Alberta Peloton Association v. The King (2026 TCC 32)",
+  "citation": "2026 TCC 32",
+  "date": "2026-02-18T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 21985
+ },
+ "tax/0056_2026_TCC_36": {
+  "domain": "tax",
+  "title": "Culig v. The King (2026 TCC 36)",
+  "citation": "2026 TCC 36",
+  "date": "2026-02-18T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 20739
+ },
+ "tax/0057_2026_TCC_33": {
+  "domain": "tax",
+  "title": "Patel v. The King (2026 TCC 33)",
+  "citation": "2026 TCC 33",
+  "date": "2026-02-17T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 33297
+ },
+ "tax/0058_2026_TCC_31": {
+  "domain": "tax",
+  "title": "Opheim v. The King (2026 TCC 31)",
+  "citation": "2026 TCC 31",
+  "date": "2026-02-16T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 58259
+ },
+ "tax/0059_2026_TCC_30": {
+  "domain": "tax",
+  "title": "Salehi v. The King (2026 TCC 30)",
+  "citation": "2026 TCC 30",
+  "date": "2026-02-12T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 27605
+ },
+ "tax/0060_2026_TCC_28": {
+  "domain": "tax",
+  "title": "Talukdar v. The King (2026 TCC 28)",
+  "citation": "2026 TCC 28",
+  "date": "2026-02-10T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 26216
+ },
+ "tax/0061_2026_TCC_23": {
+  "domain": "tax",
+  "title": "Ginevro v. The King (2026 TCC 23)",
+  "citation": "2026 TCC 23",
+  "date": "2026-02-02T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 25513
+ },
+ "tax/0062_2026_TCC_27": {
+  "domain": "tax",
+  "title": "Caddell v. The King (2026 TCC 27)",
+  "citation": "2026 TCC 27",
+  "date": "2026-02-02T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 40711
+ },
+ "tax/0063_2026_TCC_18": {
+  "domain": "tax",
+  "title": "Gill v. The King (2026 TCC 18)",
+  "citation": "2026 TCC 18",
+  "date": "2026-01-30T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 22789
+ },
+ "tax/0064_2026_TCC_21": {
+  "domain": "tax",
+  "title": "Opheim v. The King (2026 TCC 21)",
+  "citation": "2026 TCC 21",
+  "date": "2026-01-30T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 32947
+ },
+ "tax/0065_2026_TCC_22": {
+  "domain": "tax",
+  "title": "Marleau v. The King (2026 TCC 22)",
+  "citation": "2026 TCC 22",
+  "date": "2026-01-29T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 34646
+ },
+ "tax/0066_2026_TCC_5": {
+  "domain": "tax",
+  "title": "1478873 Ontario Inc. v. The King (2026 TCC 5)",
+  "citation": "2026 TCC 5",
+  "date": "2026-01-26T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 20551
+ },
+ "tax/0067_2026_TCC_16": {
+  "domain": "tax",
+  "title": "Gao v. The King (2026 TCC 16)",
+  "citation": "2026 TCC 16",
+  "date": "2026-01-26T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 77567
+ },
+ "tax/0068_2026_TCC_17": {
+  "domain": "tax",
+  "title": "John Doe v. The King (2026 TCC 17)",
+  "citation": "2026 TCC 17",
+  "date": "2026-01-22T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 81416
+ },
+ "tax/0069_2026_TCC_14": {
+  "domain": "tax",
+  "title": "Tolley v. The King (2026 TCC 14)",
+  "citation": "2026 TCC 14",
+  "date": "2026-01-15T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 18730
+ },
+ "tax/0070_2026_TCC_15": {
+  "domain": "tax",
+  "title": "Cineplex Inc. v. The King (2026 TCC 15)",
+  "citation": "2026 TCC 15",
+  "date": "2026-01-15T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 48017
+ },
+ "tax/0071_2026_TCC_12": {
+  "domain": "tax",
+  "title": "King v. The King (2026 TCC 12)",
+  "citation": "2026 TCC 12",
+  "date": "2026-01-14T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 17377
+ },
+ "tax/0072_2026_TCC_7": {
+  "domain": "tax",
+  "title": "Willowglen Systems Inc. v. The King (2026 TCC 7)",
+  "citation": "2026 TCC 7",
+  "date": "2026-01-09T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 52459
+ },
+ "tax/0073_2026_TCC_4": {
+  "domain": "tax",
+  "title": "Maragos v. The King (2026 TCC 4)",
+  "citation": "2026 TCC 4",
+  "date": "2026-01-07T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 32964
+ },
+ "tax/0074_2026_TCC_3": {
+  "domain": "tax",
+  "title": "Ingredion Canada Corporation v. The King (2026 TCC 3)",
+  "citation": "2026 TCC 3",
+  "date": "2026-01-07T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 45450
+ },
+ "tax/0075_2026_TCC_2": {
+  "domain": "tax",
+  "title": "Premier Fasteners Inc. v. The King (2026 TCC 2)",
+  "citation": "2026 TCC 2",
+  "date": "2026-01-06T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 102953
+ },
+ "tax/0076_2025_TCC_192": {
+  "domain": "tax",
+  "title": "Boylu v. The King (2025 TCC 192)",
+  "citation": "2025 TCC 192",
+  "date": "2025-12-22T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 47331
+ },
+ "tax/0077_2025_TCC_193": {
+  "domain": "tax",
+  "title": "Malik v. The King (2025 TCC 193)",
+  "citation": "2025 TCC 193",
+  "date": "2025-12-22T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 19507
+ },
+ "tax/0078_2025_TCC_196": {
+  "domain": "tax",
+  "title": "Rowe v. The King (2025 TCC 196)",
+  "citation": "2025 TCC 196",
+  "date": "2025-12-22T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 19557
+ },
+ "tax/0079_2025_TCC_191": {
+  "domain": "tax",
+  "title": "Fe Virrey v. The King (2025 TCC 191)",
+  "citation": "2025 TCC 191",
+  "date": "2025-12-18T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 15363
+ },
+ "tax/0080_2025_TCC_190": {
+  "domain": "tax",
+  "title": "Postalong Technology Inc. v. The King (2025 TCC 190)",
+  "citation": "2025 TCC 190",
+  "date": "2025-12-17T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 15923
+ },
+ "tax/0081_2025_TCC_189": {
+  "domain": "tax",
+  "title": "Vibert v. The King (2025 TCC 189)",
+  "citation": "2025 TCC 189",
+  "date": "2025-12-12T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 17202
+ },
+ "tax/0082_2025_TCC_187": {
+  "domain": "tax",
+  "title": "Sharma v. The King (2025 TCC 187)",
+  "citation": "2025 TCC 187",
+  "date": "2025-12-12T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 19577
+ },
+ "tax/0083_2025_TCC_184": {
+  "domain": "tax",
+  "title": "Brown v. The King (2025 TCC 184)",
+  "citation": "2025 TCC 184",
+  "date": "2025-12-11T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 52321
+ },
+ "tax/0084_2025_TCC_186": {
+  "domain": "tax",
+  "title": "Gaitanis v. The King (2025 TCC 186)",
+  "citation": "2025 TCC 186",
+  "date": "2025-12-10T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 23922
+ },
+ "tax/0085_2025_TCC_185": {
+  "domain": "tax",
+  "title": "Amicarelli v. The King (2025 TCC 185)",
+  "citation": "2025 TCC 185",
+  "date": "2025-12-09T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 35619
+ },
+ "tax/0086_2025_TCC_175": {
+  "domain": "tax",
+  "title": "Afdon Contracting Ltd. v. The King (2025 TCC 175)",
+  "citation": "2025 TCC 175",
+  "date": "2025-12-08T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 65391
+ },
+ "tax/0087_2025_TCC_182": {
+  "domain": "tax",
+  "title": "Oram's Enterprises Limited v. The King (2025 TCC 182)",
+  "citation": "2025 TCC 182",
+  "date": "2025-12-08T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 7569
+ },
+ "tax/0088_2025_TCC_183": {
+  "domain": "tax",
+  "title": "Tuna Temple Inc. v. The King (2025 TCC 183)",
+  "citation": "2025 TCC 183",
+  "date": "2025-12-05T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 35070
+ },
+ "tax/0089_2025_TCC_179": {
+  "domain": "tax",
+  "title": "Redpath Sugar Ltd. v. The King (2025 TCC 179)",
+  "citation": "2025 TCC 179",
+  "date": "2025-11-27T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 15156
+ },
+ "tax/0090_2025_TCC_180": {
+  "domain": "tax",
+  "title": "Ojaide v. The King (2025 TCC 180)",
+  "citation": "2025 TCC 180",
+  "date": "2025-11-27T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 24009
+ },
+ "tax/0091_2025_TCC_181": {
+  "domain": "tax",
+  "title": "Saskatchewan v. The King (2025 TCC 181)",
+  "citation": "2025 TCC 181",
+  "date": "2025-11-27T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 21755
+ },
+ "tax/0092_2025_TCC_173": {
+  "domain": "tax",
+  "title": "Éléments Chauffants Tempora Inc. v. The King (2025 TCC 173)",
+  "citation": "2025 TCC 173",
+  "date": "2025-11-20T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 143016
+ },
+ "tax/0093_2025_TCC_171": {
+  "domain": "tax",
+  "title": "Dandees v. The King (2025 TCC 171)",
+  "citation": "2025 TCC 171",
+  "date": "2025-11-19T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 10258
+ },
+ "tax/0094_2025_TCC_172": {
+  "domain": "tax",
+  "title": "Ng v. The King (2025 TCC 172)",
+  "citation": "2025 TCC 172",
+  "date": "2025-11-19T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 14200
+ },
+ "tax/0095_2025_TCC_155": {
+  "domain": "tax",
+  "title": "President's Choice Bank v. The King (2025 TCC 155)",
+  "citation": "2025 TCC 155",
+  "date": "2025-11-13T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 21783
+ },
+ "tax/0096_2025_TCC_167": {
+  "domain": "tax",
+  "title": "Golden View Management Group Inc. v. M.N.R. (2025 TCC 167)",
+  "citation": "2025 TCC 167",
+  "date": "2025-11-13T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 15247
+ },
+ "tax/0097_2025_TCC_168": {
+  "domain": "tax",
+  "title": "Mohamed v. The King (2025 TCC 168)",
+  "citation": "2025 TCC 168",
+  "date": "2025-11-10T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 16540
+ },
+ "tax/0098_2025_TCC_169": {
+  "domain": "tax",
+  "title": "Tanafranca v. The King (2025 TCC 169)",
+  "citation": "2025 TCC 169",
+  "date": "2025-11-10T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 7154
+ },
+ "tax/0099_2025_TCC_165": {
+  "domain": "tax",
+  "title": "Norman v. The King (2025 TCC 165)",
+  "citation": "2025 TCC 165",
+  "date": "2025-11-05T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 9096
+ },
+ "tax/0100_2026_TCC_40": {
+  "domain": "tax",
+  "title": "C & W Offshore Ltd. v. The King (2026 TCC 40)",
+  "citation": "2026 TCC 40",
+  "date": "2026-03-04T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 108021
+ },
+ "tax/0101_2026_TCC_39": {
+  "domain": "tax",
+  "title": "Heritage Square Retirement Living Inc. v. The King (2026 TCC 39)",
+  "citation": "2026 TCC 39",
+  "date": "2026-03-03T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 14083
+ },
+ "tax/0102_2026_TCC_38": {
+  "domain": "tax",
+  "title": "Twisted Leaves Ltd. v. The King (2026 TCC 38)",
+  "citation": "2026 TCC 38",
+  "date": "2026-02-25T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 19290
+ },
+ "tax/0103_2026_TCC_26": {
+  "domain": "tax",
+  "title": "Alarakhia v. The King (2026 TCC 26)",
+  "citation": "2026 TCC 26",
+  "date": "2026-02-25T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 14373
+ },
+ "tax/0104_2026_TCC_37": {
+  "domain": "tax",
+  "title": "Ratti v. The King (2026 TCC 37)",
+  "citation": "2026 TCC 37",
+  "date": "2026-02-23T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 37176
+ },
+ "tax/0105_2026_TCC_32": {
+  "domain": "tax",
+  "title": "Alberta Peloton Association v. The King (2026 TCC 32)",
+  "citation": "2026 TCC 32",
+  "date": "2026-02-18T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 21985
+ },
+ "tax/0106_2026_TCC_36": {
+  "domain": "tax",
+  "title": "Culig v. The King (2026 TCC 36)",
+  "citation": "2026 TCC 36",
+  "date": "2026-02-18T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 20739
+ },
+ "tax/0107_2026_TCC_33": {
+  "domain": "tax",
+  "title": "Patel v. The King (2026 TCC 33)",
+  "citation": "2026 TCC 33",
+  "date": "2026-02-17T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 33297
+ },
+ "tax/0108_2026_TCC_31": {
+  "domain": "tax",
+  "title": "Opheim v. The King (2026 TCC 31)",
+  "citation": "2026 TCC 31",
+  "date": "2026-02-16T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 58259
+ },
+ "tax/0109_2026_TCC_30": {
+  "domain": "tax",
+  "title": "Salehi v. The King (2026 TCC 30)",
+  "citation": "2026 TCC 30",
+  "date": "2026-02-12T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 27605
+ },
+ "tax/0110_2026_TCC_28": {
+  "domain": "tax",
+  "title": "Talukdar v. The King (2026 TCC 28)",
+  "citation": "2026 TCC 28",
+  "date": "2026-02-10T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 26216
+ },
+ "tax/0111_2026_TCC_23": {
+  "domain": "tax",
+  "title": "Ginevro v. The King (2026 TCC 23)",
+  "citation": "2026 TCC 23",
+  "date": "2026-02-02T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 25513
+ },
+ "tax/0112_2026_TCC_27": {
+  "domain": "tax",
+  "title": "Caddell v. The King (2026 TCC 27)",
+  "citation": "2026 TCC 27",
+  "date": "2026-02-02T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 40711
+ },
+ "tax/0113_2026_TCC_18": {
+  "domain": "tax",
+  "title": "Gill v. The King (2026 TCC 18)",
+  "citation": "2026 TCC 18",
+  "date": "2026-01-30T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 22789
+ },
+ "tax/0114_2026_TCC_21": {
+  "domain": "tax",
+  "title": "Opheim v. The King (2026 TCC 21)",
+  "citation": "2026 TCC 21",
+  "date": "2026-01-30T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 32947
+ },
+ "tax/0115_2026_TCC_22": {
+  "domain": "tax",
+  "title": "Marleau v. The King (2026 TCC 22)",
+  "citation": "2026 TCC 22",
+  "date": "2026-01-29T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 34646
+ },
+ "tax/0116_2026_TCC_5": {
+  "domain": "tax",
+  "title": "1478873 Ontario Inc. v. The King (2026 TCC 5)",
+  "citation": "2026 TCC 5",
+  "date": "2026-01-26T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 20551
+ },
+ "tax/0117_2026_TCC_16": {
+  "domain": "tax",
+  "title": "Gao v. The King (2026 TCC 16)",
+  "citation": "2026 TCC 16",
+  "date": "2026-01-26T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 77567
+ },
+ "tax/0118_2026_TCC_17": {
+  "domain": "tax",
+  "title": "John Doe v. The King (2026 TCC 17)",
+  "citation": "2026 TCC 17",
+  "date": "2026-01-22T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 81416
+ },
+ "tax/0119_2026_TCC_14": {
+  "domain": "tax",
+  "title": "Tolley v. The King (2026 TCC 14)",
+  "citation": "2026 TCC 14",
+  "date": "2026-01-15T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 18730
+ },
+ "tax/0120_2026_TCC_15": {
+  "domain": "tax",
+  "title": "Cineplex Inc. v. The King (2026 TCC 15)",
+  "citation": "2026 TCC 15",
+  "date": "2026-01-15T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 48017
+ },
+ "tax/0121_2026_TCC_12": {
+  "domain": "tax",
+  "title": "King v. The King (2026 TCC 12)",
+  "citation": "2026 TCC 12",
+  "date": "2026-01-14T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 17377
+ },
+ "tax/0122_2026_TCC_7": {
+  "domain": "tax",
+  "title": "Willowglen Systems Inc. v. The King (2026 TCC 7)",
+  "citation": "2026 TCC 7",
+  "date": "2026-01-09T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 52459
+ },
+ "tax/0123_2026_TCC_4": {
+  "domain": "tax",
+  "title": "Maragos v. The King (2026 TCC 4)",
+  "citation": "2026 TCC 4",
+  "date": "2026-01-07T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 32964
+ },
+ "tax/0124_2026_TCC_3": {
+  "domain": "tax",
+  "title": "Ingredion Canada Corporation v. The King (2026 TCC 3)",
+  "citation": "2026 TCC 3",
+  "date": "2026-01-07T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 45450
+ },
+ "tax/0125_2026_TCC_2": {
+  "domain": "tax",
+  "title": "Premier Fasteners Inc. v. The King (2026 TCC 2)",
+  "citation": "2026 TCC 2",
+  "date": "2026-01-06T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 102953
+ },
+ "tax/0126_2025_TCC_192": {
+  "domain": "tax",
+  "title": "Boylu v. The King (2025 TCC 192)",
+  "citation": "2025 TCC 192",
+  "date": "2025-12-22T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 47331
+ },
+ "tax/0127_2025_TCC_193": {
+  "domain": "tax",
+  "title": "Malik v. The King (2025 TCC 193)",
+  "citation": "2025 TCC 193",
+  "date": "2025-12-22T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 19507
+ },
+ "tax/0128_2025_TCC_196": {
+  "domain": "tax",
+  "title": "Rowe v. The King (2025 TCC 196)",
+  "citation": "2025 TCC 196",
+  "date": "2025-12-22T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 19557
+ },
+ "tax/0129_2025_TCC_191": {
+  "domain": "tax",
+  "title": "Fe Virrey v. The King (2025 TCC 191)",
+  "citation": "2025 TCC 191",
+  "date": "2025-12-18T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 15363
+ },
+ "tax/0130_2025_TCC_190": {
+  "domain": "tax",
+  "title": "Postalong Technology Inc. v. The King (2025 TCC 190)",
+  "citation": "2025 TCC 190",
+  "date": "2025-12-17T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 15923
+ },
+ "tax/0131_2025_TCC_189": {
+  "domain": "tax",
+  "title": "Vibert v. The King (2025 TCC 189)",
+  "citation": "2025 TCC 189",
+  "date": "2025-12-12T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 17202
+ },
+ "tax/0132_2025_TCC_187": {
+  "domain": "tax",
+  "title": "Sharma v. The King (2025 TCC 187)",
+  "citation": "2025 TCC 187",
+  "date": "2025-12-12T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 19577
+ },
+ "tax/0133_2025_TCC_184": {
+  "domain": "tax",
+  "title": "Brown v. The King (2025 TCC 184)",
+  "citation": "2025 TCC 184",
+  "date": "2025-12-11T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 52321
+ },
+ "tax/0134_2025_TCC_186": {
+  "domain": "tax",
+  "title": "Gaitanis v. The King (2025 TCC 186)",
+  "citation": "2025 TCC 186",
+  "date": "2025-12-10T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 23922
+ },
+ "tax/0135_2025_TCC_185": {
+  "domain": "tax",
+  "title": "Amicarelli v. The King (2025 TCC 185)",
+  "citation": "2025 TCC 185",
+  "date": "2025-12-09T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 35619
+ },
+ "tax/0136_2025_TCC_175": {
+  "domain": "tax",
+  "title": "Afdon Contracting Ltd. v. The King (2025 TCC 175)",
+  "citation": "2025 TCC 175",
+  "date": "2025-12-08T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 65391
+ },
+ "tax/0137_2025_TCC_182": {
+  "domain": "tax",
+  "title": "Oram's Enterprises Limited v. The King (2025 TCC 182)",
+  "citation": "2025 TCC 182",
+  "date": "2025-12-08T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 7569
+ },
+ "tax/0138_2025_TCC_183": {
+  "domain": "tax",
+  "title": "Tuna Temple Inc. v. The King (2025 TCC 183)",
+  "citation": "2025 TCC 183",
+  "date": "2025-12-05T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 35070
+ },
+ "tax/0139_2025_TCC_179": {
+  "domain": "tax",
+  "title": "Redpath Sugar Ltd. v. The King (2025 TCC 179)",
+  "citation": "2025 TCC 179",
+  "date": "2025-11-27T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 15156
+ },
+ "tax/0140_2025_TCC_180": {
+  "domain": "tax",
+  "title": "Ojaide v. The King (2025 TCC 180)",
+  "citation": "2025 TCC 180",
+  "date": "2025-11-27T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 24009
+ },
+ "tax/0141_2025_TCC_181": {
+  "domain": "tax",
+  "title": "Saskatchewan v. The King (2025 TCC 181)",
+  "citation": "2025 TCC 181",
+  "date": "2025-11-27T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 21755
+ },
+ "tax/0142_2025_TCC_173": {
+  "domain": "tax",
+  "title": "Éléments Chauffants Tempora Inc. v. The King (2025 TCC 173)",
+  "citation": "2025 TCC 173",
+  "date": "2025-11-20T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 143016
+ },
+ "tax/0143_2025_TCC_171": {
+  "domain": "tax",
+  "title": "Dandees v. The King (2025 TCC 171)",
+  "citation": "2025 TCC 171",
+  "date": "2025-11-19T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 10258
+ },
+ "tax/0144_2025_TCC_172": {
+  "domain": "tax",
+  "title": "Ng v. The King (2025 TCC 172)",
+  "citation": "2025 TCC 172",
+  "date": "2025-11-19T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 14200
+ },
+ "tax/0145_2025_TCC_155": {
+  "domain": "tax",
+  "title": "President's Choice Bank v. The King (2025 TCC 155)",
+  "citation": "2025 TCC 155",
+  "date": "2025-11-13T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 21783
+ },
+ "tax/0146_2025_TCC_167": {
+  "domain": "tax",
+  "title": "Golden View Management Group Inc. v. M.N.R. (2025 TCC 167)",
+  "citation": "2025 TCC 167",
+  "date": "2025-11-13T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 15247
+ },
+ "tax/0147_2025_TCC_168": {
+  "domain": "tax",
+  "title": "Mohamed v. The King (2025 TCC 168)",
+  "citation": "2025 TCC 168",
+  "date": "2025-11-10T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 16540
+ },
+ "tax/0148_2025_TCC_169": {
+  "domain": "tax",
+  "title": "Tanafranca v. The King (2025 TCC 169)",
+  "citation": "2025 TCC 169",
+  "date": "2025-11-10T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 7154
+ },
+ "tax/0149_2025_TCC_165": {
+  "domain": "tax",
+  "title": "Norman v. The King (2025 TCC 165)",
+  "citation": "2025 TCC 165",
+  "date": "2025-11-05T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 9096
+ },
+ "tax/0150_2026_TCC_40": {
+  "domain": "tax",
+  "title": "C & W Offshore Ltd. v. The King (2026 TCC 40)",
+  "citation": "2026 TCC 40",
+  "date": "2026-03-04T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 108021
+ },
+ "tax/0151_2026_TCC_39": {
+  "domain": "tax",
+  "title": "Heritage Square Retirement Living Inc. v. The King (2026 TCC 39)",
+  "citation": "2026 TCC 39",
+  "date": "2026-03-03T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 14083
+ },
+ "tax/0152_2026_TCC_38": {
+  "domain": "tax",
+  "title": "Twisted Leaves Ltd. v. The King (2026 TCC 38)",
+  "citation": "2026 TCC 38",
+  "date": "2026-02-25T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 19290
+ },
+ "tax/0153_2026_TCC_26": {
+  "domain": "tax",
+  "title": "Alarakhia v. The King (2026 TCC 26)",
+  "citation": "2026 TCC 26",
+  "date": "2026-02-25T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 14373
+ },
+ "tax/0154_2026_TCC_37": {
+  "domain": "tax",
+  "title": "Ratti v. The King (2026 TCC 37)",
+  "citation": "2026 TCC 37",
+  "date": "2026-02-23T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 37176
+ },
+ "tax/0155_2026_TCC_32": {
+  "domain": "tax",
+  "title": "Alberta Peloton Association v. The King (2026 TCC 32)",
+  "citation": "2026 TCC 32",
+  "date": "2026-02-18T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 21985
+ },
+ "tax/0156_2026_TCC_36": {
+  "domain": "tax",
+  "title": "Culig v. The King (2026 TCC 36)",
+  "citation": "2026 TCC 36",
+  "date": "2026-02-18T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 20739
+ },
+ "tax/0157_2026_TCC_33": {
+  "domain": "tax",
+  "title": "Patel v. The King (2026 TCC 33)",
+  "citation": "2026 TCC 33",
+  "date": "2026-02-17T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 33297
+ },
+ "tax/0158_2026_TCC_31": {
+  "domain": "tax",
+  "title": "Opheim v. The King (2026 TCC 31)",
+  "citation": "2026 TCC 31",
+  "date": "2026-02-16T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 58259
+ },
+ "tax/0159_2026_TCC_30": {
+  "domain": "tax",
+  "title": "Salehi v. The King (2026 TCC 30)",
+  "citation": "2026 TCC 30",
+  "date": "2026-02-12T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 27605
+ },
+ "tax/0160_2026_TCC_28": {
+  "domain": "tax",
+  "title": "Talukdar v. The King (2026 TCC 28)",
+  "citation": "2026 TCC 28",
+  "date": "2026-02-10T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 26216
+ },
+ "tax/0161_2026_TCC_23": {
+  "domain": "tax",
+  "title": "Ginevro v. The King (2026 TCC 23)",
+  "citation": "2026 TCC 23",
+  "date": "2026-02-02T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 25513
+ },
+ "tax/0162_2026_TCC_27": {
+  "domain": "tax",
+  "title": "Caddell v. The King (2026 TCC 27)",
+  "citation": "2026 TCC 27",
+  "date": "2026-02-02T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 40711
+ },
+ "tax/0163_2026_TCC_18": {
+  "domain": "tax",
+  "title": "Gill v. The King (2026 TCC 18)",
+  "citation": "2026 TCC 18",
+  "date": "2026-01-30T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 22789
+ },
+ "tax/0164_2026_TCC_21": {
+  "domain": "tax",
+  "title": "Opheim v. The King (2026 TCC 21)",
+  "citation": "2026 TCC 21",
+  "date": "2026-01-30T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 32947
+ },
+ "tax/0165_2026_TCC_22": {
+  "domain": "tax",
+  "title": "Marleau v. The King (2026 TCC 22)",
+  "citation": "2026 TCC 22",
+  "date": "2026-01-29T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 34646
+ },
+ "tax/0166_2026_TCC_5": {
+  "domain": "tax",
+  "title": "1478873 Ontario Inc. v. The King (2026 TCC 5)",
+  "citation": "2026 TCC 5",
+  "date": "2026-01-26T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 20551
+ },
+ "tax/0167_2026_TCC_16": {
+  "domain": "tax",
+  "title": "Gao v. The King (2026 TCC 16)",
+  "citation": "2026 TCC 16",
+  "date": "2026-01-26T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 77567
+ },
+ "tax/0168_2026_TCC_17": {
+  "domain": "tax",
+  "title": "John Doe v. The King (2026 TCC 17)",
+  "citation": "2026 TCC 17",
+  "date": "2026-01-22T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 81416
+ },
+ "tax/0169_2026_TCC_14": {
+  "domain": "tax",
+  "title": "Tolley v. The King (2026 TCC 14)",
+  "citation": "2026 TCC 14",
+  "date": "2026-01-15T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 18730
+ },
+ "tax/0170_2026_TCC_15": {
+  "domain": "tax",
+  "title": "Cineplex Inc. v. The King (2026 TCC 15)",
+  "citation": "2026 TCC 15",
+  "date": "2026-01-15T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 48017
+ },
+ "tax/0171_2026_TCC_12": {
+  "domain": "tax",
+  "title": "King v. The King (2026 TCC 12)",
+  "citation": "2026 TCC 12",
+  "date": "2026-01-14T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 17377
+ },
+ "tax/0172_2026_TCC_7": {
+  "domain": "tax",
+  "title": "Willowglen Systems Inc. v. The King (2026 TCC 7)",
+  "citation": "2026 TCC 7",
+  "date": "2026-01-09T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 52459
+ },
+ "tax/0173_2026_TCC_4": {
+  "domain": "tax",
+  "title": "Maragos v. The King (2026 TCC 4)",
+  "citation": "2026 TCC 4",
+  "date": "2026-01-07T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 32964
+ },
+ "tax/0174_2026_TCC_3": {
+  "domain": "tax",
+  "title": "Ingredion Canada Corporation v. The King (2026 TCC 3)",
+  "citation": "2026 TCC 3",
+  "date": "2026-01-07T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 45450
+ },
+ "tax/0175_2026_TCC_2": {
+  "domain": "tax",
+  "title": "Premier Fasteners Inc. v. The King (2026 TCC 2)",
+  "citation": "2026 TCC 2",
+  "date": "2026-01-06T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 102953
+ },
+ "tax/0176_2025_TCC_192": {
+  "domain": "tax",
+  "title": "Boylu v. The King (2025 TCC 192)",
+  "citation": "2025 TCC 192",
+  "date": "2025-12-22T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 47331
+ },
+ "tax/0177_2025_TCC_193": {
+  "domain": "tax",
+  "title": "Malik v. The King (2025 TCC 193)",
+  "citation": "2025 TCC 193",
+  "date": "2025-12-22T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 19507
+ },
+ "tax/0178_2025_TCC_196": {
+  "domain": "tax",
+  "title": "Rowe v. The King (2025 TCC 196)",
+  "citation": "2025 TCC 196",
+  "date": "2025-12-22T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 19557
+ },
+ "tax/0179_2025_TCC_191": {
+  "domain": "tax",
+  "title": "Fe Virrey v. The King (2025 TCC 191)",
+  "citation": "2025 TCC 191",
+  "date": "2025-12-18T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 15363
+ },
+ "tax/0180_2025_TCC_190": {
+  "domain": "tax",
+  "title": "Postalong Technology Inc. v. The King (2025 TCC 190)",
+  "citation": "2025 TCC 190",
+  "date": "2025-12-17T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 15923
+ },
+ "tax/0181_2025_TCC_189": {
+  "domain": "tax",
+  "title": "Vibert v. The King (2025 TCC 189)",
+  "citation": "2025 TCC 189",
+  "date": "2025-12-12T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 17202
+ },
+ "tax/0182_2025_TCC_187": {
+  "domain": "tax",
+  "title": "Sharma v. The King (2025 TCC 187)",
+  "citation": "2025 TCC 187",
+  "date": "2025-12-12T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 19577
+ },
+ "tax/0183_2025_TCC_184": {
+  "domain": "tax",
+  "title": "Brown v. The King (2025 TCC 184)",
+  "citation": "2025 TCC 184",
+  "date": "2025-12-11T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 52321
+ },
+ "tax/0184_2025_TCC_186": {
+  "domain": "tax",
+  "title": "Gaitanis v. The King (2025 TCC 186)",
+  "citation": "2025 TCC 186",
+  "date": "2025-12-10T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 23922
+ },
+ "tax/0185_2025_TCC_185": {
+  "domain": "tax",
+  "title": "Amicarelli v. The King (2025 TCC 185)",
+  "citation": "2025 TCC 185",
+  "date": "2025-12-09T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 35619
+ },
+ "tax/0186_2025_TCC_175": {
+  "domain": "tax",
+  "title": "Afdon Contracting Ltd. v. The King (2025 TCC 175)",
+  "citation": "2025 TCC 175",
+  "date": "2025-12-08T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 65391
+ },
+ "tax/0187_2025_TCC_182": {
+  "domain": "tax",
+  "title": "Oram's Enterprises Limited v. The King (2025 TCC 182)",
+  "citation": "2025 TCC 182",
+  "date": "2025-12-08T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 7569
+ },
+ "tax/0188_2025_TCC_183": {
+  "domain": "tax",
+  "title": "Tuna Temple Inc. v. The King (2025 TCC 183)",
+  "citation": "2025 TCC 183",
+  "date": "2025-12-05T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 35070
+ },
+ "tax/0189_2025_TCC_179": {
+  "domain": "tax",
+  "title": "Redpath Sugar Ltd. v. The King (2025 TCC 179)",
+  "citation": "2025 TCC 179",
+  "date": "2025-11-27T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 15156
+ },
+ "tax/0190_2025_TCC_180": {
+  "domain": "tax",
+  "title": "Ojaide v. The King (2025 TCC 180)",
+  "citation": "2025 TCC 180",
+  "date": "2025-11-27T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 24009
+ },
+ "tax/0191_2025_TCC_181": {
+  "domain": "tax",
+  "title": "Saskatchewan v. The King (2025 TCC 181)",
+  "citation": "2025 TCC 181",
+  "date": "2025-11-27T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 21755
+ },
+ "tax/0192_2025_TCC_173": {
+  "domain": "tax",
+  "title": "Éléments Chauffants Tempora Inc. v. The King (2025 TCC 173)",
+  "citation": "2025 TCC 173",
+  "date": "2025-11-20T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 143016
+ },
+ "tax/0193_2025_TCC_171": {
+  "domain": "tax",
+  "title": "Dandees v. The King (2025 TCC 171)",
+  "citation": "2025 TCC 171",
+  "date": "2025-11-19T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 10258
+ },
+ "tax/0194_2025_TCC_172": {
+  "domain": "tax",
+  "title": "Ng v. The King (2025 TCC 172)",
+  "citation": "2025 TCC 172",
+  "date": "2025-11-19T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 14200
+ },
+ "tax/0195_2025_TCC_155": {
+  "domain": "tax",
+  "title": "President's Choice Bank v. The King (2025 TCC 155)",
+  "citation": "2025 TCC 155",
+  "date": "2025-11-13T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 21783
+ },
+ "tax/0196_2025_TCC_167": {
+  "domain": "tax",
+  "title": "Golden View Management Group Inc. v. M.N.R. (2025 TCC 167)",
+  "citation": "2025 TCC 167",
+  "date": "2025-11-13T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 15247
+ },
+ "tax/0197_2025_TCC_168": {
+  "domain": "tax",
+  "title": "Mohamed v. The King (2025 TCC 168)",
+  "citation": "2025 TCC 168",
+  "date": "2025-11-10T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 16540
+ },
+ "tax/0198_2025_TCC_169": {
+  "domain": "tax",
+  "title": "Tanafranca v. The King (2025 TCC 169)",
+  "citation": "2025 TCC 169",
+  "date": "2025-11-10T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 7154
+ },
+ "tax/0199_2025_TCC_165": {
+  "domain": "tax",
+  "title": "Norman v. The King (2025 TCC 165)",
+  "citation": "2025 TCC 165",
+  "date": "2025-11-05T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 9096
+ },
+ "tax/0200_2026_TCC_40": {
+  "domain": "tax",
+  "title": "C & W Offshore Ltd. v. The King (2026 TCC 40)",
+  "citation": "2026 TCC 40",
+  "date": "2026-03-04T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 108021
+ },
+ "tax/0201_2026_TCC_39": {
+  "domain": "tax",
+  "title": "Heritage Square Retirement Living Inc. v. The King (2026 TCC 39)",
+  "citation": "2026 TCC 39",
+  "date": "2026-03-03T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 14083
+ },
+ "tax/0202_2026_TCC_38": {
+  "domain": "tax",
+  "title": "Twisted Leaves Ltd. v. The King (2026 TCC 38)",
+  "citation": "2026 TCC 38",
+  "date": "2026-02-25T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 19290
+ },
+ "tax/0203_2026_TCC_26": {
+  "domain": "tax",
+  "title": "Alarakhia v. The King (2026 TCC 26)",
+  "citation": "2026 TCC 26",
+  "date": "2026-02-25T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 14373
+ },
+ "tax/0204_2026_TCC_37": {
+  "domain": "tax",
+  "title": "Ratti v. The King (2026 TCC 37)",
+  "citation": "2026 TCC 37",
+  "date": "2026-02-23T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 37176
+ },
+ "tax/0205_2026_TCC_32": {
+  "domain": "tax",
+  "title": "Alberta Peloton Association v. The King (2026 TCC 32)",
+  "citation": "2026 TCC 32",
+  "date": "2026-02-18T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 21985
+ },
+ "tax/0206_2026_TCC_36": {
+  "domain": "tax",
+  "title": "Culig v. The King (2026 TCC 36)",
+  "citation": "2026 TCC 36",
+  "date": "2026-02-18T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 20739
+ },
+ "tax/0207_2026_TCC_33": {
+  "domain": "tax",
+  "title": "Patel v. The King (2026 TCC 33)",
+  "citation": "2026 TCC 33",
+  "date": "2026-02-17T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 33297
+ },
+ "tax/0208_2026_TCC_31": {
+  "domain": "tax",
+  "title": "Opheim v. The King (2026 TCC 31)",
+  "citation": "2026 TCC 31",
+  "date": "2026-02-16T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 58259
+ },
+ "tax/0209_2026_TCC_30": {
+  "domain": "tax",
+  "title": "Salehi v. The King (2026 TCC 30)",
+  "citation": "2026 TCC 30",
+  "date": "2026-02-12T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 27605
+ },
+ "tax/0210_2026_TCC_28": {
+  "domain": "tax",
+  "title": "Talukdar v. The King (2026 TCC 28)",
+  "citation": "2026 TCC 28",
+  "date": "2026-02-10T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 26216
+ },
+ "tax/0211_2026_TCC_23": {
+  "domain": "tax",
+  "title": "Ginevro v. The King (2026 TCC 23)",
+  "citation": "2026 TCC 23",
+  "date": "2026-02-02T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 25513
+ },
+ "tax/0212_2026_TCC_27": {
+  "domain": "tax",
+  "title": "Caddell v. The King (2026 TCC 27)",
+  "citation": "2026 TCC 27",
+  "date": "2026-02-02T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 40711
+ },
+ "tax/0213_2026_TCC_18": {
+  "domain": "tax",
+  "title": "Gill v. The King (2026 TCC 18)",
+  "citation": "2026 TCC 18",
+  "date": "2026-01-30T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 22789
+ },
+ "tax/0214_2026_TCC_21": {
+  "domain": "tax",
+  "title": "Opheim v. The King (2026 TCC 21)",
+  "citation": "2026 TCC 21",
+  "date": "2026-01-30T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 32947
+ },
+ "tax/0215_2026_TCC_22": {
+  "domain": "tax",
+  "title": "Marleau v. The King (2026 TCC 22)",
+  "citation": "2026 TCC 22",
+  "date": "2026-01-29T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 34646
+ },
+ "tax/0216_2026_TCC_5": {
+  "domain": "tax",
+  "title": "1478873 Ontario Inc. v. The King (2026 TCC 5)",
+  "citation": "2026 TCC 5",
+  "date": "2026-01-26T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 20551
+ },
+ "tax/0217_2026_TCC_16": {
+  "domain": "tax",
+  "title": "Gao v. The King (2026 TCC 16)",
+  "citation": "2026 TCC 16",
+  "date": "2026-01-26T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 77567
+ },
+ "tax/0218_2026_TCC_17": {
+  "domain": "tax",
+  "title": "John Doe v. The King (2026 TCC 17)",
+  "citation": "2026 TCC 17",
+  "date": "2026-01-22T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 81416
+ },
+ "tax/0219_2026_TCC_14": {
+  "domain": "tax",
+  "title": "Tolley v. The King (2026 TCC 14)",
+  "citation": "2026 TCC 14",
+  "date": "2026-01-15T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 18730
+ },
+ "tax/0220_2026_TCC_15": {
+  "domain": "tax",
+  "title": "Cineplex Inc. v. The King (2026 TCC 15)",
+  "citation": "2026 TCC 15",
+  "date": "2026-01-15T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 48017
+ },
+ "tax/0221_2026_TCC_12": {
+  "domain": "tax",
+  "title": "King v. The King (2026 TCC 12)",
+  "citation": "2026 TCC 12",
+  "date": "2026-01-14T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 17377
+ },
+ "tax/0222_2026_TCC_7": {
+  "domain": "tax",
+  "title": "Willowglen Systems Inc. v. The King (2026 TCC 7)",
+  "citation": "2026 TCC 7",
+  "date": "2026-01-09T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 52459
+ },
+ "tax/0223_2026_TCC_4": {
+  "domain": "tax",
+  "title": "Maragos v. The King (2026 TCC 4)",
+  "citation": "2026 TCC 4",
+  "date": "2026-01-07T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 32964
+ },
+ "tax/0224_2026_TCC_3": {
+  "domain": "tax",
+  "title": "Ingredion Canada Corporation v. The King (2026 TCC 3)",
+  "citation": "2026 TCC 3",
+  "date": "2026-01-07T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 45450
+ },
+ "tax/0225_2026_TCC_2": {
+  "domain": "tax",
+  "title": "Premier Fasteners Inc. v. The King (2026 TCC 2)",
+  "citation": "2026 TCC 2",
+  "date": "2026-01-06T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 102953
+ },
+ "tax/0226_2025_TCC_192": {
+  "domain": "tax",
+  "title": "Boylu v. The King (2025 TCC 192)",
+  "citation": "2025 TCC 192",
+  "date": "2025-12-22T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 47331
+ },
+ "tax/0227_2025_TCC_193": {
+  "domain": "tax",
+  "title": "Malik v. The King (2025 TCC 193)",
+  "citation": "2025 TCC 193",
+  "date": "2025-12-22T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 19507
+ },
+ "tax/0228_2025_TCC_196": {
+  "domain": "tax",
+  "title": "Rowe v. The King (2025 TCC 196)",
+  "citation": "2025 TCC 196",
+  "date": "2025-12-22T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 19557
+ },
+ "tax/0229_2025_TCC_191": {
+  "domain": "tax",
+  "title": "Fe Virrey v. The King (2025 TCC 191)",
+  "citation": "2025 TCC 191",
+  "date": "2025-12-18T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 15363
+ },
+ "tax/0230_2025_TCC_190": {
+  "domain": "tax",
+  "title": "Postalong Technology Inc. v. The King (2025 TCC 190)",
+  "citation": "2025 TCC 190",
+  "date": "2025-12-17T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 15923
+ },
+ "tax/0231_2025_TCC_189": {
+  "domain": "tax",
+  "title": "Vibert v. The King (2025 TCC 189)",
+  "citation": "2025 TCC 189",
+  "date": "2025-12-12T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 17202
+ },
+ "tax/0232_2025_TCC_187": {
+  "domain": "tax",
+  "title": "Sharma v. The King (2025 TCC 187)",
+  "citation": "2025 TCC 187",
+  "date": "2025-12-12T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 19577
+ },
+ "tax/0233_2025_TCC_184": {
+  "domain": "tax",
+  "title": "Brown v. The King (2025 TCC 184)",
+  "citation": "2025 TCC 184",
+  "date": "2025-12-11T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 52321
+ },
+ "tax/0234_2025_TCC_186": {
+  "domain": "tax",
+  "title": "Gaitanis v. The King (2025 TCC 186)",
+  "citation": "2025 TCC 186",
+  "date": "2025-12-10T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 23922
+ },
+ "tax/0235_2025_TCC_185": {
+  "domain": "tax",
+  "title": "Amicarelli v. The King (2025 TCC 185)",
+  "citation": "2025 TCC 185",
+  "date": "2025-12-09T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 35619
+ },
+ "tax/0236_2025_TCC_175": {
+  "domain": "tax",
+  "title": "Afdon Contracting Ltd. v. The King (2025 TCC 175)",
+  "citation": "2025 TCC 175",
+  "date": "2025-12-08T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 65391
+ },
+ "tax/0237_2025_TCC_182": {
+  "domain": "tax",
+  "title": "Oram's Enterprises Limited v. The King (2025 TCC 182)",
+  "citation": "2025 TCC 182",
+  "date": "2025-12-08T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 7569
+ },
+ "tax/0238_2025_TCC_183": {
+  "domain": "tax",
+  "title": "Tuna Temple Inc. v. The King (2025 TCC 183)",
+  "citation": "2025 TCC 183",
+  "date": "2025-12-05T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 35070
+ },
+ "tax/0239_2025_TCC_179": {
+  "domain": "tax",
+  "title": "Redpath Sugar Ltd. v. The King (2025 TCC 179)",
+  "citation": "2025 TCC 179",
+  "date": "2025-11-27T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 15156
+ },
+ "tax/0240_2025_TCC_180": {
+  "domain": "tax",
+  "title": "Ojaide v. The King (2025 TCC 180)",
+  "citation": "2025 TCC 180",
+  "date": "2025-11-27T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 24009
+ },
+ "tax/0241_2025_TCC_181": {
+  "domain": "tax",
+  "title": "Saskatchewan v. The King (2025 TCC 181)",
+  "citation": "2025 TCC 181",
+  "date": "2025-11-27T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 21755
+ },
+ "tax/0242_2025_TCC_173": {
+  "domain": "tax",
+  "title": "Éléments Chauffants Tempora Inc. v. The King (2025 TCC 173)",
+  "citation": "2025 TCC 173",
+  "date": "2025-11-20T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 143016
+ },
+ "tax/0243_2025_TCC_171": {
+  "domain": "tax",
+  "title": "Dandees v. The King (2025 TCC 171)",
+  "citation": "2025 TCC 171",
+  "date": "2025-11-19T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 10258
+ },
+ "tax/0244_2025_TCC_172": {
+  "domain": "tax",
+  "title": "Ng v. The King (2025 TCC 172)",
+  "citation": "2025 TCC 172",
+  "date": "2025-11-19T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 14200
+ },
+ "tax/0245_2025_TCC_155": {
+  "domain": "tax",
+  "title": "President's Choice Bank v. The King (2025 TCC 155)",
+  "citation": "2025 TCC 155",
+  "date": "2025-11-13T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 21783
+ },
+ "tax/0246_2025_TCC_167": {
+  "domain": "tax",
+  "title": "Golden View Management Group Inc. v. M.N.R. (2025 TCC 167)",
+  "citation": "2025 TCC 167",
+  "date": "2025-11-13T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 15247
+ },
+ "tax/0247_2025_TCC_168": {
+  "domain": "tax",
+  "title": "Mohamed v. The King (2025 TCC 168)",
+  "citation": "2025 TCC 168",
+  "date": "2025-11-10T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 16540
+ },
+ "tax/0248_2025_TCC_169": {
+  "domain": "tax",
+  "title": "Tanafranca v. The King (2025 TCC 169)",
+  "citation": "2025 TCC 169",
+  "date": "2025-11-10T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 7154
+ },
+ "tax/0249_2025_TCC_165": {
+  "domain": "tax",
+  "title": "Norman v. The King (2025 TCC 165)",
+  "citation": "2025 TCC 165",
+  "date": "2025-11-05T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 9096
+ },
+ "tax/0250_2026_TCC_40": {
+  "domain": "tax",
+  "title": "C & W Offshore Ltd. v. The King (2026 TCC 40)",
+  "citation": "2026 TCC 40",
+  "date": "2026-03-04T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 108021
+ },
+ "tax/0251_2026_TCC_39": {
+  "domain": "tax",
+  "title": "Heritage Square Retirement Living Inc. v. The King (2026 TCC 39)",
+  "citation": "2026 TCC 39",
+  "date": "2026-03-03T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 14083
+ },
+ "tax/0252_2026_TCC_38": {
+  "domain": "tax",
+  "title": "Twisted Leaves Ltd. v. The King (2026 TCC 38)",
+  "citation": "2026 TCC 38",
+  "date": "2026-02-25T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 19290
+ },
+ "tax/0253_2026_TCC_26": {
+  "domain": "tax",
+  "title": "Alarakhia v. The King (2026 TCC 26)",
+  "citation": "2026 TCC 26",
+  "date": "2026-02-25T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 14373
+ },
+ "tax/0254_2026_TCC_37": {
+  "domain": "tax",
+  "title": "Ratti v. The King (2026 TCC 37)",
+  "citation": "2026 TCC 37",
+  "date": "2026-02-23T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 37176
+ },
+ "tax/0255_2026_TCC_32": {
+  "domain": "tax",
+  "title": "Alberta Peloton Association v. The King (2026 TCC 32)",
+  "citation": "2026 TCC 32",
+  "date": "2026-02-18T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 21985
+ },
+ "tax/0256_2026_TCC_36": {
+  "domain": "tax",
+  "title": "Culig v. The King (2026 TCC 36)",
+  "citation": "2026 TCC 36",
+  "date": "2026-02-18T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 20739
+ },
+ "tax/0257_2026_TCC_33": {
+  "domain": "tax",
+  "title": "Patel v. The King (2026 TCC 33)",
+  "citation": "2026 TCC 33",
+  "date": "2026-02-17T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 33297
+ },
+ "tax/0258_2026_TCC_31": {
+  "domain": "tax",
+  "title": "Opheim v. The King (2026 TCC 31)",
+  "citation": "2026 TCC 31",
+  "date": "2026-02-16T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 58259
+ },
+ "tax/0259_2026_TCC_30": {
+  "domain": "tax",
+  "title": "Salehi v. The King (2026 TCC 30)",
+  "citation": "2026 TCC 30",
+  "date": "2026-02-12T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 27605
+ },
+ "tax/0260_2026_TCC_28": {
+  "domain": "tax",
+  "title": "Talukdar v. The King (2026 TCC 28)",
+  "citation": "2026 TCC 28",
+  "date": "2026-02-10T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 26216
+ },
+ "tax/0261_2026_TCC_23": {
+  "domain": "tax",
+  "title": "Ginevro v. The King (2026 TCC 23)",
+  "citation": "2026 TCC 23",
+  "date": "2026-02-02T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 25513
+ },
+ "tax/0262_2026_TCC_27": {
+  "domain": "tax",
+  "title": "Caddell v. The King (2026 TCC 27)",
+  "citation": "2026 TCC 27",
+  "date": "2026-02-02T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 40711
+ },
+ "tax/0263_2026_TCC_18": {
+  "domain": "tax",
+  "title": "Gill v. The King (2026 TCC 18)",
+  "citation": "2026 TCC 18",
+  "date": "2026-01-30T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 22789
+ },
+ "tax/0264_2026_TCC_21": {
+  "domain": "tax",
+  "title": "Opheim v. The King (2026 TCC 21)",
+  "citation": "2026 TCC 21",
+  "date": "2026-01-30T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 32947
+ },
+ "tax/0265_2026_TCC_22": {
+  "domain": "tax",
+  "title": "Marleau v. The King (2026 TCC 22)",
+  "citation": "2026 TCC 22",
+  "date": "2026-01-29T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 34646
+ },
+ "tax/0266_2026_TCC_5": {
+  "domain": "tax",
+  "title": "1478873 Ontario Inc. v. The King (2026 TCC 5)",
+  "citation": "2026 TCC 5",
+  "date": "2026-01-26T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 20551
+ },
+ "tax/0267_2026_TCC_16": {
+  "domain": "tax",
+  "title": "Gao v. The King (2026 TCC 16)",
+  "citation": "2026 TCC 16",
+  "date": "2026-01-26T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 77567
+ },
+ "tax/0268_2026_TCC_17": {
+  "domain": "tax",
+  "title": "John Doe v. The King (2026 TCC 17)",
+  "citation": "2026 TCC 17",
+  "date": "2026-01-22T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 81416
+ },
+ "tax/0269_2026_TCC_14": {
+  "domain": "tax",
+  "title": "Tolley v. The King (2026 TCC 14)",
+  "citation": "2026 TCC 14",
+  "date": "2026-01-15T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 18730
+ },
+ "tax/0270_2026_TCC_15": {
+  "domain": "tax",
+  "title": "Cineplex Inc. v. The King (2026 TCC 15)",
+  "citation": "2026 TCC 15",
+  "date": "2026-01-15T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 48017
+ },
+ "tax/0271_2026_TCC_12": {
+  "domain": "tax",
+  "title": "King v. The King (2026 TCC 12)",
+  "citation": "2026 TCC 12",
+  "date": "2026-01-14T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 17377
+ },
+ "tax/0272_2026_TCC_7": {
+  "domain": "tax",
+  "title": "Willowglen Systems Inc. v. The King (2026 TCC 7)",
+  "citation": "2026 TCC 7",
+  "date": "2026-01-09T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 52459
+ },
+ "tax/0273_2026_TCC_4": {
+  "domain": "tax",
+  "title": "Maragos v. The King (2026 TCC 4)",
+  "citation": "2026 TCC 4",
+  "date": "2026-01-07T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 32964
+ },
+ "tax/0274_2026_TCC_3": {
+  "domain": "tax",
+  "title": "Ingredion Canada Corporation v. The King (2026 TCC 3)",
+  "citation": "2026 TCC 3",
+  "date": "2026-01-07T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 45450
+ },
+ "tax/0275_2026_TCC_2": {
+  "domain": "tax",
+  "title": "Premier Fasteners Inc. v. The King (2026 TCC 2)",
+  "citation": "2026 TCC 2",
+  "date": "2026-01-06T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 102953
+ },
+ "tax/0276_2025_TCC_192": {
+  "domain": "tax",
+  "title": "Boylu v. The King (2025 TCC 192)",
+  "citation": "2025 TCC 192",
+  "date": "2025-12-22T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 47331
+ },
+ "tax/0277_2025_TCC_193": {
+  "domain": "tax",
+  "title": "Malik v. The King (2025 TCC 193)",
+  "citation": "2025 TCC 193",
+  "date": "2025-12-22T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 19507
+ },
+ "tax/0278_2025_TCC_196": {
+  "domain": "tax",
+  "title": "Rowe v. The King (2025 TCC 196)",
+  "citation": "2025 TCC 196",
+  "date": "2025-12-22T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 19557
+ },
+ "tax/0279_2025_TCC_191": {
+  "domain": "tax",
+  "title": "Fe Virrey v. The King (2025 TCC 191)",
+  "citation": "2025 TCC 191",
+  "date": "2025-12-18T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 15363
+ },
+ "tax/0280_2025_TCC_190": {
+  "domain": "tax",
+  "title": "Postalong Technology Inc. v. The King (2025 TCC 190)",
+  "citation": "2025 TCC 190",
+  "date": "2025-12-17T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 15923
+ },
+ "tax/0281_2025_TCC_189": {
+  "domain": "tax",
+  "title": "Vibert v. The King (2025 TCC 189)",
+  "citation": "2025 TCC 189",
+  "date": "2025-12-12T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 17202
+ },
+ "tax/0282_2025_TCC_187": {
+  "domain": "tax",
+  "title": "Sharma v. The King (2025 TCC 187)",
+  "citation": "2025 TCC 187",
+  "date": "2025-12-12T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 19577
+ },
+ "tax/0283_2025_TCC_184": {
+  "domain": "tax",
+  "title": "Brown v. The King (2025 TCC 184)",
+  "citation": "2025 TCC 184",
+  "date": "2025-12-11T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 52321
+ },
+ "tax/0284_2025_TCC_186": {
+  "domain": "tax",
+  "title": "Gaitanis v. The King (2025 TCC 186)",
+  "citation": "2025 TCC 186",
+  "date": "2025-12-10T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 23922
+ },
+ "tax/0285_2025_TCC_185": {
+  "domain": "tax",
+  "title": "Amicarelli v. The King (2025 TCC 185)",
+  "citation": "2025 TCC 185",
+  "date": "2025-12-09T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 35619
+ },
+ "tax/0286_2025_TCC_175": {
+  "domain": "tax",
+  "title": "Afdon Contracting Ltd. v. The King (2025 TCC 175)",
+  "citation": "2025 TCC 175",
+  "date": "2025-12-08T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 65391
+ },
+ "tax/0287_2025_TCC_182": {
+  "domain": "tax",
+  "title": "Oram's Enterprises Limited v. The King (2025 TCC 182)",
+  "citation": "2025 TCC 182",
+  "date": "2025-12-08T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 7569
+ },
+ "tax/0288_2025_TCC_183": {
+  "domain": "tax",
+  "title": "Tuna Temple Inc. v. The King (2025 TCC 183)",
+  "citation": "2025 TCC 183",
+  "date": "2025-12-05T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 35070
+ },
+ "tax/0289_2025_TCC_179": {
+  "domain": "tax",
+  "title": "Redpath Sugar Ltd. v. The King (2025 TCC 179)",
+  "citation": "2025 TCC 179",
+  "date": "2025-11-27T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 15156
+ },
+ "tax/0290_2025_TCC_180": {
+  "domain": "tax",
+  "title": "Ojaide v. The King (2025 TCC 180)",
+  "citation": "2025 TCC 180",
+  "date": "2025-11-27T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 24009
+ },
+ "tax/0291_2025_TCC_181": {
+  "domain": "tax",
+  "title": "Saskatchewan v. The King (2025 TCC 181)",
+  "citation": "2025 TCC 181",
+  "date": "2025-11-27T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 21755
+ },
+ "tax/0292_2025_TCC_173": {
+  "domain": "tax",
+  "title": "Éléments Chauffants Tempora Inc. v. The King (2025 TCC 173)",
+  "citation": "2025 TCC 173",
+  "date": "2025-11-20T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 143016
+ },
+ "tax/0293_2025_TCC_171": {
+  "domain": "tax",
+  "title": "Dandees v. The King (2025 TCC 171)",
+  "citation": "2025 TCC 171",
+  "date": "2025-11-19T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 10258
+ },
+ "tax/0294_2025_TCC_172": {
+  "domain": "tax",
+  "title": "Ng v. The King (2025 TCC 172)",
+  "citation": "2025 TCC 172",
+  "date": "2025-11-19T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 14200
+ },
+ "tax/0295_2025_TCC_155": {
+  "domain": "tax",
+  "title": "President's Choice Bank v. The King (2025 TCC 155)",
+  "citation": "2025 TCC 155",
+  "date": "2025-11-13T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 21783
+ },
+ "tax/0296_2025_TCC_167": {
+  "domain": "tax",
+  "title": "Golden View Management Group Inc. v. M.N.R. (2025 TCC 167)",
+  "citation": "2025 TCC 167",
+  "date": "2025-11-13T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 15247
+ },
+ "tax/0297_2025_TCC_168": {
+  "domain": "tax",
+  "title": "Mohamed v. The King (2025 TCC 168)",
+  "citation": "2025 TCC 168",
+  "date": "2025-11-10T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 16540
+ },
+ "tax/0298_2025_TCC_169": {
+  "domain": "tax",
+  "title": "Tanafranca v. The King (2025 TCC 169)",
+  "citation": "2025 TCC 169",
+  "date": "2025-11-10T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 7154
+ },
+ "tax/0299_2025_TCC_165": {
+  "domain": "tax",
+  "title": "Norman v. The King (2025 TCC 165)",
+  "citation": "2025 TCC 165",
+  "date": "2025-11-05T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 9096
+ },
+ "tax/0300_2026_TCC_40": {
+  "domain": "tax",
+  "title": "C & W Offshore Ltd. v. The King (2026 TCC 40)",
+  "citation": "2026 TCC 40",
+  "date": "2026-03-04T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 108021
+ },
+ "tax/0301_2026_TCC_39": {
+  "domain": "tax",
+  "title": "Heritage Square Retirement Living Inc. v. The King (2026 TCC 39)",
+  "citation": "2026 TCC 39",
+  "date": "2026-03-03T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 14083
+ },
+ "tax/0302_2026_TCC_38": {
+  "domain": "tax",
+  "title": "Twisted Leaves Ltd. v. The King (2026 TCC 38)",
+  "citation": "2026 TCC 38",
+  "date": "2026-02-25T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 19290
+ },
+ "tax/0303_2026_TCC_26": {
+  "domain": "tax",
+  "title": "Alarakhia v. The King (2026 TCC 26)",
+  "citation": "2026 TCC 26",
+  "date": "2026-02-25T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 14373
+ },
+ "tax/0304_2026_TCC_37": {
+  "domain": "tax",
+  "title": "Ratti v. The King (2026 TCC 37)",
+  "citation": "2026 TCC 37",
+  "date": "2026-02-23T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 37176
+ },
+ "tax/0305_2026_TCC_32": {
+  "domain": "tax",
+  "title": "Alberta Peloton Association v. The King (2026 TCC 32)",
+  "citation": "2026 TCC 32",
+  "date": "2026-02-18T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 21985
+ },
+ "tax/0306_2026_TCC_36": {
+  "domain": "tax",
+  "title": "Culig v. The King (2026 TCC 36)",
+  "citation": "2026 TCC 36",
+  "date": "2026-02-18T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 20739
+ },
+ "tax/0307_2026_TCC_33": {
+  "domain": "tax",
+  "title": "Patel v. The King (2026 TCC 33)",
+  "citation": "2026 TCC 33",
+  "date": "2026-02-17T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 33297
+ },
+ "tax/0308_2026_TCC_31": {
+  "domain": "tax",
+  "title": "Opheim v. The King (2026 TCC 31)",
+  "citation": "2026 TCC 31",
+  "date": "2026-02-16T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 58259
+ },
+ "tax/0309_2026_TCC_30": {
+  "domain": "tax",
+  "title": "Salehi v. The King (2026 TCC 30)",
+  "citation": "2026 TCC 30",
+  "date": "2026-02-12T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 27605
+ },
+ "tax/0310_2026_TCC_28": {
+  "domain": "tax",
+  "title": "Talukdar v. The King (2026 TCC 28)",
+  "citation": "2026 TCC 28",
+  "date": "2026-02-10T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 26216
+ },
+ "tax/0311_2026_TCC_23": {
+  "domain": "tax",
+  "title": "Ginevro v. The King (2026 TCC 23)",
+  "citation": "2026 TCC 23",
+  "date": "2026-02-02T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 25513
+ },
+ "tax/0312_2026_TCC_27": {
+  "domain": "tax",
+  "title": "Caddell v. The King (2026 TCC 27)",
+  "citation": "2026 TCC 27",
+  "date": "2026-02-02T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 40711
+ },
+ "tax/0313_2026_TCC_18": {
+  "domain": "tax",
+  "title": "Gill v. The King (2026 TCC 18)",
+  "citation": "2026 TCC 18",
+  "date": "2026-01-30T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 22789
+ },
+ "tax/0314_2026_TCC_21": {
+  "domain": "tax",
+  "title": "Opheim v. The King (2026 TCC 21)",
+  "citation": "2026 TCC 21",
+  "date": "2026-01-30T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 32947
+ },
+ "tax/0315_2026_TCC_22": {
+  "domain": "tax",
+  "title": "Marleau v. The King (2026 TCC 22)",
+  "citation": "2026 TCC 22",
+  "date": "2026-01-29T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 34646
+ },
+ "tax/0316_2026_TCC_5": {
+  "domain": "tax",
+  "title": "1478873 Ontario Inc. v. The King (2026 TCC 5)",
+  "citation": "2026 TCC 5",
+  "date": "2026-01-26T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 20551
+ },
+ "tax/0317_2026_TCC_16": {
+  "domain": "tax",
+  "title": "Gao v. The King (2026 TCC 16)",
+  "citation": "2026 TCC 16",
+  "date": "2026-01-26T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 77567
+ },
+ "tax/0318_2026_TCC_17": {
+  "domain": "tax",
+  "title": "John Doe v. The King (2026 TCC 17)",
+  "citation": "2026 TCC 17",
+  "date": "2026-01-22T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 81416
+ },
+ "tax/0319_2026_TCC_14": {
+  "domain": "tax",
+  "title": "Tolley v. The King (2026 TCC 14)",
+  "citation": "2026 TCC 14",
+  "date": "2026-01-15T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 18730
+ },
+ "tax/0320_2026_TCC_15": {
+  "domain": "tax",
+  "title": "Cineplex Inc. v. The King (2026 TCC 15)",
+  "citation": "2026 TCC 15",
+  "date": "2026-01-15T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 48017
+ },
+ "tax/0321_2026_TCC_12": {
+  "domain": "tax",
+  "title": "King v. The King (2026 TCC 12)",
+  "citation": "2026 TCC 12",
+  "date": "2026-01-14T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 17377
+ },
+ "tax/0322_2026_TCC_7": {
+  "domain": "tax",
+  "title": "Willowglen Systems Inc. v. The King (2026 TCC 7)",
+  "citation": "2026 TCC 7",
+  "date": "2026-01-09T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 52459
+ },
+ "tax/0323_2026_TCC_4": {
+  "domain": "tax",
+  "title": "Maragos v. The King (2026 TCC 4)",
+  "citation": "2026 TCC 4",
+  "date": "2026-01-07T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 32964
+ },
+ "tax/0324_2026_TCC_3": {
+  "domain": "tax",
+  "title": "Ingredion Canada Corporation v. The King (2026 TCC 3)",
+  "citation": "2026 TCC 3",
+  "date": "2026-01-07T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 45450
+ },
+ "tax/0325_2026_TCC_2": {
+  "domain": "tax",
+  "title": "Premier Fasteners Inc. v. The King (2026 TCC 2)",
+  "citation": "2026 TCC 2",
+  "date": "2026-01-06T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 102953
+ },
+ "tax/0326_2025_TCC_192": {
+  "domain": "tax",
+  "title": "Boylu v. The King (2025 TCC 192)",
+  "citation": "2025 TCC 192",
+  "date": "2025-12-22T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 47331
+ },
+ "tax/0327_2025_TCC_193": {
+  "domain": "tax",
+  "title": "Malik v. The King (2025 TCC 193)",
+  "citation": "2025 TCC 193",
+  "date": "2025-12-22T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 19507
+ },
+ "tax/0328_2025_TCC_196": {
+  "domain": "tax",
+  "title": "Rowe v. The King (2025 TCC 196)",
+  "citation": "2025 TCC 196",
+  "date": "2025-12-22T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 19557
+ },
+ "tax/0329_2025_TCC_191": {
+  "domain": "tax",
+  "title": "Fe Virrey v. The King (2025 TCC 191)",
+  "citation": "2025 TCC 191",
+  "date": "2025-12-18T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 15363
+ },
+ "tax/0330_2025_TCC_190": {
+  "domain": "tax",
+  "title": "Postalong Technology Inc. v. The King (2025 TCC 190)",
+  "citation": "2025 TCC 190",
+  "date": "2025-12-17T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 15923
+ },
+ "tax/0331_2025_TCC_189": {
+  "domain": "tax",
+  "title": "Vibert v. The King (2025 TCC 189)",
+  "citation": "2025 TCC 189",
+  "date": "2025-12-12T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 17202
+ },
+ "tax/0332_2025_TCC_187": {
+  "domain": "tax",
+  "title": "Sharma v. The King (2025 TCC 187)",
+  "citation": "2025 TCC 187",
+  "date": "2025-12-12T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 19577
+ },
+ "tax/0333_2025_TCC_184": {
+  "domain": "tax",
+  "title": "Brown v. The King (2025 TCC 184)",
+  "citation": "2025 TCC 184",
+  "date": "2025-12-11T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 52321
+ },
+ "tax/0334_2025_TCC_186": {
+  "domain": "tax",
+  "title": "Gaitanis v. The King (2025 TCC 186)",
+  "citation": "2025 TCC 186",
+  "date": "2025-12-10T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 23922
+ },
+ "tax/0335_2025_TCC_185": {
+  "domain": "tax",
+  "title": "Amicarelli v. The King (2025 TCC 185)",
+  "citation": "2025 TCC 185",
+  "date": "2025-12-09T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 35619
+ },
+ "tax/0336_2025_TCC_175": {
+  "domain": "tax",
+  "title": "Afdon Contracting Ltd. v. The King (2025 TCC 175)",
+  "citation": "2025 TCC 175",
+  "date": "2025-12-08T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 65391
+ },
+ "tax/0337_2025_TCC_182": {
+  "domain": "tax",
+  "title": "Oram's Enterprises Limited v. The King (2025 TCC 182)",
+  "citation": "2025 TCC 182",
+  "date": "2025-12-08T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 7569
+ },
+ "tax/0338_2025_TCC_183": {
+  "domain": "tax",
+  "title": "Tuna Temple Inc. v. The King (2025 TCC 183)",
+  "citation": "2025 TCC 183",
+  "date": "2025-12-05T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 35070
+ },
+ "tax/0339_2025_TCC_179": {
+  "domain": "tax",
+  "title": "Redpath Sugar Ltd. v. The King (2025 TCC 179)",
+  "citation": "2025 TCC 179",
+  "date": "2025-11-27T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 15156
+ },
+ "tax/0340_2025_TCC_180": {
+  "domain": "tax",
+  "title": "Ojaide v. The King (2025 TCC 180)",
+  "citation": "2025 TCC 180",
+  "date": "2025-11-27T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 24009
+ },
+ "tax/0341_2025_TCC_181": {
+  "domain": "tax",
+  "title": "Saskatchewan v. The King (2025 TCC 181)",
+  "citation": "2025 TCC 181",
+  "date": "2025-11-27T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 21755
+ },
+ "tax/0342_2025_TCC_173": {
+  "domain": "tax",
+  "title": "Éléments Chauffants Tempora Inc. v. The King (2025 TCC 173)",
+  "citation": "2025 TCC 173",
+  "date": "2025-11-20T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 143016
+ },
+ "tax/0343_2025_TCC_171": {
+  "domain": "tax",
+  "title": "Dandees v. The King (2025 TCC 171)",
+  "citation": "2025 TCC 171",
+  "date": "2025-11-19T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 10258
+ },
+ "tax/0344_2025_TCC_172": {
+  "domain": "tax",
+  "title": "Ng v. The King (2025 TCC 172)",
+  "citation": "2025 TCC 172",
+  "date": "2025-11-19T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 14200
+ },
+ "tax/0345_2025_TCC_155": {
+  "domain": "tax",
+  "title": "President's Choice Bank v. The King (2025 TCC 155)",
+  "citation": "2025 TCC 155",
+  "date": "2025-11-13T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 21783
+ },
+ "tax/0346_2025_TCC_167": {
+  "domain": "tax",
+  "title": "Golden View Management Group Inc. v. M.N.R. (2025 TCC 167)",
+  "citation": "2025 TCC 167",
+  "date": "2025-11-13T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 15247
+ },
+ "tax/0347_2025_TCC_168": {
+  "domain": "tax",
+  "title": "Mohamed v. The King (2025 TCC 168)",
+  "citation": "2025 TCC 168",
+  "date": "2025-11-10T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 16540
+ },
+ "tax/0348_2025_TCC_169": {
+  "domain": "tax",
+  "title": "Tanafranca v. The King (2025 TCC 169)",
+  "citation": "2025 TCC 169",
+  "date": "2025-11-10T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 7154
+ },
+ "tax/0349_2025_TCC_165": {
+  "domain": "tax",
+  "title": "Norman v. The King (2025 TCC 165)",
+  "citation": "2025 TCC 165",
+  "date": "2025-11-05T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 9096
+ },
+ "tax/0350_2026_TCC_40": {
+  "domain": "tax",
+  "title": "C & W Offshore Ltd. v. The King (2026 TCC 40)",
+  "citation": "2026 TCC 40",
+  "date": "2026-03-04T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 108021
+ },
+ "tax/0351_2026_TCC_39": {
+  "domain": "tax",
+  "title": "Heritage Square Retirement Living Inc. v. The King (2026 TCC 39)",
+  "citation": "2026 TCC 39",
+  "date": "2026-03-03T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 14083
+ },
+ "tax/0352_2026_TCC_38": {
+  "domain": "tax",
+  "title": "Twisted Leaves Ltd. v. The King (2026 TCC 38)",
+  "citation": "2026 TCC 38",
+  "date": "2026-02-25T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 19290
+ },
+ "tax/0353_2026_TCC_26": {
+  "domain": "tax",
+  "title": "Alarakhia v. The King (2026 TCC 26)",
+  "citation": "2026 TCC 26",
+  "date": "2026-02-25T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 14373
+ },
+ "tax/0354_2026_TCC_37": {
+  "domain": "tax",
+  "title": "Ratti v. The King (2026 TCC 37)",
+  "citation": "2026 TCC 37",
+  "date": "2026-02-23T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 37176
+ },
+ "tax/0355_2026_TCC_32": {
+  "domain": "tax",
+  "title": "Alberta Peloton Association v. The King (2026 TCC 32)",
+  "citation": "2026 TCC 32",
+  "date": "2026-02-18T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 21985
+ },
+ "tax/0356_2026_TCC_36": {
+  "domain": "tax",
+  "title": "Culig v. The King (2026 TCC 36)",
+  "citation": "2026 TCC 36",
+  "date": "2026-02-18T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 20739
+ },
+ "tax/0357_2026_TCC_33": {
+  "domain": "tax",
+  "title": "Patel v. The King (2026 TCC 33)",
+  "citation": "2026 TCC 33",
+  "date": "2026-02-17T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 33297
+ },
+ "tax/0358_2026_TCC_31": {
+  "domain": "tax",
+  "title": "Opheim v. The King (2026 TCC 31)",
+  "citation": "2026 TCC 31",
+  "date": "2026-02-16T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 58259
+ },
+ "tax/0359_2026_TCC_30": {
+  "domain": "tax",
+  "title": "Salehi v. The King (2026 TCC 30)",
+  "citation": "2026 TCC 30",
+  "date": "2026-02-12T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 27605
+ },
+ "tax/0360_2026_TCC_28": {
+  "domain": "tax",
+  "title": "Talukdar v. The King (2026 TCC 28)",
+  "citation": "2026 TCC 28",
+  "date": "2026-02-10T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 26216
+ },
+ "tax/0361_2026_TCC_23": {
+  "domain": "tax",
+  "title": "Ginevro v. The King (2026 TCC 23)",
+  "citation": "2026 TCC 23",
+  "date": "2026-02-02T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 25513
+ },
+ "tax/0362_2026_TCC_27": {
+  "domain": "tax",
+  "title": "Caddell v. The King (2026 TCC 27)",
+  "citation": "2026 TCC 27",
+  "date": "2026-02-02T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 40711
+ },
+ "tax/0363_2026_TCC_18": {
+  "domain": "tax",
+  "title": "Gill v. The King (2026 TCC 18)",
+  "citation": "2026 TCC 18",
+  "date": "2026-01-30T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 22789
+ },
+ "tax/0364_2026_TCC_21": {
+  "domain": "tax",
+  "title": "Opheim v. The King (2026 TCC 21)",
+  "citation": "2026 TCC 21",
+  "date": "2026-01-30T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 32947
+ },
+ "tax/0365_2026_TCC_22": {
+  "domain": "tax",
+  "title": "Marleau v. The King (2026 TCC 22)",
+  "citation": "2026 TCC 22",
+  "date": "2026-01-29T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 34646
+ },
+ "tax/0366_2026_TCC_5": {
+  "domain": "tax",
+  "title": "1478873 Ontario Inc. v. The King (2026 TCC 5)",
+  "citation": "2026 TCC 5",
+  "date": "2026-01-26T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 20551
+ },
+ "tax/0367_2026_TCC_16": {
+  "domain": "tax",
+  "title": "Gao v. The King (2026 TCC 16)",
+  "citation": "2026 TCC 16",
+  "date": "2026-01-26T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 77567
+ },
+ "tax/0368_2026_TCC_17": {
+  "domain": "tax",
+  "title": "John Doe v. The King (2026 TCC 17)",
+  "citation": "2026 TCC 17",
+  "date": "2026-01-22T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 81416
+ },
+ "tax/0369_2026_TCC_14": {
+  "domain": "tax",
+  "title": "Tolley v. The King (2026 TCC 14)",
+  "citation": "2026 TCC 14",
+  "date": "2026-01-15T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 18730
+ },
+ "tax/0370_2026_TCC_15": {
+  "domain": "tax",
+  "title": "Cineplex Inc. v. The King (2026 TCC 15)",
+  "citation": "2026 TCC 15",
+  "date": "2026-01-15T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 48017
+ },
+ "tax/0371_2026_TCC_12": {
+  "domain": "tax",
+  "title": "King v. The King (2026 TCC 12)",
+  "citation": "2026 TCC 12",
+  "date": "2026-01-14T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 17377
+ },
+ "tax/0372_2026_TCC_7": {
+  "domain": "tax",
+  "title": "Willowglen Systems Inc. v. The King (2026 TCC 7)",
+  "citation": "2026 TCC 7",
+  "date": "2026-01-09T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 52459
+ },
+ "tax/0373_2026_TCC_4": {
+  "domain": "tax",
+  "title": "Maragos v. The King (2026 TCC 4)",
+  "citation": "2026 TCC 4",
+  "date": "2026-01-07T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 32964
+ },
+ "tax/0374_2026_TCC_3": {
+  "domain": "tax",
+  "title": "Ingredion Canada Corporation v. The King (2026 TCC 3)",
+  "citation": "2026 TCC 3",
+  "date": "2026-01-07T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 45450
+ },
+ "tax/0375_2026_TCC_2": {
+  "domain": "tax",
+  "title": "Premier Fasteners Inc. v. The King (2026 TCC 2)",
+  "citation": "2026 TCC 2",
+  "date": "2026-01-06T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 102953
+ },
+ "tax/0376_2025_TCC_192": {
+  "domain": "tax",
+  "title": "Boylu v. The King (2025 TCC 192)",
+  "citation": "2025 TCC 192",
+  "date": "2025-12-22T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 47331
+ },
+ "tax/0377_2025_TCC_193": {
+  "domain": "tax",
+  "title": "Malik v. The King (2025 TCC 193)",
+  "citation": "2025 TCC 193",
+  "date": "2025-12-22T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 19507
+ },
+ "tax/0378_2025_TCC_196": {
+  "domain": "tax",
+  "title": "Rowe v. The King (2025 TCC 196)",
+  "citation": "2025 TCC 196",
+  "date": "2025-12-22T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 19557
+ },
+ "tax/0379_2025_TCC_191": {
+  "domain": "tax",
+  "title": "Fe Virrey v. The King (2025 TCC 191)",
+  "citation": "2025 TCC 191",
+  "date": "2025-12-18T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 15363
+ },
+ "tax/0380_2025_TCC_190": {
+  "domain": "tax",
+  "title": "Postalong Technology Inc. v. The King (2025 TCC 190)",
+  "citation": "2025 TCC 190",
+  "date": "2025-12-17T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 15923
+ },
+ "tax/0381_2025_TCC_189": {
+  "domain": "tax",
+  "title": "Vibert v. The King (2025 TCC 189)",
+  "citation": "2025 TCC 189",
+  "date": "2025-12-12T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 17202
+ },
+ "tax/0382_2025_TCC_187": {
+  "domain": "tax",
+  "title": "Sharma v. The King (2025 TCC 187)",
+  "citation": "2025 TCC 187",
+  "date": "2025-12-12T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 19577
+ },
+ "tax/0383_2025_TCC_184": {
+  "domain": "tax",
+  "title": "Brown v. The King (2025 TCC 184)",
+  "citation": "2025 TCC 184",
+  "date": "2025-12-11T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 52321
+ },
+ "tax/0384_2025_TCC_186": {
+  "domain": "tax",
+  "title": "Gaitanis v. The King (2025 TCC 186)",
+  "citation": "2025 TCC 186",
+  "date": "2025-12-10T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 23922
+ },
+ "tax/0385_2025_TCC_185": {
+  "domain": "tax",
+  "title": "Amicarelli v. The King (2025 TCC 185)",
+  "citation": "2025 TCC 185",
+  "date": "2025-12-09T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 35619
+ },
+ "tax/0386_2025_TCC_175": {
+  "domain": "tax",
+  "title": "Afdon Contracting Ltd. v. The King (2025 TCC 175)",
+  "citation": "2025 TCC 175",
+  "date": "2025-12-08T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 65391
+ },
+ "tax/0387_2025_TCC_182": {
+  "domain": "tax",
+  "title": "Oram's Enterprises Limited v. The King (2025 TCC 182)",
+  "citation": "2025 TCC 182",
+  "date": "2025-12-08T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 7569
+ },
+ "tax/0388_2025_TCC_183": {
+  "domain": "tax",
+  "title": "Tuna Temple Inc. v. The King (2025 TCC 183)",
+  "citation": "2025 TCC 183",
+  "date": "2025-12-05T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 35070
+ },
+ "tax/0389_2025_TCC_179": {
+  "domain": "tax",
+  "title": "Redpath Sugar Ltd. v. The King (2025 TCC 179)",
+  "citation": "2025 TCC 179",
+  "date": "2025-11-27T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 15156
+ },
+ "tax/0390_2025_TCC_180": {
+  "domain": "tax",
+  "title": "Ojaide v. The King (2025 TCC 180)",
+  "citation": "2025 TCC 180",
+  "date": "2025-11-27T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 24009
+ },
+ "tax/0391_2025_TCC_181": {
+  "domain": "tax",
+  "title": "Saskatchewan v. The King (2025 TCC 181)",
+  "citation": "2025 TCC 181",
+  "date": "2025-11-27T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 21755
+ },
+ "tax/0392_2025_TCC_173": {
+  "domain": "tax",
+  "title": "Éléments Chauffants Tempora Inc. v. The King (2025 TCC 173)",
+  "citation": "2025 TCC 173",
+  "date": "2025-11-20T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 143016
+ },
+ "tax/0393_2025_TCC_171": {
+  "domain": "tax",
+  "title": "Dandees v. The King (2025 TCC 171)",
+  "citation": "2025 TCC 171",
+  "date": "2025-11-19T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 10258
+ },
+ "tax/0394_2025_TCC_172": {
+  "domain": "tax",
+  "title": "Ng v. The King (2025 TCC 172)",
+  "citation": "2025 TCC 172",
+  "date": "2025-11-19T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 14200
+ },
+ "tax/0395_2025_TCC_155": {
+  "domain": "tax",
+  "title": "President's Choice Bank v. The King (2025 TCC 155)",
+  "citation": "2025 TCC 155",
+  "date": "2025-11-13T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 21783
+ },
+ "tax/0396_2025_TCC_167": {
+  "domain": "tax",
+  "title": "Golden View Management Group Inc. v. M.N.R. (2025 TCC 167)",
+  "citation": "2025 TCC 167",
+  "date": "2025-11-13T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 15247
+ },
+ "tax/0397_2025_TCC_168": {
+  "domain": "tax",
+  "title": "Mohamed v. The King (2025 TCC 168)",
+  "citation": "2025 TCC 168",
+  "date": "2025-11-10T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 16540
+ },
+ "tax/0398_2025_TCC_169": {
+  "domain": "tax",
+  "title": "Tanafranca v. The King (2025 TCC 169)",
+  "citation": "2025 TCC 169",
+  "date": "2025-11-10T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 7154
+ },
+ "tax/0399_2025_TCC_165": {
+  "domain": "tax",
+  "title": "Norman v. The King (2025 TCC 165)",
+  "citation": "2025 TCC 165",
+  "date": "2025-11-05T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 9096
+ },
+ "tax/0400_2026_TCC_40": {
+  "domain": "tax",
+  "title": "C & W Offshore Ltd. v. The King (2026 TCC 40)",
+  "citation": "2026 TCC 40",
+  "date": "2026-03-04T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 108021
+ },
+ "tax/0401_2026_TCC_39": {
+  "domain": "tax",
+  "title": "Heritage Square Retirement Living Inc. v. The King (2026 TCC 39)",
+  "citation": "2026 TCC 39",
+  "date": "2026-03-03T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 14083
+ },
+ "tax/0402_2026_TCC_38": {
+  "domain": "tax",
+  "title": "Twisted Leaves Ltd. v. The King (2026 TCC 38)",
+  "citation": "2026 TCC 38",
+  "date": "2026-02-25T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 19290
+ },
+ "tax/0403_2026_TCC_26": {
+  "domain": "tax",
+  "title": "Alarakhia v. The King (2026 TCC 26)",
+  "citation": "2026 TCC 26",
+  "date": "2026-02-25T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 14373
+ },
+ "tax/0404_2026_TCC_37": {
+  "domain": "tax",
+  "title": "Ratti v. The King (2026 TCC 37)",
+  "citation": "2026 TCC 37",
+  "date": "2026-02-23T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 37176
+ },
+ "tax/0405_2026_TCC_32": {
+  "domain": "tax",
+  "title": "Alberta Peloton Association v. The King (2026 TCC 32)",
+  "citation": "2026 TCC 32",
+  "date": "2026-02-18T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 21985
+ },
+ "tax/0406_2026_TCC_36": {
+  "domain": "tax",
+  "title": "Culig v. The King (2026 TCC 36)",
+  "citation": "2026 TCC 36",
+  "date": "2026-02-18T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 20739
+ },
+ "tax/0407_2026_TCC_33": {
+  "domain": "tax",
+  "title": "Patel v. The King (2026 TCC 33)",
+  "citation": "2026 TCC 33",
+  "date": "2026-02-17T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 33297
+ },
+ "tax/0408_2026_TCC_31": {
+  "domain": "tax",
+  "title": "Opheim v. The King (2026 TCC 31)",
+  "citation": "2026 TCC 31",
+  "date": "2026-02-16T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 58259
+ },
+ "tax/0409_2026_TCC_30": {
+  "domain": "tax",
+  "title": "Salehi v. The King (2026 TCC 30)",
+  "citation": "2026 TCC 30",
+  "date": "2026-02-12T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 27605
+ },
+ "tax/0410_2026_TCC_28": {
+  "domain": "tax",
+  "title": "Talukdar v. The King (2026 TCC 28)",
+  "citation": "2026 TCC 28",
+  "date": "2026-02-10T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 26216
+ },
+ "tax/0411_2026_TCC_23": {
+  "domain": "tax",
+  "title": "Ginevro v. The King (2026 TCC 23)",
+  "citation": "2026 TCC 23",
+  "date": "2026-02-02T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 25513
+ },
+ "tax/0412_2026_TCC_27": {
+  "domain": "tax",
+  "title": "Caddell v. The King (2026 TCC 27)",
+  "citation": "2026 TCC 27",
+  "date": "2026-02-02T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 40711
+ },
+ "tax/0413_2026_TCC_18": {
+  "domain": "tax",
+  "title": "Gill v. The King (2026 TCC 18)",
+  "citation": "2026 TCC 18",
+  "date": "2026-01-30T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 22789
+ },
+ "tax/0414_2026_TCC_21": {
+  "domain": "tax",
+  "title": "Opheim v. The King (2026 TCC 21)",
+  "citation": "2026 TCC 21",
+  "date": "2026-01-30T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 32947
+ },
+ "tax/0415_2026_TCC_22": {
+  "domain": "tax",
+  "title": "Marleau v. The King (2026 TCC 22)",
+  "citation": "2026 TCC 22",
+  "date": "2026-01-29T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 34646
+ },
+ "tax/0416_2026_TCC_5": {
+  "domain": "tax",
+  "title": "1478873 Ontario Inc. v. The King (2026 TCC 5)",
+  "citation": "2026 TCC 5",
+  "date": "2026-01-26T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 20551
+ },
+ "tax/0417_2026_TCC_16": {
+  "domain": "tax",
+  "title": "Gao v. The King (2026 TCC 16)",
+  "citation": "2026 TCC 16",
+  "date": "2026-01-26T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 77567
+ },
+ "tax/0418_2026_TCC_17": {
+  "domain": "tax",
+  "title": "John Doe v. The King (2026 TCC 17)",
+  "citation": "2026 TCC 17",
+  "date": "2026-01-22T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 81416
+ },
+ "tax/0419_2026_TCC_14": {
+  "domain": "tax",
+  "title": "Tolley v. The King (2026 TCC 14)",
+  "citation": "2026 TCC 14",
+  "date": "2026-01-15T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 18730
+ },
+ "tax/0420_2026_TCC_15": {
+  "domain": "tax",
+  "title": "Cineplex Inc. v. The King (2026 TCC 15)",
+  "citation": "2026 TCC 15",
+  "date": "2026-01-15T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 48017
+ },
+ "tax/0421_2026_TCC_12": {
+  "domain": "tax",
+  "title": "King v. The King (2026 TCC 12)",
+  "citation": "2026 TCC 12",
+  "date": "2026-01-14T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 17377
+ },
+ "tax/0422_2026_TCC_7": {
+  "domain": "tax",
+  "title": "Willowglen Systems Inc. v. The King (2026 TCC 7)",
+  "citation": "2026 TCC 7",
+  "date": "2026-01-09T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 52459
+ },
+ "tax/0423_2026_TCC_4": {
+  "domain": "tax",
+  "title": "Maragos v. The King (2026 TCC 4)",
+  "citation": "2026 TCC 4",
+  "date": "2026-01-07T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 32964
+ },
+ "tax/0424_2026_TCC_3": {
+  "domain": "tax",
+  "title": "Ingredion Canada Corporation v. The King (2026 TCC 3)",
+  "citation": "2026 TCC 3",
+  "date": "2026-01-07T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 45450
+ },
+ "tax/0425_2026_TCC_2": {
+  "domain": "tax",
+  "title": "Premier Fasteners Inc. v. The King (2026 TCC 2)",
+  "citation": "2026 TCC 2",
+  "date": "2026-01-06T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 102953
+ },
+ "tax/0426_2025_TCC_192": {
+  "domain": "tax",
+  "title": "Boylu v. The King (2025 TCC 192)",
+  "citation": "2025 TCC 192",
+  "date": "2025-12-22T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 47331
+ },
+ "tax/0427_2025_TCC_193": {
+  "domain": "tax",
+  "title": "Malik v. The King (2025 TCC 193)",
+  "citation": "2025 TCC 193",
+  "date": "2025-12-22T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 19507
+ },
+ "tax/0428_2025_TCC_196": {
+  "domain": "tax",
+  "title": "Rowe v. The King (2025 TCC 196)",
+  "citation": "2025 TCC 196",
+  "date": "2025-12-22T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 19557
+ },
+ "tax/0429_2025_TCC_191": {
+  "domain": "tax",
+  "title": "Fe Virrey v. The King (2025 TCC 191)",
+  "citation": "2025 TCC 191",
+  "date": "2025-12-18T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 15363
+ },
+ "tax/0430_2025_TCC_190": {
+  "domain": "tax",
+  "title": "Postalong Technology Inc. v. The King (2025 TCC 190)",
+  "citation": "2025 TCC 190",
+  "date": "2025-12-17T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 15923
+ },
+ "tax/0431_2025_TCC_189": {
+  "domain": "tax",
+  "title": "Vibert v. The King (2025 TCC 189)",
+  "citation": "2025 TCC 189",
+  "date": "2025-12-12T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 17202
+ },
+ "tax/0432_2025_TCC_187": {
+  "domain": "tax",
+  "title": "Sharma v. The King (2025 TCC 187)",
+  "citation": "2025 TCC 187",
+  "date": "2025-12-12T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 19577
+ },
+ "tax/0433_2025_TCC_184": {
+  "domain": "tax",
+  "title": "Brown v. The King (2025 TCC 184)",
+  "citation": "2025 TCC 184",
+  "date": "2025-12-11T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 52321
+ },
+ "tax/0434_2025_TCC_186": {
+  "domain": "tax",
+  "title": "Gaitanis v. The King (2025 TCC 186)",
+  "citation": "2025 TCC 186",
+  "date": "2025-12-10T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 23922
+ },
+ "tax/0435_2025_TCC_185": {
+  "domain": "tax",
+  "title": "Amicarelli v. The King (2025 TCC 185)",
+  "citation": "2025 TCC 185",
+  "date": "2025-12-09T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 35619
+ },
+ "tax/0436_2025_TCC_175": {
+  "domain": "tax",
+  "title": "Afdon Contracting Ltd. v. The King (2025 TCC 175)",
+  "citation": "2025 TCC 175",
+  "date": "2025-12-08T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 65391
+ },
+ "tax/0437_2025_TCC_182": {
+  "domain": "tax",
+  "title": "Oram's Enterprises Limited v. The King (2025 TCC 182)",
+  "citation": "2025 TCC 182",
+  "date": "2025-12-08T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 7569
+ },
+ "tax/0438_2025_TCC_183": {
+  "domain": "tax",
+  "title": "Tuna Temple Inc. v. The King (2025 TCC 183)",
+  "citation": "2025 TCC 183",
+  "date": "2025-12-05T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 35070
+ },
+ "tax/0439_2025_TCC_179": {
+  "domain": "tax",
+  "title": "Redpath Sugar Ltd. v. The King (2025 TCC 179)",
+  "citation": "2025 TCC 179",
+  "date": "2025-11-27T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 15156
+ },
+ "tax/0440_2025_TCC_180": {
+  "domain": "tax",
+  "title": "Ojaide v. The King (2025 TCC 180)",
+  "citation": "2025 TCC 180",
+  "date": "2025-11-27T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 24009
+ },
+ "tax/0441_2025_TCC_181": {
+  "domain": "tax",
+  "title": "Saskatchewan v. The King (2025 TCC 181)",
+  "citation": "2025 TCC 181",
+  "date": "2025-11-27T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 21755
+ },
+ "tax/0442_2025_TCC_173": {
+  "domain": "tax",
+  "title": "Éléments Chauffants Tempora Inc. v. The King (2025 TCC 173)",
+  "citation": "2025 TCC 173",
+  "date": "2025-11-20T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 143016
+ },
+ "tax/0443_2025_TCC_171": {
+  "domain": "tax",
+  "title": "Dandees v. The King (2025 TCC 171)",
+  "citation": "2025 TCC 171",
+  "date": "2025-11-19T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 10258
+ },
+ "tax/0444_2025_TCC_172": {
+  "domain": "tax",
+  "title": "Ng v. The King (2025 TCC 172)",
+  "citation": "2025 TCC 172",
+  "date": "2025-11-19T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 14200
+ },
+ "tax/0445_2025_TCC_155": {
+  "domain": "tax",
+  "title": "President's Choice Bank v. The King (2025 TCC 155)",
+  "citation": "2025 TCC 155",
+  "date": "2025-11-13T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 21783
+ },
+ "tax/0446_2025_TCC_167": {
+  "domain": "tax",
+  "title": "Golden View Management Group Inc. v. M.N.R. (2025 TCC 167)",
+  "citation": "2025 TCC 167",
+  "date": "2025-11-13T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 15247
+ },
+ "tax/0447_2025_TCC_168": {
+  "domain": "tax",
+  "title": "Mohamed v. The King (2025 TCC 168)",
+  "citation": "2025 TCC 168",
+  "date": "2025-11-10T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 16540
+ },
+ "tax/0448_2025_TCC_169": {
+  "domain": "tax",
+  "title": "Tanafranca v. The King (2025 TCC 169)",
+  "citation": "2025 TCC 169",
+  "date": "2025-11-10T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 7154
+ },
+ "tax/0449_2025_TCC_165": {
+  "domain": "tax",
+  "title": "Norman v. The King (2025 TCC 165)",
+  "citation": "2025 TCC 165",
+  "date": "2025-11-05T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 9096
+ },
+ "tax/0450_2026_TCC_40": {
+  "domain": "tax",
+  "title": "C & W Offshore Ltd. v. The King (2026 TCC 40)",
+  "citation": "2026 TCC 40",
+  "date": "2026-03-04T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 108021
+ },
+ "tax/0451_2026_TCC_39": {
+  "domain": "tax",
+  "title": "Heritage Square Retirement Living Inc. v. The King (2026 TCC 39)",
+  "citation": "2026 TCC 39",
+  "date": "2026-03-03T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 14083
+ },
+ "tax/0452_2026_TCC_38": {
+  "domain": "tax",
+  "title": "Twisted Leaves Ltd. v. The King (2026 TCC 38)",
+  "citation": "2026 TCC 38",
+  "date": "2026-02-25T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 19290
+ },
+ "tax/0453_2026_TCC_26": {
+  "domain": "tax",
+  "title": "Alarakhia v. The King (2026 TCC 26)",
+  "citation": "2026 TCC 26",
+  "date": "2026-02-25T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 14373
+ },
+ "tax/0454_2026_TCC_37": {
+  "domain": "tax",
+  "title": "Ratti v. The King (2026 TCC 37)",
+  "citation": "2026 TCC 37",
+  "date": "2026-02-23T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 37176
+ },
+ "tax/0455_2026_TCC_32": {
+  "domain": "tax",
+  "title": "Alberta Peloton Association v. The King (2026 TCC 32)",
+  "citation": "2026 TCC 32",
+  "date": "2026-02-18T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 21985
+ },
+ "tax/0456_2026_TCC_36": {
+  "domain": "tax",
+  "title": "Culig v. The King (2026 TCC 36)",
+  "citation": "2026 TCC 36",
+  "date": "2026-02-18T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 20739
+ },
+ "tax/0457_2026_TCC_33": {
+  "domain": "tax",
+  "title": "Patel v. The King (2026 TCC 33)",
+  "citation": "2026 TCC 33",
+  "date": "2026-02-17T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 33297
+ },
+ "tax/0458_2026_TCC_31": {
+  "domain": "tax",
+  "title": "Opheim v. The King (2026 TCC 31)",
+  "citation": "2026 TCC 31",
+  "date": "2026-02-16T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 58259
+ },
+ "tax/0459_2026_TCC_30": {
+  "domain": "tax",
+  "title": "Salehi v. The King (2026 TCC 30)",
+  "citation": "2026 TCC 30",
+  "date": "2026-02-12T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 27605
+ },
+ "tax/0460_2026_TCC_28": {
+  "domain": "tax",
+  "title": "Talukdar v. The King (2026 TCC 28)",
+  "citation": "2026 TCC 28",
+  "date": "2026-02-10T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 26216
+ },
+ "tax/0461_2026_TCC_23": {
+  "domain": "tax",
+  "title": "Ginevro v. The King (2026 TCC 23)",
+  "citation": "2026 TCC 23",
+  "date": "2026-02-02T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 25513
+ },
+ "tax/0462_2026_TCC_27": {
+  "domain": "tax",
+  "title": "Caddell v. The King (2026 TCC 27)",
+  "citation": "2026 TCC 27",
+  "date": "2026-02-02T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 40711
+ },
+ "tax/0463_2026_TCC_18": {
+  "domain": "tax",
+  "title": "Gill v. The King (2026 TCC 18)",
+  "citation": "2026 TCC 18",
+  "date": "2026-01-30T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 22789
+ },
+ "tax/0464_2026_TCC_21": {
+  "domain": "tax",
+  "title": "Opheim v. The King (2026 TCC 21)",
+  "citation": "2026 TCC 21",
+  "date": "2026-01-30T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 32947
+ },
+ "tax/0465_2026_TCC_22": {
+  "domain": "tax",
+  "title": "Marleau v. The King (2026 TCC 22)",
+  "citation": "2026 TCC 22",
+  "date": "2026-01-29T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 34646
+ },
+ "tax/0466_2026_TCC_5": {
+  "domain": "tax",
+  "title": "1478873 Ontario Inc. v. The King (2026 TCC 5)",
+  "citation": "2026 TCC 5",
+  "date": "2026-01-26T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 20551
+ },
+ "tax/0467_2026_TCC_16": {
+  "domain": "tax",
+  "title": "Gao v. The King (2026 TCC 16)",
+  "citation": "2026 TCC 16",
+  "date": "2026-01-26T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 77567
+ },
+ "tax/0468_2026_TCC_17": {
+  "domain": "tax",
+  "title": "John Doe v. The King (2026 TCC 17)",
+  "citation": "2026 TCC 17",
+  "date": "2026-01-22T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 81416
+ },
+ "tax/0469_2026_TCC_14": {
+  "domain": "tax",
+  "title": "Tolley v. The King (2026 TCC 14)",
+  "citation": "2026 TCC 14",
+  "date": "2026-01-15T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 18730
+ },
+ "tax/0470_2026_TCC_15": {
+  "domain": "tax",
+  "title": "Cineplex Inc. v. The King (2026 TCC 15)",
+  "citation": "2026 TCC 15",
+  "date": "2026-01-15T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 48017
+ },
+ "tax/0471_2026_TCC_12": {
+  "domain": "tax",
+  "title": "King v. The King (2026 TCC 12)",
+  "citation": "2026 TCC 12",
+  "date": "2026-01-14T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 17377
+ },
+ "tax/0472_2026_TCC_7": {
+  "domain": "tax",
+  "title": "Willowglen Systems Inc. v. The King (2026 TCC 7)",
+  "citation": "2026 TCC 7",
+  "date": "2026-01-09T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 52459
+ },
+ "tax/0473_2026_TCC_4": {
+  "domain": "tax",
+  "title": "Maragos v. The King (2026 TCC 4)",
+  "citation": "2026 TCC 4",
+  "date": "2026-01-07T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 32964
+ },
+ "tax/0474_2026_TCC_3": {
+  "domain": "tax",
+  "title": "Ingredion Canada Corporation v. The King (2026 TCC 3)",
+  "citation": "2026 TCC 3",
+  "date": "2026-01-07T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 45450
+ },
+ "tax/0475_2026_TCC_2": {
+  "domain": "tax",
+  "title": "Premier Fasteners Inc. v. The King (2026 TCC 2)",
+  "citation": "2026 TCC 2",
+  "date": "2026-01-06T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 102953
+ },
+ "tax/0476_2025_TCC_192": {
+  "domain": "tax",
+  "title": "Boylu v. The King (2025 TCC 192)",
+  "citation": "2025 TCC 192",
+  "date": "2025-12-22T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 47331
+ },
+ "tax/0477_2025_TCC_193": {
+  "domain": "tax",
+  "title": "Malik v. The King (2025 TCC 193)",
+  "citation": "2025 TCC 193",
+  "date": "2025-12-22T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 19507
+ },
+ "tax/0478_2025_TCC_196": {
+  "domain": "tax",
+  "title": "Rowe v. The King (2025 TCC 196)",
+  "citation": "2025 TCC 196",
+  "date": "2025-12-22T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 19557
+ },
+ "tax/0479_2025_TCC_191": {
+  "domain": "tax",
+  "title": "Fe Virrey v. The King (2025 TCC 191)",
+  "citation": "2025 TCC 191",
+  "date": "2025-12-18T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 15363
+ },
+ "tax/0480_2025_TCC_190": {
+  "domain": "tax",
+  "title": "Postalong Technology Inc. v. The King (2025 TCC 190)",
+  "citation": "2025 TCC 190",
+  "date": "2025-12-17T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 15923
+ },
+ "tax/0481_2025_TCC_189": {
+  "domain": "tax",
+  "title": "Vibert v. The King (2025 TCC 189)",
+  "citation": "2025 TCC 189",
+  "date": "2025-12-12T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 17202
+ },
+ "tax/0482_2025_TCC_187": {
+  "domain": "tax",
+  "title": "Sharma v. The King (2025 TCC 187)",
+  "citation": "2025 TCC 187",
+  "date": "2025-12-12T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 19577
+ },
+ "tax/0483_2025_TCC_184": {
+  "domain": "tax",
+  "title": "Brown v. The King (2025 TCC 184)",
+  "citation": "2025 TCC 184",
+  "date": "2025-12-11T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 52321
+ },
+ "tax/0484_2025_TCC_186": {
+  "domain": "tax",
+  "title": "Gaitanis v. The King (2025 TCC 186)",
+  "citation": "2025 TCC 186",
+  "date": "2025-12-10T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 23922
+ },
+ "tax/0485_2025_TCC_185": {
+  "domain": "tax",
+  "title": "Amicarelli v. The King (2025 TCC 185)",
+  "citation": "2025 TCC 185",
+  "date": "2025-12-09T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 35619
+ },
+ "tax/0486_2025_TCC_175": {
+  "domain": "tax",
+  "title": "Afdon Contracting Ltd. v. The King (2025 TCC 175)",
+  "citation": "2025 TCC 175",
+  "date": "2025-12-08T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 65391
+ },
+ "tax/0487_2025_TCC_182": {
+  "domain": "tax",
+  "title": "Oram's Enterprises Limited v. The King (2025 TCC 182)",
+  "citation": "2025 TCC 182",
+  "date": "2025-12-08T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 7569
+ },
+ "tax/0488_2025_TCC_183": {
+  "domain": "tax",
+  "title": "Tuna Temple Inc. v. The King (2025 TCC 183)",
+  "citation": "2025 TCC 183",
+  "date": "2025-12-05T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 35070
+ },
+ "tax/0489_2025_TCC_179": {
+  "domain": "tax",
+  "title": "Redpath Sugar Ltd. v. The King (2025 TCC 179)",
+  "citation": "2025 TCC 179",
+  "date": "2025-11-27T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 15156
+ },
+ "tax/0490_2025_TCC_180": {
+  "domain": "tax",
+  "title": "Ojaide v. The King (2025 TCC 180)",
+  "citation": "2025 TCC 180",
+  "date": "2025-11-27T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 24009
+ },
+ "tax/0491_2025_TCC_181": {
+  "domain": "tax",
+  "title": "Saskatchewan v. The King (2025 TCC 181)",
+  "citation": "2025 TCC 181",
+  "date": "2025-11-27T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 21755
+ },
+ "tax/0492_2025_TCC_173": {
+  "domain": "tax",
+  "title": "Éléments Chauffants Tempora Inc. v. The King (2025 TCC 173)",
+  "citation": "2025 TCC 173",
+  "date": "2025-11-20T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 143016
+ },
+ "tax/0493_2025_TCC_171": {
+  "domain": "tax",
+  "title": "Dandees v. The King (2025 TCC 171)",
+  "citation": "2025 TCC 171",
+  "date": "2025-11-19T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 10258
+ },
+ "tax/0494_2025_TCC_172": {
+  "domain": "tax",
+  "title": "Ng v. The King (2025 TCC 172)",
+  "citation": "2025 TCC 172",
+  "date": "2025-11-19T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 14200
+ },
+ "tax/0495_2025_TCC_155": {
+  "domain": "tax",
+  "title": "President's Choice Bank v. The King (2025 TCC 155)",
+  "citation": "2025 TCC 155",
+  "date": "2025-11-13T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 21783
+ },
+ "tax/0496_2025_TCC_167": {
+  "domain": "tax",
+  "title": "Golden View Management Group Inc. v. M.N.R. (2025 TCC 167)",
+  "citation": "2025 TCC 167",
+  "date": "2025-11-13T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 15247
+ },
+ "tax/0497_2025_TCC_168": {
+  "domain": "tax",
+  "title": "Mohamed v. The King (2025 TCC 168)",
+  "citation": "2025 TCC 168",
+  "date": "2025-11-10T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 16540
+ },
+ "tax/0498_2025_TCC_169": {
+  "domain": "tax",
+  "title": "Tanafranca v. The King (2025 TCC 169)",
+  "citation": "2025 TCC 169",
+  "date": "2025-11-10T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 7154
+ },
+ "tax/0499_2025_TCC_165": {
+  "domain": "tax",
+  "title": "Norman v. The King (2025 TCC 165)",
+  "citation": "2025 TCC 165",
+  "date": "2025-11-05T00:00:00+00:00",
+  "court": "Tax Court of Canada",
+  "chars": 9096
+ }
+}

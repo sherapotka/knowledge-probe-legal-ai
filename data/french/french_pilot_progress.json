@@ -1,0 +1,1928 @@
+{
+ "processed_keys": [
+  "475242",
+  "494209",
+  "466953",
+  "494929",
+  "469216",
+  "491574",
+  "465575",
+  "490712",
+  "449049",
+  "465963",
+  "470721",
+  "490611",
+  "467542",
+  "467541",
+  "471257",
+  "469910",
+  "474699",
+  "472202",
+  "467544",
+  "469128"
+ ],
+ "results": [
+  {
+   "case_key": "465575",
+   "domain": "tax",
+   "ground_truth": {
+    "core_legal_issue": "whether the applicant's photographs qualify as 'œuvres d'art' eligible for the reduced VAT rate of 5.5%",
+    "legal_test_name": "article L. 80 A du livre des procédures fiscales",
+    "legal_test_source": "livre des procédures fiscales",
+    "key_statutes": [
+     "article 278 septies du code général des impôts",
+     "article 98 A de l'annexe III au code général des impôts",
+     "article L. 80 A du livre des procédures fiscales",
+     "article L. 821-2 du code de justice administrative",
+     "article 278-0 bis du code général des impôts"
+    ],
+    "key_cases_cited": [],
+    "court": "Conseil d'État",
+    "outcome": "the applicant's request for a reduced VAT rate is rejected",
+    "legal_domain": "fiscal"
+   },
+   "probes": [
+    {
+     "type": "legal_test",
+     "question": "En droit administratif français, quel est le test juridique applicable pour whether the applicant's photographs qualify as 'œuvres d'art' eligible for the reduced VAT rate of 5.5% ? Nommez le test, ses éléments, et la jurisprudence de référence.",
+     "blind_answer": "En droit administratif français, le test applicable pour déterminer si les photographies du demandeur constituent des \"œuvres d'art\" éligibles au taux réduit de TVA de 5,5 % est le test de l'arrêt \"Mercier\" (CE, 28 mai 1986, Mercier, n° 54.434).\n\nSelon cet arrêt, pour qu'une œuvre soit considérée comme une \"œuvre d'art\", elle doit répondre à deux conditions cumulatives :\n\n1. L'œuvre doit être l'expression d'une création originale de l'auteur, c'est-à-dire qu'elle doit présenter une certaine originalité et une certaine qualité artistique.\n2. L'œuvre doit être réalisée dans un but artistique, c'est-à-dire qu'elle doit avoir pour objet de créer une œuvre d'art et non pas simplement de répondre à un besoin utilitaire.\n\nLa jurisprudence a également précisé que le test de l'arrêt \"Mercier\" doit être appliqué de manière concrète et nuancée, en tenant compte des spécificités de chaque cas d'espèce (CE, 22 juin 2011, Société Pierre Bergé, n° 304.851).\n\nEn outre, l'article 278 bis du code général des impôts (CGI) précise que les \"œuvres d'art\" éligibles au taux réduit de TVA de 5,5 % sont celles qui sont \"créées par l'artiste lui-même ou sous sa direction\".\n\nEn résumé, pour déterminer si les photographies du demandeur constituent des \"œuvres d'art\" éligibles au taux réduit de TVA de 5,5 %, il convient d'appliquer le test de l'arrêt \"Mercier\" et de vérifier si les photographies répondent aux deux conditions cumulatives précitées, en tenant compte des spécificités de chaque cas d'espèce et des dispositions de l'article 278 bis du CGI.",
+     "scores": {
+      "correct_test": {
+       "score": 2,
+       "reason": "Incorrect test identified, should be article L. 80 A du livre des procédures fiscales"
+      },
+      "correct_citations": {
+       "score": 4,
+       "reason": "Relevant cases cited, but not directly related to the specific statutes mentioned in the ground truth"
+      },
+      "correct_statute": {
+       "score": 2,
+       "reason": "Incorrect statute mentioned, should include article 278 septies du code général des impôts and others"
+      },
+      "specificity": {
+       "score": 5,
+       "reason": "Detailed explanation of the test and its application"
+      },
+      "admitted_uncertainty": "no"
+     }
+    },
+    {
+     "type": "statute",
+     "question": "Que prévoit article 278 septies du code général des impôts en droit français ? Expliquez son objet et la manière dont le Conseil d'État l'applique.",
+     "blind_answer": "L'article 278 septies du code général des impôts (CGI) prévoit une exonération de la taxe sur la valeur ajoutée (TVA) pour certaines opérations. Plus précisément, cet article exonère de la TVA les livraisons de biens et les prestations de services qui sont réalisées dans le cadre de certaines activités, telles que les soins médicaux, les activités d'enseignement et les opérations de recherche scientifique.\n\nL'objet de cet article est de dispenser de la TVA les opérations qui sont considérées comme étant d'intérêt général ou qui contribuent à la réalisation d'objectifs sociaux ou culturels. Le Conseil d'État, dans sa jurisprudence, a précisé les conditions d'application de cet article, notamment dans l'arrêt \"Société de gestion de l'Institut Curie\" (CE, 10 octobre 2012, n° 335522), qui a établi que l'exonération prévue à l'article 278 septies du CGI s'applique aux opérations qui sont réalisées dans le cadre d'activités de recherche scientifique et médicale.\n\nLe Conseil d'État applique également le test de l'\"activité économique\" pour déterminer si une opération est exonérée de la TVA en vertu de l'article 278 septies du CGI. Ce test, qui est inspiré de la jurisprudence de la Cour de justice de l'Union européenne (CJUE), vise à déterminer si l'opération en question est réalisée dans le cadre d'une activité économique, au sens de l'article 9 de la directive 2006/112/CE du Conseil du 28 novembre 2006 relative au système commun de taxe sur la valeur ajoutée.\n\nEn résumé, l'article 278 septies du CGI prévoit une exonération de la TVA pour certaines opérations, et le Conseil d'État applique cet article en tenant compte des conditions d'application et du test de l'activité économique, comme établi dans la jurisprudence \"Société de gestion de l'Institut Curie\" et dans le cadre de la directive 2006/112/CE.",
+     "scores": {
+      "correct_test": {
+       "score": 4,
+       "reason": "The answer mentions the test of 'activité économique' but does not explicitly link it to the correct legal test in the provided ground truth."
+      },
+      "correct_citations": {
+       "score": 2,
+       "reason": "The answer cites a specific case ('Société de gestion de l'Institut Curie') but it is not verified if this case is real and relevant to the article 278 septies du code général des impôts."
+      },
+      "correct_statute": {
+       "score": 5,
+       "reason": "The answer correctly identifies the article 278 septies du code général des impôts as the relevant statute."
+      },
+      "specificity": {
+       "score": 4,
+       "reason": "The answer provides specific details about the exonération de la TVA but lacks direct connection to the ground truth provided."
+      },
+      "admitted_uncertainty": "no"
+     }
+    },
+    {
+     "type": "procedural",
+     "question": "Quel est le contrôle exercé par le Conseil d'État en cassation sur les décisions des cours administratives d'appel en matière de fiscal ? Citez la jurisprudence applicable.",
+     "blind_answer": "Le Conseil d'État exerce un contrôle en cassation sur les décisions des cours administratives d'appel en matière de fiscalité, en vertu de l'article L. 821-1 du code de justice administrative. Ce contrôle porte sur la régularité de la procédure et sur l'interprétation des règles de droit applicables.\n\nEn matière de fiscalité, le Conseil d'État applique notamment le principe de l'interprétation stricte des textes fiscaux, comme énoncé dans l'arrêt \"Ministre du Budget c/ Sieur X...\" du 28 novembre 1962 (Rec. p. 552). Il vérifie également si les cours administratives d'appel ont commis une erreur de droit ou une erreur d'appréciation des faits, comme dans l'arrêt \"Société anonyme des Établissements Kuhlmann\" du 13 juillet 1966 (Rec. p. 373).\n\nLe Conseil d'État peut également appliquer le test de la \"erreur manifeste d'appréciation\" pour contrôler les décisions des cours administratives d'appel, comme dans l'arrêt \"Ministre de l'Économie et des Finances c/ Société anonyme des Établissements Brunner\" du 15 mai 1974 (Rec. p. 241).\n\nEn résumé, le contrôle exercé par le Conseil d'État en cassation sur les décisions des cours administratives d'appel en matière de fiscalité est un contrôle de régularité et d'interprétation des règles de droit, qui vise à garantir que les décisions rendues soient conformes aux principes et aux règles du droit fiscal.",
+     "scores": {
+      "correct_test": {
+       "score": 2,
+       "reason": "Incorrect legal test identified, as the correct test is article L. 80 A du livre des procédures fiscales, not article L. 821-1 du code de justice administrative"
+      },
+      "correct_citations": {
+       "score": 1,
+       "reason": "Hallucinated cases cited, as the provided cases are not real or relevant"
+      },
+      "correct_statute": {
+       "score": 1,
+       "reason": "Incorrect statute/section cited, as the correct statutes are listed in the ground truth, including article L. 80 A du livre des procédures fiscales"
+      },
+      "specificity": {
+       "score": 4,
+       "reason": "The answer provides specific and detailed information, but it is based on incorrect assumptions"
+      },
+      "admitted_uncertainty": "no"
+     }
+    }
+   ]
+  },
+  {
+   "case_key": "465963",
+   "domain": "tax",
+   "ground_truth": {
+    "core_legal_issue": "Whether a company can be considered the 'author' of a work of art for the purpose of applying the margin scheme under VAT law",
+    "legal_test_name": "Interpretation of Article 316 of the Directive 2006/112/CE",
+    "legal_test_source": "Directive 2006/112/CE",
+    "key_statutes": [
+     "Article 311 de la directive 2006/112/CE",
+     "Article 316 de la directive 2006/112/CE",
+     "Article 297 A du code général des impôts",
+     "Article 297 B du code général des impôts",
+     "Article 278-0 bis du code général des impôts",
+     "Article 278 septies du code général des impôts"
+    ],
+    "key_cases_cited": [],
+    "court": "Conseil d'État",
+    "outcome": "The case is referred to the Court of Justice of the European Union for a preliminary ruling",
+    "legal_domain": "fiscal"
+   },
+   "probes": [
+    {
+     "type": "legal_test",
+     "question": "En droit administratif français, quel est le test juridique applicable pour Whether a company can be considered the 'author' of a work of art for the purpose of applying the margin scheme under VAT law ? Nommez le test, ses éléments, et la jurisprudence de référence.",
+     "blind_answer": "En droit administratif français, le test applicable pour déterminer si une entreprise peut être considérée comme l'auteur d'une œuvre d'art aux fins de l'application du régime de la marge dans le droit de la TVA est le test de l'\"auteur réel\" ou de l'\"auteur économique\".\n\nCe test a été développé par la jurisprudence de la Cour de justice de l'Union européenne (CJUE) et de la Cour administrative d'appel de France. Selon ce test, l'auteur d'une œuvre d'art est la personne qui a créé l'œuvre, mais également celle qui a pris les risques économiques liés à la création et à la commercialisation de l'œuvre.\n\nLes éléments à prendre en compte pour appliquer ce test sont :\n\n1. La création de l'œuvre : qui a conçu et réalisé l'œuvre ?\n2. Les risques économiques : qui a pris les risques liés à la création et à la commercialisation de l'œuvre ?\n3. La maîtrise de l'œuvre : qui a le contrôle sur l'œuvre et ses droits ?\n\nLa jurisprudence de référence est notamment l'arrêt de la CJUE dans l'affaire \"Staatssecretaris van Financiën contre Fonds voor de scheppende toonkunst\" (C-35/05), qui a établi que l'auteur d'une œuvre d'art est la personne qui a créé l'œuvre et qui a pris les risques économiques liés à sa création et à sa commercialisation.\n\nEn droit français, la Cour administrative d'appel de Paris a également appliqué ce test dans l'arrêt \"Société X contre Ministre du Budget\" (n° 10PA03135), qui a confirmé que l'auteur d'une œuvre d'art est la personne qui a créé l'œuvre et qui a pris les risques économiques liés à sa création et à sa commercialisation.\n\nIl convient de noter que le code général des impôts (CGI) et le code de la TVA ne définissent pas explicitement le terme \"auteur\" pour les besoins de l'application du régime de la marge. Cependant, la jurisprudence et la doctrine administrative ont développé ce test pour déterminer qui peut être considéré comme l'auteur d'une œuvre d'art aux fins de la TVA.",
+     "scores": {
+      "correct_test": {
+       "score": 2,
+       "reason": "Incorrect test identified, the correct test is the interpretation of Article 316 of the Directive 2006/112/CE"
+      },
+      "correct_citations": {
+       "score": 1,
+       "reason": "Hallucinated cases, no real or relevant cases cited"
+      },
+      "correct_statute": {
+       "score": 1,
+       "reason": "Incorrect statutes, the correct statutes are Article 311 de la directive 2006/112/CE, Article 316 de la directive 2006/112/CE, Article 297 A du code général des impôts, Article 297 B du code général des impôts, Article 278-0 bis du code général des impôts, Article 278 septies du code général des impôts"
+      },
+      "specificity": {
+       "score": 4,
+       "reason": "The answer provides specific and detailed elements to consider for the test, but not the correct test"
+      },
+      "admitted_uncertainty": "no"
+     }
+    },
+    {
+     "type": "statute",
+     "question": "Que prévoit Article 311 de la directive 2006/112/CE en droit français ? Expliquez son objet et la manière dont le Conseil d'État l'applique.",
+     "blind_answer": "L'article 311 de la directive 2006/112/CE concerne les exonérations de la taxe sur la valeur ajoutée (TVA) pour les opérations de livraison de biens et de prestation de services qui sont considérées comme étant d'intérêt général ou d'utilité publique. \n\nEn droit français, cet article est transposé dans le code général des impôts, notamment aux articles 261 et suivants. L'article 261 du code général des impôts prévoit que sont exonérées de TVA les opérations qui sont considérées comme étant d'intérêt général ou d'utilité publique, telles que les activités de santé, d'enseignement, de recherche scientifique, etc.\n\nLe Conseil d'État a eu l'occasion de se prononcer sur l'application de cet article dans plusieurs arrêts, notamment dans l'arrêt \"Société Arcelor\" du 13 juillet 2007 (n° 288142), où il a précisé que l'exonération de TVA prévue à l'article 261 du code général des impôts doit être interprétée de manière stricte et en conformité avec les dispositions de la directive 2006/112/CE.\n\nEn outre, le Conseil d'État a également appliqué le test de l'\"opérateur économique\" pour déterminer si une activité est exonérée de TVA en vertu de l'article 261 du code général des impôts. Ce test, inspiré de la jurisprudence de la Cour de justice de l'Union européenne (CJUE), notamment dans l'arrêt \"Fleming\" du 12 septembre 2006 (C-278/02), permet de déterminer si une entité agit en tant qu'opérateur économique et si, par conséquent, ses activités sont soumises à la TVA.\n\nEn résumé, l'article 311 de la directive 2006/112/CE est transposé en droit français par les articles 261 et suivants du code général des impôts, et le Conseil d'État l'applique en interprétant de manière stricte les exonérations de TVA et en utilisant le test de l'opérateur économique pour déterminer la soumission à la TVA des activités en question.",
+     "scores": {
+      "correct_test": {
+       "score": 2,
+       "reason": "The blind answer does not accurately identify the correct legal test, as it refers to Article 311 while the ground truth mentions Article 316 of the Directive 2006/112/CE"
+      },
+      "correct_citations": {
+       "score": 1,
+       "reason": "The blind answer provides hallucinated cases and citations, such as the arrêt 'Société Arcelor' and the arrêt 'Fleming', which are not real or relevant to the ground truth"
+      },
+      "correct_statute": {
+       "score": 2,
+       "reason": "The blind answer mentions some correct statutes, such as the code général des impôts, but incorrectly references Article 261 instead of the relevant articles mentioned in the ground truth"
+      },
+      "specificity": {
+       "score": 3,
+       "reason": "The blind answer provides some specific and detailed information about the application of the directive in French law, but lacks accuracy and relevance to the ground truth"
+      },
+      "admitted_uncertainty": "no"
+     }
+    },
+    {
+     "type": "procedural",
+     "question": "Quel est le contrôle exercé par le Conseil d'État en cassation sur les décisions des cours administratives d'appel en matière de fiscal ? Citez la jurisprudence applicable.",
+     "blind_answer": "Le Conseil d'État exerce un contrôle en cassation sur les décisions des cours administratives d'appel en matière fiscale, en vertu de l'article L. 821-1 du code de justice administrative. Ce contrôle porte sur la régularité de la procédure et la conformité des décisions aux règles de droit.\n\nDans ce cadre, le Conseil d'État applique notamment le test de l'erreur de droit, tel que défini par l'arrêt \"Ternon\" du 27 juillet 2005 (n° 264815), qui précise que le juge de cassation doit vérifier si la cour administrative d'appel a commis une erreur de droit en interprétant ou en appliquant les règles fiscales.\n\nLe Conseil d'État vérifie également si la cour administrative d'appel a commis une erreur de fait, en application de l'article L. 821-2 du code de justice administrative, comme l'a rappelé l'arrêt \"Société Arcelor\" du 23 mai 2007 (n° 291545).\n\nEn outre, le Conseil d'État peut également exercer un contrôle sur la proportionnalité des sanctions fiscales, en application de l'article L. 80 A du livre des procédures fiscales, comme l'a décidé l'arrêt \"M. X\" du 12 février 2014 (n° 358893).\n\nEn résumé, le contrôle exercé par le Conseil d'État en cassation sur les décisions des cours administratives d'appel en matière fiscale porte sur la régularité de la procédure, la conformité aux règles de droit et la proportionnalité des sanctions, en application de la jurisprudence et des textes législatifs et réglementaires applicables.",
+     "scores": {
+      "correct_test": {
+       "score": 2,
+       "reason": "The BLIND ANSWER does not identify the correct legal test, which is the interpretation of Article 316 of the Directive 2006/112/CE, as stated in the GROUND TRUTH."
+      },
+      "correct_citations": {
+       "score": 1,
+       "reason": "The BLIND ANSWER cites non-existent or irrelevant cases, such as 'Ternon', 'Société Arcelor', and 'M. X', which are not related to the GROUND TRUTH."
+      },
+      "correct_statute": {
+       "score": 1,
+       "reason": "The BLIND ANSWER mentions incorrect statutes, such as 'article L. 821-1 du code de justice administrative' and 'article L. 80 A du livre des procédures fiscales', which are not relevant to the GROUND TRUTH."
+      },
+      "specificity": {
+       "score": 3,
+       "reason": "The BLIND ANSWER provides some specific details about the control exercised by the Conseil d'État, but it lacks relevance to the GROUND TRUTH."
+      },
+      "admitted_uncertainty": "no"
+     }
+    }
+   ]
+  },
+  {
+   "case_key": "466953",
+   "domain": "tax",
+   "ground_truth": {
+    "core_legal_issue": "whether the administration fiscale can proceed to a compensation légale between two contribuables without invocation by one of the parties",
+    "legal_test_name": "compensation légale",
+    "legal_test_source": "articles 1289, 1290, and 1291 of the code civil",
+    "key_statutes": [
+     "article 1289 du code civil",
+     "article 1290 du code civil",
+     "article 1291 du code civil",
+     "article 256 du code général des impôts",
+     "article 269 du code général des impôts",
+     "article L. 761-1 du code de justice administrative"
+    ],
+    "key_cases_cited": [],
+    "court": "Conseil d'État",
+    "outcome": "annulation de l'arrêt de la cour administrative d'appel de Nantes",
+    "legal_domain": "fiscal"
+   },
+   "probes": [
+    {
+     "type": "legal_test",
+     "question": "En droit administratif français, quel est le test juridique applicable pour whether the administration fiscale can proceed to a compensation légale between two contribuables without invocation by one of the parties ? Nommez le test, ses éléments, et la jurisprudence de référence.",
+     "blind_answer": "En droit administratif français, le test juridique applicable pour déterminer si l'administration fiscale peut procéder à une compensation légale entre deux contribuables sans invocation par l'une des parties est le \"test de l'office du juge\" ou plus précisément, le \"test de la compensation légale d'office\".\n\nSelon l'article L. 203 du Livre des procédures fiscales, la compensation légale peut être prononcée d'office par l'administration fiscale, mais sous certaines conditions. Le test de la compensation légale d'office comporte les éléments suivants :\n\n1. L'existence d'une créance certaine et liquide de l'administration fiscale à l'égard du contribuable ;\n2. L'existence d'une créance certaine et liquide du contribuable à l'égard de l'administration fiscale ;\n3. L'absence de contestation sérieuse sur les créances en cause.\n\nLa jurisprudence de référence est notamment l'arrêt du Conseil d'État du 13 juillet 2011, \"Ministre du Budget, des Comptes publics et de la Réforme de l'État c/ Société anonyme d'économie mixte d'aménagement et de construction de la ville de Paris\" (n° 304845), qui a précisé les conditions dans lesquelles l'administration fiscale peut procéder à une compensation légale d'office.\n\nIl convient de noter que le test de la compensation légale d'office est également encadré par les principes généraux du droit administratif, tels que le principe de légalité et le principe de sécurité juridique, qui sont consacrés par la jurisprudence du Conseil d'État, notamment dans l'arrêt \"Heyriès\" du 28 mai 1971 (n° 78875).",
+     "scores": {
+      "correct_test": {
+       "score": 2,
+       "reason": "Incorrect test identified, the correct test is 'compensation légale' as per articles 1289, 1290, and 1291 of the code civil"
+      },
+      "correct_citations": {
+       "score": 2,
+       "reason": "Cited cases are not directly relevant to the question and do not match the ground truth"
+      },
+      "correct_statute": {
+       "score": 1,
+       "reason": "Incorrect statutes cited, the correct statutes are articles 1289, 1290, and 1291 of the code civil, and other relevant statutes"
+      },
+      "specificity": {
+       "score": 4,
+       "reason": "The answer provides some specific details about the test, but not entirely accurate"
+      },
+      "admitted_uncertainty": "no"
+     }
+    },
+    {
+     "type": "statute",
+     "question": "Que prévoit article 1289 du code civil en droit français ? Expliquez son objet et la manière dont le Conseil d'État l'applique.",
+     "blind_answer": "L'article 1289 du code civil français prévoit que \"la condition qui dépend de l'événement d'une chose incertaine, qui peut ou non arriver, est appelée condition casuelle\". Cet article fait partie du chapitre relatif aux conditions dans les obligations.\n\nSon objet est de définir les conditions casuelles, qui sont des conditions dont la réalisation dépend d'un événement incertain. Cela signifie que l'exécution d'une obligation peut être subordonnée à la survenance d'un événement qui n'est pas certain, mais qui peut se produire.\n\nLe Conseil d'État, dans sa jurisprudence, a appliqué cet article pour déterminer si une condition était casuelle ou non. Par exemple, dans l'arrêt \"Société des eaux de Paris\" du 28 mars 1919, le Conseil d'État a considéré que la condition d'obtention d'une autorisation administrative était une condition casuelle, car elle dépendait d'un événement incertain, à savoir la décision de l'autorité administrative.\n\nEn outre, le Conseil d'État a également appliqué le test de la \"condition potestative\" pour déterminer si une condition était casuelle ou non. Ce test consiste à vérifier si la condition dépend de la volonté de l'une des parties ou si elle est indépendante de la volonté des parties. Si la condition dépend de la volonté de l'une des parties, elle est considérée comme une condition potestative et non comme une condition casuelle.\n\nEn résumé, l'article 1289 du code civil définit les conditions casuelles et le Conseil d'État l'applique pour déterminer si une condition est casuelle ou non, en fonction de la nature de l'événement incertain et de la volonté des parties.",
+     "scores": {
+      "correct_test": {
+       "score": 1,
+       "reason": "The BLIND ANSWER does not identify the correct legal test, which is 'compensation légale' as stated in the GROUND TRUTH."
+      },
+      "correct_citations": {
+       "score": 1,
+       "reason": "The BLIND ANSWER cites a non-existent case 'Société des eaux de Paris' and does not provide real, relevant cases as required."
+      },
+      "correct_statute": {
+       "score": 1,
+       "reason": "The BLIND ANSWER only mentions article 1289 du code civil, whereas the GROUND TRUTH mentions multiple relevant statutes."
+      },
+      "specificity": {
+       "score": 2,
+       "reason": "The BLIND ANSWER provides some specific details about the article 1289 du code civil, but lacks specificity in relation to the correct legal test and relevant statutes."
+      },
+      "admitted_uncertainty": "no"
+     }
+    },
+    {
+     "type": "procedural",
+     "question": "Quel est le contrôle exercé par le Conseil d'État en cassation sur les décisions des cours administratives d'appel en matière de fiscal ? Citez la jurisprudence applicable.",
+     "blind_answer": "Le Conseil d'État exerce un contrôle en cassation sur les décisions des cours administratives d'appel en matière fiscale, en vertu de l'article L. 821-1 du code de justice administrative. Ce contrôle porte sur la régularité de la procédure et sur l'interprétation des règles de droit applicables.\n\nDans ce cadre, le Conseil d'État vérifie si les cours administratives d'appel ont commis une erreur de droit ou une erreur d'appréciation des faits, en application de la théorie de l'erreur de droit et de l'erreur d'appréciation des faits (arrêt du Conseil d'État, 26 octobre 1962, \"Société des produits laitiers 'La Laitière'\").\n\nEn matière fiscale, le Conseil d'État applique notamment le principe de l'interprétation stricte des textes fiscaux, comme énoncé dans l'arrêt du Conseil d'État, 28 mai 1971, \"Ministre de l'économie et des finances c/ Société 'Les Fils de J. Willig'\".\n\nIl est également compétent pour contrôler la conformité des décisions des cours administratives d'appel avec les dispositions du code général des impôts et du livre des procédures fiscales, ainsi qu'avec les principes généraux du droit fiscal, tels que le principe de l'égalité devant l'impôt (arrêt du Conseil d'État, 13 juillet 2011, \"Ministre du budget, des comptes publics et de la fonction publique c/ Société 'ArcelorMittal Atlantique et Lorraine'\").\n\nEn résumé, le contrôle exercé par le Conseil d'État en cassation sur les décisions des cours administratives d'appel en matière fiscale est un contrôle de régularité et d'interprétation des règles de droit, qui vise à garantir la conformité des décisions avec les textes fiscaux et les principes généraux du droit fiscal.",
+     "scores": {
+      "correct_test": {
+       "score": 1,
+       "reason": "The blind answer does not identify the correct legal test, which is 'compensation légale' as stated in the ground truth."
+      },
+      "correct_citations": {
+       "score": 1,
+       "reason": "The blind answer cites non-existent or irrelevant cases, such as 'Société des produits laitiers 'La Laitière'' and 'Ministre de l'économie et des finances c/ Société 'Les Fils de J. Willig''"
+      },
+      "correct_statute": {
+       "score": 1,
+       "reason": "The blind answer does not cite the correct statutes, which are articles 1289, 1290, and 1291 of the code civil, as well as articles 256 and 269 of the code général des impôts and article L. 761-1 of the code de justice administrative"
+      },
+      "specificity": {
+       "score": 2,
+       "reason": "The blind answer provides some general information about the control exercised by the Conseil d'État, but lacks specific details about the applicable legal test and statutes"
+      },
+      "admitted_uncertainty": "no"
+     }
+    }
+   ]
+  },
+  {
+   "case_key": "467541",
+   "domain": "tax",
+   "ground_truth": {
+    "core_legal_issue": "Whether the company Sonepar France Grand Public is entitled to additional late-interest payments on a partial tax refund for the year 2016",
+    "legal_test_name": "Article L. 208 du livre des procédures fiscales",
+    "legal_test_source": "Livre des procédures fiscales",
+    "key_statutes": [
+     "Article L. 208 du livre des procédures fiscales",
+     "Article 1727 du code général des impôts",
+     "Article L. 190 du livre des procédures fiscales",
+     "Article L. 821-2 du code de justice administrative",
+     "Article L. 761-1 du code de justice administrative"
+    ],
+    "key_cases_cited": [],
+    "court": "Conseil d'État",
+    "outcome": "The Conseil d'État annulled the decision of the cour administrative d'appel de Paris and rejected the company's request for additional late-interest payments",
+    "legal_domain": "fiscal"
+   },
+   "probes": [
+    {
+     "type": "legal_test",
+     "question": "En droit administratif français, quel est le test juridique applicable pour Whether the company Sonepar France Grand Public is entitled to additional late-interest payments on a partial tax refund for the year 2016 ? Nommez le test, ses éléments, et la jurisprudence de référence.",
+     "blind_answer": "En droit administratif français, le test applicable pour déterminer si la société Sonepar France Grand Public est en droit de percevoir des intérêts de retard supplémentaires sur un remboursement partiel d'impôt pour l'année 2016 est le test de l'\"erreur de droit\" ou de l'\"erreur matérielle\" commise par l'administration fiscale, tel que défini par la jurisprudence du Conseil d'État, notamment dans l'arrêt \"Ministre c/ Société Azur\" (CE, 26 octobre 2011, n° 304813).\n\nLes éléments à prendre en compte pour appliquer ce test sont :\n\n1. La régularité de la procédure de remboursement de l'impôt ;\n2. La bonne application des règles de droit et de fait par l'administration fiscale ;\n3. L'absence d'erreur de droit ou de fait de la part de l'administration fiscale.\n\nLa jurisprudence de référence est notamment l'arrêt \"Ministre c/ Société Azur\" (CE, 26 octobre 2011, n° 304813), qui a précisé que les intérêts de retard sont dus lorsque l'administration fiscale a commis une erreur de droit ou de fait dans la liquidation de l'impôt.\n\nIl convient également de se référer à l'article L. 208 du Livre des procédures fiscales (LPF), qui prévoit que les intérêts de retard sont dus lorsque l'administration fiscale a commis une erreur dans la liquidation de l'impôt.\n\nEnfin, il est important de noter que la société Sonepar France Grand Public devra démontrer que l'administration fiscale a commis une erreur de droit ou de fait dans la liquidation de l'impôt pour l'année 2016, et que cette erreur a entraîné un préjudice pour la société, tel que défini par la jurisprudence du Conseil d'État dans l'arrêt \"Société Baxter\" (CE, 13 juillet 2016, n° 386831).",
+     "scores": {
+      "correct_test": {
+       "score": 2,
+       "reason": "Incorrect legal test identified, the correct test is Article L. 208 du livre des procédures fiscales"
+      },
+      "correct_citations": {
+       "score": 1,
+       "reason": "Hallucinated cases cited, no real or relevant cases mentioned"
+      },
+      "correct_statute": {
+       "score": 4,
+       "reason": "Correct statute mentioned, but not as the primary test"
+      },
+      "specificity": {
+       "score": 3,
+       "reason": "Somewhat specific, but lacks detail and clarity on the correct legal test"
+      },
+      "admitted_uncertainty": "no"
+     }
+    },
+    {
+     "type": "statute",
+     "question": "Que prévoit Article L. 208 du livre des procédures fiscales en droit français ? Expliquez son objet et la manière dont le Conseil d'État l'applique.",
+     "blind_answer": "L'article L. 208 du livre des procédures fiscales prévoit les conditions dans lesquelles l'administration fiscale peut effectuer des vérifications de comptabilité et des contrôles fiscaux. \n\nCet article précise que l'administration fiscale peut procéder à des vérifications de comptabilité et à des contrôles fiscaux pour s'assurer de l'exactitude des déclarations fiscales et de la régularité des opérations réalisées par les contribuables. \n\nLe Conseil d'État a eu l'occasion de se prononcer sur l'application de cet article, notamment dans l'arrêt \"Société Générale\" du 13 juillet 2007 (n° 278551), où il a précisé que les vérifications de comptabilité doivent être effectuées dans le respect des droits du contribuable et des principes du droit à un procès équitable.\n\nEn outre, le Conseil d'État a également appliqué le test de la \"proportionnalité\" pour vérifier si les mesures de contrôle fiscal sont proportionnées à l'objectif poursuivi, comme dans l'arrêt \"Ministre du Budget c/ Société X\" du 15 mai 2013 (n° 335522).\n\nEn résumé, l'article L. 208 du livre des procédures fiscales prévoit les conditions de vérification de comptabilité et de contrôle fiscal, et le Conseil d'État veille à ce que ces dispositions soient appliquées de manière à respecter les droits des contribuables et les principes du droit à un procès équitable.",
+     "scores": {
+      "correct_test": {
+       "score": 5,
+       "reason": "The BLIND ANSWER correctly identifies Article L. 208 du livre des procédures fiscales as the relevant legal test"
+      },
+      "correct_citations": {
+       "score": 1,
+       "reason": "The BLIND ANSWER provides hallucinated case citations, such as 'Société Générale' and 'Ministre du Budget c/ Société X', which are not real cases"
+      },
+      "correct_statute": {
+       "score": 5,
+       "reason": "The BLIND ANSWER correctly identifies Article L. 208 du livre des procédures fiscales as the relevant statute"
+      },
+      "specificity": {
+       "score": 4,
+       "reason": "The BLIND ANSWER provides a detailed explanation of the article's content and the Conseil d'État's application, but lacks concrete examples or further details"
+      },
+      "admitted_uncertainty": "no"
+     }
+    },
+    {
+     "type": "procedural",
+     "question": "Quel est le contrôle exercé par le Conseil d'État en cassation sur les décisions des cours administratives d'appel en matière de fiscal ? Citez la jurisprudence applicable.",
+     "blind_answer": "Le Conseil d'État exerce un contrôle en cassation sur les décisions des cours administratives d'appel en matière de fiscalité, en vertu de l'article L. 821-1 du code de justice administrative. Ce contrôle porte sur la régularité de la procédure et sur l'interprétation des règles de droit.\n\nEn matière de fiscalité, le Conseil d'État applique notamment le principe de l'interprétation stricte des textes fiscaux, comme énoncé dans l'arrêt \"Ministre du Budget c/ Sieur X...\" du 28 novembre 1962 (Rec. p. 552). Il vérifie également si les cours administratives d'appel ont commis une erreur de droit ou une erreur d'appréciation des faits, comme dans l'affaire \"Société anonyme des eaux minérales d'Évian\" du 13 juillet 1973 (Rec. p. 403).\n\nLe Conseil d'État peut également appliquer le test de la \"qualité de la motivation\" pour vérifier si la décision de la cour administrative d'appel est suffisamment motivée, comme dans l'arrêt \"Commune de Sète\" du 26 octobre 2001 (Rec. p. 442). En outre, il peut contrôler si les cours administratives d'appel ont respecté les principes fondamentaux du droit fiscal, tels que le principe de l'égalité devant les charges publiques, comme dans l'affaire \"Société des eaux de Paris\" du 15 mai 1998 (Rec. p. 241).\n\nEn résumé, le contrôle exercé par le Conseil d'État en cassation sur les décisions des cours administratives d'appel en matière de fiscalité est un contrôle de régularité et d'interprétation des règles de droit, qui vise à garantir que les décisions rendues soient conformes aux principes fondamentaux du droit fiscal et aux règles de procédure.",
+     "scores": {
+      "correct_test": {
+       "score": 2,
+       "reason": "Incorrect article cited, should be Article L. 821-2 du code de justice administrative instead of Article L. 821-1"
+      },
+      "correct_citations": {
+       "score": 1,
+       "reason": "Hallucinated cases, no real or relevant cases cited"
+      },
+      "correct_statute": {
+       "score": 1,
+       "reason": "Incorrect statute cited, should be Article L. 208 du livre des procédures fiscales instead of Article L. 821-1 du code de justice administrative"
+      },
+      "specificity": {
+       "score": 4,
+       "reason": "Detailed explanation of the control exercised by the Conseil d'État, but incorrect application of the law"
+      },
+      "admitted_uncertainty": "no"
+     }
+    }
+   ]
+  },
+  {
+   "case_key": "467542",
+   "domain": "tax",
+   "ground_truth": {
+    "core_legal_issue": "Whether the company Na Pali is entitled to additional late interest on a partial refund of its value-added tax for the year 2015",
+    "legal_test_name": "Article L. 208 du livre des procédures fiscales",
+    "legal_test_source": "Livre des procédures fiscales",
+    "key_statutes": [
+     "Article L. 208 du livre des procédures fiscales",
+     "Article 1727 du code général des impôts",
+     "Article L. 190 du livre des procédures fiscales",
+     "Article L. 821-2 du code de justice administrative",
+     "Article L. 761-1 du code de justice administrative"
+    ],
+    "key_cases_cited": [],
+    "court": "Conseil d'État",
+    "outcome": "The Conseil d'État annulled the decision of the cour administrative d'appel de Paris and rejected the company's request for additional late interest",
+    "legal_domain": "fiscal"
+   },
+   "probes": [
+    {
+     "type": "legal_test",
+     "question": "En droit administratif français, quel est le test juridique applicable pour Whether the company Na Pali is entitled to additional late interest on a partial refund of its value-added tax for the year 2015 ? Nommez le test, ses éléments, et la jurisprudence de référence.",
+     "blind_answer": "Le test juridique applicable pour déterminer si l'entreprise Na Pali est en droit de percevoir des intérêts de retard supplémentaires sur un remboursement partiel de sa taxe sur la valeur ajoutée (TVA) pour l'année 2015 est le test de l'erreur manifeste d'appréciation, également connu sous le nom de \"erreur manifeste d'appréciation de droit\" ou \"erreur manifeste d'appréciation de fait\".\n\nSelon l'article L. 80 A du livre des procédures fiscales, les intérêts de retard sont dus lorsque l'administration fiscale a commis une erreur manifeste d'appréciation. \n\nLes éléments de ce test sont les suivants :\n1. L'existence d'une erreur commise par l'administration fiscale ;\n2. La manifeste caractère de cette erreur ;\n3. L'appréciation de cette erreur, qui doit être d'ordre juridique ou factuel.\n\nLa jurisprudence de référence est notamment l'arrêt du Conseil d'État du 23 février 2000, \"Ministre de l'Économie, des Finances et de l'Industrie c/ Société Navale de l'Ouest\" (n° 186111), qui a précisé les conditions d'application de l'article L. 80 A du livre des procédures fiscales.\n\nCependant, je dois préciser que la réponse à cette question nécessite une analyse approfondie des faits spécifiques de l'affaire et de la législation applicable, notamment le code général des impôts et le livre des procédures fiscales. Il est donc recommandé de consulter un expert en droit fiscal pour obtenir une réponse plus précise et personnalisée.",
+     "scores": {
+      "correct_test": {
+       "score": 1,
+       "reason": "Incorrect test identified, should be Article L. 208 du livre des procédures fiscales"
+      },
+      "correct_citations": {
+       "score": 1,
+       "reason": "Hallucinated cases, no relevant cases cited"
+      },
+      "correct_statute": {
+       "score": 1,
+       "reason": "Incorrect statute, should be Article L. 208 du livre des procédures fiscales"
+      },
+      "specificity": {
+       "score": 4,
+       "reason": "Detailed explanation but incorrect test and statute"
+      },
+      "admitted_uncertainty": "yes"
+     }
+    },
+    {
+     "type": "statute",
+     "question": "Que prévoit Article L. 208 du livre des procédures fiscales en droit français ? Expliquez son objet et la manière dont le Conseil d'État l'applique.",
+     "blind_answer": "L'article L. 208 du livre des procédures fiscales prévoit les conditions dans lesquelles l'administration fiscale peut effectuer des vérifications de comptabilité et des contrôles fiscaux. \n\nCet article précise que l'administration fiscale peut procéder à des vérifications de comptabilité et à des contrôles fiscaux pour s'assurer de l'exactitude des déclarations fiscales et de la régularité des opérations comptables. \n\nLe Conseil d'État a eu l'occasion de se prononcer sur l'application de cet article, notamment dans l'arrêt \"Ministre du Budget c/ Société X\" (CE, 15 juin 1979, n° 10753), où il a précisé que les vérifications de comptabilité doivent être effectuées dans le respect des droits de la défense et des principes de la procédure contradictoire.\n\nEn outre, le Conseil d'État a également appliqué le test de la \"proportionnalité\" pour contrôler la légalité des vérifications de comptabilité, comme dans l'arrêt \"Société Y c/ Ministre du Budget\" (CE, 24 octobre 1997, n° 158911), où il a jugé que les vérifications de comptabilité doivent être proportionnées à l'objectif poursuivi et ne pas porter une atteinte excessive aux droits des contribuables.\n\nEn résumé, l'article L. 208 du livre des procédures fiscales prévoit les conditions dans lesquelles l'administration fiscale peut effectuer des vérifications de comptabilité et des contrôles fiscaux, et le Conseil d'État applique cet article en veillant au respect des droits de la défense, des principes de la procédure contradictoire et du test de la proportionnalité.",
+     "scores": {
+      "correct_test": {
+       "score": 5,
+       "reason": "The BLIND ANSWER correctly identifies Article L. 208 du livre des procédures fiscales as the relevant legal test."
+      },
+      "correct_citations": {
+       "score": 1,
+       "reason": "The BLIND ANSWER cites non-existent cases, such as 'Ministre du Budget c/ Société X' and 'Société Y c/ Ministre du Budget', which are not real cases."
+      },
+      "correct_statute": {
+       "score": 5,
+       "reason": "The BLIND ANSWER correctly identifies Article L. 208 du livre des procédures fiscales as the relevant statute."
+      },
+      "specificity": {
+       "score": 4,
+       "reason": "The BLIND ANSWER provides a detailed explanation of the article's content and the Conseil d'État's application, but lacks concrete examples from actual cases."
+      },
+      "admitted_uncertainty": "no"
+     }
+    },
+    {
+     "type": "procedural",
+     "question": "Quel est le contrôle exercé par le Conseil d'État en cassation sur les décisions des cours administratives d'appel en matière de fiscal ? Citez la jurisprudence applicable.",
+     "blind_answer": "Le Conseil d'État exerce un contrôle en cassation sur les décisions des cours administratives d'appel en matière fiscale, en vertu de l'article L. 821-1 du code de justice administrative. Ce contrôle porte sur la régularité de la procédure et la conformité des décisions aux règles de droit.\n\nDans ce cadre, le Conseil d'État applique notamment le test de l'erreur de droit, tel que défini par l'arrêt \"Ternon\" du 24 mars 2006 (n° 272912), qui précise que le juge de cassation doit vérifier si la cour administrative d'appel a commis une erreur de droit en interprétant les dispositions fiscales applicables.\n\nLe Conseil d'État vérifie également si la cour administrative d'appel a respecté les principes fondamentaux du droit fiscal, tels que le principe de l'égalité devant l'impôt (article 13 de la Déclaration des droits de l'homme et du citoyen de 1789) et le principe de la légalité des impôts (article 34 de la Constitution).\n\nEn outre, le Conseil d'État peut également exercer un contrôle sur la motivation des décisions des cours administratives d'appel, en vertu de l'article L. 211-2 du code de justice administrative, comme l'a rappelé l'arrêt \"Société ArcelorMittal\" du 13 juillet 2016 (n° 386831).\n\nEn résumé, le contrôle exercé par le Conseil d'État en cassation sur les décisions des cours administratives d'appel en matière fiscale est un contrôle de régularité et de conformité aux règles de droit, qui vise à garantir le respect des principes fondamentaux du droit fiscal et la bonne application des dispositions fiscales.",
+     "scores": {
+      "correct_test": {
+       "score": 2,
+       "reason": "Incorrect legal test identified, as the correct test is Article L. 208 du livre des procédures fiscales, not Article L. 821-1 du code de justice administrative"
+      },
+      "correct_citations": {
+       "score": 1,
+       "reason": "Hallucinated cases cited, as there are no real cases mentioned in the ground truth"
+      },
+      "correct_statute": {
+       "score": 2,
+       "reason": "Incorrect statute/section cited, as the correct statutes are listed in the ground truth, but not accurately represented in the blind answer"
+      },
+      "specificity": {
+       "score": 4,
+       "reason": "The answer provides specific and detailed information about the control exercised by the Conseil d'État, but lacks accuracy in terms of legal test and citations"
+      },
+      "admitted_uncertainty": "no"
+     }
+    }
+   ]
+  },
+  {
+   "case_key": "467544",
+   "domain": "tax",
+   "ground_truth": {
+    "core_legal_issue": "Whether the company SFIMO is entitled to additional interest on the partial refund of the value-added tax for the year 2016",
+    "legal_test_name": "Article L. 208 du livre des procédures fiscales",
+    "legal_test_source": "Livre des procédures fiscales",
+    "key_statutes": [
+     "Article L. 208 du livre des procédures fiscales",
+     "Article 1727 du code général des impôts",
+     "Article L. 190 du livre des procédures fiscales",
+     "Article L. 821-2 du code de justice administrative",
+     "Article L. 761-1 du code de justice administrative"
+    ],
+    "key_cases_cited": [],
+    "court": "Conseil d'État",
+    "outcome": "The appeal court's decision was annulled, and the company's request for additional interest was rejected",
+    "legal_domain": "fiscal"
+   },
+   "probes": [
+    {
+     "type": "legal_test",
+     "question": "En droit administratif français, quel est le test juridique applicable pour Whether the company SFIMO is entitled to additional interest on the partial refund of the value-added tax for the year 2016 ? Nommez le test, ses éléments, et la jurisprudence de référence.",
+     "blind_answer": "En droit administratif français, le test juridique applicable pour déterminer si la société SFIMO est en droit de percevoir des intérêts supplémentaires sur le remboursement partiel de la taxe sur la valeur ajoutée (TVA) pour l'année 2016 est le test de l'\"erreur manifeste d'appréciation\" ou le test de la \"bonne foi\" de l'administration, tel que défini par la jurisprudence du Conseil d'État, notamment dans l'arrêt \"Ministre des Finances c/ Société Berguier\" (CE, 28 mai 1971, n° 78865).\n\nCependant, pour les intérêts de retard, c'est le test de l'\"erreur de droit\" ou de l'\"erreur de fait\" qui est applicable, tel que prévu par l'article L. 208 du Livre des procédures fiscales (LPF). \n\nEn outre, l'article 1727 du Code général des impôts (CGI) prévoit que les intérêts de retard sont dus lorsque l'administration fiscale a commis une erreur de droit ou de fait. \n\nLa jurisprudence du Conseil d'État a également précisé que les intérêts de retard sont dus lorsque l'administration a commis une erreur manifeste d'appréciation (CE, 13 juillet 2005, n° 264899).\n\nEn résumé, pour déterminer si la société SFIMO est en droit de percevoir des intérêts supplémentaires, il convient d'examiner si l'administration fiscale a commis une erreur de droit ou de fait, ou si elle a agi de bonne foi, en application de l'article L. 208 du LPF et de l'article 1727 du CGI, ainsi que de la jurisprudence du Conseil d'État. \n\nJe ne suis pas en mesure de fournir une réponse plus précise sans connaître les détails spécifiques de l'affaire.",
+     "scores": {
+      "correct_test": {
+       "score": 2,
+       "reason": "Incorrect test identified, the correct test is Article L. 208 du livre des procédures fiscales"
+      },
+      "correct_citations": {
+       "score": 2,
+       "reason": "Some relevant statutes are mentioned, but not all are accurate and no real cases are cited"
+      },
+      "correct_statute": {
+       "score": 3,
+       "reason": "Some correct statutes are mentioned, such as Article L. 208 du livre des procédures fiscales and Article 1727 du code général des impôts"
+      },
+      "specificity": {
+       "score": 4,
+       "reason": "The answer provides some specific details about the applicable law and jurisprudence"
+      },
+      "admitted_uncertainty": "yes"
+     }
+    },
+    {
+     "type": "statute",
+     "question": "Que prévoit Article L. 208 du livre des procédures fiscales en droit français ? Expliquez son objet et la manière dont le Conseil d'État l'applique.",
+     "blind_answer": "L'article L. 208 du livre des procédures fiscales prévoit les conditions dans lesquelles l'administration fiscale peut procéder à des rectifications sur les déclarations de revenus ou de bénéfices des contribuables. \n\nCet article est relatif à la procédure de rectification et aux délais de reprise. Il précise que l'administration fiscale doit notifier au contribuable les rectifications qu'elle envisage de faire, en lui indiquant les motifs et les éléments de calcul, et en lui laissant la possibilité de présenter ses observations.\n\nLe Conseil d'État a eu l'occasion de se prononcer sur l'application de cet article, notamment dans l'arrêt \"Ministre c/ Sieur X\" (CE, 13 juillet 1977, n° 97573), où il a rappelé que l'administration fiscale doit respecter les formalités prévues par l'article L. 208 et que les rectifications doivent être motivées et fondées sur des éléments précis.\n\nEn outre, le Conseil d'État a également précisé que l'article L. 208 doit être interprété en combinaison avec l'article L. 209, qui prévoit les délais de reprise, et que l'administration fiscale doit veiller à respecter ces délais pour éviter que les rectifications ne soient considérées comme tardives et donc irrecevables (CE, 15 mai 2013, n° 335551).\n\nEn résumé, l'article L. 208 du livre des procédures fiscales prévoit les conditions de rectification des déclarations de revenus ou de bénéfices, et le Conseil d'État veille à ce que l'administration fiscale respecte ces conditions et les délais de reprise prévus par la loi.",
+     "scores": {
+      "correct_test": {
+       "score": 5,
+       "reason": "The BLIND ANSWER correctly identifies Article L. 208 du livre des procédures fiscales as the relevant legal test."
+      },
+      "correct_citations": {
+       "score": 1,
+       "reason": "The BLIND ANSWER provides hallucinated case citations, such as 'Ministre c/ Sieur X' (CE, 13 juillet 1977, n° 97573) and (CE, 15 mai 2013, n° 335551), which are not real cases."
+      },
+      "correct_statute": {
+       "score": 5,
+       "reason": "The BLIND ANSWER correctly references Article L. 208 du livre des procédures fiscales as the relevant statute/section."
+      },
+      "specificity": {
+       "score": 5,
+       "reason": "The BLIND ANSWER provides a detailed explanation of the article's objet and the manner in which the Conseil d'État applies it."
+      },
+      "admitted_uncertainty": "no"
+     }
+    },
+    {
+     "type": "procedural",
+     "question": "Quel est le contrôle exercé par le Conseil d'État en cassation sur les décisions des cours administratives d'appel en matière de fiscal ? Citez la jurisprudence applicable.",
+     "blind_answer": "Le Conseil d'État exerce un contrôle en cassation sur les décisions des cours administratives d'appel en matière de fiscalité, en vertu de l'article L. 821-1 du code de justice administrative. Ce contrôle porte sur la régularité de la procédure et sur l'interprétation des règles de droit applicables.\n\nEn matière de fiscalité, le Conseil d'État applique notamment le principe de l'interprétation stricte des textes fiscaux, comme énoncé dans l'arrêt \"Ministre du Budget c/ Sieur X...\" du 28 novembre 1962 (Rec. p. 552). Il vérifie également si les cours administratives d'appel ont commis une erreur de droit ou une erreur d'appréciation des faits, comme dans l'affaire \"Société anonyme des eaux minérales d'Évian\" du 24 février 1961 (Rec. p. 133).\n\nLe Conseil d'État peut également appliquer le test de la \"erreur manifeste d'appréciation\" pour contrôler les décisions des cours administratives d'appel, comme dans l'arrêt \"Ministre de l'Économie et des Finances c/ Société X...\" du 13 juillet 2005 (Rec. p. 341).\n\nEn résumé, le contrôle exercé par le Conseil d'État en cassation sur les décisions des cours administratives d'appel en matière de fiscalité est un contrôle de régularité et d'interprétation des règles de droit, qui vise à garantir que les décisions rendues soient conformes aux principes et aux règles du droit fiscal.",
+     "scores": {
+      "correct_test": {
+       "score": 2,
+       "reason": "Incorrect legal test identified, as the correct test is Article L. 208 du livre des procédures fiscales, not Article L. 821-1 du code de justice administrative"
+      },
+      "correct_citations": {
+       "score": 1,
+       "reason": "Hallucinated cases cited, as there is no evidence of the cited cases in the provided ground truth"
+      },
+      "correct_statute": {
+       "score": 2,
+       "reason": "Incorrect statute/section cited, although it is related to the topic, the correct statute is Article L. 208 du livre des procédures fiscales"
+      },
+      "specificity": {
+       "score": 4,
+       "reason": "The answer provides specific and detailed information about the control exercised by the Conseil d'État, but lacks accuracy in terms of legal test and citations"
+      },
+      "admitted_uncertainty": "no"
+     }
+    }
+   ]
+  },
+  {
+   "case_key": "469128",
+   "domain": "tax",
+   "ground_truth": {
+    "core_legal_issue": "Exonération de la taxe foncière sur les propriétés bâties pour les biens spécifiquement adaptés aux activités industrielles",
+    "legal_test_name": "Article 1382 du code général des impôts",
+    "legal_test_source": "Code général des impôts",
+    "key_statutes": [
+     "Article 1380 du code général des impôts",
+     "Article 1381 du code général des impôts",
+     "Article 1382 du code général des impôts",
+     "Article 1495 du code général des impôts",
+     "Article 1499 du code général des impôts",
+     "Article 1467 du code général des impôts",
+     "Article 324 B de l'annexe III au code général des impôts",
+     "Article L. 821-2 du code de justice administrative"
+    ],
+    "key_cases_cited": [],
+    "court": "Conseil d'État",
+    "outcome": "Annulation de l'arrêt de la cour administrative d'appel de Nantes en tant qu'il a statué sur l'imposition des panneaux d'isolation thermique et du système de sécurité incendie",
+    "legal_domain": "Fiscal"
+   },
+   "probes": [
+    {
+     "type": "legal_test",
+     "question": "En droit administratif français, quel est le test juridique applicable pour Exonération de la taxe foncière sur les propriétés bâties pour les biens spécifiquement adaptés aux activités industrielles ? Nommez le test, ses éléments, et la jurisprudence de référence.",
+     "blind_answer": "En droit administratif français, le test juridique applicable pour l'exonération de la taxe foncière sur les propriétés bâties pour les biens spécifiquement adaptés aux activités industrielles est le \"test de l'affectation exclusive\" ou \"test de la spécialisation\". \n\nSelon ce test, pour bénéficier de l'exonération, les biens doivent être affectés exclusivement à des activités industrielles et présenter des caractéristiques spécifiques qui les distinguent des biens à usage général. \n\nLes éléments clés de ce test sont :\n\n1. L'affectation exclusive du bien à des activités industrielles, \n2. La présence de caractéristiques spécifiques liées à l'activité industrielle (par exemple, des équipements spécialisés, des aménagements particuliers).\n\nLa jurisprudence de référence est notamment l'arrêt du Conseil d'État \"Société des Hauts Fourneaux de la Chiers\" (CE, 27 mars 1968, n° 64767), qui a précisé les conditions d'application de l'exonération pour les biens affectés à des activités industrielles. \n\nDe plus, l'article 1382 du Code général des impôts (CGI) prévoit les conditions générales d'exonération de la taxe foncière sur les propriétés bâties pour les biens industriels. \n\nJe tiens à préciser que la jurisprudence et la législation en la matière peuvent évoluer, il est donc important de consulter les textes et les arrêts les plus récents pour une analyse à jour.",
+     "scores": {
+      "correct_test": {
+       "score": 4,
+       "reason": "The blind answer identifies a relevant test but does not directly cite the specific article as the primary test, instead referring to it as part of the conditions."
+      },
+      "correct_citations": {
+       "score": 2,
+       "reason": "The blind answer mentions a real case but does not provide a comprehensive list of relevant cases as found in the ground truth, and the case mentioned is not explicitly linked to the ground truth cases."
+      },
+      "correct_statute": {
+       "score": 5,
+       "reason": "The blind answer correctly identifies Article 1382 of the Code général des impôts as relevant to the exonération of the taxe foncière sur les propriétés bâties for industrial properties."
+      },
+      "specificity": {
+       "score": 4,
+       "reason": "The blind answer provides specific elements of the test and references relevant legal provisions, but lacks the detailed statutory references found in the ground truth."
+      },
+      "admitted_uncertainty": "yes"
+     }
+    },
+    {
+     "type": "statute",
+     "question": "Que prévoit Article 1380 du code général des impôts en droit français ? Expliquez son objet et la manière dont le Conseil d'État l'applique.",
+     "blind_answer": "L'article 1380 du code général des impôts (CGI) prévoit les conditions dans lesquelles les collectivités territoriales peuvent exonérer les propriétés bâties et non bâties de la taxe foncière. \n\nCet article permet aux communes, aux départements et aux régions d'exonérer, sous certaines conditions, les propriétés de la taxe foncière, notamment pour des raisons d'intérêt général ou pour favoriser certaines activités économiques.\n\nLe Conseil d'État, dans sa jurisprudence, a précisé les conditions d'application de cet article, notamment dans l'arrêt \"Commune de Saint-Pierre\" du 13 juillet 2001 (n° 198544), où il a rappelé que les exonérations prévues par l'article 1380 doivent être justifiées par un motif d'intérêt général et ne pas créer de discriminations entre les contribuables.\n\nEn outre, le Conseil d'État a également précisé que les exonérations prévues par cet article doivent être conformes aux principes de l'égalité devant les charges publiques et de la liberté d'entreprendre, comme le rappelle l'article L. 111-1 du code des relations entre le public et l'administration.\n\nJe ne dispose pas d'informations supplémentaires sur les détails spécifiques de l'application de cet article par le Conseil d'État, mais il est certain que la jurisprudence du Conseil d'État est essentielle pour comprendre les conditions d'application de l'article 1380 du CGI.",
+     "scores": {
+      "correct_test": {
+       "score": 5,
+       "reason": "The correct legal test is identified as Article 1380 du code général des impôts"
+      },
+      "correct_citations": {
+       "score": 1,
+       "reason": "The citation of the arrêt 'Commune de Saint-Pierre' du 13 juillet 2001 is not verified and may be hallucinated"
+      },
+      "correct_statute": {
+       "score": 5,
+       "reason": "The correct statute/section is identified as Article 1380 du code général des impôts"
+      },
+      "specificity": {
+       "score": 4,
+       "reason": "The answer provides specific and detailed information about the article, but lacks concrete examples or further details"
+      },
+      "admitted_uncertainty": "yes"
+     }
+    },
+    {
+     "type": "procedural",
+     "question": "Quel est le contrôle exercé par le Conseil d'État en cassation sur les décisions des cours administratives d'appel en matière de Fiscal ? Citez la jurisprudence applicable.",
+     "blind_answer": "Le Conseil d'État exerce un contrôle en cassation sur les décisions des cours administratives d'appel en matière fiscale, notamment en vertu de l'article L. 821-1 du code de justice administrative. Ce contrôle porte sur la régularité de la procédure et sur l'interprétation des règles de droit applicables.\n\nDans l'affaire \"Société Arcelor\" (CE, 23 mai 2007, n° 288440), le Conseil d'État a rappelé que le contrôle en cassation exercé par lui-même sur les décisions des cours administratives d'appel en matière fiscale est limité à la vérification de la régularité de la procédure et de l'interprétation des règles de droit applicables.\n\nLe Conseil d'État applique également le test de l'\"erreur de droit\" pour contrôler les décisions des cours administratives d'appel en matière fiscale, comme il l'a rappelé dans l'affaire \"Ministre du Budget c/ Société La Redoute\" (CE, 13 juillet 2005, n° 264773).\n\nEn outre, le Conseil d'État peut également exercer un contrôle sur la qualification des faits et la mise en œuvre des règles de droit, comme il l'a fait dans l'affaire \"Société Total\" (CE, 11 décembre 2013, n° 348893).\n\nEn résumé, le contrôle exercé par le Conseil d'État en cassation sur les décisions des cours administratives d'appel en matière fiscale est limité à la régularité de la procédure, à l'interprétation des règles de droit applicables et à la vérification de l'erreur de droit, ainsi qu'à la qualification des faits et la mise en œuvre des règles de droit.",
+     "scores": {
+      "correct_test": {
+       "score": 4,
+       "reason": "The answer identifies the correct legal test, but does not mention the specific article of the code général des impôts, such as Article 1382, as stated in the ground truth"
+      },
+      "correct_citations": {
+       "score": 1,
+       "reason": "The answer provides hallucinated cases, such as 'Société Arcelor' and 'Ministre du Budget c/ Société La Redoute', which are not present in the ground truth"
+      },
+      "correct_statute": {
+       "score": 2,
+       "reason": "The answer mentions the code de justice administrative, but not the specific statutes mentioned in the ground truth, such as Article 1380 du code général des impôts"
+      },
+      "specificity": {
+       "score": 4,
+       "reason": "The answer provides specific and detailed information about the control exercised by the Conseil d'État, but lacks specific references to the ground truth"
+      },
+      "admitted_uncertainty": "no"
+     }
+    }
+   ]
+  },
+  {
+   "case_key": "469216",
+   "domain": "tax",
+   "ground_truth": {
+    "core_legal_issue": "whether the tax authority's right to recover the tax on the sale of building land had expired",
+    "legal_test_name": "droit de reprise",
+    "legal_test_source": "article L. 173 du livre des procédures fiscales",
+    "key_statutes": [
+     "article 1529 du code général des impôts",
+     "article L. 173 du livre des procédures fiscales",
+     "article L. 2331-3 du code général des collectivités territoriales",
+     "article L. 761-1 du code de justice administrative"
+    ],
+    "key_cases_cited": [],
+    "court": "Conseil d'État",
+    "outcome": "the tax authority's right to recover the tax had expired, and the taxpayers were discharged from the tax",
+    "legal_domain": "fiscal"
+   },
+   "probes": [
+    {
+     "type": "legal_test",
+     "question": "En droit administratif français, quel est le test juridique applicable pour whether the tax authority's right to recover the tax on the sale of building land had expired ? Nommez le test, ses éléments, et la jurisprudence de référence.",
+     "blind_answer": "En droit administratif français, le test juridique applicable pour déterminer si le droit de l'administration fiscale de recouvrer l'impôt sur la vente de terrains à bâtir est prescrit est le délai de prescription prévu par l'article L. 274 du Livre des procédures fiscales (LPF).\n\nSelon cet article, le droit de l'administration fiscale de recouvrer l'impôt se prescrit par quatre ans à compter de la date à laquelle l'impôt est devenu exigible. Cependant, ce délai peut être interrompu ou suspendu dans certaines circonstances, telles que la notification d'un avis de vérification ou la saisine d'une juridiction.\n\nLa jurisprudence de référence est l'arrêt du Conseil d'État du 13 juillet 2007, \"Ministre de l'Économie, des Finances et de l'Industrie c/ Société civile immobilière du Parc\" (n° 264.831), qui a confirmé que le délai de prescription de quatre ans s'applique au recouvrement de l'impôt sur la vente de terrains à bâtir.\n\nEn outre, il convient de noter que le test du \"point de départ\" de la prescription est également important, car il détermine à partir de quand le délai de prescription commence à courir. Selon la jurisprudence, le point de départ de la prescription est la date à laquelle l'impôt est devenu exigible, c'est-à-dire la date à laquelle le contribuable a reçu l'avis d'imposition ou, à défaut, la date à laquelle l'impôt a été mis en recouvrement (arrêt du Conseil d'État du 15 mai 2013, \"Ministre du Budget, des Comptes publics et de la Réforme de l'État c/ M. X\", n° 342.212).\n\nEn résumé, le test juridique applicable est le délai de prescription de quatre ans prévu par l'article L. 274 du LPF, dont les éléments clés sont :\n\n* Le point de départ de la prescription (date à laquelle l'impôt est devenu exigible)\n* Le délai de prescription (quatre ans)\n* Les causes d'interruption ou de suspension du délai de prescription (notification d'un avis de vérification, saisine d'une juridiction, etc.)\n\nEt la jurisprudence de référence est l'arrêt du Conseil d'État du 13 juillet 2007, \"Ministre de l'Économie, des Finances et de l'Industrie c/ Société civile immobilière du Parc\" (n° 264.831).",
+     "scores": {
+      "correct_test": {
+       "score": 2,
+       "reason": "Incorrect legal test identified, should be 'droit de reprise' instead of 'délai de prescription'"
+      },
+      "correct_citations": {
+       "score": 2,
+       "reason": "Cited cases are not directly relevant to the 'droit de reprise' and seem to be hallucinated for this specific context"
+      },
+      "correct_statute": {
+       "score": 1,
+       "reason": "Incorrect statute/section cited, should be 'article L. 173 du livre des procédures fiscales' instead of 'article L. 274 du Livre des procédures fiscales'"
+      },
+      "specificity": {
+       "score": 4,
+       "reason": "Provides detailed explanation of the concept, but not directly relevant to the 'droit de reprise'"
+      },
+      "admitted_uncertainty": "no"
+     }
+    },
+    {
+     "type": "statute",
+     "question": "Que prévoit article 1529 du code général des impôts en droit français ? Expliquez son objet et la manière dont le Conseil d'État l'applique.",
+     "blind_answer": "L'article 1529 du code général des impôts (CGI) prévoit les règles relatives à la procédure de rectification des bases d'imposition. Plus précisément, cet article concerne les conditions dans lesquelles l'administration fiscale peut rectifier les déclarations fiscales des contribuables.\n\nL'objet de cet article est de définir les modalités selon lesquelles l'administration peut procéder à des rectifications, notamment en cas d'omissions ou d'erreurs dans les déclarations. Cela inclut les délais de prescription, les obligations de motivation et les droits des contribuables à être informés et à présenter leurs observations.\n\nLe Conseil d'État, dans sa jurisprudence, a appliqué cet article en précisant les conditions dans lesquelles les rectifications peuvent être effectuées. Par exemple, dans l'arrêt \"Ministre c/ Société X\" (CE, 10 juillet 2013, n° 342111), le Conseil d'État a rappelé que l'administration doit motiver ses décisions de rectification et respecter les droits de la défense du contribuable.\n\nEn outre, le Conseil d'État a également appliqué le test de la \"charge de la preuve\" pour déterminer si l'administration a apporté les preuves nécessaires pour justifier les rectifications (CE, 27 février 2019, n° 418813). Cela signifie que l'administration doit apporter des preuves suffisantes pour établir la réalité des faits qui justifient les rectifications.\n\nEn résumé, l'article 1529 du CGI prévoit les règles relatives à la procédure de rectification des bases d'imposition, et le Conseil d'État l'applique en veillant à ce que l'administration respecte les droits des contribuables et apporte les preuves nécessaires pour justifier les rectifications.",
+     "scores": {
+      "correct_test": {
+       "score": 2,
+       "reason": "The answer does not identify the correct legal test, which is 'droit de reprise' according to the ground truth."
+      },
+      "correct_citations": {
+       "score": 1,
+       "reason": "The answer provides hallucinated cases, such as 'Ministre c/ Société X' (CE, 10 juillet 2013, n° 342111) and 'CE, 27 février 2019, n° 418813', which are not real or relevant cases."
+      },
+      "correct_statute": {
+       "score": 4,
+       "reason": "The answer correctly cites the article 1529 du code général des impôts, but does not mention the other relevant statutes listed in the ground truth, such as 'article L. 173 du livre des procédures fiscales'."
+      },
+      "specificity": {
+       "score": 4,
+       "reason": "The answer provides specific and detailed information about the procedure of rectification of tax bases, but lacks specificity regarding the correct legal test and relevant cases."
+      },
+      "admitted_uncertainty": "no"
+     }
+    },
+    {
+     "type": "procedural",
+     "question": "Quel est le contrôle exercé par le Conseil d'État en cassation sur les décisions des cours administratives d'appel en matière de fiscal ? Citez la jurisprudence applicable.",
+     "blind_answer": "Le Conseil d'État exerce un contrôle en cassation sur les décisions des cours administratives d'appel en matière fiscale, en vertu de l'article L. 821-1 du code de justice administrative. Ce contrôle porte sur la régularité de la procédure et sur l'interprétation des règles de droit applicables.\n\nDans ce cadre, le Conseil d'État vérifie si les cours administratives d'appel ont commis une erreur de droit ou une erreur d'appréciation des faits, en application de la théorie de l'erreur de droit et de l'erreur d'appréciation des faits (arrêt du Conseil d'État, 26 octobre 1962, \"Société des produits laitiers 'La Fleurette'\").\n\nEn matière fiscale, le Conseil d'État a également développé la théorie de la \"qualification juridique des faits\" (arrêt du Conseil d'État, 13 juillet 1973, \"Ministre de l'économie et des finances c/ Société 'Les Fils de J. Willig'\"), qui permet de contrôler si les cours administratives d'appel ont correctement qualifié les faits de l'espèce au regard des règles de droit applicables.\n\nEn outre, le Conseil d'État a établi que le contrôle en cassation doit être exercé en fonction des éléments de fait et de droit existant à la date de la décision attaquée (arrêt du Conseil d'État, 15 mai 2002, \"Ministre de l'économie, des finances et de l'industrie c/ Société 'Groupe Moniteur'\").\n\nJe ne suis pas en mesure de citer d'autres arrêts ou textes spécifiques sans plus d'informations sur la question posée.",
+     "scores": {
+      "correct_test": {
+       "score": 4,
+       "reason": "The answer identifies the correct legal test of cassation, but does not specifically mention the 'droit de reprise' as stated in the ground truth"
+      },
+      "correct_citations": {
+       "score": 5,
+       "reason": "The answer cites real and relevant cases, such as the 'Société des produits laitiers La Fleurette' and 'Ministre de l'économie et des finances c/ Société Les Fils de J. Willig'"
+      },
+      "correct_statute": {
+       "score": 2,
+       "reason": "The answer mentions article L. 821-1 du code de justice administrative, but does not cite the specific statutes mentioned in the ground truth, such as article L. 173 du livre des procédures fiscales"
+      },
+      "specificity": {
+       "score": 4,
+       "reason": "The answer provides specific and detailed information about the contrôle en cassation, but does not address all aspects of the ground truth, such as the 'droit de reprise'"
+      },
+      "admitted_uncertainty": "yes"
+     }
+    }
+   ]
+  },
+  {
+   "case_key": "469910",
+   "domain": "tax",
+   "ground_truth": {
+    "core_legal_issue": "whether the minister's appeal against the tribunal administratif's decision regarding tax reductions was timely and properly directed",
+    "legal_test_name": "délai de recours en cassation",
+    "legal_test_source": "article R. 821-1 du code de justice administrative",
+    "key_statutes": [
+     "article R. 200-18 du livre des procédures fiscales",
+     "article R. 821-1 du code de justice administrative",
+     "article R. 811-1 du code de justice administrative"
+    ],
+    "key_cases_cited": [],
+    "court": "Conseil d'État",
+    "outcome": "the minister's appeal was rejected as untimely for some taxes, and transferred to the cour administrative d'appel de Douai for others",
+    "legal_domain": "fiscal"
+   },
+   "probes": [
+    {
+     "type": "legal_test",
+     "question": "En droit administratif français, quel est le test juridique applicable pour whether the minister's appeal against the tribunal administratif's decision regarding tax reductions was timely and properly directed ? Nommez le test, ses éléments, et la jurisprudence de référence.",
+     "blind_answer": "En droit administratif français, le test juridique applicable pour déterminer si le recours du ministre contre la décision du tribunal administratif concernant les réductions d'impôts est recevable et régulièrement formé est le test de la \"recevabilité\" du recours, également appelé \"recevabilité du pourvoi\".\n\nSelon l'article L. 821-1 du Code de justice administrative, le pourvoi en cassation doit être formé dans les deux mois suivant la notification de la décision attaquée. Le test de recevabilité du recours comporte deux éléments principaux :\n\n1. La régularité de la forme : le recours doit être formé par écrit, signé et contresigné par un avocat, et doit indiquer les nom, prénoms et adresse du demandeur, ainsi que l'objet du recours (article R. 822-1 du Code de justice administrative).\n2. La régularité du délai : le recours doit être formé dans le délai de deux mois suivant la notification de la décision attaquée (article L. 821-1 du Code de justice administrative).\n\nLa jurisprudence de référence est notamment l'arrêt du Conseil d'État du 26 octobre 2001, \"Ministre de l'Économie et des Finances c/ Société anonyme des Établissements Kléber-Colombes\" (Rec. p. 543), qui a rappelé que le pourvoi en cassation doit être formé dans les deux mois suivant la notification de la décision attaquée et que la régularité du délai est une condition de recevabilité du recours.\n\nEn outre, l'arrêt du Conseil d'État du 15 mai 2013, \"Ministre du Budget c/ M. X\" (Rec. p. 241), a précisé que la notification de la décision attaquée doit être faite par lettre recommandée avec accusé de réception pour que le délai de recours commence à courir.\n\nEn résumé, le test de recevabilité du recours contre la décision du tribunal administratif concernant les réductions d'impôts comporte les éléments de régularité de la forme et de régularité du délai, et la jurisprudence de référence est notamment l'arrêt \"Ministre de l'Économie et des Finances c/ Société anonyme des Établissements Kléber-Colombes\" et l'arrêt \"Ministre du Budget c/ M. X\".",
+     "scores": {
+      "correct_test": {
+       "score": 2,
+       "reason": "Incorrect test identified, should be 'délai de recours en cassation' instead of 'recevabilité'"
+      },
+      "correct_citations": {
+       "score": 1,
+       "reason": "Hallucinated cases, no real or relevant cases cited"
+      },
+      "correct_statute": {
+       "score": 2,
+       "reason": "Incorrect or incomplete statute cited, should be 'article R. 821-1 du code de justice administrative' and other relevant statutes"
+      },
+      "specificity": {
+       "score": 4,
+       "reason": "Detailed explanation but incorrect test and citations"
+      },
+      "admitted_uncertainty": "no"
+     }
+    },
+    {
+     "type": "statute",
+     "question": "Que prévoit article R. 200-18 du livre des procédures fiscales en droit français ? Expliquez son objet et la manière dont le Conseil d'État l'applique.",
+     "blind_answer": "L'article R. 200-18 du livre des procédures fiscales prévoit les conditions dans lesquelles les contribuables peuvent demander un dégrèvement ou une réduction de leurs impôts. \n\nCet article fait partie du code des procédures fiscales et vise à encadrer les procédures de réclamation et de recours contre les décisions de l'administration fiscale. \n\nLe Conseil d'État, dans sa jurisprudence, a appliqué cet article notamment dans l'arrêt \"Ministre du Budget c/ M. X\" (CE, 13 octobre 2010, n° 304894), où il a précisé les conditions de recevabilité d'une demande de dégrèvement. \n\nCependant, je ne dispose pas d'informations suffisantes pour fournir une explication détaillée de l'application de cet article par le Conseil d'État dans tous les cas. Il conviendrait de consulter les commentaires doctrinaux et la jurisprudence récente pour avoir une vision plus complète de son application. \n\nEn tout état de cause, l'article R. 200-18 du livre des procédures fiscales est un élément important du droit fiscal français, et son application est soumise à l'interprétation du Conseil d'État et des autres juridictions administratives.",
+     "scores": {
+      "correct_test": {
+       "score": 1,
+       "reason": "The BLIND ANSWER does not identify the correct legal test, which is 'délai de recours en cassation' according to the GROUND TRUTH"
+      },
+      "correct_citations": {
+       "score": 1,
+       "reason": "The BLIND ANSWER cites a hallucinated case 'Ministre du Budget c/ M. X' (CE, 13 octobre 2010, n° 304894) that is not present in the GROUND TRUTH"
+      },
+      "correct_statute": {
+       "score": 5,
+       "reason": "The BLIND ANSWER correctly mentions 'article R. 200-18 du livre des procédures fiscales' as the relevant statute"
+      },
+      "specificity": {
+       "score": 2,
+       "reason": "The BLIND ANSWER provides some general information about the article, but lacks specific details about its application by the Conseil d'État"
+      },
+      "admitted_uncertainty": "yes"
+     }
+    },
+    {
+     "type": "procedural",
+     "question": "Quel est le contrôle exercé par le Conseil d'État en cassation sur les décisions des cours administratives d'appel en matière de fiscal ? Citez la jurisprudence applicable.",
+     "blind_answer": "Le Conseil d'État exerce un contrôle en cassation sur les décisions des cours administratives d'appel en matière de fiscalité, en vertu de l'article L. 821-1 du code de justice administrative. Ce contrôle porte sur la régularité de la procédure et la conformité des décisions aux règles de droit.\n\nEn matière de fiscalité, le Conseil d'État applique notamment le principe de l'interprétation stricte des textes fiscaux, comme énoncé dans l'arrêt \"Ministre du Budget c/ Sieur X...\" du 28 novembre 1962 (Rec. p. 552). Il vérifie également si les cours administratives d'appel ont commis une erreur de droit ou une erreur d'appréciation des faits, comme dans l'affaire \"Société anonyme des eaux minérales d'Évian\" du 13 juillet 1973 (Rec. p. 403).\n\nLe Conseil d'État peut également appliquer le test de la \"qualité de la motivation\" pour vérifier si la décision de la cour administrative d'appel est suffisamment motivée, comme dans l'arrêt \"Commune de Sète\" du 19 octobre 2005 (Rec. p. 444). En outre, il peut contrôler si la cour administrative d'appel a commis une erreur de qualification juridique, comme dans l'affaire \"Société anonyme des usines Renault\" du 15 mai 1987 (Rec. p. 143).\n\nEn résumé, le contrôle exercé par le Conseil d'État en cassation sur les décisions des cours administratives d'appel en matière de fiscalité est un contrôle de régularité et de conformité aux règles de droit, qui s'appuie sur une jurisprudence constante et des principes tels que l'interprétation stricte des textes fiscaux et la qualité de la motivation.",
+     "scores": {
+      "correct_test": {
+       "score": 2,
+       "reason": "The answer mentions the contrôle de régularité and conformité aux règles de droit, but does not specifically identify the 'délai de recours en cassation' as the correct legal test."
+      },
+      "correct_citations": {
+       "score": 1,
+       "reason": "The answer cites several cases, but they are not directly related to the 'délai de recours en cassation' and seem to be hallucinated for this specific question."
+      },
+      "correct_statute": {
+       "score": 2,
+       "reason": "The answer mentions article L. 821-1 du code de justice administrative, but the correct statute is article R. 821-1 du code de justice administrative, and other relevant statutes are not mentioned."
+      },
+      "specificity": {
+       "score": 4,
+       "reason": "The answer provides a detailed explanation of the contrôle exercé par le Conseil d'État, but lacks specificity regarding the 'délai de recours en cassation'."
+      },
+      "admitted_uncertainty": "no"
+     }
+    }
+   ]
+  },
+  {
+   "case_key": "470721",
+   "domain": "tax",
+   "ground_truth": {
+    "core_legal_issue": "L'application du 2 bis de l'article 39 quaterdecies du code général des impôts aux moins-values résultant de la cession de titres de participation",
+    "legal_test_name": "Définition des titres de participation",
+    "legal_test_source": "Code général des impôts et Autorité des normes comptables",
+    "key_statutes": [
+     "2 bis de l'article 39 quaterdecies du code général des impôts",
+     "article L. 761-1 du code de justice administrative"
+    ],
+    "key_cases_cited": [],
+    "court": "Conseil d'État",
+    "outcome": "Rejet du pourvoi",
+    "legal_domain": "fiscal"
+   },
+   "probes": [
+    {
+     "type": "legal_test",
+     "question": "En droit administratif français, quel est le test juridique applicable pour L'application du 2 bis de l'article 39 quaterdecies du code général des impôts aux moins-values résultant de la cession de titres de participation ? Nommez le test, ses éléments, et la jurisprudence de référence.",
+     "blind_answer": "Le test juridique applicable pour l'application du 2 bis de l'article 39 quaterdecies du code général des impôts aux moins-values résultant de la cession de titres de participation est le test de la \"participation\" ou \"titres de participation\", également connu sous le nom de \"test de l'article 39 quaterdecies\".\n\nSelon l'article 39 quaterdecies du code général des impôts, les moins-values résultant de la cession de titres de participation sont exonérées d'impôt si certaines conditions sont remplies. Le test de la participation vise à déterminer si les titres cédés constituent des titres de participation au sens de l'article 39 quaterdecies.\n\nLes éléments du test de la participation sont les suivants :\n\n1. La détention d'au moins 5 % du capital de la société cédée (article 39 quaterdecies, 2 bis du code général des impôts) ;\n2. La participation doit être détenue depuis au moins 2 ans (article 39 quaterdecies, 2 bis du code général des impôts) ;\n3. La société cédée doit être une société soumise à l'impôt sur les sociétés (article 39 quaterdecies, 2 bis du code général des impôts).\n\nLa jurisprudence de référence est notamment l'arrêt du Conseil d'État du 22 février 2006, \"Société Financière de la Côte d'Azur\" (n° 264815), qui a précisé les conditions d'application du test de la participation.\n\nEn outre, l'arrêt du Conseil d'État du 15 mai 2013, \"Société Groupe Partouche\" (n° 342712), a confirmé que le test de la participation doit être apprécié au regard des éléments précités.\n\nJe tiens à préciser que la jurisprudence peut évoluer, et il est toujours recommandé de consulter les dernières décisions et les textes législatifs en vigueur pour obtenir une interprétation à jour du droit applicable.",
+     "scores": {
+      "correct_test": {
+       "score": 5,
+       "reason": "The BLIND ANSWER correctly identifies the 'test de la participation' or 'test de l'article 39 quaterdecies' as the applicable legal test."
+      },
+      "correct_citations": {
+       "score": 1,
+       "reason": "The BLIND ANSWER cites non-existent or hallucinated cases, such as 'Société Financière de la Côte d'Azur' and 'Société Groupe Partouche', which are not found in the GROUND TRUTH."
+      },
+      "correct_statute": {
+       "score": 5,
+       "reason": "The BLIND ANSWER correctly cites the relevant statute, specifically the '2 bis de l'article 39 quaterdecies du code général des impôts'."
+      },
+      "specificity": {
+       "score": 5,
+       "reason": "The BLIND ANSWER provides specific and detailed elements of the test, including the percentage of capital detention and the duration of participation."
+      },
+      "admitted_uncertainty": "yes"
+     }
+    },
+    {
+     "type": "statute",
+     "question": "Que prévoit 2 bis de l'article 39 quaterdecies du code général des impôts en droit français ? Expliquez son objet et la manière dont le Conseil d'État l'applique.",
+     "blind_answer": "L'article 39 quaterdecies du code général des impôts, et plus précisément son 2 bis, prévoit des dispositions spécifiques relatives à la déduction des charges de recherche et de développement (R&D) pour les entreprises. \n\nCet article vise à encourager les activités de recherche et de développement en France en permettant aux entreprises de déduire une partie de leurs dépenses de R&D de leur bénéfice imposable. Le 2 bis de cet article précise les conditions et les modalités de cette déduction, notamment en ce qui concerne les dépenses éligibles et les plafonds de déduction.\n\nLe Conseil d'État, dans sa jurisprudence, a eu l'occasion d'appliquer et d'interpréter ces dispositions, notamment pour déterminer les dépenses qui peuvent être considérées comme des dépenses de R&D éligibles à la déduction. Par exemple, dans l'arrêt \"Ministre des Finances et des Comptes publics c/ Société X\" (CE, 10 octobre 2018, n° 417709), le Conseil d'État a précisé que les dépenses de R&D doivent être directement liées à des projets de recherche et de développement pour être éligibles à la déduction.\n\nIl est important de noter que l'application de ces dispositions peut varier en fonction des spécificités de chaque cas et que le Conseil d'État peut être amené à adapter son interprétation en fonction de l'évolution de la législation et de la jurisprudence. \n\nEn résumé, le 2 bis de l'article 39 quaterdecies du code général des impôts vise à encourager les activités de R&D en France en permettant la déduction de certaines dépenses, et le Conseil d'État applique ces dispositions en tenant compte des spécificités de chaque cas et de l'évolution de la législation et de la jurisprudence.",
+     "scores": {
+      "correct_test": {
+       "score": 1,
+       "reason": "The BLIND ANSWER incorrectly identifies the legal test as related to research and development (R&D) deductions, whereas the GROUND TRUTH indicates it is about the definition of participation titles."
+      },
+      "correct_citations": {
+       "score": 1,
+       "reason": "The BLIND ANSWER cites a hallucinated case (Ministre des Finances et des Comptes publics c/ Société X) that does not exist in the GROUND TRUTH."
+      },
+      "correct_statute": {
+       "score": 1,
+       "reason": "Although the BLIND ANSWER correctly cites the 2 bis de l'article 39 quaterdecies du code général des impôts, it misinterprets its purpose."
+      },
+      "specificity": {
+       "score": 2,
+       "reason": "The BLIND ANSWER provides some specific details about the application of the statute, but they are incorrect due to the misinterpretation of the statute's purpose."
+      },
+      "admitted_uncertainty": "no"
+     }
+    },
+    {
+     "type": "procedural",
+     "question": "Quel est le contrôle exercé par le Conseil d'État en cassation sur les décisions des cours administratives d'appel en matière de fiscal ? Citez la jurisprudence applicable.",
+     "blind_answer": "Le Conseil d'État exerce un contrôle en cassation sur les décisions des cours administratives d'appel en matière de fiscalité, en vertu de l'article L. 821-1 du code de justice administrative. Ce contrôle porte sur la régularité de la procédure et sur l'interprétation des règles de droit.\n\nEn matière de fiscalité, le Conseil d'État applique notamment le principe de l'interprétation stricte des textes fiscaux, comme il ressort de l'arrêt \"Société des produits chimiques Ugine\" du 28 février 1964 (Rec. p. 143). Le Conseil d'État vérifie également si les cours administratives d'appel ont commis une erreur de droit ou une erreur d'appréciation des faits, comme dans l'affaire \"Ministre c/ Société anonyme des eaux minérales d'Évian\" du 13 juillet 1973 (Rec. p. 552).\n\nEn outre, le Conseil d'État peut également exercer un contrôle sur la motivation des décisions des cours administratives d'appel, en application de l'article L. 211-2 du code de justice administrative, comme il ressort de l'arrêt \"Commune de Sète\" du 22 février 2002 (Rec. p. 55).\n\nIl convient de noter que le Conseil d'État peut également appliquer le test de la \"question nouvelle\" pour déterminer si une question de droit doit être renvoyée au Conseil constitutionnel, comme dans l'affaire \"Société Arcelor\" du 8 février 2006 (Rec. p. 34). Cependant, je ne suis pas certain que ce test soit applicable dans tous les cas de contrôle en cassation en matière de fiscalité.",
+     "scores": {
+      "correct_test": {
+       "score": 4,
+       "reason": "The answer identifies the correct legal test for the Conseil d'État's control in cassation, but lacks a direct connection to the specific ground truth about titres de participation"
+      },
+      "correct_citations": {
+       "score": 5,
+       "reason": "The answer cites real and relevant cases, such as the 'Société des produits chimiques Ugine' and 'Ministre c/ Société anonyme des eaux minérales d'Évian'"
+      },
+      "correct_statute": {
+       "score": 4,
+       "reason": "The answer mentions the correct code of justice administrative, but does not directly reference the specific statutes mentioned in the ground truth, such as '2 bis de l'article 39 quaterdecies du code général des impôts'"
+      },
+      "specificity": {
+       "score": 5,
+       "reason": "The answer provides specific and detailed information about the Conseil d'État's control in cassation, including the principles and cases applied"
+      },
+      "admitted_uncertainty": "yes"
+     }
+    }
+   ]
+  },
+  {
+   "case_key": "449049",
+   "domain": "social",
+   "ground_truth": {
+    "core_legal_issue": "Interprétation de l'article 4 de la directive 89/105/CEE du Conseil et son application à la fixation du prix maximal de vente aux établissements de santé de certains médicaments",
+    "legal_test_name": "Notion de 'blocage du prix de tous les médicaments ou de certaines catégories de médicaments'",
+    "legal_test_source": "Directive 89/105/CEE du Conseil du 21 décembre 1988",
+    "key_statutes": [
+     "Article L. 162-16-4-3 du code de la sécurité sociale",
+     "Article R. 163-11-2 du code de la sécurité sociale",
+     "Article L. 5123-2 du code de la santé publique",
+     "Article L. 162-22-6 du code de la sécurité sociale",
+     "Article L. 165-2 du code de la sécurité sociale"
+    ],
+    "key_cases_cited": [
+     "Arrêt n° C-20/22 du 22 décembre 2022 de la Cour de justice de l'Union européenne"
+    ],
+    "court": "Conseil d'État",
+    "outcome": "Rejet de la requête du syndicat Les Entreprises du médicament",
+    "legal_domain": "sécurité sociale"
+   },
+   "probes": [
+    {
+     "type": "legal_test",
+     "question": "En droit administratif français, quel est le test juridique applicable pour Interprétation de l'article 4 de la directive 89/105/CEE du Conseil et son application à la fixation du prix maximal de vente aux établissements de santé de certains médicaments ? Nommez le test, ses éléments, et la jurisprudence de référence.",
+     "blind_answer": "Le test juridique applicable pour l'interprétation de l'article 4 de la directive 89/105/CEE du Conseil et son application à la fixation du prix maximal de vente aux établissements de santé de certains médicaments est le test de la \"méthode objective de fixation des prix\" (MOFP).\n\nCe test a été développé par la Cour de justice de l'Union européenne (CJUE) dans l'affaire C-229/00, Commission des Communautés européennes contre République française, où il a été établi que les États membres doivent fixer les prix des médicaments de manière objective, transparente et non discriminatoire.\n\nLes éléments clés de ce test sont :\n\n1. La fixation des prix doit être basée sur des critères objectifs, tels que les coûts de production, les prix pratiqués dans d'autres États membres et les caractéristiques du médicament.\n2. La méthode de fixation des prix doit être transparente, c'est-à-dire que les critères et les modalités de fixation des prix doivent être clairement définis et accessibles aux parties intéressées.\n3. La fixation des prix ne doit pas être discriminatoire, c'est-à-dire qu'elle ne doit pas favoriser ou défavoriser certaines entreprises ou certains médicaments par rapport à d'autres.\n\nLa jurisprudence de référence est notamment l'arrêt de la CJUE du 16 octobre 2003, Commission des Communautés européennes contre République française (C-229/00), ainsi que l'arrêt du Conseil d'État français du 27 juillet 2011, Ministre de la santé et des sports contre Laboratoires Servier (n° 304806).\n\nEn outre, la loi française du 13 août 2004 relative à l'assurance maladie, notamment son article L. 162-16-4 du code de la sécurité sociale, transpose les dispositions de la directive 89/105/CEE et met en œuvre la méthode objective de fixation des prix pour les médicaments remboursables par la sécurité sociale.",
+     "scores": {
+      "correct_test": {
+       "score": 1,
+       "reason": "The correct test is 'Notion de 'blocage du prix de tous les médicaments ou de certaines catégories de médicaments'', not 'méthode objective de fixation des prix'"
+      },
+      "correct_citations": {
+       "score": 1,
+       "reason": "The cited cases are not relevant to the correct test, and the correct case is Arrêt n° C-20/22 du 22 décembre 2022 de la Cour de justice de l'Union européenne"
+      },
+      "correct_statute": {
+       "score": 1,
+       "reason": "The cited statutes are not entirely accurate, and the correct statutes include Article L. 162-16-4-3 du code de la sécurité sociale, Article R. 163-11-2 du code de la sécurité sociale, Article L. 5123-2 du code de la santé publique, Article L. 162-22-6 du code de la sécurité sociale, and Article L. 165-2 du code de la sécurité sociale"
+      },
+      "specificity": {
+       "score": 2,
+       "reason": "The answer provides some details, but not specific to the correct test and relevant statutes"
+      },
+      "admitted_uncertainty": "no"
+     }
+    },
+    {
+     "type": "statute",
+     "question": "Que prévoit Article L. 162-16-4-3 du code de la sécurité sociale en droit français ? Expliquez son objet et la manière dont le Conseil d'État l'applique.",
+     "blind_answer": "L'article L. 162-16-4-3 du code de la sécurité sociale prévoit les règles relatives à la fixation des tarifs des prestations et des produits de santé. Plus précisément, cet article habilite la Haute Autorité de santé (HAS) à émettre des recommandations pour la fixation de ces tarifs, en tenant compte notamment de l'efficacité et de la sécurité des produits et prestations de santé.\n\nL'objet de cet article est de permettre une régulation efficace des dépenses de santé et de garantir que les tarifs des prestations et produits de santé soient fixés de manière transparente et équitable. Le Conseil d'État, dans sa jurisprudence, a appliqué cet article en vérifiant que les décisions de fixation des tarifs soient prises dans le respect des principes de légalité et de proportionnalité, comme le prévoit l'article L. 241-1 du code de justice administrative.\n\nPar exemple, dans l'arrêt \"Syndicat des biologistes\" du 22 juin 2016 (n° 386831), le Conseil d'État a annulé une décision de la HAS qui avait fixé des tarifs pour certaines prestations de biologie médicale sans respecter les règles de procédure prévues par l'article L. 162-16-4-3. Le Conseil d'État a ainsi rappelé l'importance de respecter les règles de procédure et de motivation pour garantir la légalité des décisions de fixation des tarifs.\n\nEn outre, le Conseil d'État a également appliqué le test de proportionnalité pour vérifier que les décisions de fixation des tarifs soient proportionnées aux objectifs poursuivis, comme le prévoit l'article L. 241-1 du code de justice administrative. Par exemple, dans l'arrêt \"Fédération des syndicats de médecins\" du 13 juillet 2018 (n° 418611), le Conseil d'État a annulé une décision de la HAS qui avait fixé des tarifs pour certaines prestations médicales sans démontrer que ces tarifs étaient proportionnés aux coûts réels des prestations.\n\nEn résumé, l'article L. 162-16-4-3 du code de la sécurité sociale prévoit les règles relatives à la fixation des tarifs des prestations et des produits de santé, et le Conseil d'État applique cet article en vérifiant que les décisions de fixation des tarifs soient prises dans le respect des principes de légalité, de proportionnalité et de motivation.",
+     "scores": {
+      "correct_test": {
+       "score": 2,
+       "reason": "The BLIND ANSWER does not accurately reflect the notion of 'blocage du prix de tous les médicaments ou de certaines catégories de médicaments' as stated in the GROUND TRUTH"
+      },
+      "correct_citations": {
+       "score": 1,
+       "reason": "The BLIND ANSWER cites non-existent or unrelated cases, such as 'Syndicat des biologistes' and 'Fédération des syndicats de médecins', which are not found in the GROUND TRUTH"
+      },
+      "correct_statute": {
+       "score": 5,
+       "reason": "The BLIND ANSWER correctly identifies Article L. 162-16-4-3 du code de la sécurité sociale as the relevant statute"
+      },
+      "specificity": {
+       "score": 4,
+       "reason": "The BLIND ANSWER provides a detailed explanation of the article's objet and the manner in which the Conseil d'État applies it, but lacks specific references to the GROUND TRUTH"
+      },
+      "admitted_uncertainty": "no"
+     }
+    },
+    {
+     "type": "citation_recall",
+     "question": "Qu'a décidé le Conseil d'État dans l'affaire Arrêt n° C-20/22 du 22 décembre 2022 de la Cour de justice de l'Union européenne ? Expliquez la solution retenue et sa portée.",
+     "blind_answer": "Je suis désolé, mais je ne peux pas fournir une réponse précise à cette question car l'arrêt que vous mentionnez (C-20/22 du 22 décembre 2022) ne semble pas être un arrêt du Conseil d'État français, mais plutôt de la Cour de justice de l'Union européenne. \n\nCependant, je peux vous dire que pour connaître la solution retenue et sa portée, il faudrait consulter l'arrêt lui-même et analyser les faits, la procédure et les motifs de la décision. La Cour de justice de l'Union européenne statue sur des affaires relatives au droit de l'Union européenne, et ses arrêts sont importants pour l'interprétation et l'application du droit européen.\n\nSi vous cherchez des informations sur un arrêt spécifique du Conseil d'État français, je serais ravi de vous aider, en vous référant à des arrêts célèbres tels que l'arrêt \"Heyriès\" (CE, 28 mai 1954, Heyriès, Rec. p. 308) ou l'arrêt \"Rubin de Servens\" (CE, 22 mars 1968, Rubin de Servens, Rec. p. 143), qui sont des références importantes en droit administratif français. \n\nEn tout état de cause, pour une question précise sur un arrêt spécifique, il est préférable de consulter la base de données Légifrance ou le site internet du Conseil d'État pour obtenir des informations à jour et précises.",
+     "scores": {
+      "correct_test": {
+       "score": 1,
+       "reason": "The BLIND ANSWER does not identify the correct legal test related to the notion of 'blocage du prix de tous les médicaments ou de certaines catégories de médicaments'"
+      },
+      "correct_citations": {
+       "score": 1,
+       "reason": "The BLIND ANSWER mentions an incorrect type of court for the cited case and does not provide relevant cases"
+      },
+      "correct_statute": {
+       "score": 1,
+       "reason": "The BLIND ANSWER does not mention the correct statutes related to the case"
+      },
+      "specificity": {
+       "score": 1,
+       "reason": "The BLIND ANSWER lacks specific and detailed information about the case and its solution"
+      },
+      "admitted_uncertainty": "yes"
+     }
+    },
+    {
+     "type": "procedural",
+     "question": "Quel est le contrôle exercé par le Conseil d'État en cassation sur les décisions des cours administratives d'appel en matière de sécurité sociale ? Citez la jurisprudence applicable.",
+     "blind_answer": "Le Conseil d'État exerce un contrôle de cassation sur les décisions des cours administratives d'appel en matière de sécurité sociale, en vertu de l'article L. 821-1 du code de justice administrative. Ce contrôle porte sur la régularité de la procédure et la conformité des décisions aux règles de droit.\n\nDans ce cadre, le Conseil d'État applique notamment la théorie de la \"question de droit\" (arrêt du 24 mars 2006, Mme Pérez, n° 274051), qui permet de contrôler si les cours administratives d'appel ont commis une erreur de droit ou une erreur de fait.\n\nLe Conseil d'État peut également appliquer le test de la \"méconnaissance de l'étendue de sa compétence\" (arrêt du 13 juillet 2016, M. B., n° 386851), pour vérifier si les cours administratives d'appel ont outrepassé leurs pouvoirs ou omis de se prononcer sur un point de droit.\n\nEn outre, le Conseil d'État peut exercer son contrôle sur la base de l'article L. 821-2 du code de justice administrative, qui lui permet de casser les décisions des cours administratives d'appel si elles sont entachées d'une erreur de droit ou d'une erreur de fait.\n\nEn matière de sécurité sociale, le Conseil d'État a notamment appliqué ces principes dans l'arrêt du 11 mai 2011, M. X., n° 304845, relatif à la détermination de la pension de retraite d'un fonctionnaire.\n\nJe suis à votre disposition pour fournir plus de précisions si nécessaire.",
+     "scores": {
+      "correct_test": {
+       "score": 1,
+       "reason": "The BLIND ANSWER does not identify the correct legal test related to the security social matter, which involves the 'blocage du prix de tous les médicaments ou de certaines catégories de médicaments'"
+      },
+      "correct_citations": {
+       "score": 1,
+       "reason": "The BLIND ANSWER cites irrelevant cases and does not mention the Directive 89/105/CEE du Conseil du 21 décembre 1988 or the specific articles of the code de la sécurité sociale and code de la santé publique mentioned in the GROUND TRUTH"
+      },
+      "correct_statute": {
+       "score": 1,
+       "reason": "The BLIND ANSWER mentions the wrong articles of the code de justice administrative and does not cite the relevant statutes from the code de la sécurité sociale and code de la santé publique"
+      },
+      "specificity": {
+       "score": 2,
+       "reason": "The BLIND ANSWER provides some general information about the control exercised by the Conseil d'État, but lacks specificity regarding the security social matter"
+      },
+      "admitted_uncertainty": "no"
+     }
+    }
+   ]
+  },
+  {
+   "case_key": "471257",
+   "domain": "social",
+   "ground_truth": {
+    "core_legal_issue": "whether a service d'aide et d'accompagnement à domicile intervening on behalf of beneficiaries of the allocation personnalisée d'autonomie or the prestation de compensation du handicap should be considered as making a call to public financing within the meaning of article L. 313-1-1 of the code of social action and families",
+    "legal_test_name": "financement public",
+    "legal_test_source": "article L. 313-1-1 du code de l'action sociale et des familles",
+    "key_statutes": [
+     "article L. 312-1 du code de l'action sociale et des familles",
+     "article L. 313-1-1 du code de l'action sociale et des familles",
+     "article L. 313-4 du code de l'action sociale et des familles",
+     "article L. 313-6 du code de l'action sociale et des familles",
+     "article L. 313-8 du code de l'action sociale et des familles",
+     "article 47 de la loi du 28 décembre 2015",
+     "article L. 761-1 du code de justice administrative"
+    ],
+    "key_cases_cited": [],
+    "court": "Conseil d'État",
+    "outcome": "annulation de l'arrêt de la cour administrative d'appel de Toulouse",
+    "legal_domain": "aide sociale"
+   },
+   "probes": [
+    {
+     "type": "legal_test",
+     "question": "En droit administratif français, quel est le test juridique applicable pour whether a service d'aide et d'accompagnement à domicile intervening on behalf of beneficiaries of the allocation personnalisée d'autonomie or the prestation de compensation du handicap should be considered as making a call to public financing within the meaning of article L. 313-1-1 of the code of social action and families ? Nommez le test, ses éléments, et la jurisprudence de référence.",
+     "blind_answer": "Le test applicable est le test de la \"prise en charge publique\" ou \"financement public\" tel que défini par la jurisprudence du Conseil d'État, notamment dans l'arrêt \"Société Humanis\" (CE, 10 octobre 2018, n° 417731). \n\nSelon ce test, un service d'aide et d'accompagnement à domicile est considéré comme faisant appel à un financement public si les conditions suivantes sont réunies : \n\n1. Le service est financé en tout ou partie par des fonds publics, tels que l'allocation personnalisée d'autonomie (APA) ou la prestation de compensation du handicap (PCH) ;\n2. Le service est fourni dans le cadre d'une mission de service public, telle que définie par l'article L. 116-1 du code de l'action sociale et des familles ;\n3. Le service est soumis à des règles et des contrôles publics, tels que ceux prévus par les articles L. 313-1 et suivants du code de l'action sociale et des familles.\n\nLa jurisprudence du Conseil d'État a précisé que le test de la prise en charge publique doit être apprécié au regard des spécificités de chaque service et de chaque bénéficiaire (CE, 27 juillet 2016, n° 386831). \n\nEn outre, l'article L. 313-1-1 du code de l'action sociale et des familles précise que les services d'aide et d'accompagnement à domicile qui font appel à un financement public doivent respecter les conditions fixées par les autorités compétentes, notamment en matière de tarification et de contrôle.\n\nJe ne dispose pas d'informations supplémentaires sur d'autres tests ou éléments spécifiques qui pourraient être applicables dans ce contexte.",
+     "scores": {
+      "correct_test": {
+       "score": 5,
+       "reason": "The correct legal test 'financement public' or 'prise en charge publique' is identified"
+      },
+      "correct_citations": {
+       "score": 4,
+       "reason": "Relevant cases are cited, but their accuracy and relevance could be further verified"
+      },
+      "correct_statute": {
+       "score": 4,
+       "reason": "The correct statute article L. 313-1-1 is mentioned, but other relevant statutes could be more explicitly detailed"
+      },
+      "specificity": {
+       "score": 5,
+       "reason": "The answer provides specific and detailed elements of the test, including conditions and relevant statutes"
+      },
+      "admitted_uncertainty": "yes"
+     }
+    },
+    {
+     "type": "statute",
+     "question": "Que prévoit article L. 312-1 du code de l'action sociale et des familles en droit français ? Expliquez son objet et la manière dont le Conseil d'État l'applique.",
+     "blind_answer": "L'article L. 312-1 du code de l'action sociale et des familles prévoit que les établissements et services sociaux et médico-sociaux sont soumis à autorisation, à agrément ou à déclaration, selon les cas. \n\nSon objet est de garantir la qualité et la sécurité des prestations fournies par ces établissements et services, ainsi que de protéger les usagers. \n\nLe Conseil d'État applique cet article en vérifiant si les conditions d'autorisation, d'agrément ou de déclaration sont remplies, notamment en ce qui concerne les exigences de qualification et de compétence du personnel, les normes de fonctionnement et les conditions d'accueil des usagers. \n\nPar exemple, dans l'arrêt \"Commune de Grande-Synthe\" (CE, 10 octobre 2012, n° 335522), le Conseil d'État a jugé qu'un établissement d'hébergement pour personnes âgées devait être autorisé en vertu de l'article L. 312-1, car il fournissait des prestations de soins et d'accompagnement à ses résidents. \n\nEn outre, le Conseil d'État a également précisé que l'autorisation prévue par l'article L. 312-1 est une décision administrative qui doit être motivée et qui peut faire l'objet d'un recours pour excès de pouvoir (CE, 22 juin 2011, n° 304845). \n\nEn résumé, l'article L. 312-1 du code de l'action sociale et des familles est un outil essentiel pour garantir la qualité et la sécurité des prestations fournies par les établissements et services sociaux et médico-sociaux, et le Conseil d'État veille à son application stricte dans le cadre de ses contrôles.",
+     "scores": {
+      "correct_test": {
+       "score": 4,
+       "reason": "The answer provides a correct general understanding of the article's purpose, but lacks specific details on the legal test for financement public"
+      },
+      "correct_citations": {
+       "score": 1,
+       "reason": "The cases cited are not real or relevant to the ground truth"
+      },
+      "correct_statute": {
+       "score": 5,
+       "reason": "The answer correctly identifies the statute article L. 312-1 du code de l'action sociale et des familles"
+      },
+      "specificity": {
+       "score": 4,
+       "reason": "The answer provides specific details on the article's objet and the Conseil d'État's application, but lacks specific examples from the ground truth"
+      },
+      "admitted_uncertainty": "no"
+     }
+    },
+    {
+     "type": "procedural",
+     "question": "Quel est le contrôle exercé par le Conseil d'État en cassation sur les décisions des cours administratives d'appel en matière de aide sociale ? Citez la jurisprudence applicable.",
+     "blind_answer": "Le Conseil d'État exerce un contrôle de cassation sur les décisions des cours administratives d'appel en matière d'aide sociale, en vertu de l'article L. 821-1 du code de justice administrative. Ce contrôle porte sur la régularité de la procédure et sur l'interprétation des règles de droit applicables.\n\nEn matière d'aide sociale, le Conseil d'État a notamment appliqué le principe de l'office du juge, tel que défini par l'arrêt \"Ternon\" du 26 octobre 2001 (n° 233256), qui impose au juge d'examiner d'office les moyens de droit susceptibles de fonder la décision.\n\nLe Conseil d'État a également appliqué la théorie de l'erreur de droit, telle que définie par l'arrêt \"Dame D.\" du 24 mars 2006 (n° 264738), qui permet d'annuler une décision pour erreur de droit lorsqu'elle est entachée d'une erreur d'interprétation ou d'application des règles de droit.\n\nEn outre, le Conseil d'État a précisé, dans l'arrêt \"Mme B.\" du 13 juillet 2011 (n° 304806), que le juge de l'aide sociale doit prendre en compte les circonstances particulières de l'espèce et appliquer les règles de droit de manière concrète et individualisée.\n\nEnfin, il convient de citer l'article L. 134-1 du code de l'action sociale et des familles, qui définit les principes généraux de l'aide sociale et impose aux autorités compétentes de prendre en compte les besoins et les ressources de la personne ou de la famille bénéficiaire.\n\nJe ne suis pas en mesure de citer d'autres arrêts ou textes spécifiques sans plus de précisions sur la question posée.",
+     "scores": {
+      "correct_test": {
+       "score": 2,
+       "reason": "The answer does not identify the correct legal test, which is 'financement public' as per the ground truth."
+      },
+      "correct_citations": {
+       "score": 2,
+       "reason": "The answer cites some real cases, but they are not directly relevant to the question about the control exercised by the Conseil d'État in cassation on decisions of the cours administratives d'appel in matters of aid social, and does not cite the specific statutes mentioned in the ground truth."
+      },
+      "correct_statute": {
+       "score": 1,
+       "reason": "The answer does not cite the correct statutes, such as article L. 313-1-1 du code de l'action sociale et des familles, as mentioned in the ground truth."
+      },
+      "specificity": {
+       "score": 3,
+       "reason": "The answer provides some specific details about the control exercised by the Conseil d'État, but lacks specificity regarding the exact legal framework applicable to aid social."
+      },
+      "admitted_uncertainty": "yes"
+     }
+    }
+   ]
+  },
+  {
+   "case_key": "472202",
+   "domain": "social",
+   "ground_truth": {
+    "core_legal_issue": "whether the tribunal administratif has jurisdiction to hear a claim regarding the annulment of a title of receipt for the recovery of an overpayment of minimum income benefit",
+    "legal_test_name": "competence de la juridiction administrative",
+    "legal_test_source": "code de justice administrative",
+    "key_statutes": [
+     "article L. 262-39 du code de l'action sociale et des familles",
+     "article L. 262-42 du code de l'action sociale et des familles",
+     "article L. 821-2 du code de justice administrative",
+     "article L. 761-1 du code de justice administrative"
+    ],
+    "key_cases_cited": [],
+    "court": "Conseil d'État",
+    "outcome": "the Conseil d'État annuls the judgment of the tribunal administratif and the title of receipt, and orders the collectivité territoriale de Guyane to pay 4,500 euros to Mme A",
+    "legal_domain": "aide sociale"
+   },
+   "probes": [
+    {
+     "type": "legal_test",
+     "question": "En droit administratif français, quel est le test juridique applicable pour whether the tribunal administratif has jurisdiction to hear a claim regarding the annulment of a title of receipt for the recovery of an overpayment of minimum income benefit ? Nommez le test, ses éléments, et la jurisprudence de référence.",
+     "blind_answer": "Le test juridique applicable pour déterminer si le tribunal administratif a compétence pour entendre une demande d'annulation d'un titre de perception pour le recouvrement d'un indu de minimum vieillesse est le test de la \"pleine juridiction\" ou \"juridiction de pleine compétence\" (article L. 21-1 du code de justice administrative).\n\nSelon ce test, le tribunal administratif doit vérifier si la demande d'annulation du titre de perception relève de sa compétence en vérifiant les éléments suivants :\n\n1. La qualité de la personne qui demande l'annulation (article L. 21-1 du code de justice administrative) ;\n2. La nature de la décision attaquée (dans ce cas, le titre de perception) ;\n3. L'objet de la demande (l'annulation du titre de perception) ;\n\nLa jurisprudence de référence est l'arrêt du Conseil d'État du 23 mai 1956, \"Société des produits laitiers 'La Fleurette'\", qui a établi le principe de la pleine juridiction du juge administratif en matière de recouvrement des créances publiques.\n\nEn outre, l'article L. 142-1 du code de la sécurité sociale précise que les litiges relatifs au recouvrement des prestations sociales, y compris les minimum vieillesse, relèvent de la compétence du tribunal administratif.\n\nJe suis à peu près sûr de ma réponse, mais je tiens à préciser que la jurisprudence et la législation en matière de droit administratif français sont complexes et en constante évolution, il est donc possible que des éléments supplémentaires ou des précisions soient nécessaires pour une réponse plus précise.",
+     "scores": {
+      "correct_test": {
+       "score": 2,
+       "reason": "Incorrect legal test identified, the correct test is 'competence de la juridiction administrative'"
+      },
+      "correct_citations": {
+       "score": 1,
+       "reason": "Hallucinated cases, no real or relevant cases cited"
+      },
+      "correct_statute": {
+       "score": 2,
+       "reason": "Incorrect statute/section, the correct statutes are articles L. 262-39, L. 262-42, L. 821-2, and L. 761-1"
+      },
+      "specificity": {
+       "score": 4,
+       "reason": "The answer provides some specific details, but lacks the correct legal test and citations"
+      },
+      "admitted_uncertainty": "yes"
+     }
+    },
+    {
+     "type": "statute",
+     "question": "Que prévoit article L. 262-39 du code de l'action sociale et des familles en droit français ? Expliquez son objet et la manière dont le Conseil d'État l'applique.",
+     "blind_answer": "L'article L. 262-39 du code de l'action sociale et des familles prévoit les conditions dans lesquelles le revenu de solidarité active (RSA) peut être suspendu ou supprimé. \n\nCet article précise que le RSA peut être suspendu ou supprimé en cas de non-respect par le bénéficiaire des obligations définies à l'article L. 262-27 du même code, notamment en cas de non-participation à des actions d'insertion ou de non-recherche d'emploi.\n\nLe Conseil d'État a eu l'occasion de se prononcer sur l'application de cet article, notamment dans l'arrêt \"Ministre des solidarités et de la santé c/ Mme X\" (CE, 10 octobre 2018, n° 418191), où il a rappelé que la suspension ou la suppression du RSA doit être motivée et proportionnée à la gravité du non-respect des obligations.\n\nEn outre, le Conseil d'État a également précisé que la décision de suspendre ou de supprimer le RSA doit être prise après que le bénéficiaire a été informé de la procédure et a pu présenter ses observations, conformément au principe du contradictoire (CE, 22 mai 2019, n° 426941).\n\nEn résumé, l'article L. 262-39 du code de l'action sociale et des familles prévoit les conditions de suspension ou de suppression du RSA en cas de non-respect des obligations, et le Conseil d'État veille à ce que ces décisions soient prises de manière motivée, proportionnée et respectueuse du principe du contradictoire.",
+     "scores": {
+      "correct_test": {
+       "score": 2,
+       "reason": "The answer does not identify the correct legal test, which is the competence of the administrative jurisdiction, as stated in the ground truth."
+      },
+      "correct_citations": {
+       "score": 1,
+       "reason": "The answer provides hallucinated cases and does not cite real, relevant cases as required by the ground truth."
+      },
+      "correct_statute": {
+       "score": 4,
+       "reason": "The answer correctly identifies the relevant statute, article L. 262-39 du code de l'action sociale et des familles, but does not mention other relevant statutes as stated in the ground truth."
+      },
+      "specificity": {
+       "score": 5,
+       "reason": "The answer provides a detailed explanation of the article's content and the Conseil d'État's application of it."
+      },
+      "admitted_uncertainty": "no"
+     }
+    },
+    {
+     "type": "procedural",
+     "question": "Quel est le contrôle exercé par le Conseil d'État en cassation sur les décisions des cours administratives d'appel en matière de aide sociale ? Citez la jurisprudence applicable.",
+     "blind_answer": "Le Conseil d'État exerce un contrôle de cassation sur les décisions des cours administratives d'appel en matière d'aide sociale, en vertu de l'article L. 821-1 du code de justice administrative. Ce contrôle porte sur la régularité de la procédure et la conformité des décisions aux règles de droit, notamment aux dispositions du code de l'action sociale et des familles.\n\nDans ce cadre, le Conseil d'État applique notamment le test de l'erreur d'appréciation, tel que défini par l'arrêt \"Ternon\" du 26 octobre 2001 (n° 233613), qui permet de vérifier si la cour administrative d'appel a commis une erreur d'appréciation des faits ou des circonstances de l'espèce.\n\nLe Conseil d'État peut également exercer un contrôle sur la conformité des décisions aux principes généraux du droit, tels que le principe d'égalité de traitement, comme il l'a rappelé dans l'arrêt \"Département de la Seine-Maritime\" du 13 juillet 2016 (n° 386831).\n\nEn outre, le Conseil d'État peut annuler les décisions des cours administratives d'appel si elles sont entachées d'une erreur de droit, notamment si elles méconnaissent les dispositions de l'article L. 121-1 du code de l'action sociale et des familles, qui définit les conditions d'octroi de l'aide sociale.\n\nEn résumé, le contrôle exercé par le Conseil d'État en cassation sur les décisions des cours administratives d'appel en matière d'aide sociale est un contrôle de régularité et de conformité aux règles de droit, qui peut aboutir à l'annulation des décisions si elles sont entachées d'irrégularités ou d'erreurs de droit.",
+     "scores": {
+      "correct_test": {
+       "score": 4,
+       "reason": "The answer correctly identifies the competence of the administrative jurisdiction, but does not explicitly mention the 'competence de la juridiction administrative' as stated in the ground truth."
+      },
+      "correct_citations": {
+       "score": 1,
+       "reason": "The answer cites non-existent or irrelevant cases, such as 'Ternon' and 'Département de la Seine-Maritime', which are not provided in the ground truth."
+      },
+      "correct_statute": {
+       "score": 2,
+       "reason": "The answer mentions article L. 821-1, which is close to the correct article L. 821-2, but does not mention the other relevant statutes provided in the ground truth."
+      },
+      "specificity": {
+       "score": 5,
+       "reason": "The answer provides a detailed explanation of the control exercised by the Conseil d'État and the applicable legal framework."
+      },
+      "admitted_uncertainty": "no"
+     }
+    }
+   ]
+  },
+  {
+   "case_key": "474699",
+   "domain": "social",
+   "ground_truth": {
+    "core_legal_issue": "Opposabilité des délais de recours contre une décision administrative implicite de rejet",
+    "legal_test_name": "Article L. 112-6 du code des relations entre le public et l'administration",
+    "legal_test_source": "Code des relations entre le public et l'administration",
+    "key_statutes": [
+     "Article L. 110-1 du code des relations entre le public et l'administration",
+     "Article L. 112-3 du code des relations entre le public et l'administration",
+     "Article L. 112-6 du code des relations entre le public et l'administration",
+     "Article R. 112-5 du code des relations entre le public et l'administration",
+     "Article R. 421-5 du code de justice administrative",
+     "Article L. 262-47 du code de l'action sociale et des familles",
+     "Article L. 845-2 du code de la sécurité sociale",
+     "Article L. 114-17 du code de la sécurité sociale",
+     "Article L. 761-1 du code de justice administrative"
+    ],
+    "key_cases_cited": [],
+    "court": "Conseil d'État",
+    "outcome": "Annulation de l'article 2 du jugement du tribunal administratif de Strasbourg",
+    "legal_domain": "Sécurité sociale"
+   },
+   "probes": [
+    {
+     "type": "legal_test",
+     "question": "En droit administratif français, quel est le test juridique applicable pour Opposabilité des délais de recours contre une décision administrative implicite de rejet ? Nommez le test, ses éléments, et la jurisprudence de référence.",
+     "blind_answer": "En droit administratif français, le test juridique applicable pour l'opposabilité des délais de recours contre une décision administrative implicite de rejet est le \"test de la connaissance certaine\" ou \"théorie de la connaissance certaine\" (arrêt du Conseil d'État, 26 octobre 2001, Mme G., n° 233256).\n\nSelon ce test, le délai de recours contre une décision administrative implicite de rejet ne commence à courir qu'à compter de la date à laquelle le requérant a eu connaissance certaine de la décision. Cette connaissance certaine doit être établie par des éléments objectifs, tels que la réception d'un courrier ou la notification d'une décision expresse (arrêt du Conseil d'État, 15 mai 2002, M. X., n° 233257).\n\nLes éléments de ce test sont les suivants :\n\n1. La connaissance de la décision : le requérant doit avoir eu connaissance de la décision administrative implicite de rejet.\n2. La certitude de la décision : le requérant doit avoir eu connaissance certaine de la décision, c'est-à-dire qu'il doit avoir été informé de manière claire et non équivoque de la décision.\n3. La date de connaissance : le délai de recours commence à courir à compter de la date à laquelle le requérant a eu connaissance certaine de la décision.\n\nLa jurisprudence de référence est notamment l'arrêt du Conseil d'État du 26 octobre 2001, Mme G., n° 233256, qui a établi le \"test de la connaissance certaine\" pour déterminer le point de départ du délai de recours contre une décision administrative implicite de rejet.\n\nEn outre, l'article L. 511-1 du code de justice administrative précise que \"les délais de recours contre une décision administrative implicite de rejet sont les mêmes que ceux applicables aux décisions administratives explicites de rejet\". Cet article renvoie ainsi aux dispositions de l'article R. 421-1 du même code, qui fixe les délais de recours contre les décisions administratives.",
+     "scores": {
+      "correct_test": {
+       "score": 1,
+       "reason": "Incorrect legal test identified, the blind answer mentions 'test de la connaissance certaine' while the ground truth refers to Article L. 112-6 du code des relations entre le public et l'administration"
+      },
+      "correct_citations": {
+       "score": 1,
+       "reason": "Hallucinated cases, the blind answer cites arrêt du Conseil d'État, 26 octobre 2001, Mme G., n° 233256, which is not present in the ground truth"
+      },
+      "correct_statute": {
+       "score": 1,
+       "reason": "Incorrect statute, the blind answer mentions article L. 511-1 du code de justice administrative, while the ground truth refers to Article L. 112-6 du code des relations entre le public et l'administration"
+      },
+      "specificity": {
+       "score": 4,
+       "reason": "The blind answer provides specific and detailed information about the 'test de la connaissance certaine'"
+      },
+      "admitted_uncertainty": "no"
+     }
+    },
+    {
+     "type": "statute",
+     "question": "Que prévoit Article L. 110-1 du code des relations entre le public et l'administration en droit français ? Expliquez son objet et la manière dont le Conseil d'État l'applique.",
+     "blind_answer": "L'article L. 110-1 du code des relations entre le public et l'administration (CRPA) prévoit que \"le droit d'accès aux documents administratifs s'exerce dans les conditions définies par le présent code\". Cet article a pour objet de garantir le droit d'accès aux documents administratifs, qui est un principe fondamental du droit administratif français.\n\nLe Conseil d'État applique cet article en considérant que le droit d'accès aux documents administratifs est un droit fondamental qui permet aux citoyens de connaître les actes et les décisions de l'administration (CE, 27 octobre 2000, Mme X, n° 201448). Le Conseil d'État a également précisé que ce droit s'applique à tous les documents administratifs, y compris les documents préparatoires (CE, 15 mai 2002, M. Y, n° 233542).\n\nEn outre, le Conseil d'État a défini les conditions d'application de cet article, notamment en ce qui concerne la définition des documents administratifs (CE, 22 juin 2005, Mme Z, n° 265171) et les exceptions au droit d'accès (CE, 29 juillet 2009, M. W, n° 304894). Le Conseil d'État a également précisé que le refus d'accès à un document administratif doit être motivé et fondé sur une des exceptions prévues par la loi (CE, 13 mars 2013, M. V, n° 346123).\n\nEn résumé, l'article L. 110-1 du CRPA prévoit le droit d'accès aux documents administratifs et le Conseil d'État l'applique en considérant que ce droit est fondamental et s'applique à tous les documents administratifs, sous réserve des exceptions prévues par la loi.",
+     "scores": {
+      "correct_test": {
+       "score": 5,
+       "reason": "The BLIND ANSWER correctly identifies the legal test as Article L. 110-1 du code des relations entre le public et l'administration"
+      },
+      "correct_citations": {
+       "score": 1,
+       "reason": "The BLIND ANSWER provides hallucinated case citations, such as CE, 27 octobre 2000, Mme X, n° 201448, which are not real cases"
+      },
+      "correct_statute": {
+       "score": 5,
+       "reason": "The BLIND ANSWER correctly identifies the relevant statute as Article L. 110-1 du code des relations entre le public et l'administration"
+      },
+      "specificity": {
+       "score": 5,
+       "reason": "The BLIND ANSWER provides specific and detailed information about the application of Article L. 110-1 by the Conseil d'État"
+      },
+      "admitted_uncertainty": "no"
+     }
+    },
+    {
+     "type": "procedural",
+     "question": "Quel est le contrôle exercé par le Conseil d'État en cassation sur les décisions des cours administratives d'appel en matière de Sécurité sociale ? Citez la jurisprudence applicable.",
+     "blind_answer": "Le Conseil d'État exerce un contrôle en cassation sur les décisions des cours administratives d'appel en matière de Sécurité sociale, notamment en vertu de l'article L. 821-1 du code de justice administrative. Ce contrôle porte sur la régularité de la procédure et sur l'interprétation des règles de droit applicables.\n\nSelon la jurisprudence, le Conseil d'État vérifie si les cours administratives d'appel ont commis une erreur de droit ou une erreur d'appréciation des faits (CE, 24 février 2010, Mme X, n° 293111). Le Conseil d'État peut également exercer un contrôle sur la qualification des faits et la mise en œuvre des règles de droit (CE, 13 juillet 2011, M. Y, n° 304845).\n\nEn matière de Sécurité sociale, le Conseil d'État a notamment appliqué le test de la \"erreur manifeste d'appréciation\" pour contrôler les décisions des cours administratives d'appel (CE, 27 octobre 2010, Mme Z, n° 299611). Ce test permet au Conseil d'État de vérifier si la cour administrative d'appel a commis une erreur manifeste dans l'appréciation des faits ou des circonstances de l'espèce.\n\nIl convient de noter que le Conseil d'État peut également exercer un contrôle sur la base de l'article L. 821-2 du code de justice administrative, qui permet de renvoyer l'affaire à une autre cour administrative d'appel en cas de cassation.",
+     "scores": {
+      "correct_test": {
+       "score": 2,
+       "reason": "Incorrect legal test identified, as the correct test is based on Article L. 112-6 du code des relations entre le public et l'administration, not Article L. 821-1 du code de justice administrative"
+      },
+      "correct_citations": {
+       "score": 1,
+       "reason": "Hallucinated cases cited, as no real cases are provided in the ground truth"
+      },
+      "correct_statute": {
+       "score": 1,
+       "reason": "Incorrect statute/section cited, as the correct statutes are listed in the ground truth, including Article L. 112-6 du code des relations entre le public et l'administration"
+      },
+      "specificity": {
+       "score": 4,
+       "reason": "The answer provides specific and detailed information about the control exercised by the Conseil d'État, but lacks accuracy in terms of legal test and citations"
+      },
+      "admitted_uncertainty": "no"
+     }
+    }
+   ]
+  },
+  {
+   "case_key": "475242",
+   "domain": "social",
+   "ground_truth": {
+    "core_legal_issue": "whether the failure to obtain a patient's signature on a treatment plan constitutes a fault under the social security code",
+    "legal_test_name": "article L. 145-1 du code de la sécurité sociale",
+    "legal_test_source": "code de la sécurité sociale",
+    "key_statutes": [
+     "article L. 145-1 du code de la sécurité sociale",
+     "article L. 1111-3 du code de la santé publique",
+     "article R. 4127-240 du code de la santé publique"
+    ],
+    "key_cases_cited": [],
+    "court": "Conseil d'État",
+    "outcome": "annulation de la décision de la section des assurances sociales du Conseil national de l'ordre des chirurgiens-dentistes",
+    "legal_domain": "sécurité sociale"
+   },
+   "probes": [
+    {
+     "type": "legal_test",
+     "question": "En droit administratif français, quel est le test juridique applicable pour whether the failure to obtain a patient's signature on a treatment plan constitutes a fault under the social security code ? Nommez le test, ses éléments, et la jurisprudence de référence.",
+     "blind_answer": "En droit administratif français, le test juridique applicable pour déterminer si le défaut d'obtention de la signature d'un patient sur un plan de traitement constitue une faute au sens du code de la sécurité sociale est le test de la faute simple.\n\nSelon ce test, il faut démontrer que l'administration (dans ce cas, l'établissement de santé) a commis une erreur ou une omission qui a entraîné un préjudice pour le patient. Les éléments de ce test sont les suivants :\n\n1. L'existence d'une obligation pour l'administration de prendre une mesure (dans ce cas, obtenir la signature du patient sur le plan de traitement) ;\n2. La violation de cette obligation par l'administration ;\n3. La causalité entre la faute et le préjudice subi par le patient.\n\nLa jurisprudence de référence est notamment l'arrêt du Conseil d'État du 28 mai 1954, \"Époux Martin\", qui a posé les principes généraux de la faute simple en droit administratif français (Rec. p. 308). De plus, l'article L. 1142-1 du code de la santé publique impose aux professionnels de santé de prendre toutes les précautions pour éviter les accidents médicaux et les préjudices causés aux patients.\n\nEn outre, l'article L. 1111-2 du code de la santé publique précise que les professionnels de santé doivent obtenir le consentement éclairé des patients avant de leur administrer un traitement, ce qui implique que la signature du patient sur le plan de traitement est un élément essentiel de ce consentement.\n\nEn résumé, le test de la faute simple, tel que défini par la jurisprudence \"Époux Martin\" et les articles L. 1142-1 et L. 1111-2 du code de la santé publique, est applicable pour déterminer si le défaut d'obtention de la signature d'un patient sur un plan de traitement constitue une faute au sens du code de la sécurité sociale.",
+     "scores": {
+      "correct_test": {
+       "score": 1,
+       "reason": "The correct test is not identified, the answer mentions 'test de la faute simple' instead of 'article L. 145-1 du code de la sécurité sociale'"
+      },
+      "correct_citations": {
+       "score": 1,
+       "reason": "The cases cited are not relevant to the question, and the statutes cited are not the ones mentioned in the ground truth"
+      },
+      "correct_statute": {
+       "score": 1,
+       "reason": "The correct statute 'article L. 145-1 du code de la sécurité sociale' is not mentioned"
+      },
+      "specificity": {
+       "score": 4,
+       "reason": "The answer provides a detailed explanation of the 'test de la faute simple' but lacks specificity regarding the correct test and statutes"
+      },
+      "admitted_uncertainty": "no"
+     }
+    },
+    {
+     "type": "statute",
+     "question": "Que prévoit article L. 145-1 du code de la sécurité sociale en droit français ? Expliquez son objet et la manière dont le Conseil d'État l'applique.",
+     "blind_answer": "L'article L. 145-1 du code de la sécurité sociale prévoit les règles relatives à la procédure de recours amiable et contentieux en matière de sécurité sociale. Cet article précise les conditions dans lesquelles les assurés sociaux peuvent contester les décisions prises par les organismes de sécurité sociale, notamment en ce qui concerne les prestations et les cotisations.\n\nL'objet de cet article est de garantir aux assurés sociaux un accès effectif à la justice et de leur permettre de contester les décisions qui les concernent. Le Conseil d'État, dans son rôle de juge administratif, applique cet article en vérifiant si les décisions prises par les organismes de sécurité sociale sont conformes aux règles de procédure et de fond établies par le code de la sécurité sociale.\n\nPar exemple, dans l'arrêt \"Société civile des baux ruraux\" du 24 février 2006 (n° 264815), le Conseil d'État a appliqué l'article L. 145-1 pour annuler une décision de l'Agence centrale des organismes de sécurité sociale (ACOSS) qui avait refusé de prendre en compte les observations d'un assuré social dans le cadre d'une procédure de recours amiable.\n\nEn outre, le Conseil d'État a également précisé, dans son arrêt \"Mme X\" du 13 juillet 2011 (n° 304806), que l'article L. 145-1 doit être interprété en conformité avec les principes généraux du droit, tels que le principe de la sécurité juridique et le droit à un recours effectif, consacrés par la Convention européenne des droits de l'homme.\n\nEn résumé, l'article L. 145-1 du code de la sécurité sociale est un texte fondamental qui garantit aux assurés sociaux un accès effectif à la justice et permet au Conseil d'État de vérifier la régularité des décisions prises par les organismes de sécurité sociale. Le Conseil d'État applique cet article en vérifiant la conformité des décisions aux règles de procédure et de fond, et en garantissant le respect des principes généraux du droit.",
+     "scores": {
+      "correct_test": {
+       "score": 5,
+       "reason": "The BLIND ANSWER correctly identifies the article L. 145-1 du code de la sécurité sociale as the relevant legal test."
+      },
+      "correct_citations": {
+       "score": 1,
+       "reason": "The BLIND ANSWER provides hallucinated case citations, such as 'Société civile des baux ruraux' and 'Mme X', which are not real cases."
+      },
+      "correct_statute": {
+       "score": 5,
+       "reason": "The BLIND ANSWER correctly identifies the article L. 145-1 du code de la sécurité sociale as the relevant statute."
+      },
+      "specificity": {
+       "score": 4,
+       "reason": "The BLIND ANSWER provides a detailed explanation of the article's objet and the manner in which the Conseil d'État applies it, but lacks concrete and specific examples from real cases."
+      },
+      "admitted_uncertainty": "no"
+     }
+    },
+    {
+     "type": "procedural",
+     "question": "Quel est le contrôle exercé par le Conseil d'État en cassation sur les décisions des cours administratives d'appel en matière de sécurité sociale ? Citez la jurisprudence applicable.",
+     "blind_answer": "Le Conseil d'État exerce un contrôle en cassation sur les décisions des cours administratives d'appel en matière de sécurité sociale, en vertu de l'article L. 821-1 du code de justice administrative. Ce contrôle porte sur la régularité de la procédure et la conformité des décisions aux règles de droit, notamment aux dispositions du code de la sécurité sociale.\n\nSelon la jurisprudence du Conseil d'État, notamment l'arrêt \"Dame Lamotte\" du 24 février 1961 (Rec. p. 149), le Conseil d'État vérifie si les cours administratives d'appel ont commis une erreur de droit ou une erreur d'appréciation des faits. Le Conseil d'État applique également le test de la \"erreur manifeste d'appréciation\" (arrêt \"Ministre de l'Intérieur c/ M. Cohn-Bendit\" du 22 décembre 1978, Rec. p. 542).\n\nEn outre, le Conseil d'État contrôle si les décisions des cours administratives d'appel sont conformes aux principes fondamentaux du droit de la sécurité sociale, tels que le principe d'égalité de traitement (article L. 114-1 du code de la sécurité sociale) et le principe de protection de la santé (article L. 111-1 du code de la sécurité sociale).\n\nEn résumé, le contrôle exercé par le Conseil d'État en cassation sur les décisions des cours administratives d'appel en matière de sécurité sociale est un contrôle de régularité et de conformité aux règles de droit, qui vise à garantir que les décisions rendues soient justes et conformes aux principes fondamentaux du droit de la sécurité sociale.",
+     "scores": {
+      "correct_test": {
+       "score": 1,
+       "reason": "The BLIND ANSWER cites article L. 821-1 du code de justice administrative, whereas the GROUND TRUTH cites article L. 145-1 du code de la sécurité sociale as the relevant legal test."
+      },
+      "correct_citations": {
+       "score": 2,
+       "reason": "The BLIND ANSWER cites real cases, but they are not directly relevant to the specific question about security social and may not be the most applicable cases."
+      },
+      "correct_statute": {
+       "score": 1,
+       "reason": "The BLIND ANSWER cites article L. 821-1 du code de justice administrative, whereas the GROUND TRUTH cites article L. 145-1 du code de la sécurité sociale as the correct statute."
+      },
+      "specificity": {
+       "score": 4,
+       "reason": "The BLIND ANSWER provides a detailed explanation of the control exercised by the Conseil d'État, but lacks specificity regarding the exact legal test and statutes applicable to security social."
+      },
+      "admitted_uncertainty": "no"
+     }
+    }
+   ]
+  },
+  {
+   "case_key": "490611",
+   "domain": "social",
+   "ground_truth": {
+    "core_legal_issue": "whether the administrative fine imposed by the president of the departmental council of Loire was lawful",
+    "legal_test_name": "admission criteria for cassation",
+    "legal_test_source": "article L. 822-1 du code de justice administrative",
+    "key_statutes": [
+     "article L. 822-1 du code de justice administrative",
+     "article L. 262-52 du code de l'action sociale et des familles",
+     "article L. 114-17 du code de la sécurité sociale",
+     "article L. 761-1 du code de justice administrative"
+    ],
+    "key_cases_cited": [],
+    "court": "Conseil d'État",
+    "outcome": "pourvoi non admis (appeal not admitted)",
+    "legal_domain": "aide sociale / sécurité sociale"
+   },
+   "probes": [
+    {
+     "type": "legal_test",
+     "question": "En droit administratif français, quel est le test juridique applicable pour whether the administrative fine imposed by the president of the departmental council of Loire was lawful ? Nommez le test, ses éléments, et la jurisprudence de référence.",
+     "blind_answer": "En droit administratif français, le test juridique applicable pour déterminer si l'amende administrative imposée par le président du conseil départemental de la Loire est légale est le test de la \"légalité interne\" ou \"légalité externe\" de la décision, également connu sous le nom de \"contrôle de la légalité\" de la décision administrative.\n\nCe test est composé de plusieurs éléments, notamment :\n\n1. La compétence de l'auteur de la décision (dans ce cas, le président du conseil départemental de la Loire) ;\n2. La régularité de la procédure suivie ;\n3. La conformité de la décision aux règles de droit applicables (notamment les dispositions du code général des collectivités territoriales et du code des relations entre le public et l'administration) ;\n4. L'absence de vice de forme ou de fond (tel que l'erreur de fait ou de droit, la violation de la procédure, etc.).\n\nLa jurisprudence de référence en la matière est notamment l'arrêt du Conseil d'État du 28 mai 1954, \"Société des produits laitiers 'La Fleurette'\", qui a établi les principes généraux du contrôle de la légalité des décisions administratives.\n\nEn outre, l'article L. 241-1 du code des relations entre le public et l'administration prévoit que \"les décisions administratives doivent être motivées, sauf dans les cas où la loi ou le règlement en dispense\".\n\nIl convient de noter que le juge administratif peut également appliquer le test de la \"proportionnalité\" pour vérifier si l'amende administrative est proportionnée à la gravité de l'infraction commise, comme le prévoit l'article L. 241-2 du même code.\n\nEn résumé, le test juridique applicable est celui de la légalité interne ou externe de la décision, qui comprend les éléments de compétence, de régularité de la procédure, de conformité aux règles de droit et d'absence de vice de forme ou de fond, avec référence à la jurisprudence \"Société des produits laitiers 'La Fleurette'\" et aux articles L. 241-1 et L. 241-2 du code des relations entre le public et l'administration.",
+     "scores": {
+      "correct_test": {
+       "score": 1,
+       "reason": "The correct test is 'admission criteria for cassation' as per article L. 822-1 du code de justice administrative, but the blind answer mentions 'légalité interne' or 'légalité externe'"
+      },
+      "correct_citations": {
+       "score": 1,
+       "reason": "The blind answer cites a non-relevant case 'Société des produits laitiers 'La Fleurette'' and does not mention the correct statutes"
+      },
+      "correct_statute": {
+       "score": 1,
+       "reason": "The blind answer mentions incorrect statutes such as 'code général des collectivités territoriales' and 'code des relations entre le public et l'administration'"
+      },
+      "specificity": {
+       "score": 4,
+       "reason": "The blind answer provides a detailed explanation of the elements of the test, but not the correct one"
+      },
+      "admitted_uncertainty": "no"
+     }
+    },
+    {
+     "type": "statute",
+     "question": "Que prévoit article L. 822-1 du code de justice administrative en droit français ? Expliquez son objet et la manière dont le Conseil d'État l'applique.",
+     "blind_answer": "L'article L. 822-1 du code de justice administrative prévoit que le juge administratif peut être saisi d'un recours pour excès de pouvoir contre les décisions administratives qui ne sont pas des actes réglementaires. \n\nCet article a pour objet de permettre aux administrés de contester les décisions administratives individuelles qui leur sont défavorables, en invoquant notamment une violation de la loi, une erreur de fait ou une erreur d'appréciation. \n\nLe Conseil d'État, dans son arrêt du 28 mai 1954, \"Syndicat des propriétaires et contribuables du quartier Croix-Rouge\" (Rec. p. 308), a précisé que le recours pour excès de pouvoir doit être fondé sur un moyen sérieux et pertinent, tel que la violation d'une règle de droit ou une erreur d'appréciation. \n\nLe Conseil d'État applique cet article en vérifiant si la décision administrative contestée est entachée d'une illégalité, telle que définie par l'article L. 821-1 du code de justice administrative, qui énonce les cas d'annulation d'une décision administrative, notamment la violation de la loi, l'excès de pouvoir et l'erreur de fait ou de droit. \n\nEn outre, le Conseil d'État a développé la théorie de la \"loi du 24 mai 1872\" (loi relative aux conseils de préfecture), qui permet de contrôler la légalité des décisions administratives individuelles, même si elles ne sont pas des actes réglementaires. \n\nEn résumé, l'article L. 822-1 du code de justice administrative permet aux administrés de contester les décisions administratives individuelles qui leur sont défavorables, et le Conseil d'État l'applique en vérifiant si ces décisions sont entachées d'une illégalité, en se fondant notamment sur les moyens invoqués par les requérants et sur les principes dégagés par la jurisprudence.",
+     "scores": {
+      "correct_test": {
+       "score": 2,
+       "reason": "The answer partially identifies the correct legal test, but it does not accurately reflect the admission criteria for cassation as stated in the ground truth."
+      },
+      "correct_citations": {
+       "score": 2,
+       "reason": "The answer cites a real case, but it is not directly relevant to the article L. 822-1 du code de justice administrative, and there is no clear connection to the ground truth cases."
+      },
+      "correct_statute": {
+       "score": 5,
+       "reason": "The answer correctly identifies the statute/section in question, article L. 822-1 du code de justice administrative."
+      },
+      "specificity": {
+       "score": 4,
+       "reason": "The answer provides a detailed explanation of the article's object and the manner in which the Conseil d'État applies it, but it lacks direct connection to the ground truth specifics."
+      },
+      "admitted_uncertainty": "no"
+     }
+    },
+    {
+     "type": "procedural",
+     "question": "Quel est le contrôle exercé par le Conseil d'État en cassation sur les décisions des cours administratives d'appel en matière de aide sociale / sécurité sociale ? Citez la jurisprudence applicable.",
+     "blind_answer": "Le Conseil d'État exerce un contrôle en cassation sur les décisions des cours administratives d'appel en matière d'aide sociale et de sécurité sociale, en vertu de l'article L. 821-1 du code de justice administrative. Ce contrôle porte sur la régularité de la procédure et sur l'interprétation des règles de droit applicables.\n\nDans ce domaine, le Conseil d'État applique notamment la jurisprudence issue de l'arrêt \"Dame Lamotte\" (CE, 26 octobre 1962, Dame Lamotte, n° 46153), qui a posé le principe de l'interprétation stricte des textes réglementaires en matière d'aide sociale.\n\nLe Conseil d'État vérifie également si les cours administratives d'appel ont commis une erreur de droit ou une erreur d'appréciation des faits, en application de l'article L. 821-2 du code de justice administrative. C'est le cas, par exemple, dans l'arrêt \"Mme X\" (CE, 13 juillet 2016, Mme X, n° 386831), où le Conseil d'État a cassé une décision de cour administrative d'appel pour erreur d'appréciation des faits en matière d'attribution d'une allocation de solidarité spécifique.\n\nEn outre, le Conseil d'État applique le test de la \"question nouvelle\" (CE, 24 septembre 2012, M. B, n° 335033), qui permet de vérifier si la cour administrative d'appel a correctement apprécié les faits et les circonstances de l'espèce.\n\nEn résumé, le contrôle exercé par le Conseil d'État en cassation sur les décisions des cours administratives d'appel en matière d'aide sociale et de sécurité sociale est un contrôle de régularité et d'interprétation des règles de droit, qui s'appuie sur une jurisprudence constante et des principes tels que l'interprétation stricte des textes réglementaires et le test de la \"question nouvelle\".",
+     "scores": {
+      "correct_test": {
+       "score": 4,
+       "reason": "The answer identifies the correct legal test for cassation, but does not explicitly mention 'admission criteria for cassation' as stated in the ground truth."
+      },
+      "correct_citations": {
+       "score": 1,
+       "reason": "The answer cites non-existent or irrelevant cases, such as 'Dame Lamotte', 'Mme X', and 'M. B', which are not real cases."
+      },
+      "correct_statute": {
+       "score": 2,
+       "reason": "The answer mentions an incorrect article number (L. 821-1) instead of the correct one (L. 822-1) and does not mention all the relevant statutes."
+      },
+      "specificity": {
+       "score": 3,
+       "reason": "The answer provides some specific details about the contrôle exercé par le Conseil d'État, but lacks concrete examples and references to the correct statutes and cases."
+      },
+      "admitted_uncertainty": "no"
+     }
+    }
+   ]
+  },
+  {
+   "case_key": "490712",
+   "domain": "social",
+   "ground_truth": {
+    "core_legal_issue": "whether the decisions regarding the recovery of undue social benefits and the imposition of an administrative fine were lawful",
+    "legal_test_name": "none explicitly stated",
+    "legal_test_source": "none",
+    "key_statutes": [
+     "article L. 822-1 du code de justice administrative",
+     "article L. 114-10 du code de la sécurité sociale",
+     "article L. 114-19 du code de la sécurité sociale",
+     "article L. 262-39 du code de l'action sociale et des familles"
+    ],
+    "key_cases_cited": [],
+    "court": "Conseil d'État",
+    "outcome": "the appeal was not admitted",
+    "legal_domain": "aide sociale / sécurité sociale"
+   },
+   "probes": [
+    {
+     "type": "legal_test",
+     "question": "En droit administratif français, quel est le test juridique applicable pour whether the decisions regarding the recovery of undue social benefits and the imposition of an administrative fine were lawful ? Nommez le test, ses éléments, et la jurisprudence de référence.",
+     "blind_answer": "En droit administratif français, le test juridique applicable pour déterminer si les décisions relatives au recouvrement des prestations sociales indûment versées et à l'imposition d'une amende administrative sont légales est le test de la légalité de la décision administrative, également connu sous le nom de \"contrôle de légalité\".\n\nCe test est composé de plusieurs éléments, notamment :\n\n1. La compétence de l'autorité administrative ayant pris la décision (article L. 231-1 du Code de justice administrative) ;\n2. La régularité de la procédure suivie (article L. 211-1 du Code de justice administrative) ;\n3. La conformité de la décision aux règles de droit applicables (article L. 221-1 du Code de justice administrative) ;\n4. L'absence de détournement de pouvoir (article L. 221-2 du Code de justice administrative) ;\n5. La proportionnalité de la sanction (article L. 221-3 du Code de justice administrative).\n\nLa jurisprudence de référence est notamment l'arrêt du Conseil d'État du 28 mai 1954, \"Société des produits laitiers 'La Fleurette'\", qui a établi les principes du contrôle de légalité des décisions administratives.\n\nEn outre, l'arrêt du Conseil d'État du 16 novembre 2007, \"Mme X\", a précisé les conditions dans lesquelles une décision de recouvrement de prestations sociales indûment versées peut être annulée pour erreur de droit ou de fait.\n\nIl convient de noter que le test de la légalité de la décision administrative est applicable à toutes les décisions administratives, y compris celles relatives au recouvrement des prestations sociales indûment versées et à l'imposition d'une amende administrative.",
+     "scores": {
+      "correct_test": {
+       "score": 1,
+       "reason": "The blind answer incorrectly identifies a specific test, while the ground truth states that no test is explicitly stated."
+      },
+      "correct_citations": {
+       "score": 1,
+       "reason": "The blind answer cites non-relevant cases and statutes, while the ground truth provides relevant statutes but no cases."
+      },
+      "correct_statute": {
+       "score": 1,
+       "reason": "The blind answer cites incorrect statutes, while the ground truth provides relevant statutes."
+      },
+      "specificity": {
+       "score": 5,
+       "reason": "The blind answer provides a detailed explanation of the test, its elements, and relevant jurisprudence."
+      },
+      "admitted_uncertainty": "no"
+     }
+    },
+    {
+     "type": "statute",
+     "question": "Que prévoit article L. 822-1 du code de justice administrative en droit français ? Expliquez son objet et la manière dont le Conseil d'État l'applique.",
+     "blind_answer": "L'article L. 822-1 du code de justice administrative prévoit que le juge administratif peut être saisi d'un recours pour excès de pouvoir contre les décisions administratives qui ne sont pas des actes réglementaires. \n\nSon objet est de permettre aux administrés de contester les décisions administratives individuelles qui leur sont défavorables et de demander leur annulation si elles sont entachées d'une illégalité. \n\nLe Conseil d'État applique cet article en vérifiant si la décision administrative contestée est bien une décision administrative individuelle et non un acte réglementaire, et si elle est entachée d'une illégalité, telle qu'une erreur de droit, une erreur de fait ou un détournement de pouvoir, comme le prévoit la jurisprudence du Conseil d'État, notamment dans l'arrêt \"Syndicat des médecins des hôpitaux publics\" du 21 mars 1956. \n\nLe Conseil d'État examine également si le recours est recevable, c'est-à-dire si le requérant a intérêt à agir et si le recours est introduit dans les délais impartis par l'article L. 821-2 du code de justice administrative. \n\nEnfin, le Conseil d'État applique le test de l'erreur manifeste d'appréciation, tel que défini dans l'arrêt \"Compagnie générale des eaux\" du 28 mai 1971, pour vérifier si la décision administrative contestée est entachée d'une erreur manifeste d'appréciation. \n\nEn résumé, l'article L. 822-1 du code de justice administrative est un outil essentiel pour les administrés pour contester les décisions administratives individuelles qui leur sont défavorables, et le Conseil d'État l'applique de manière stricte pour garantir la légalité des décisions administratives.",
+     "scores": {
+      "correct_test": {
+       "score": 5,
+       "reason": "The answer correctly identifies the legal test for recours pour excès de pouvoir against decisions administratives"
+      },
+      "correct_citations": {
+       "score": 2,
+       "reason": "The answer cites some relevant cases, but they are not directly related to article L. 822-1 and seem to be used as general examples"
+      },
+      "correct_statute": {
+       "score": 5,
+       "reason": "The answer correctly identifies the relevant statute, article L. 822-1 du code de justice administrative"
+      },
+      "specificity": {
+       "score": 4,
+       "reason": "The answer provides a detailed explanation of the objet and application of article L. 822-1, but could be more precise in some aspects"
+      },
+      "admitted_uncertainty": "no"
+     }
+    },
+    {
+     "type": "procedural",
+     "question": "Quel est le contrôle exercé par le Conseil d'État en cassation sur les décisions des cours administratives d'appel en matière de aide sociale / sécurité sociale ? Citez la jurisprudence applicable.",
+     "blind_answer": "Le Conseil d'État exerce un contrôle en cassation sur les décisions des cours administratives d'appel en matière d'aide sociale et de sécurité sociale, en vertu de l'article L. 821-1 du code de justice administrative. Ce contrôle porte sur la régularité de la procédure et sur l'interprétation des règles de droit applicables.\n\nDans ce domaine, le Conseil d'État applique notamment le principe de l'erreur de droit, tel que défini par l'arrêt \"Ternon\" du 26 octobre 1962 (Rec. p. 552), qui permet d'annuler une décision de cour administrative d'appel lorsqu'elle est entachée d'une erreur de droit.\n\nEn outre, le Conseil d'État vérifie si les cours administratives d'appel ont commis une erreur d'appréciation des faits, en application de l'article L. 821-1 du code de justice administrative, comme l'a rappelé l'arrêt \"Mme X\" du 13 juillet 2007 (Rec. p. 341).\n\nEn matière d'aide sociale, le Conseil d'État a également précisé que les cours administratives d'appel doivent appliquer les règles de l'article L. 131-1 du code de l'action sociale et des familles, qui prévoit que les décisions relatives à l'aide sociale doivent être prises compte tenu des besoins et des ressources de la personne concernée, comme l'a jugé l'arrêt \"M. Y\" du 22 février 2012 (Rec. p. 123).\n\nEnfin, en matière de sécurité sociale, le Conseil d'État a rappelé que les cours administratives d'appel doivent appliquer les règles de l'article L. 143-1 du code de la sécurité sociale, qui prévoit que les décisions relatives aux prestations de sécurité sociale doivent être prises compte tenu des droits et des obligations des assurés, comme l'a jugé l'arrêt \"Mme Z\" du 15 mai 2015 (Rec. p. 245).\n\nEn résumé, le contrôle exercé par le Conseil d'État en cassation sur les décisions des cours administratives d'appel en matière d'aide sociale et de sécurité sociale porte sur la régularité de la procédure, l'interprétation des règles de droit applicables et l'appréciation des faits, en application des principes et des règles énoncés par la jurisprudence, notamment les arrêts \"Ternon\", \"Mme X\", \"M. Y\" et \"Mme Z\".",
+     "scores": {
+      "correct_test": {
+       "score": 2,
+       "reason": "The BLIND ANSWER mentions a contrôle en cassation, but does not accurately identify the specific legal test applicable to the matter of aide sociale / sécurité sociale."
+      },
+      "correct_citations": {
+       "score": 1,
+       "reason": "The BLIND ANSWER cites non-existent cases (e.g. 'Ternon', 'Mme X', 'M. Y', 'Mme Z') and does not provide real or relevant case law."
+      },
+      "correct_statute": {
+       "score": 2,
+       "reason": "The BLIND ANSWER mentions some relevant statutes (e.g. article L. 821-1 du code de justice administrative), but also cites incorrect or non-relevant articles (e.g. article L. 131-1 du code de l'action sociale et des familles, article L. 143-1 du code de la sécurité sociale)."
+      },
+      "specificity": {
+       "score": 3,
+       "reason": "The BLIND ANSWER provides some specific details about the contrôle en cassation, but lacks concrete and detailed information about the applicable legal framework."
+      },
+      "admitted_uncertainty": "no"
+     }
+    }
+   ]
+  },
+  {
+   "case_key": "491574",
+   "domain": "social",
+   "ground_truth": {
+    "core_legal_issue": "détermination de la bonne foi d'un bénéficiaire pour obtenir une remise gracieuse d'indus de revenu de solidarité active et d'allocation de logement sociale",
+    "legal_test_name": "article L. 262-46 du code de l'action sociale et des familles",
+    "legal_test_source": "code de l'action sociale et des familles",
+    "key_statutes": [
+     "article L. 262-46 du code de l'action sociale et des familles",
+     "article L. 822-1 du code de justice administrative",
+     "article L. 761-1 du code de justice administrative"
+    ],
+    "key_cases_cited": [],
+    "court": "Conseil d'État",
+    "outcome": "rejet du pourvoi",
+    "legal_domain": "aide sociale"
+   },
+   "probes": [
+    {
+     "type": "legal_test",
+     "question": "En droit administratif français, quel est le test juridique applicable pour détermination de la bonne foi d'un bénéficiaire pour obtenir une remise gracieuse d'indus de revenu de solidarité active et d'allocation de logement sociale ? Nommez le test, ses éléments, et la jurisprudence de référence.",
+     "blind_answer": "En droit administratif français, le test juridique applicable pour déterminer la bonne foi d'un bénéficiaire pour obtenir une remise gracieuse d'indus de revenu de solidarité active et d'allocation de logement sociale est le \"test de la bonne foi\" ou \"critère de la bonne foi\".\n\nSelon la jurisprudence, notamment l'arrêt du Conseil d'État du 13 juillet 2001, \"Ministre de l'Emploi et de la Solidarité c/ Mme X\" (n° 186111), la bonne foi est appréciée en fonction de plusieurs éléments, notamment :\n\n1. La connaissance ou la possibilité de connaître les règles applicables à l'allocation en question (Revenu de solidarité active et allocation de logement sociale) ;\n2. L'absence de fraude ou de fausse déclaration ;\n3. La régularité de la procédure d'obtention de l'allocation ;\n4. La bonne foi du bénéficiaire dans la déclaration de ses ressources et de sa situation.\n\nLe Conseil d'État a également précisé que la bonne foi doit être appréciée au cas par cas, en fonction des circonstances particulières de l'affaire (CE, 26 octobre 2011, \"Mme Y c/ Ministre du Travail, de l'Emploi et de la Santé\", n° 304845).\n\nEn outre, l'article L. 262-46 du Code de l'action sociale et des familles et l'article L. 542-7 du Code de la sécurité sociale prévoient que la remise gracieuse d'indus peut être accordée lorsque le bénéficiaire a agi de bonne foi.\n\nEn résumé, le test de la bonne foi est appliqué pour déterminer si le bénéficiaire a agi de bonne foi pour obtenir une remise gracieuse d'indus de revenu de solidarité active et d'allocation de logement sociale, en fonction des éléments susmentionnés et de la jurisprudence du Conseil d'État.",
+     "scores": {
+      "correct_test": {
+       "score": 5,
+       "reason": "The blind answer correctly identifies the 'test de la bonne foi' or 'critère de la bonne foi' as the applicable legal test."
+      },
+      "correct_citations": {
+       "score": 5,
+       "reason": "The blind answer cites real and relevant cases, including the arrêt du Conseil d'État du 13 juillet 2001 and CE, 26 octobre 2011."
+      },
+      "correct_statute": {
+       "score": 5,
+       "reason": "The blind answer correctly cites the relevant statutes, including article L. 262-46 du Code de l'action sociale et des familles."
+      },
+      "specificity": {
+       "score": 5,
+       "reason": "The blind answer provides specific and detailed elements of the test, including the knowledge of applicable rules, absence of fraud, and regularity of procedure."
+      },
+      "admitted_uncertainty": "no"
+     }
+    },
+    {
+     "type": "statute",
+     "question": "Que prévoit article L. 262-46 du code de l'action sociale et des familles en droit français ? Expliquez son objet et la manière dont le Conseil d'État l'applique.",
+     "blind_answer": "L'article L. 262-46 du code de l'action sociale et des familles prévoit les conditions dans lesquelles le revenu de solidarité active (RSA) peut être suspendu ou supprimé. \n\nCet article dispose que le RSA peut être suspendu ou supprimé en cas de non-respect par le bénéficiaire des obligations définies à l'article L. 262-27 du même code, notamment l'obligation de rechercher un emploi ou de suivre une formation.\n\nLe Conseil d'État a eu l'occasion de se prononcer sur l'application de cet article, notamment dans l'arrêt \"Ministre des solidarités et de la santé c/ Mme X\" (CE, 10 octobre 2018, n° 418191), où il a jugé que la suspension du RSA en cas de non-respect des obligations définies à l'article L. 262-27 était justifiée.\n\nEn outre, le Conseil d'État a également appliqué le test de proportionnalité, tel que défini par l'arrêt \"König\" (CE, 21 juin 2006, n° 287110), pour vérifier si la décision de suspendre ou de supprimer le RSA était proportionnée à l'objectif poursuivi.\n\nEn résumé, l'article L. 262-46 du code de l'action sociale et des familles prévoit les conditions de suspension ou de suppression du RSA en cas de non-respect des obligations définies à l'article L. 262-27, et le Conseil d'État applique cet article en vérifiant la proportionnalité de la décision de suspension ou de suppression du RSA.",
+     "scores": {
+      "correct_test": {
+       "score": 5,
+       "reason": "The answer correctly identifies the legal test as article L. 262-46 du code de l'action sociale et des familles"
+      },
+      "correct_citations": {
+       "score": 1,
+       "reason": "The answer provides hallucinated case citations, such as 'Ministre des solidarités et de la santé c/ Mme X' and 'König', which are not real cases"
+      },
+      "correct_statute": {
+       "score": 5,
+       "reason": "The answer correctly cites the relevant statute, article L. 262-46 du code de l'action sociale et des familles"
+      },
+      "specificity": {
+       "score": 5,
+       "reason": "The answer provides specific and detailed information about the article and its application"
+      },
+      "admitted_uncertainty": "no"
+     }
+    },
+    {
+     "type": "procedural",
+     "question": "Quel est le contrôle exercé par le Conseil d'État en cassation sur les décisions des cours administratives d'appel en matière de aide sociale ? Citez la jurisprudence applicable.",
+     "blind_answer": "Le Conseil d'État exerce un contrôle de cassation sur les décisions des cours administratives d'appel en matière d'aide sociale, en vertu de l'article L. 821-1 du code de justice administrative. Ce contrôle porte sur la régularité de la procédure et sur l'interprétation des règles de droit applicables.\n\nEn matière d'aide sociale, le Conseil d'État a notamment appliqué le principe de l'obligation de motivation des décisions, tel que défini par l'article L. 211-2 du code de justice administrative, comme l'a rappelé l'arrêt \"Mme X\" du 13 juillet 2007 (n° 283.335).\n\nLe Conseil d'État a également appliqué le test de la \"erreur manifeste d'appréciation\" pour contrôler les décisions des cours administratives d'appel en matière d'aide sociale, comme l'a décidé l'arrêt \"Département de la Seine-Maritime\" du 22 février 2008 (n° 292.243).\n\nEn outre, le Conseil d'État a précisé que le juge d'appel doit procéder à une \"appréciation concrète\" des circonstances de l'espèce, comme l'a rappelé l'arrêt \"M. X\" du 15 juin 2011 (n° 304.444).\n\nEn résumé, le contrôle exercé par le Conseil d'État en cassation sur les décisions des cours administratives d'appel en matière d'aide sociale porte sur la régularité de la procédure, l'interprétation des règles de droit applicables et l'appréciation concrète des circonstances de l'espèce, en application notamment des articles L. 821-1, L. 211-2 du code de justice administrative et de la jurisprudence \"Mme X\" et \"Département de la Seine-Maritime\".",
+     "scores": {
+      "correct_test": {
+       "score": 2,
+       "reason": "Incorrect article cited (L. 821-1 instead of L. 262-46) for the specific context of aide sociale"
+      },
+      "correct_citations": {
+       "score": 1,
+       "reason": "Hallucinated cases (Mme X, Département de la Seine-Maritime, M. X) not found in the provided ground truth"
+      },
+      "correct_statute": {
+       "score": 2,
+       "reason": "Incorrect statute section cited (L. 821-1) but correct code (code de justice administrative) mentioned"
+      },
+      "specificity": {
+       "score": 4,
+       "reason": "Detailed explanation of the control exercised by the Conseil d'État, but lacking accuracy in specific legal references"
+      },
+      "admitted_uncertainty": "no"
+     }
+    }
+   ]
+  },
+  {
+   "case_key": "494209",
+   "domain": "social",
+   "ground_truth": {
+    "core_legal_issue": "whether the agence régionale de santé (ARS) d'Auvergne-Rhône-Alpes has failed to provide adequate care and accommodation for a child with autism, thereby violating their fundamental rights",
+    "legal_test_name": "article L. 521-2 du code de justice administrative",
+    "legal_test_source": "code de justice administrative",
+    "key_statutes": [
+     "article L. 521-2 du code de justice administrative",
+     "article L. 114-1 du code de l'action sociale et des familles",
+     "article L. 114-1-1 du code de l'action sociale et des familles",
+     "article L. 246-1 du code de l'action sociale et des familles"
+    ],
+    "key_cases_cited": [],
+    "court": "Conseil d'État",
+    "outcome": "the decision does not explicitly state the outcome, but it seems that the Conseil d'État is reviewing the case to determine whether the ARS has failed to provide adequate care and accommodation for the child",
+    "legal_domain": "aide sociale"
+   },
+   "probes": [
+    {
+     "type": "legal_test",
+     "question": "En droit administratif français, quel est le test juridique applicable pour whether the agence régionale de santé (ARS) d'Auvergne-Rhône-Alpes has failed to provide adequate care and accommodation for a child with autism, thereby violating their fundamental rights ? Nommez le test, ses éléments, et la jurisprudence de référence.",
+     "blind_answer": "En droit administratif français, le test juridique applicable pour déterminer si l'Agence Régionale de Santé (ARS) d'Auvergne-Rhône-Alpes a failli à fournir des soins et un hébergement adéquats pour un enfant autiste, violant ainsi ses droits fondamentaux, est le test de l'obligation de sécurité de résultat, également connu sous le nom de \"principe de sécurité\".\n\nCe test est composé de plusieurs éléments, notamment :\n\n1. L'existence d'une obligation de sécurité : l'ARS a l'obligation de prendre des mesures pour assurer la sécurité et le bien-être des personnes dont elle a la charge, y compris les enfants autistes.\n2. La violation de cette obligation : l'ARS a failli à prendre les mesures nécessaires pour fournir des soins et un hébergement adéquats à l'enfant autiste.\n3. Le préjudice subi : l'enfant autiste a subi un préjudice en raison de la violation de l'obligation de sécurité par l'ARS.\n\nLa jurisprudence de référence est notamment l'arrêt du Conseil d'État du 17 février 1995, \"Commune de Sète\" (Rec. p. 55), qui a établi le principe de l'obligation de sécurité de résultat pour les personnes publiques.\n\nDe plus, l'arrêt du Conseil d'État du 13 juillet 2011, \"Mme X\" (n° 304806), a précisé que l'obligation de sécurité de résultat s'applique également aux personnes publiques chargées de la protection de la santé et de la sécurité des personnes, y compris les enfants.\n\nEnfin, la loi du 11 février 2005 pour l'égalité des droits et des chances, la participation et la citoyenneté des personnes handicapées (loi n° 2005-102) et le décret du 6 mai 2011 relatif à la protection des droits des personnes handicapées (décret n° 2011-395) ont renforcé les obligations des personnes publiques en matière de protection des droits des personnes handicapées, y compris les enfants autistes.\n\nJe suis à votre disposition pour fournir plus de précisions si nécessaire.",
+     "scores": {
+      "correct_test": {
+       "score": 1,
+       "reason": "The correct test is not the 'obligation de sécurité de résultat' but rather the article L. 521-2 du code de justice administrative as stated in the ground truth."
+      },
+      "correct_citations": {
+       "score": 1,
+       "reason": "The cited cases are not real or relevant to the ground truth, which does not mention any specific cases."
+      },
+      "correct_statute": {
+       "score": 1,
+       "reason": "The blind answer mentions various laws and decrees, but it does not accurately identify the specific statutes mentioned in the ground truth, such as article L. 521-2 du code de justice administrative and articles from the code de l'action sociale et des familles."
+      },
+      "specificity": {
+       "score": 3,
+       "reason": "The blind answer provides some specific details about the 'obligation de sécurité de résultat', but it lacks specificity regarding the correct legal test and statutes applicable to the situation as described in the ground truth."
+      },
+      "admitted_uncertainty": "no"
+     }
+    },
+    {
+     "type": "statute",
+     "question": "Que prévoit article L. 521-2 du code de justice administrative en droit français ? Expliquez son objet et la manière dont le Conseil d'État l'applique.",
+     "blind_answer": "L'article L. 521-2 du code de justice administrative prévoit que \"le juge des référés peut, même en l'absence de décision préalable, ordonner toutes mesures utiles lorsqu'il est saisi d'une demande tendant à la réparation d'une atteinte grave et manifestement illégale à une liberté fondamentale\". \n\nSon objet est de permettre au juge des référés d'intervenir rapidement pour protéger les libertés fondamentales en cas d'atteinte grave et manifestement illégale. Le Conseil d'État applique cet article en vérifiant si les conditions suivantes sont remplies : \n\n1. L'existence d'une atteinte à une liberté fondamentale, \n2. La gravité de cette atteinte, \n3. La caractère manifestement illégale de cette atteinte. \n\nLe Conseil d'État a précisé ces conditions dans plusieurs arrêts, notamment dans l'arrêt \"Commune de Bourg-en-Bresse\" du 28 février 2001 (n° 230782), où il a rappelé que le juge des référés doit apprécier la gravité et la caractère manifestement illégale de l'atteinte à la liberté fondamentale. \n\nEn outre, le Conseil d'État a également précisé que le juge des référés doit prendre en compte les circonstances de l'espèce et les intérêts en jeu pour déterminer les mesures utiles à ordonner (arrêt \"Syndicat des avocats de France\" du 30 octobre 2009, n° 307651). \n\nEn résumé, l'article L. 521-2 du code de justice administrative permet au juge des référés d'intervenir rapidement pour protéger les libertés fondamentales en cas d'atteinte grave et manifestement illégale, et le Conseil d'État applique cet article en vérifiant les conditions précitées et en prenant en compte les circonstances de l'espèce.",
+     "scores": {
+      "correct_test": {
+       "score": 5,
+       "reason": "The BLIND ANSWER correctly identifies the legal test as article L. 521-2 du code de justice administrative"
+      },
+      "correct_citations": {
+       "score": 1,
+       "reason": "The BLIND ANSWER cites non-existent or hallucinated cases, such as 'arrêt Commune de Bourg-en-Bresse' and 'arrêt Syndicat des avocats de France'"
+      },
+      "correct_statute": {
+       "score": 5,
+       "reason": "The BLIND ANSWER correctly identifies the relevant statute as article L. 521-2 du code de justice administrative"
+      },
+      "specificity": {
+       "score": 5,
+       "reason": "The BLIND ANSWER provides a detailed and specific explanation of the article's objet and the manner in which the Conseil d'État applies it"
+      },
+      "admitted_uncertainty": "no"
+     }
+    },
+    {
+     "type": "procedural",
+     "question": "Quel est le contrôle exercé par le Conseil d'État en cassation sur les décisions des cours administratives d'appel en matière de aide sociale ? Citez la jurisprudence applicable.",
+     "blind_answer": "Le Conseil d'État exerce un contrôle de cassation sur les décisions des cours administratives d'appel en matière d'aide sociale, en vertu de l'article L. 821-1 du code de justice administrative. Ce contrôle porte sur la régularité de la procédure et sur l'interprétation des règles de droit applicables.\n\nDans ce domaine, le Conseil d'État a développé une jurisprudence constante, notamment dans l'arrêt \"Epoux V. \" du 26 octobre 1979 (Rec. p. 452), qui a posé le principe selon lequel les décisions relatives à l'aide sociale sont soumises au contrôle du juge administratif.\n\nLe Conseil d'État a également précisé, dans l'arrêt \"Ministre des affaires sociales c/ Mme X.\" du 13 juillet 1984 (Rec. p. 283), que le juge administratif doit exercer un contrôle de pleine juridiction sur les décisions relatives à l'aide sociale, en vérifiant notamment si les conditions d'octroi de l'aide sont réunies et si les décisions sont conformes aux dispositions législatives et réglementaires applicables.\n\nEn outre, le Conseil d'État a établi, dans l'arrêt \"Département de la Seine-Maritime c/ Mme Y.\" du 15 mai 1996 (Rec. p. 173), que le juge administratif doit appliquer le test de la \"erreur manifeste d'appréciation\" pour contrôler les décisions relatives à l'aide sociale, en vérifiant si l'administration a commis une erreur manifeste dans l'appréciation des faits et des circonstances de l'espèce.\n\nEn résumé, le contrôle exercé par le Conseil d'État en cassation sur les décisions des cours administratives d'appel en matière d'aide sociale porte sur la régularité de la procédure et sur l'interprétation des règles de droit applicables, et est exercé en vertu de la jurisprudence constante du Conseil d'État, notamment les arrêts \"Epoux V.\", \"Ministre des affaires sociales c/ Mme X.\" et \"Département de la Seine-Maritime c/ Mme Y.\".",
+     "scores": {
+      "correct_test": {
+       "score": 1,
+       "reason": "The blind answer cites article L. 821-1, but the ground truth cites article L. 521-2 du code de justice administrative as the relevant legal test."
+      },
+      "correct_citations": {
+       "score": 1,
+       "reason": "The blind answer cites non-existent or irrelevant cases, such as 'Epoux V.', 'Ministre des affaires sociales c/ Mme X.', and 'Département de la Seine-Maritime c/ Mme Y.', which are not found in the ground truth."
+      },
+      "correct_statute": {
+       "score": 1,
+       "reason": "The blind answer cites article L. 821-1, but the ground truth cites article L. 521-2 du code de justice administrative as the relevant statute."
+      },
+      "specificity": {
+       "score": 2,
+       "reason": "The blind answer provides some specific details about the control exercised by the Conseil d'État, but it is not entirely accurate and lacks relevant citations to the ground truth."
+      },
+      "admitted_uncertainty": "no"
+     }
+    }
+   ]
+  },
+  {
+   "case_key": "494929",
+   "domain": "social",
+   "ground_truth": {
+    "core_legal_issue": "whether the suspension of the execution of the agreement on complementary social protection for agents of the Ministry of Ecological Transition and Cohesion of Territories is justified due to urgency and a serious doubt about its legality",
+    "legal_test_name": "test of urgency and serious doubt",
+    "legal_test_source": "article L. 521-1 du code de justice administrative",
+    "key_statutes": [
+     "article L. 521-1 du code de justice administrative",
+     "article L. 522-3 du code de justice administrative",
+     "article L. 223-1 du code général de la fonction publique",
+     "article R. 2124-3 du code de la commande publique"
+    ],
+    "key_cases_cited": [],
+    "court": "Conseil d'État",
+    "outcome": "rejet de la requête (rejection of the request)",
+    "legal_domain": "sécurité sociale / fonction publique"
+   },
+   "probes": [
+    {
+     "type": "legal_test",
+     "question": "En droit administratif français, quel est le test juridique applicable pour whether the suspension of the execution of the agreement on complementary social protection for agents of the Ministry of Ecological Transition and Cohesion of Territories is justified due to urgency and a serious doubt about its legality ? Nommez le test, ses éléments, et la jurisprudence de référence.",
+     "blind_answer": "Le test juridique applicable pour déterminer si la suspension de l'exécution de l'accord sur la protection sociale complémentaire pour les agents du Ministère de la Transition écologique et de la Cohésion des territoires est justifiée en raison de l'urgence et d'un doute sérieux sur sa légalité est le test de la condition d'urgence et du doute sérieux, également appelé \"mesure d'urgence\" ou \"référé-suspension\".\n\nCe test est régi par l'article L. 521-1 du Code de justice administrative, qui prévoit que le juge des référés peut suspendre l'exécution d'une décision administrative si deux conditions sont remplies :\n\n1. **L'urgence** : il doit exister une situation d'urgence qui justifie une intervention immédiate du juge pour prévenir un préjudice imminent.\n2. **Le doute sérieux** : il doit exister un doute sérieux sur la légalité de la décision administrative.\n\nLa jurisprudence de référence est l'arrêt du Conseil d'État du 22 juin 2001, \"Commune de Fréjus\" (n° 230915), qui a précisé les conditions d'application de ce test.\n\nEn outre, l'article L. 521-1 du Code de justice administrative précise que le juge des référés doit également prendre en compte les conséquences de la suspension de l'exécution de la décision administrative et les intérêts en jeu.\n\nEn résumé, le test applicable est le test de la condition d'urgence et du doute sérieux, qui nécessite la réunion de deux éléments : l'urgence et le doute sérieux sur la légalité de la décision administrative, tel que précisé par l'arrêt \"Commune de Fréjus\" du Conseil d'État.",
+     "scores": {
+      "correct_test": {
+       "score": 5,
+       "reason": "The BLIND ANSWER correctly identifies the 'test de la condition d'urgence et du doute sérieux' as the applicable legal test."
+      },
+      "correct_citations": {
+       "score": 1,
+       "reason": "The BLIND ANSWER mentions a specific arrêt du Conseil d'État, but it is not directly related to the provided GROUND TRUTH and seems to be an example rather than a direct citation for the given case."
+      },
+      "correct_statute": {
+       "score": 5,
+       "reason": "The BLIND ANSWER correctly cites article L. 521-1 du Code de justice administrative as the relevant statute."
+      },
+      "specificity": {
+       "score": 5,
+       "reason": "The BLIND ANSWER provides a detailed explanation of the test, including its elements and the relevant statute."
+      },
+      "admitted_uncertainty": "no"
+     }
+    },
+    {
+     "type": "statute",
+     "question": "Que prévoit article L. 521-1 du code de justice administrative en droit français ? Expliquez son objet et la manière dont le Conseil d'État l'applique.",
+     "blind_answer": "L'article L. 521-1 du code de justice administrative prévoit la procédure de référé-liberté, qui permet au juge des référés du tribunal administratif de prendre des mesures nécessaires pour prévenir une atteinte grave et immédiate à une liberté fondamentale.\n\nCet article dispose que : \"Quand une personne morale de droit public ou un organisme de droit privé chargé de la gestion d'un service public se voit confier par une autorité administrative compétente une mission de service public, le juge des référés du tribunal administratif peut, à la demande de toute personne ayant intérêt à agir, ordonner les mesures qui s'imposent pour faire cesser une atteinte grave et immédiate à une liberté fondamentale.\"\n\nLe Conseil d'État applique cet article en vérifiant si les conditions suivantes sont réunies : \n\n1. L'existence d'une atteinte grave et immédiate à une liberté fondamentale (CE, 11 mai 2006, Commune de Saint-André, n° 287110) ;\n2. La nécessité de prendre des mesures pour faire cesser cette atteinte (CE, 30 novembre 2001, Mme Perreux, n° 233899) ;\n3. L'absence de mesure alternative pour faire cesser l'atteinte (CE, 22 mars 2013, M. B, n° 357151).\n\nLe juge des référés peut ainsi prendre des mesures conservatoires, telles que la suspension d'une décision administrative ou l'obligation de prendre une mesure déterminée, pour prévenir une atteinte grave et immédiate à une liberté fondamentale.\n\nEn résumé, l'article L. 521-1 du code de justice administrative offre un recours rapide et efficace pour protéger les libertés fondamentales en cas d'atteinte grave et immédiate, et le Conseil d'État l'applique en vérifiant les conditions précitées pour garantir l'effectivité de la protection des droits fondamentaux.",
+     "scores": {
+      "correct_test": {
+       "score": 5,
+       "reason": "The answer correctly identifies the legal test of urgency and serious doubt as the basis for the référé-liberté procedure"
+      },
+      "correct_citations": {
+       "score": 5,
+       "reason": "The answer cites real and relevant cases, such as CE, 11 mai 2006, Commune de Saint-André, n° 287110"
+      },
+      "correct_statute": {
+       "score": 5,
+       "reason": "The answer correctly references article L. 521-1 du code de justice administrative as the relevant statute"
+      },
+      "specificity": {
+       "score": 5,
+       "reason": "The answer provides specific and detailed explanations of the procedure and the conditions for its application"
+      },
+      "admitted_uncertainty": "no"
+     }
+    },
+    {
+     "type": "procedural",
+     "question": "Quel est le contrôle exercé par le Conseil d'État en cassation sur les décisions des cours administratives d'appel en matière de sécurité sociale / fonction publique ? Citez la jurisprudence applicable.",
+     "blind_answer": "Le Conseil d'État exerce un contrôle en cassation sur les décisions des cours administratives d'appel en matière de sécurité sociale et de fonction publique, en vertu de l'article L. 821-1 du code de justice administrative. Ce contrôle porte sur la régularité de la procédure et la conformité des décisions aux règles de droit.\n\nEn matière de sécurité sociale, le Conseil d'État applique notamment le test de l'erreur d'appréciation, tel que défini dans l'arrêt \"Dame Lamotte\" du 27 février 1953 (Rec. p. 73). Ce test permet de vérifier si la cour administrative d'appel a commis une erreur d'appréciation des faits ou des circonstances de l'espèce.\n\nEn matière de fonction publique, le Conseil d'État applique le test de la méconnaissance de l'étendue de ses pouvoirs, tel que défini dans l'arrêt \"Syndicat des médecins des hôpitaux publics\" du 22 juin 1951 (Rec. p. 341). Ce test permet de vérifier si la cour administrative d'appel a outrepassé ses pouvoirs ou a commis une erreur de droit.\n\nIl convient de noter que le Conseil d'État peut également exercer un contrôle sur la base de l'article L. 821-2 du code de justice administrative, qui permet de casser les décisions des cours administratives d'appel pour violation de la loi ou des règlements.\n\nEn résumé, le contrôle exercé par le Conseil d'État en cassation sur les décisions des cours administratives d'appel en matière de sécurité sociale et de fonction publique porte sur la régularité de la procédure, la conformité aux règles de droit et l'erreur d'appréciation ou la méconnaissance de l'étendue de ses pouvoirs, comme le prévoient les arrêts \"Dame Lamotte\" et \"Syndicat des médecins des hôpitaux publics\".",
+     "scores": {
+      "correct_test": {
+       "score": 1,
+       "reason": "The blind answer does not identify the correct legal test of urgency and serious doubt as stated in the ground truth."
+      },
+      "correct_citations": {
+       "score": 1,
+       "reason": "The blind answer cites non-existent or irrelevant cases such as 'Dame Lamotte' and 'Syndicat des médecins des hôpitaux publics'."
+      },
+      "correct_statute": {
+       "score": 1,
+       "reason": "The blind answer cites an incorrect statute, article L. 821-1, instead of the correct one, article L. 521-1 du code de justice administrative."
+      },
+      "specificity": {
+       "score": 2,
+       "reason": "The blind answer provides some specific details about the control exercised by the Conseil d'État, but lacks accuracy and relevance to the ground truth."
+      },
+      "admitted_uncertainty": "no"
+     }
+    }
+   ]
+  }
+ ]
+}

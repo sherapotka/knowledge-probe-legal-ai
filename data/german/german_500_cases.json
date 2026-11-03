@@ -1,0 +1,5002 @@
+{
+ "tax/bfh-2021-09-29-ix-r-1119": {
+  "domain": "tax",
+  "case_id": "342578",
+  "title": "BFH IX R 11/19 (2021-09-29)",
+  "court": "Bundesfinanzhof",
+  "date": "2021-09-29",
+  "reference": "IX R 11/19",
+  "ecli": "ECLI:DE:BFH:2021:U.290921.IXR11.19.0",
+  "chars": 29072
+ },
+ "tax/bfh-2021-06-09-i-r-3217": {
+  "domain": "tax",
+  "case_id": "341319",
+  "title": "BFH I R 32/17 (2021-06-09)",
+  "court": "Bundesfinanzhof",
+  "date": "2021-06-09",
+  "reference": "I R 32/17",
+  "ecli": "ECLI:DE:BFH:2021:U.090621.IR32.17.0",
+  "chars": 44639
+ },
+ "tax/bfh-2021-05-20-iv-r-3118": {
+  "domain": "tax",
+  "case_id": "340529",
+  "title": "BFH IV R 31/18 (2021-05-20)",
+  "court": "Bundesfinanzhof",
+  "date": "2021-05-20",
+  "reference": "IV R 31/18",
+  "ecli": "ECLI:DE:BFH:2021:U.200521.IVR31.18.0",
+  "chars": 11363
+ },
+ "tax/bfh-2021-03-26-ix-b-4520": {
+  "domain": "tax",
+  "case_id": "337170",
+  "title": "BFH IX B 45/20 (2021-03-26)",
+  "court": "Bundesfinanzhof",
+  "date": "2021-03-26",
+  "reference": "IX B 45/20",
+  "ecli": "ECLI:DE:BFH:2021:B.260321.IXB45.20.0",
+  "chars": 14468
+ },
+ "tax/bfh-2021-02-22-ix-r-720": {
+  "domain": "tax",
+  "case_id": "337169",
+  "title": "BFH IX R 7/20 (2021-02-22)",
+  "court": "Bundesfinanzhof",
+  "date": "2021-02-22",
+  "reference": "IX R 7/20",
+  "ecli": "ECLI:DE:BFH:2021:U.220221.IXR7.20.0",
+  "chars": 15505
+ },
+ "tax/bfh-2021-02-11-vii-s-321": {
+  "domain": "tax",
+  "case_id": "337171",
+  "title": "BFH VII S 3/21 (2021-02-11)",
+  "court": "Bundesfinanzhof",
+  "date": "2021-02-11",
+  "reference": "VII S 3/21",
+  "ecli": "ECLI:DE:BFH:2021:B.110221.VIIS3.21.0",
+  "chars": 9296
+ },
+ "tax/bfh-2021-02-11-viii-b-3020": {
+  "domain": "tax",
+  "case_id": "337172",
+  "title": "BFH VIII B 30/20 (2021-02-11)",
+  "court": "Bundesfinanzhof",
+  "date": "2021-02-11",
+  "reference": "VIII B 30/20",
+  "ecli": "ECLI:DE:BFH:2021:B.110221.VIIIB30.20.0",
+  "chars": 7692
+ },
+ "tax/bfh-2020-12-16-xi-r-1319": {
+  "domain": "tax",
+  "case_id": "337173",
+  "title": "BFH XI R 13/19 (2020-12-16)",
+  "court": "Bundesfinanzhof",
+  "date": "2020-12-16",
+  "reference": "XI R 13/19",
+  "ecli": "ECLI:DE:BFH:2020:U.161220.XIR13.19.0",
+  "chars": 43216
+ },
+ "tax/bfh-2020-07-21-ix-r-2619": {
+  "domain": "tax",
+  "case_id": "333254",
+  "title": "BFH IX R 26/19 (2020-07-21)",
+  "court": "Bundesfinanzhof",
+  "date": "2020-07-21",
+  "reference": "IX R 26/19",
+  "ecli": "ECLI:DE:BFH:2020:U.210720.IXR26.19.0",
+  "chars": 35231
+ },
+ "tax/bfh-2019-12-11-xi-r-1618": {
+  "domain": "tax",
+  "case_id": "326834",
+  "title": "BFH XI R 16/18 (2019-12-11)",
+  "court": "Bundesfinanzhof",
+  "date": "2019-12-11",
+  "reference": "XI R 16/18",
+  "ecli": "ECLI:DE:BFH:2019:VE.111219.XIR16.18.0",
+  "chars": 61763
+ },
+ "tax/bfh-2019-11-19-vii-r-1718": {
+  "domain": "tax",
+  "case_id": "326183",
+  "title": "BFH VII R 17/18 (2019-11-19)",
+  "court": "Bundesfinanzhof",
+  "date": "2019-11-19",
+  "reference": "VII R 17/18",
+  "ecli": "ECLI:DE:BFH:2019:VE.191119.VIIR17.18.0",
+  "chars": 20032
+ },
+ "tax/bfh-2019-10-15-v-r-1418": {
+  "domain": "tax",
+  "case_id": "325382",
+  "title": "BFH V R 14/18 (2019-10-15)",
+  "court": "Bundesfinanzhof",
+  "date": "2019-10-15",
+  "reference": "V R 14/18",
+  "ecli": "ECLI:DE:BFH:2019:U.151019.VR14.18.0",
+  "chars": 23721
+ },
+ "tax/bfh-2019-03-14-v-b-3417": {
+  "domain": "tax",
+  "case_id": "318046",
+  "title": "BFH V B 34/17 (2019-03-14)",
+  "court": "Bundesfinanzhof",
+  "date": "2019-03-14",
+  "reference": "V B 34/17",
+  "ecli": "ECLI:DE:BFH:2019:B.140319.VB34.17.0",
+  "chars": 23448
+ },
+ "tax/bfh-2019-03-14-v-b-319": {
+  "domain": "tax",
+  "case_id": "318752",
+  "title": "BFH V B 3/19 (2019-03-14)",
+  "court": "Bundesfinanzhof",
+  "date": "2019-03-14",
+  "reference": "V B 3/19",
+  "ecli": "ECLI:DE:BFH:2019:BA.140319.VB3.19.0",
+  "chars": 13488
+ },
+ "tax/bfh-2019-03-06-v-s-2518": {
+  "domain": "tax",
+  "case_id": "318664",
+  "title": "BFH V S 25/18 (2019-03-06)",
+  "court": "Bundesfinanzhof",
+  "date": "2019-03-06",
+  "reference": "V S 25/18",
+  "ecli": "ECLI:DE:BFH:2019:B.060319.VS25.18.0",
+  "chars": 5800
+ },
+ "tax/bfh-2019-03-01-x-b-4518": {
+  "domain": "tax",
+  "case_id": "318233",
+  "title": "BFH X B 45/18 (2019-03-01)",
+  "court": "Bundesfinanzhof",
+  "date": "2019-03-01",
+  "reference": "X B 45/18",
+  "ecli": "ECLI:DE:BFH:2019:B.010319.XB45.18.0",
+  "chars": 21983
+ },
+ "tax/bfh-2019-02-27-ix-b-11118": {
+  "domain": "tax",
+  "case_id": "318482",
+  "title": "BFH IX B 111/18 (2019-02-27)",
+  "court": "Bundesfinanzhof",
+  "date": "2019-02-27",
+  "reference": "IX B 111/18",
+  "ecli": "ECLI:DE:BFH:2019:B.270219.IXB111.18.0",
+  "chars": 2728
+ },
+ "tax/bfh-2019-02-27-ix-b-11218": {
+  "domain": "tax",
+  "case_id": "318489",
+  "title": "BFH IX B 112/18 (2019-02-27)",
+  "court": "Bundesfinanzhof",
+  "date": "2019-02-27",
+  "reference": "IX B 112/18",
+  "ecli": "ECLI:DE:BFH:2019:B.270219.IXB112.18.0",
+  "chars": 2727
+ },
+ "tax/bfh-2019-02-26-x-r-2518": {
+  "domain": "tax",
+  "case_id": "318485",
+  "title": "BFH X R 25/18 (2019-02-26)",
+  "court": "Bundesfinanzhof",
+  "date": "2019-02-26",
+  "reference": "X R 25/18",
+  "ecli": "ECLI:DE:BFH:2019:B.260219.XR25.18.0",
+  "chars": 11494
+ },
+ "tax/bfh-2019-02-22-ix-b-9918": {
+  "domain": "tax",
+  "case_id": "318492",
+  "title": "BFH IX B 99/18 (2019-02-22)",
+  "court": "Bundesfinanzhof",
+  "date": "2019-02-22",
+  "reference": "IX B 99/18",
+  "ecli": "ECLI:DE:BFH:2019:B.220219.IXB99.18.0",
+  "chars": 3470
+ },
+ "tax/bfh-2019-02-21-ii-b-7618": {
+  "domain": "tax",
+  "case_id": "317711",
+  "title": "BFH II B 76/18 (2019-02-21)",
+  "court": "Bundesfinanzhof",
+  "date": "2019-02-21",
+  "reference": "II B 76/18",
+  "ecli": "ECLI:DE:BFH:2019:BA.210219.IIB76.18.0",
+  "chars": 1710
+ },
+ "tax/bfh-2019-02-21-iii-b-3418": {
+  "domain": "tax",
+  "case_id": "318483",
+  "title": "BFH III B 34/18 (2019-02-21)",
+  "court": "Bundesfinanzhof",
+  "date": "2019-02-21",
+  "reference": "III B 34/18",
+  "ecli": "ECLI:DE:BFH:2019:B.210219.IIIB34.18.0",
+  "chars": 10401
+ },
+ "tax/bfh-2019-02-20-ii-b-8318": {
+  "domain": "tax",
+  "case_id": "318665",
+  "title": "BFH II B 83/18 (2019-02-20)",
+  "court": "Bundesfinanzhof",
+  "date": "2019-02-20",
+  "reference": "II B 83/18",
+  "ecli": "ECLI:DE:BFH:2019:B.200219.IIB83.18.0",
+  "chars": 5879
+ },
+ "tax/bfh-2019-02-19-ii-b-8517": {
+  "domain": "tax",
+  "case_id": "318044",
+  "title": "BFH II B 85/17 (2019-02-19)",
+  "court": "Bundesfinanzhof",
+  "date": "2019-02-19",
+  "reference": "II B 85/17",
+  "ecli": "ECLI:DE:BFH:2019:B.190219.IIB85.17.0",
+  "chars": 32579
+ },
+ "tax/bfh-2019-02-19-ix-r-2017": {
+  "domain": "tax",
+  "case_id": "318753",
+  "title": "BFH IX R 20/17 (2019-02-19)",
+  "court": "Bundesfinanzhof",
+  "date": "2019-02-19",
+  "reference": "IX R 20/17",
+  "ecli": "ECLI:DE:BFH:2019:U.190219.IXR20.17.0",
+  "chars": 9973
+ },
+ "tax/bfh-2019-02-14-v-b-10316": {
+  "domain": "tax",
+  "case_id": "316588",
+  "title": "BFH V B 103/16 (2019-02-14)",
+  "court": "Bundesfinanzhof",
+  "date": "2019-02-14",
+  "reference": "V B 103/16",
+  "ecli": "ECLI:DE:BFH:2019:B.140219.VB103.16.0",
+  "chars": 3872
+ },
+ "tax/bfh-2019-02-14-v-r-2217": {
+  "domain": "tax",
+  "case_id": "318487",
+  "title": "BFH V R 22/17 (2019-02-14)",
+  "court": "Bundesfinanzhof",
+  "date": "2019-02-14",
+  "reference": "V R 22/17",
+  "ecli": "ECLI:DE:BFH:2019:U.140219.VR22.17.0",
+  "chars": 19082
+ },
+ "tax/bfh-2019-02-13-xi-r-3416": {
+  "domain": "tax",
+  "case_id": "318481",
+  "title": "BFH XI R 34/16 (2019-02-13)",
+  "court": "Bundesfinanzhof",
+  "date": "2019-02-13",
+  "reference": "XI R 34/16",
+  "ecli": "ECLI:DE:BFH:2019:B.130219.XIR34.16.0",
+  "chars": 10028
+ },
+ "tax/bfh-2019-02-13-viii-b-8318": {
+  "domain": "tax",
+  "case_id": "318491",
+  "title": "BFH VIII B 83/18 (2019-02-13)",
+  "court": "Bundesfinanzhof",
+  "date": "2019-02-13",
+  "reference": "VIII B 83/18",
+  "ecli": "ECLI:DE:BFH:2019:B.130219.VIIIB83.18.0",
+  "chars": 6128
+ },
+ "tax/bfh-2019-02-13-xi-r-4117": {
+  "domain": "tax",
+  "case_id": "318663",
+  "title": "BFH XI R 41/17 (2019-02-13)",
+  "court": "Bundesfinanzhof",
+  "date": "2019-02-13",
+  "reference": "XI R 41/17",
+  "ecli": "ECLI:DE:BFH:2019:U.130219.XIR41.17.0",
+  "chars": 29922
+ },
+ "tax/bfh-2019-02-12-x-b-9018": {
+  "domain": "tax",
+  "case_id": "318232",
+  "title": "BFH X B 90/18 (2019-02-12)",
+  "court": "Bundesfinanzhof",
+  "date": "2019-02-12",
+  "reference": "X B 90/18",
+  "ecli": "ECLI:DE:BFH:2019:B.120219.XB90.18.0",
+  "chars": 9256
+ },
+ "tax/bfh-2019-02-12-viii-b-5318": {
+  "domain": "tax",
+  "case_id": "318662",
+  "title": "BFH VIII B 53/18 (2019-02-12)",
+  "court": "Bundesfinanzhof",
+  "date": "2019-02-12",
+  "reference": "VIII B 53/18",
+  "ecli": "ECLI:DE:BFH:2019:B.120219.VIIIB53.18.0",
+  "chars": 17260
+ },
+ "tax/bfh-2019-02-12-viii-b-8918": {
+  "domain": "tax",
+  "case_id": "318666",
+  "title": "BFH VIII B 89/18 (2019-02-12)",
+  "court": "Bundesfinanzhof",
+  "date": "2019-02-12",
+  "reference": "VIII B 89/18",
+  "ecli": "ECLI:DE:BFH:2018:B.120218.VIIIB89.18.0",
+  "chars": 10567
+ },
+ "tax/bfh-2019-02-07-v-b-6818": {
+  "domain": "tax",
+  "case_id": "318235",
+  "title": "BFH V B 68/18 (2019-02-07)",
+  "court": "Bundesfinanzhof",
+  "date": "2019-02-07",
+  "reference": "V B 68/18",
+  "ecli": "ECLI:DE:BFH:2019:B.070219.VB68.18.0",
+  "chars": 7905
+ },
+ "tax/bfh-2019-02-06-viii-b-2318": {
+  "domain": "tax",
+  "case_id": "318045",
+  "title": "BFH VIII B 23/18 (2019-02-06)",
+  "court": "Bundesfinanzhof",
+  "date": "2019-02-06",
+  "reference": "VIII B 23/18",
+  "ecli": "ECLI:DE:BFH:2019:B.060219.VIIIB23.18.0",
+  "chars": 5686
+ },
+ "tax/bfh-2019-02-06-viii-b-10318": {
+  "domain": "tax",
+  "case_id": "318234",
+  "title": "BFH VIII B 103/18 (2019-02-06)",
+  "court": "Bundesfinanzhof",
+  "date": "2019-02-06",
+  "reference": "VIII B 103/18",
+  "ecli": "ECLI:DE:BFH:2019:B.060219.VIIIB103.18.0",
+  "chars": 12209
+ },
+ "tax/bfh-2019-01-31-v-b-9916": {
+  "domain": "tax",
+  "case_id": "316589",
+  "title": "BFH V B 99/16 (2019-01-31)",
+  "court": "Bundesfinanzhof",
+  "date": "2019-01-31",
+  "reference": "V B 99/16",
+  "ecli": "ECLI:DE:BFH:2019:B.310119.VB99.16.0",
+  "chars": 15621
+ },
+ "tax/bfh-2019-01-31-vii-b-11518": {
+  "domain": "tax",
+  "case_id": "318484",
+  "title": "BFH VII B 115/18 (2019-01-31)",
+  "court": "Bundesfinanzhof",
+  "date": "2019-01-31",
+  "reference": "VII B 115/18",
+  "ecli": "ECLI:DE:BFH:2019:B.310119.VIIB115.18.0",
+  "chars": 11633
+ },
+ "tax/bfh-2019-01-31-vii-b-14718": {
+  "domain": "tax",
+  "case_id": "318488",
+  "title": "BFH VII B 147/18 (2019-01-31)",
+  "court": "Bundesfinanzhof",
+  "date": "2019-01-31",
+  "reference": "VII B 147/18",
+  "ecli": "ECLI:DE:BFH:2019:B.310119.VIIB147.18.0",
+  "chars": 12448
+ },
+ "tax/bfh-2019-01-30-ii-b-10417": {
+  "domain": "tax",
+  "case_id": "317705",
+  "title": "BFH II B 104/17 (2019-01-30)",
+  "court": "Bundesfinanzhof",
+  "date": "2019-01-30",
+  "reference": "II B 104/17",
+  "ecli": "ECLI:DE:BFH:2019:B.300119.IIB104.17.0",
+  "chars": 8145
+ },
+ "tax/bfh-2019-01-30-ii-b-7917": {
+  "domain": "tax",
+  "case_id": "318048",
+  "title": "BFH II B 79/17 (2019-01-30)",
+  "court": "Bundesfinanzhof",
+  "date": "2019-01-30",
+  "reference": "II B 79/17",
+  "ecli": "ECLI:DE:BFH:2019:B.300119.IIB79.17.0",
+  "chars": 5208
+ },
+ "tax/bfh-2019-01-30-ii-r-916": {
+  "domain": "tax",
+  "case_id": "318490",
+  "title": "BFH II R 9/16 (2019-01-30)",
+  "court": "Bundesfinanzhof",
+  "date": "2019-01-30",
+  "reference": "II R 9/16",
+  "ecli": "ECLI:DE:BFH:2019:U.300119.IIR9.16.0",
+  "chars": 17071
+ },
+ "tax/bfh-2019-01-24-v-r-6617": {
+  "domain": "tax",
+  "case_id": "318486",
+  "title": "BFH V R 66/17 (2019-01-24)",
+  "court": "Bundesfinanzhof",
+  "date": "2019-01-24",
+  "reference": "V R 66/17",
+  "ecli": "ECLI:DE:BFH:2019:U.240119.VR66.17.0",
+  "chars": 13379
+ },
+ "tax/bfh-2019-01-23-v-b-10318": {
+  "domain": "tax",
+  "case_id": "271099",
+  "title": "BFH V B 103/18 (2019-01-23)",
+  "court": "Bundesfinanzhof",
+  "date": "2019-01-23",
+  "reference": "V B 103/18",
+  "ecli": "ECLI:DE:BFH:2019:B.230119.VB103.18.0",
+  "chars": 8430
+ },
+ "tax/bfh-2019-01-23-xi-r-2117": {
+  "domain": "tax",
+  "case_id": "317709",
+  "title": "BFH XI R 21/17 (2019-01-23)",
+  "court": "Bundesfinanzhof",
+  "date": "2019-01-23",
+  "reference": "XI R 21/17",
+  "ecli": "ECLI:DE:BFH:2019:U.230119.XIR21.17.0",
+  "chars": 13760
+ },
+ "tax/bfh-2019-01-23-xi-r-1516": {
+  "domain": "tax",
+  "case_id": "318668",
+  "title": "BFH XI R 15/16 (2019-01-23)",
+  "court": "Bundesfinanzhof",
+  "date": "2019-01-23",
+  "reference": "XI R 15/16",
+  "ecli": "ECLI:DE:BFH:2019:U.230119.XIR15.16.0",
+  "chars": 46280
+ },
+ "tax/bfh-2019-01-22-ii-b-9817": {
+  "domain": "tax",
+  "case_id": "317706",
+  "title": "BFH II B 98/17 (2019-01-22)",
+  "court": "Bundesfinanzhof",
+  "date": "2019-01-22",
+  "reference": "II B 98/17",
+  "ecli": "ECLI:DE:BFH:2019:B.220119.IIB98.17.0",
+  "chars": 16910
+ },
+ "tax/bfh-2019-01-16-i-r-7216": {
+  "domain": "tax",
+  "case_id": "215832",
+  "title": "BFH I R 72/16 (2019-01-16)",
+  "court": "Bundesfinanzhof",
+  "date": "2019-01-16",
+  "reference": "I R 72/16",
+  "ecli": "ECLI:DE:BFH:2019:B.160119.IR72.16.0",
+  "chars": 11342
+ },
+ "tax/bfh-2019-01-16-x-r-3017": {
+  "domain": "tax",
+  "case_id": "318667",
+  "title": "BFH X R 30/17 (2019-01-16)",
+  "court": "Bundesfinanzhof",
+  "date": "2019-01-16",
+  "reference": "X R 30/17",
+  "ecli": "ECLI:DE:BFH:2019:U.160119.XR30.17.0",
+  "chars": 18343
+ },
+ "tax/bfh-2019-01-15-ii-s-119": {
+  "domain": "tax",
+  "case_id": "242644",
+  "title": "BFH II S 1/19 (2019-01-15)",
+  "court": "Bundesfinanzhof",
+  "date": "2019-01-15",
+  "reference": "II S 1/19",
+  "ecli": "ECLI:DE:BFH:2019:B.150119.IIS1.19.0",
+  "chars": 7688
+ },
+ "tax/bfh-2019-01-15-vii-r-2317": {
+  "domain": "tax",
+  "case_id": "317708",
+  "title": "BFH VII R 23/17 (2019-01-15)",
+  "court": "Bundesfinanzhof",
+  "date": "2019-01-15",
+  "reference": "VII R 23/17",
+  "ecli": "ECLI:DE:BFH:2019:U.150119.VIIR23.17.0",
+  "chars": 11480
+ },
+ "tax/bfh-2019-01-15-x-r-617": {
+  "domain": "tax",
+  "case_id": "317710",
+  "title": "BFH X R 6/17 (2019-01-15)",
+  "court": "Bundesfinanzhof",
+  "date": "2019-01-15",
+  "reference": "X R 6/17",
+  "ecli": "ECLI:DE:BFH:2019:U.150119.XR6.17.0",
+  "chars": 31535
+ },
+ "tax/bfh-2019-01-15-x-r-3417": {
+  "domain": "tax",
+  "case_id": "318236",
+  "title": "BFH X R 34/17 (2019-01-15)",
+  "court": "Bundesfinanzhof",
+  "date": "2019-01-15",
+  "reference": "X R 34/17",
+  "ecli": "ECLI:DE:BFH:2019:U.150119.XR34.17.0",
+  "chars": 53211
+ },
+ "tax/bfh-2019-01-15-vii-r-1617": {
+  "domain": "tax",
+  "case_id": "318670",
+  "title": "BFH VII R 16/17 (2019-01-15)",
+  "court": "Bundesfinanzhof",
+  "date": "2019-01-15",
+  "reference": "VII R 16/17",
+  "ecli": "ECLI:DE:BFH:2019:U.150119.VIIR16.17.0",
+  "chars": 17949
+ },
+ "tax/bfh-2019-01-11-xi-r-2917": {
+  "domain": "tax",
+  "case_id": "271097",
+  "title": "BFH XI R 29/17 (2019-01-11)",
+  "court": "Bundesfinanzhof",
+  "date": "2019-01-11",
+  "reference": "XI R 29/17",
+  "ecli": "ECLI:DE:BFH:2019:B.110119.XIR29.17.0",
+  "chars": 20610
+ },
+ "tax/bfh-2019-01-11-ix-b-12617": {
+  "domain": "tax",
+  "case_id": "318669",
+  "title": "BFH IX B 126/17 (2019-01-11)",
+  "court": "Bundesfinanzhof",
+  "date": "2019-01-11",
+  "reference": "IX B 126/17",
+  "ecli": "ECLI:DE:BFH:2019:B.110119.IXB126.17.0",
+  "chars": 19736
+ },
+ "tax/bfh-2019-01-10-v-r-6017": {
+  "domain": "tax",
+  "case_id": "242649",
+  "title": "BFH V R 60/17 (2019-01-10)",
+  "court": "Bundesfinanzhof",
+  "date": "2019-01-10",
+  "reference": "V R 60/17",
+  "ecli": "ECLI:DE:BFH:2019:U.100119.VR60.17.0",
+  "chars": 33033
+ },
+ "tax/bfh-2019-01-10-v-r-6616": {
+  "domain": "tax",
+  "case_id": "318754",
+  "title": "BFH V R 66/16 (2019-01-10)",
+  "court": "Bundesfinanzhof",
+  "date": "2019-01-10",
+  "reference": "V R 66/16",
+  "ecli": "ECLI:DE:BFH:2019:U.100119.VR66.16.0",
+  "chars": 15699
+ },
+ "tax/bfh-2019-01-08-ii-b-6218": {
+  "domain": "tax",
+  "case_id": "180185",
+  "title": "BFH II B 62/18 (2019-01-08)",
+  "court": "Bundesfinanzhof",
+  "date": "2019-01-08",
+  "reference": "II B 62/18",
+  "ecli": "ECLI:DE:BFH:2019:BA.080119.IIB62.18.0",
+  "chars": 25769
+ },
+ "tax/bfh-2019-01-08-ix-r-3717": {
+  "domain": "tax",
+  "case_id": "317707",
+  "title": "BFH IX R 37/17 (2019-01-08)",
+  "court": "Bundesfinanzhof",
+  "date": "2019-01-08",
+  "reference": "IX R 37/17",
+  "ecli": "ECLI:DE:BFH:2019:U.080119.IXR37.17.0",
+  "chars": 21541
+ },
+ "tax/bfh-2019-01-08-ix-r-817": {
+  "domain": "tax",
+  "case_id": "318047",
+  "title": "BFH IX R 8/17 (2019-01-08)",
+  "court": "Bundesfinanzhof",
+  "date": "2019-01-08",
+  "reference": "IX R 8/17",
+  "ecli": "ECLI:DE:BFH:2019:B.080119.IXR8.17.0",
+  "chars": 7313
+ },
+ "tax/bfh-2019-01-07-ix-b-7918": {
+  "domain": "tax",
+  "case_id": "215831",
+  "title": "BFH IX B 79/18 (2019-01-07)",
+  "court": "Bundesfinanzhof",
+  "date": "2019-01-07",
+  "reference": "IX B 79/18",
+  "ecli": "ECLI:DE:BFH:2019:BA.070119.IXB79.18.0",
+  "chars": 11348
+ },
+ "tax/bfh-2019-01-02-viii-b-13118": {
+  "domain": "tax",
+  "case_id": "242647",
+  "title": "BFH VIII B 131/18 (2019-01-02)",
+  "court": "Bundesfinanzhof",
+  "date": "2019-01-02",
+  "reference": "VIII B 131/18",
+  "ecli": "ECLI:DE:BFH:2019:B.020119.VIIIB131.18.0",
+  "chars": 5547
+ },
+ "tax/bfh-2018-12-20-x-s-4118": {
+  "domain": "tax",
+  "case_id": "171110",
+  "title": "BFH X S 41/18 (2018-12-20)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-12-20",
+  "reference": "X S 41/18",
+  "ecli": "ECLI:DE:BFH:2018:B.201218.XS41.18.0",
+  "chars": 9040
+ },
+ "tax/bfh-2018-12-19-x-b-10118": {
+  "domain": "tax",
+  "case_id": "215828",
+  "title": "BFH X B 101/18 (2018-12-19)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-12-19",
+  "reference": "X B 101/18",
+  "ecli": "ECLI:DE:BFH:2018:B.191218.XB101.18.0",
+  "chars": 6583
+ },
+ "tax/bfh-2018-12-19-ix-b-14217": {
+  "domain": "tax",
+  "case_id": "215834",
+  "title": "BFH IX B 142/17 (2018-12-19)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-12-19",
+  "reference": "IX B 142/17",
+  "ecli": "ECLI:DE:BFH:2018:B.191218.IXB142.17.0",
+  "chars": 8397
+ },
+ "tax/bfh-2018-12-17-viii-b-9118": {
+  "domain": "tax",
+  "case_id": "242646",
+  "title": "BFH VIII B 91/18 (2018-12-17)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-12-17",
+  "reference": "VIII B 91/18",
+  "ecli": "ECLI:DE:BFH:2018:BA.171218.VIIIB91.18.0",
+  "chars": 15282
+ },
+ "tax/bfh-2018-12-13-v-r-5417": {
+  "domain": "tax",
+  "case_id": "242645",
+  "title": "BFH V R 54/17 (2018-12-13)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-12-13",
+  "reference": "V R 54/17",
+  "ecli": "ECLI:DE:BFH:2018:U.131218.VR54.17.0",
+  "chars": 3798
+ },
+ "tax/bfh-2018-12-13-v-r-5317": {
+  "domain": "tax",
+  "case_id": "242648",
+  "title": "BFH V R 53/17 (2018-12-13)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-12-13",
+  "reference": "V R 53/17",
+  "ecli": "ECLI:DE:BFH:2018:U.131218.VR53.17.0",
+  "chars": 3814
+ },
+ "tax/bfh-2018-12-13-v-r-5217": {
+  "domain": "tax",
+  "case_id": "242650",
+  "title": "BFH V R 52/17 (2018-12-13)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-12-13",
+  "reference": "V R 52/17",
+  "ecli": "ECLI:DE:BFH:2018:U.131218.VR52.17.0",
+  "chars": 32147
+ },
+ "tax/bfh-2018-12-13-v-r-6516": {
+  "domain": "tax",
+  "case_id": "242651",
+  "title": "BFH V R 65/16 (2018-12-13)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-12-13",
+  "reference": "V R 65/16",
+  "ecli": "ECLI:DE:BFH:2018:U.131218.VR65.16.0",
+  "chars": 20230
+ },
+ "tax/bfh-2018-12-13-v-r-418": {
+  "domain": "tax",
+  "case_id": "242653",
+  "title": "BFH V R 4/18 (2018-12-13)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-12-13",
+  "reference": "V R 4/18",
+  "ecli": "ECLI:DE:BFH:2018:U.131218.VR4.18.0",
+  "chars": 22789
+ },
+ "tax/bfh-2018-12-13-iii-r-2518": {
+  "domain": "tax",
+  "case_id": "242654",
+  "title": "BFH III R 25/18 (2018-12-13)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-12-13",
+  "reference": "III R 25/18",
+  "ecli": "ECLI:DE:BFH:2018:U.131218.IIIR25.18.0",
+  "chars": 12517
+ },
+ "tax/bfh-2018-12-13-viii-b-11418": {
+  "domain": "tax",
+  "case_id": "271101",
+  "title": "BFH VIII B 114/18 (2018-12-13)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-12-13",
+  "reference": "VIII B 114/18",
+  "ecli": "ECLI:DE:BFH:2018:B.131218.VIIIB114.18.0",
+  "chars": 8996
+ },
+ "tax/bfh-2018-12-13-v-r-4517": {
+  "domain": "tax",
+  "case_id": "318051",
+  "title": "BFH V R 45/17 (2018-12-13)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-12-13",
+  "reference": "V R 45/17",
+  "ecli": "ECLI:DE:BFH:2018:U.131218.VR45.17.0",
+  "chars": 17910
+ },
+ "tax/bfh-2018-12-13-iii-r-2217": {
+  "domain": "tax",
+  "case_id": "318237",
+  "title": "BFH III R 22/17 (2018-12-13)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-12-13",
+  "reference": "III R 22/17",
+  "ecli": "ECLI:DE:BFH:2018:U.131218.IIIR22.17.0",
+  "chars": 13868
+ },
+ "tax/bfh-2018-12-11-iii-r-2618": {
+  "domain": "tax",
+  "case_id": "316590",
+  "title": "BFH III R 26/18 (2018-12-11)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-12-11",
+  "reference": "III R 26/18",
+  "ecli": "ECLI:DE:BFH:2018:U.111218.IIIR26.18.0",
+  "chars": 19029
+ },
+ "tax/bfh-2018-12-11-viii-r-715": {
+  "domain": "tax",
+  "case_id": "318049",
+  "title": "BFH VIII R 7/15 (2018-12-11)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-12-11",
+  "reference": "VIII R 7/15",
+  "ecli": "ECLI:DE:BFH:2018:U.111218.VIIIR7.15.0",
+  "chars": 25354
+ },
+ "tax/bfh-2018-12-06-x-r-1117": {
+  "domain": "tax",
+  "case_id": "318238",
+  "title": "BFH X R 11/17 (2018-12-06)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-12-06",
+  "reference": "X R 11/17",
+  "ecli": "ECLI:DE:BFH:2018:U.061218.XR11.17.0",
+  "chars": 14593
+ },
+ "tax/bfh-2018-12-06-x-r-1017": {
+  "domain": "tax",
+  "case_id": "318239",
+  "title": "BFH X R 10/17 (2018-12-06)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-12-06",
+  "reference": "X R 10/17",
+  "ecli": "ECLI:DE:BFH:2018:U.061218.XR10.17.0",
+  "chars": 15953
+ },
+ "tax/bfh-2018-12-05-xi-r-2214": {
+  "domain": "tax",
+  "case_id": "180186",
+  "title": "BFH XI R 22/14 (2018-12-05)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-12-05",
+  "reference": "XI R 22/14",
+  "ecli": "ECLI:DE:BFH:2018:U.051218.XIR22.14.0",
+  "chars": 12821
+ },
+ "tax/bfh-2018-12-05-viii-b-13018": {
+  "domain": "tax",
+  "case_id": "242652",
+  "title": "BFH VIII B 130/18 (2018-12-05)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-12-05",
+  "reference": "VIII B 130/18",
+  "ecli": "ECLI:DE:BFH:2018:BA.051218.VIIIB130.18.0",
+  "chars": 9166
+ },
+ "tax/bfh-2018-12-05-xi-r-1016": {
+  "domain": "tax",
+  "case_id": "271096",
+  "title": "BFH XI R 10/16 (2018-12-05)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-12-05",
+  "reference": "XI R 10/16",
+  "ecli": "ECLI:DE:BFH:2018:U.051218.XIR10.16.0",
+  "chars": 45566
+ },
+ "tax/bfh-2018-12-05-xi-r-814": {
+  "domain": "tax",
+  "case_id": "271100",
+  "title": "BFH XI R 8/14 (2018-12-05)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-12-05",
+  "reference": "XI R 8/14",
+  "ecli": "ECLI:DE:BFH:2018:U.051218.XIR8.14.0",
+  "chars": 47131
+ },
+ "tax/bfh-2018-12-05-i-e-918": {
+  "domain": "tax",
+  "case_id": "318050",
+  "title": "BFH I E 9/18 (2018-12-05)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-12-05",
+  "reference": "I E 9/18",
+  "ecli": "ECLI:DE:BFH:2018:B.051218.IE9.18.0",
+  "chars": 5971
+ },
+ "tax/bfh-2018-12-04-ix-r-1418": {
+  "domain": "tax",
+  "case_id": "215824",
+  "title": "BFH IX R 14/18 (2018-12-04)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-12-04",
+  "reference": "IX R 14/18",
+  "ecli": "ECLI:DE:BFH:2018:U.041218.IXR14.18.0",
+  "chars": 12790
+ },
+ "tax/bfh-2018-12-04-ix-r-1518": {
+  "domain": "tax",
+  "case_id": "215825",
+  "title": "BFH IX R 15/18 (2018-12-04)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-12-04",
+  "reference": "IX R 15/18",
+  "ecli": "ECLI:DE:BFH:2018:U.041218.IXR15.18.0",
+  "chars": 10379
+ },
+ "tax/bfh-2018-12-04-ix-b-6018": {
+  "domain": "tax",
+  "case_id": "215833",
+  "title": "BFH IX B 60/18 (2018-12-04)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-12-04",
+  "reference": "IX B 60/18",
+  "ecli": "ECLI:DE:BFH:2018:B.041218.IXB60.18.0",
+  "chars": 7249
+ },
+ "tax/bfh-2018-12-04-ix-r-1317": {
+  "domain": "tax",
+  "case_id": "317712",
+  "title": "BFH IX R 13/17 (2018-12-04)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-12-04",
+  "reference": "IX R 13/17",
+  "ecli": "ECLI:DE:BFH:2018:U.041218.IXR13.17.0",
+  "chars": 7933
+ },
+ "tax/bfh-2018-11-27-v-b-7218": {
+  "domain": "tax",
+  "case_id": "171109",
+  "title": "BFH V B 72/18 (2018-11-27)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-11-27",
+  "reference": "V B 72/18",
+  "ecli": "ECLI:DE:BFH:2018:B.271118.VB72.18.0",
+  "chars": 10677
+ },
+ "tax/bfh-2018-11-23-ix-b-8718": {
+  "domain": "tax",
+  "case_id": "171112",
+  "title": "BFH IX B 87/18 (2018-11-23)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-11-23",
+  "reference": "IX B 87/18",
+  "ecli": "ECLI:DE:BFH:2018:B.231118.IXB87.18.0",
+  "chars": 2024
+ },
+ "tax/bfh-2018-11-22-ii-b-818": {
+  "domain": "tax",
+  "case_id": "116577",
+  "title": "BFH II B 8/18 (2018-11-22)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-11-22",
+  "reference": "II B 8/18",
+  "ecli": "ECLI:DE:BFH:2018:BA.221118.IIB8.18.0",
+  "chars": 20763
+ },
+ "tax/bfh-2018-11-22-v-r-2917": {
+  "domain": "tax",
+  "case_id": "178090",
+  "title": "BFH V R 29/17 (2018-11-22)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-11-22",
+  "reference": "V R 29/17",
+  "ecli": "ECLI:DE:BFH:2018:U.221118.VR29.17.0",
+  "chars": 12964
+ },
+ "tax/bfh-2018-11-22-ii-b-5118": {
+  "domain": "tax",
+  "case_id": "178091",
+  "title": "BFH II B 51/18 (2018-11-22)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-11-22",
+  "reference": "II B 51/18",
+  "ecli": "ECLI:DE:BFH:2018:B.221118.IIB51.18.0",
+  "chars": 17731
+ },
+ "tax/bfh-2018-11-22-v-r-2117": {
+  "domain": "tax",
+  "case_id": "178093",
+  "title": "BFH V R 21/17 (2018-11-22)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-11-22",
+  "reference": "V R 21/17",
+  "ecli": "ECLI:DE:BFH:2018:U.221118.VR21.17.0",
+  "chars": 14931
+ },
+ "tax/bfh-2018-11-22-v-r-6517": {
+  "domain": "tax",
+  "case_id": "180184",
+  "title": "BFH V R 65/17 (2018-11-22)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-11-22",
+  "reference": "V R 65/17",
+  "ecli": "ECLI:DE:BFH:2018:U.221118.VR65.17.0",
+  "chars": 35600
+ },
+ "tax/bfh-2018-11-22-vi-r-5016": {
+  "domain": "tax",
+  "case_id": "215829",
+  "title": "BFH VI R 50/16 (2018-11-22)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-11-22",
+  "reference": "VI R 50/16",
+  "ecli": "ECLI:DE:BFH:2018:U.221118.VIR50.16.0",
+  "chars": 26887
+ },
+ "tax/bfh-2018-11-22-v-r-4417": {
+  "domain": "tax",
+  "case_id": "242657",
+  "title": "BFH V R 44/17 (2018-11-22)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-11-22",
+  "reference": "V R 44/17",
+  "ecli": "ECLI:DE:BFH:2018:U.221118.VR44.17.0",
+  "chars": 7817
+ },
+ "tax/bfh-2018-11-21-vi-r-2816": {
+  "domain": "tax",
+  "case_id": "215827",
+  "title": "BFH VI R 28/16 (2018-11-21)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-11-21",
+  "reference": "VI R 28/16",
+  "ecli": "ECLI:DE:BFH:2018:U.211118.VIR28.16.0",
+  "chars": 10137
+ },
+ "tax/bfh-2018-11-20-iv-b-4418": {
+  "domain": "tax",
+  "case_id": "125111",
+  "title": "BFH IV B 44/18 (2018-11-20)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-11-20",
+  "reference": "IV B 44/18",
+  "ecli": "ECLI:DE:BFH:2018:B.201118.IVB44.18.0",
+  "chars": 19468
+ },
+ "tax/bfh-2018-11-20-viii-r-3915": {
+  "domain": "tax",
+  "case_id": "242655",
+  "title": "BFH VIII R 39/15 (2018-11-20)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-11-20",
+  "reference": "VIII R 39/15",
+  "ecli": "ECLI:DE:BFH:2018:U.201118.VIIIR39.15.0",
+  "chars": 29444
+ },
+ "tax/bfh-2018-11-20-viii-r-3715": {
+  "domain": "tax",
+  "case_id": "316591",
+  "title": "BFH VIII R 37/15 (2018-11-20)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-11-20",
+  "reference": "VIII R 37/15",
+  "ecli": "ECLI:DE:BFH:2018:U.201118.VIIIR37.15.0",
+  "chars": 17618
+ },
+ "tax/bfh-2018-11-15-xi-b-4918": {
+  "domain": "tax",
+  "case_id": "178092",
+  "title": "BFH XI B 49/18 (2018-11-15)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-11-15",
+  "reference": "XI B 49/18",
+  "ecli": "ECLI:DE:BFH:2018:B.151118.XIB49.18.0",
+  "chars": 14737
+ },
+ "tax/bfh-2018-11-14-xi-r-3217": {
+  "domain": "tax",
+  "case_id": "215826",
+  "title": "BFH XI R 32/17 (2018-11-14)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-11-14",
+  "reference": "XI R 32/17",
+  "ecli": "ECLI:DE:BFH:2018:U.141118.XIR32.17.0",
+  "chars": 12286
+ },
+ "tax/bfh-2018-11-14-xi-r-1617": {
+  "domain": "tax",
+  "case_id": "215830",
+  "title": "BFH XI R 16/17 (2018-11-14)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-11-14",
+  "reference": "XI R 16/17",
+  "ecli": "ECLI:DE:BFH:2018:U.141118.XIR16.17.0",
+  "chars": 22032
+ },
+ "tax/bfh-2018-11-14-ii-r-6415": {
+  "domain": "tax",
+  "case_id": "242656",
+  "title": "BFH II R 64/15 (2018-11-14)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-11-14",
+  "reference": "II R 64/15",
+  "ecli": "ECLI:DE:BFH:2018:U.141118.IIR64.15.0",
+  "chars": 23161
+ },
+ "tax/bfh-2018-11-14-ii-r-816": {
+  "domain": "tax",
+  "case_id": "242658",
+  "title": "BFH II R 8/16 (2018-11-14)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-11-14",
+  "reference": "II R 8/16",
+  "ecli": "ECLI:DE:BFH:2018:U.141118.IIR8.16.0",
+  "chars": 11268
+ },
+ "tax/bfh-2018-11-14-xi-r-2716": {
+  "domain": "tax",
+  "case_id": "271102",
+  "title": "BFH XI R 27/16 (2018-11-14)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-11-14",
+  "reference": "XI R 27/16",
+  "ecli": "ECLI:DE:BFH:2018:U.141118.XIR27.16.0",
+  "chars": 19012
+ },
+ "tax/bfh-2018-11-13-v-b-6018": {
+  "domain": "tax",
+  "case_id": "116578",
+  "title": "BFH V B 60/18 (2018-11-13)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-11-13",
+  "reference": "V B 60/18",
+  "ecli": "ECLI:DE:BFH:2018:B.131118.VB60.18.0",
+  "chars": 6478
+ },
+ "tax/bfh-2018-11-08-iii-r-1316": {
+  "domain": "tax",
+  "case_id": "271103",
+  "title": "BFH III R 13/16 (2018-11-08)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-11-08",
+  "reference": "III R 13/16",
+  "ecli": "ECLI:DE:BFH:2018:U.081118.IIIR13.16.0",
+  "chars": 9446
+ },
+ "tax/bfh-2018-11-07-iv-r-2016": {
+  "domain": "tax",
+  "case_id": "171111",
+  "title": "BFH IV R 20/16 (2018-11-07)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-11-07",
+  "reference": "IV R 20/16",
+  "ecli": "ECLI:DE:BFH:2018:U.071118.IVR20.16.0",
+  "chars": 36403
+ },
+ "tax/bfh-2018-10-31-iii-b-7718": {
+  "domain": "tax",
+  "case_id": "116576",
+  "title": "BFH III B 77/18 (2018-10-31)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-10-31",
+  "reference": "III B 77/18",
+  "ecli": "ECLI:DE:BFH:2018:B.311018.IIIB77.18.0",
+  "chars": 13708
+ },
+ "tax/bfh-2018-10-25-v-b-3718": {
+  "domain": "tax",
+  "case_id": "116567",
+  "title": "BFH V B 37/18 (2018-10-25)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-10-25",
+  "reference": "V B 37/18",
+  "ecli": "ECLI:DE:BFH:2018:B.251018.VB37.18.0",
+  "chars": 8554
+ },
+ "tax/bfh-2018-10-25-xi-b-5718": {
+  "domain": "tax",
+  "case_id": "116571",
+  "title": "BFH XI B 57/18 (2018-10-25)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-10-25",
+  "reference": "XI B 57/18",
+  "ecli": "ECLI:DE:BFH:2018:B.251018.XIB57.18.0",
+  "chars": 11116
+ },
+ "tax/bfh-2018-10-25-iv-r-4016": {
+  "domain": "tax",
+  "case_id": "215835",
+  "title": "BFH IV R 40/16 (2018-10-25)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-10-25",
+  "reference": "IV R 40/16",
+  "ecli": "ECLI:DE:BFH:2018:U.251018.IVR40.16.0",
+  "chars": 11798
+ },
+ "tax/bfh-2018-10-25-iv-r-3516": {
+  "domain": "tax",
+  "case_id": "215837",
+  "title": "BFH IV R 35/16 (2018-10-25)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-10-25",
+  "reference": "IV R 35/16",
+  "ecli": "ECLI:DE:BFH:2018:U.251018.IVR35.16.0",
+  "chars": 34627
+ },
+ "tax/bfh-2018-10-25-iv-r-4116": {
+  "domain": "tax",
+  "case_id": "215838",
+  "title": "BFH IV R 41/16 (2018-10-25)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-10-25",
+  "reference": "IV R 41/16",
+  "ecli": "ECLI:DE:BFH:2018:U.251018.IVR41.16.0",
+  "chars": 33335
+ },
+ "tax/bfh-2018-10-24-vi-b-12017": {
+  "domain": "tax",
+  "case_id": "116570",
+  "title": "BFH VI B 120/17 (2018-10-24)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-10-24",
+  "reference": "VI B 120/17",
+  "ecli": "ECLI:DE:BFH:2018:B.241018.VIB120.17.0",
+  "chars": 3060
+ },
+ "tax/bfh-2018-10-23-viii-b-4418": {
+  "domain": "tax",
+  "case_id": "116579",
+  "title": "BFH VIII B 44/18 (2018-10-23)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-10-23",
+  "reference": "VIII B 44/18",
+  "ecli": "ECLI:DE:BFH:2018:B.231018.VIIIB44.18.0",
+  "chars": 8407
+ },
+ "tax/bfh-2018-10-23-vii-r-1317": {
+  "domain": "tax",
+  "case_id": "125112",
+  "title": "BFH VII R 13/17 (2018-10-23)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-10-23",
+  "reference": "VII R 13/17",
+  "ecli": "ECLI:DE:BFH:2018:U.231018.VIIR13.17.0",
+  "chars": 11869
+ },
+ "tax/bfh-2018-10-23-vii-r-3617": {
+  "domain": "tax",
+  "case_id": "125113",
+  "title": "BFH VII R 36/17 (2018-10-23)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-10-23",
+  "reference": "VII R 36/17",
+  "ecli": "ECLI:DE:BFH:2018:B.231018.VIIR36.17.0",
+  "chars": 15190
+ },
+ "tax/bfh-2018-10-23-vii-r-1917": {
+  "domain": "tax",
+  "case_id": "125114",
+  "title": "BFH VII R 19/17 (2018-10-23)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-10-23",
+  "reference": "VII R 19/17",
+  "ecli": "ECLI:DE:BFH:2018:U.231018.VIIR19.17.0",
+  "chars": 12744
+ },
+ "tax/bfh-2018-10-23-vii-r-4417": {
+  "domain": "tax",
+  "case_id": "161381",
+  "title": "BFH VII R 44/17 (2018-10-23)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-10-23",
+  "reference": "VII R 44/17",
+  "ecli": "ECLI:DE:BFH:2018:U.231018.VIIR44.17.0",
+  "chars": 12848
+ },
+ "tax/bfh-2018-10-23-vii-r-2118": {
+  "domain": "tax",
+  "case_id": "161382",
+  "title": "BFH VII R 21/18 (2018-10-23)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-10-23",
+  "reference": "VII R 21/18",
+  "ecli": "ECLI:DE:BFH:2018:U.231018.VIIR21.18.0",
+  "chars": 13443
+ },
+ "tax/bfh-2018-10-23-vi-r-517": {
+  "domain": "tax",
+  "case_id": "161383",
+  "title": "BFH VI R 5/17 (2018-10-23)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-10-23",
+  "reference": "VI R 5/17",
+  "ecli": "ECLI:DE:BFH:2018:U.231018.VIR5.17.0",
+  "chars": 26231
+ },
+ "tax/bfh-2018-10-22-ii-b-3918": {
+  "domain": "tax",
+  "case_id": "116574",
+  "title": "BFH II B 39/18 (2018-10-22)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-10-22",
+  "reference": "II B 39/18",
+  "ecli": "ECLI:DE:BFH:2018:B.221018.IIB39.18.0",
+  "chars": 21234
+ },
+ "tax/bfh-2018-10-17-xi-r-3516": {
+  "domain": "tax",
+  "case_id": "116565",
+  "title": "BFH XI R 35/16 (2018-10-17)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-10-17",
+  "reference": "XI R 35/16",
+  "ecli": "ECLI:DE:BFH:2018:U.171018.XIR35.16.0",
+  "chars": 23707
+ },
+ "tax/bfh-2018-10-16-v-b-3018": {
+  "domain": "tax",
+  "case_id": "116573",
+  "title": "BFH V B 30/18 (2018-10-16)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-10-16",
+  "reference": "V B 30/18",
+  "ecli": "ECLI:DE:BFH:2018:B.161018.VB30.18.0",
+  "chars": 10315
+ },
+ "tax/bfh-2018-10-15-viii-b-7918": {
+  "domain": "tax",
+  "case_id": "116568",
+  "title": "BFH VIII B 79/18 (2018-10-15)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-10-15",
+  "reference": "VIII B 79/18",
+  "ecli": "ECLI:DE:BFH:2018:B.151018.VIIIB79.18.0",
+  "chars": 7992
+ },
+ "tax/bfh-2018-10-12-xi-b-2918": {
+  "domain": "tax",
+  "case_id": "93432",
+  "title": "BFH XI B 29/18 (2018-10-12)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-10-12",
+  "reference": "XI B 29/18",
+  "ecli": "ECLI:DE:BFH:2018:B.121018.XIB29.18.0",
+  "chars": 9202
+ },
+ "tax/bfh-2018-10-12-xi-b-6518": {
+  "domain": "tax",
+  "case_id": "116566",
+  "title": "BFH XI B 65/18 (2018-10-12)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-10-12",
+  "reference": "XI B 65/18",
+  "ecli": "ECLI:DE:BFH:2018:B.121018.XIB65.18.0",
+  "chars": 8595
+ },
+ "tax/bfh-2018-10-10-ix-r-117": {
+  "domain": "tax",
+  "case_id": "178094",
+  "title": "BFH IX R 1/17 (2018-10-10)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-10-10",
+  "reference": "IX R 1/17",
+  "ecli": "ECLI:DE:BFH:2018:U.101018.IXR1.17.0",
+  "chars": 13316
+ },
+ "tax/bfh-2018-10-10-ix-r-3017": {
+  "domain": "tax",
+  "case_id": "215836",
+  "title": "BFH IX R 30/17 (2018-10-10)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-10-10",
+  "reference": "IX R 30/17",
+  "ecli": "ECLI:DE:BFH:2018:U.101018.IXR30.17.0",
+  "chars": 13999
+ },
+ "tax/bfh-2018-10-09-viii-b-4918": {
+  "domain": "tax",
+  "case_id": "115759",
+  "title": "BFH VIII B 49/18 (2018-10-09)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-10-09",
+  "reference": "VIII B 49/18",
+  "ecli": "ECLI:DE:BFH:2018:B.091018.VIIIB49.18.0",
+  "chars": 9147
+ },
+ "tax/bfh-2018-10-05-ix-b-4818": {
+  "domain": "tax",
+  "case_id": "115765",
+  "title": "BFH IX B 48/18 (2018-10-05)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-10-05",
+  "reference": "IX B 48/18",
+  "ecli": "ECLI:DE:BFH:2018:B.051018.IXB48.18.0",
+  "chars": 5593
+ },
+ "tax/bfh-2018-10-02-vii-r-1717": {
+  "domain": "tax",
+  "case_id": "100395",
+  "title": "BFH VII R 17/17 (2018-10-02)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-10-02",
+  "reference": "VII R 17/17",
+  "ecli": "ECLI:DE:BFH:2018:B.021018.VIIR17.17.0",
+  "chars": 11062
+ },
+ "tax/bfh-2018-09-27-v-r-4516": {
+  "domain": "tax",
+  "case_id": "87446",
+  "title": "BFH V R 45/16 (2018-09-27)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-09-27",
+  "reference": "V R 45/16",
+  "ecli": "ECLI:DE:BFH:2018:U.270918.VR45.16.0",
+  "chars": 17190
+ },
+ "tax/bfh-2018-09-27-v-r-4917": {
+  "domain": "tax",
+  "case_id": "93426",
+  "title": "BFH V R 49/17 (2018-09-27)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-09-27",
+  "reference": "V R 49/17",
+  "ecli": "ECLI:DE:BFH:2018:U.270918.VR49.17.0",
+  "chars": 12822
+ },
+ "tax/bfh-2018-09-27-v-r-4816": {
+  "domain": "tax",
+  "case_id": "116569",
+  "title": "BFH V R 48/16 (2018-09-27)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-09-27",
+  "reference": "V R 48/16",
+  "ecli": "ECLI:DE:BFH:2018:U.270918.VR48.16.0",
+  "chars": 31320
+ },
+ "tax/bfh-2018-09-27-v-r-917": {
+  "domain": "tax",
+  "case_id": "116572",
+  "title": "BFH V R 9/17 (2018-09-27)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-09-27",
+  "reference": "V R 9/17",
+  "ecli": "ECLI:DE:BFH:2018:U.270918.VR9.17.0",
+  "chars": 13014
+ },
+ "tax/bfh-2018-09-27-v-r-2817": {
+  "domain": "tax",
+  "case_id": "116575",
+  "title": "BFH V R 28/17 (2018-09-27)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-09-27",
+  "reference": "V R 28/17",
+  "ecli": "ECLI:DE:BFH:2018:U.270918.VR28.17.0",
+  "chars": 9835
+ },
+ "tax/bfh-2018-09-27-v-r-3216": {
+  "domain": "tax",
+  "case_id": "180187",
+  "title": "BFH V R 32/16 (2018-09-27)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-09-27",
+  "reference": "V R 32/16",
+  "ecli": "ECLI:DE:BFH:2018:U.270918.VR32.16.0",
+  "chars": 16154
+ },
+ "tax/bfh-2018-09-25-ii-b-1318": {
+  "domain": "tax",
+  "case_id": "87448",
+  "title": "BFH II B 13/18 (2018-09-25)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-09-25",
+  "reference": "II B 13/18",
+  "ecli": "ECLI:DE:BFH:2018:B.250918.IIB13.18.0",
+  "chars": 11688
+ },
+ "tax/bfh-2018-09-25-i-b-1118": {
+  "domain": "tax",
+  "case_id": "93424",
+  "title": "BFH I B 11/18 (2018-09-25)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-09-25",
+  "reference": "I B 11/18",
+  "ecli": "ECLI:DE:BFH:2018:B.250918.IB11.18.0",
+  "chars": 11410
+ },
+ "tax/bfh-2018-09-25-iii-b-16017": {
+  "domain": "tax",
+  "case_id": "115718",
+  "title": "BFH III B 160/17 (2018-09-25)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-09-25",
+  "reference": "III B 160/17",
+  "ecli": "ECLI:DE:BFH:2018:B.250918.IIIB160.17.0",
+  "chars": 25039
+ },
+ "tax/bfh-2018-09-25-ix-r-3517": {
+  "domain": "tax",
+  "case_id": "171115",
+  "title": "BFH IX R 35/17 (2018-09-25)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-09-25",
+  "reference": "IX R 35/17",
+  "ecli": "ECLI:DE:BFH:2018:U.250918.IXR35.17.0",
+  "chars": 18992
+ },
+ "tax/bfh-2018-09-20-iv-r-3911": {
+  "domain": "tax",
+  "case_id": "116585",
+  "title": "BFH IV R 39/11 (2018-09-20)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-09-20",
+  "reference": "IV R 39/11",
+  "ecli": "ECLI:DE:BFH:2018:U.200918.IVR39.11.0",
+  "chars": 27549
+ },
+ "tax/bfh-2018-09-20-iv-r-616": {
+  "domain": "tax",
+  "case_id": "161384",
+  "title": "BFH IV R 6/16 (2018-09-20)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-09-20",
+  "reference": "IV R 6/16",
+  "ecli": "ECLI:DE:BFH:2018:U.200918.IVR6.16.0",
+  "chars": 42524
+ },
+ "tax/bfh-2018-09-19-ii-r-1016": {
+  "domain": "tax",
+  "case_id": "125116",
+  "title": "BFH II R 10/16 (2018-09-19)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-09-19",
+  "reference": "II R 10/16",
+  "ecli": "ECLI:DE:BFH:2018:U.190918.IIR10.16.0",
+  "chars": 13552
+ },
+ "tax/bfh-2018-09-19-ii-r-2015": {
+  "domain": "tax",
+  "case_id": "171114",
+  "title": "BFH II R 20/15 (2018-09-19)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-09-19",
+  "reference": "II R 20/15",
+  "ecli": "ECLI:DE:BFH:2018:U.190918.IIR20.15.0",
+  "chars": 14821
+ },
+ "tax/bfh-2018-09-18-xi-r-3016": {
+  "domain": "tax",
+  "case_id": "115764",
+  "title": "BFH XI R 30/16 (2018-09-18)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-09-18",
+  "reference": "XI R 30/16",
+  "ecli": "ECLI:DE:BFH:2018:U.180918.XIR30.16.0",
+  "chars": 18398
+ },
+ "tax/bfh-2018-09-18-vii-r-1818": {
+  "domain": "tax",
+  "case_id": "116580",
+  "title": "BFH VII R 18/18 (2018-09-18)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-09-18",
+  "reference": "VII R 18/18",
+  "ecli": "ECLI:DE:BFH:2018:U.180918.VIIR18.18.0",
+  "chars": 9011
+ },
+ "tax/bfh-2018-09-18-vii-r-3217": {
+  "domain": "tax",
+  "case_id": "116583",
+  "title": "BFH VII R 32/17 (2018-09-18)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-09-18",
+  "reference": "VII R 32/17",
+  "ecli": "ECLI:DE:BFH:2018:U.180918.VIIR32.17.0",
+  "chars": 12212
+ },
+ "tax/bfh-2018-09-18-xi-r-3616": {
+  "domain": "tax",
+  "case_id": "116584",
+  "title": "BFH XI R 36/16 (2018-09-18)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-09-18",
+  "reference": "XI R 36/16",
+  "ecli": "ECLI:DE:BFH:2018:U.180918.XIR36.16.0",
+  "chars": 25070
+ },
+ "tax/bfh-2018-09-18-vii-r-318": {
+  "domain": "tax",
+  "case_id": "116586",
+  "title": "BFH VII R 3/18 (2018-09-18)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-09-18",
+  "reference": "VII R 3/18",
+  "ecli": "ECLI:DE:BFH:2018:U.180918.VIIR3.18.0",
+  "chars": 11595
+ },
+ "tax/bfh-2018-09-18-xi-r-5417": {
+  "domain": "tax",
+  "case_id": "125115",
+  "title": "BFH XI R 54/17 (2018-09-18)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-09-18",
+  "reference": "XI R 54/17",
+  "ecli": "ECLI:DE:BFH:2018:B.180918.XIR54.17.0",
+  "chars": 17742
+ },
+ "tax/bfh-2018-09-18-xi-r-1915": {
+  "domain": "tax",
+  "case_id": "171113",
+  "title": "BFH XI R 19/15 (2018-09-18)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-09-18",
+  "reference": "XI R 19/15",
+  "ecli": "ECLI:DE:BFH:2018:VE.180918.XIR19.15.0",
+  "chars": 27396
+ },
+ "tax/bfh-2018-09-06-iv-r-2616": {
+  "domain": "tax",
+  "case_id": "87447",
+  "title": "BFH IV R 26/16 (2018-09-06)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-09-06",
+  "reference": "IV R 26/16",
+  "ecli": "ECLI:DE:BFH:2018:U.060918.IVR26.16.0",
+  "chars": 34596
+ },
+ "tax/bfh-2018-09-06-v-r-3017": {
+  "domain": "tax",
+  "case_id": "93430",
+  "title": "BFH V R 30/17 (2018-09-06)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-09-06",
+  "reference": "V R 30/17",
+  "ecli": "ECLI:DE:BFH:2018:U.060918.VR30.17.0",
+  "chars": 11247
+ },
+ "tax/bfh-2018-09-06-v-r-3417": {
+  "domain": "tax",
+  "case_id": "116581",
+  "title": "BFH V R 34/17 (2018-09-06)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-09-06",
+  "reference": "V R 34/17",
+  "ecli": "ECLI:DE:BFH:2018:U.060918.VR34.17.0",
+  "chars": 8458
+ },
+ "tax/bfh-2018-09-06-v-r-5517": {
+  "domain": "tax",
+  "case_id": "116587",
+  "title": "BFH V R 55/17 (2018-09-06)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-09-06",
+  "reference": "V R 55/17",
+  "ecli": "ECLI:DE:BFH:2018:U.060918.VR55.17.0",
+  "chars": 11407
+ },
+ "tax/bfh-2018-09-05-xi-r-4517": {
+  "domain": "tax",
+  "case_id": "93427",
+  "title": "BFH XI R 45/17 (2018-09-05)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-09-05",
+  "reference": "XI R 45/17",
+  "ecli": "ECLI:DE:BFH:2018:B.050918.XIR45.17.0",
+  "chars": 8175
+ },
+ "tax/bfh-2018-09-05-ii-r-5715": {
+  "domain": "tax",
+  "case_id": "115719",
+  "title": "BFH II R 57/15 (2018-09-05)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-09-05",
+  "reference": "II R 57/15",
+  "ecli": "ECLI:DE:BFH:2018:U.050918.IIR57.15.0",
+  "chars": 12237
+ },
+ "tax/bfh-2018-09-03-viii-b-1518": {
+  "domain": "tax",
+  "case_id": "59425",
+  "title": "BFH VIII B 15/18 (2018-09-03)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-09-03",
+  "reference": "VIII B 15/18",
+  "ecli": "ECLI:DE:BFH:2018:BA.030918.VIIIB15.18.0",
+  "chars": 11601
+ },
+ "tax/bfh-2018-09-03-iii-b-7417": {
+  "domain": "tax",
+  "case_id": "87450",
+  "title": "BFH III B 74/17 (2018-09-03)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-09-03",
+  "reference": "III B 74/17",
+  "ecli": "ECLI:DE:BFH:2018:B.030918.IIIB74.17.0",
+  "chars": 8930
+ },
+ "tax/bfh-2018-08-29-xi-r-3717": {
+  "domain": "tax",
+  "case_id": "59435",
+  "title": "BFH XI R 37/17 (2018-08-29)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-08-29",
+  "reference": "XI R 37/17",
+  "ecli": "ECLI:DE:BFH:2018:U.290818.XIR37.17.0",
+  "chars": 31864
+ },
+ "tax/bfh-2018-08-29-ii-b-918": {
+  "domain": "tax",
+  "case_id": "93428",
+  "title": "BFH II B 9/18 (2018-08-29)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-08-29",
+  "reference": "II B 9/18",
+  "ecli": "ECLI:DE:BFH:2018:B.290818.IIB9.18.0",
+  "chars": 17184
+ },
+ "tax/bfh-2018-08-29-vi-r-1016": {
+  "domain": "tax",
+  "case_id": "115717",
+  "title": "BFH VI R 10/16 (2018-08-29)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-08-29",
+  "reference": "VI R 10/16",
+  "ecli": "ECLI:DE:BFH:2018:U.290818.VIR10716.0",
+  "chars": 15901
+ },
+ "tax/bfh-2018-08-29-xi-r-5717": {
+  "domain": "tax",
+  "case_id": "115766",
+  "title": "BFH XI R 57/17 (2018-08-29)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-08-29",
+  "reference": "XI R 57/17",
+  "ecli": "ECLI:DE:BFH:2018:B.290818.XIR57.17.0",
+  "chars": 39898
+ },
+ "tax/bfh-2018-08-28-ix-b-14317": {
+  "domain": "tax",
+  "case_id": "115720",
+  "title": "BFH IX B 143/17 (2018-08-28)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-08-28",
+  "reference": "IX B 143/17",
+  "ecli": "ECLI:DE:BFH:2018:B.280818.IXB143.17.0",
+  "chars": 2278
+ },
+ "tax/bfh-2018-08-28-x-b-4818": {
+  "domain": "tax",
+  "case_id": "116582",
+  "title": "BFH X B 48/18 (2018-08-28)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-08-28",
+  "reference": "X B 48/18",
+  "ecli": "ECLI:DE:BFH:2018:B.280818.XB48.18.0",
+  "chars": 20511
+ },
+ "tax/bfh-2018-08-21-x-s-2318": {
+  "domain": "tax",
+  "case_id": "93431",
+  "title": "BFH X S 23/18 (2018-08-21)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-08-21",
+  "reference": "X S 23/18",
+  "ecli": "ECLI:DE:BFH:2018:B.210818.XS23.18.0",
+  "chars": 8788
+ },
+ "tax/bfh-2018-08-21-viii-r-215": {
+  "domain": "tax",
+  "case_id": "115716",
+  "title": "BFH VIII R 2/15 (2018-08-21)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-08-21",
+  "reference": "VIII R 2/15",
+  "ecli": "ECLI:DE:BFH:2018:U.210818.VIIIR2.15.0",
+  "chars": 17256
+ },
+ "tax/bfh-2018-08-14-xi-b-218": {
+  "domain": "tax",
+  "case_id": "93429",
+  "title": "BFH XI B 2/18 (2018-08-14)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-08-14",
+  "reference": "XI B 2/18",
+  "ecli": "ECLI:DE:BFH:2018:B.140818.XIB2.18.0",
+  "chars": 12814
+ },
+ "tax/bfh-2018-08-07-ix-e-118": {
+  "domain": "tax",
+  "case_id": "59423",
+  "title": "BFH IX E 1/18 (2018-08-07)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-08-07",
+  "reference": "IX E 1/18",
+  "ecli": "ECLI:DE:BFH:2018:B.070818.IXE1.18.0",
+  "chars": 2333
+ },
+ "tax/bfh-2018-08-07-ix-b-11817": {
+  "domain": "tax",
+  "case_id": "59424",
+  "title": "BFH IX B 118/17 (2018-08-07)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-08-07",
+  "reference": "IX B 118/17",
+  "ecli": "ECLI:DE:BFH:2018:B.070818.IXB118.17.0",
+  "chars": 6205
+ },
+ "tax/bfh-2018-08-07-ix-s-118": {
+  "domain": "tax",
+  "case_id": "59432",
+  "title": "BFH IX S 1/18 (2018-08-07)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-08-07",
+  "reference": "IX S 1/18",
+  "ecli": "ECLI:DE:BFH:2018:B.070818.IXS1.18.0",
+  "chars": 874
+ },
+ "tax/bfh-2018-08-07-vii-r-24-2517-vii": {
+  "domain": "tax",
+  "case_id": "87451",
+  "title": "BFH VII R 24, 25/17, VII R 24/17, VII R 25/17 (2018-08-07)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-08-07",
+  "reference": "VII R 24, 25/17, VII R 24/17, VII R 25/17",
+  "ecli": "ECLI:DE:BFH:2018:U.070818.VIIR24.17.0",
+  "chars": 14075
+ },
+ "tax/bfh-2018-08-07-vii-r-2017": {
+  "domain": "tax",
+  "case_id": "115768",
+  "title": "BFH VII R 20/17 (2018-08-07)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-08-07",
+  "reference": "VII R 20/17",
+  "ecli": "ECLI:DE:BFH:2018:U.070818.VIIR20.17.0",
+  "chars": 9532
+ },
+ "tax/bfh-2018-08-06-x-b-2218": {
+  "domain": "tax",
+  "case_id": "59422",
+  "title": "BFH X B 22/18 (2018-08-06)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-08-06",
+  "reference": "X B 22/18",
+  "ecli": "ECLI:DE:BFH:2018:B.060818.XB22.18.0",
+  "chars": 13687
+ },
+ "tax/bfh-2018-08-02-v-r-616": {
+  "domain": "tax",
+  "case_id": "59415",
+  "title": "BFH V R 6/16 (2018-08-02)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-08-02",
+  "reference": "V R 6/16",
+  "ecli": "ECLI:DE:BFH:2018:U.020818.VR6.16.0",
+  "chars": 19164
+ },
+ "tax/bfh-2018-08-02-v-r-3317": {
+  "domain": "tax",
+  "case_id": "93425",
+  "title": "BFH V R 33/17 (2018-08-02)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-08-02",
+  "reference": "V R 33/17",
+  "ecli": "ECLI:DE:BFH:2018:VE.020818.VR33.17.0",
+  "chars": 18985
+ },
+ "tax/bfh-2018-07-24-vi-s-1217": {
+  "domain": "tax",
+  "case_id": "59421",
+  "title": "BFH VI S 12/17 (2018-07-24)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-07-24",
+  "reference": "VI S 12/17",
+  "ecli": "ECLI:DE:BFH:2018:B.240718.VIS12.17.0",
+  "chars": 7897
+ },
+ "tax/bfh-2018-07-20-ix-r-2617": {
+  "domain": "tax",
+  "case_id": "59417",
+  "title": "BFH IX R 26/17 (2018-07-20)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-07-20",
+  "reference": "IX R 26/17",
+  "ecli": "ECLI:DE:BFH:2018:U.200718.IXR26.17.0",
+  "chars": 13464
+ },
+ "tax/bfh-2018-07-20-ix-r-2517": {
+  "domain": "tax",
+  "case_id": "87445",
+  "title": "BFH IX R 25/17 (2018-07-20)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-07-20",
+  "reference": "IX R 25/17",
+  "ecli": "ECLI:DE:BFH:2018:U.200718.IXR25.17.0",
+  "chars": 15456
+ },
+ "tax/bfh-2018-07-20-ix-r-318": {
+  "domain": "tax",
+  "case_id": "87452",
+  "title": "BFH IX R 3/18 (2018-07-20)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-07-20",
+  "reference": "IX R 3/18",
+  "ecli": "ECLI:DE:BFH:2018:U.200718.IXR3.18.0",
+  "chars": 16192
+ },
+ "tax/bfh-2018-07-20-ix-r-3117": {
+  "domain": "tax",
+  "case_id": "93433",
+  "title": "BFH IX R 31/17 (2018-07-20)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-07-20",
+  "reference": "IX R 31/17",
+  "ecli": "ECLI:DE:BFH:2018:U.200718.IXR31.17.0",
+  "chars": 15643
+ },
+ "tax/bfh-2018-07-20-ix-r-615": {
+  "domain": "tax",
+  "case_id": "100396",
+  "title": "BFH IX R 6/15 (2018-07-20)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-07-20",
+  "reference": "IX R 6/15",
+  "ecli": "ECLI:DE:BFH:2018:U.200718.IXR6.15.0",
+  "chars": 22368
+ },
+ "tax/bfh-2018-07-20-ix-r-715": {
+  "domain": "tax",
+  "case_id": "100397",
+  "title": "BFH IX R 7/15 (2018-07-20)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-07-20",
+  "reference": "IX R 7/15",
+  "ecli": "ECLI:DE:BFH:2018:U.200718.IXR7.15.0",
+  "chars": 21931
+ },
+ "tax/bfh-2018-07-19-iv-r-1416": {
+  "domain": "tax",
+  "case_id": "59413",
+  "title": "BFH IV R 14/16 (2018-07-19)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-07-19",
+  "reference": "IV R 14/16",
+  "ecli": "ECLI:DE:BFH:2018:U.190718.IVR14.16.0",
+  "chars": 29828
+ },
+ "tax/bfh-2018-07-19-iv-r-1017": {
+  "domain": "tax",
+  "case_id": "59414",
+  "title": "BFH IV R 10/17 (2018-07-19)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-07-19",
+  "reference": "IV R 10/17",
+  "ecli": "ECLI:DE:BFH:2018:U.190718.IVR10.17.0",
+  "chars": 32013
+ },
+ "tax/bfh-2018-07-19-iv-r-3115": {
+  "domain": "tax",
+  "case_id": "59416",
+  "title": "BFH IV R 31/15 (2018-07-19)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-07-19",
+  "reference": "IV R 31/15",
+  "ecli": "ECLI:DE:BFH:2018:U.190718.IVR31.15.0",
+  "chars": 14207
+ },
+ "tax/bfh-2018-07-19-iv-r-3910": {
+  "domain": "tax",
+  "case_id": "59426",
+  "title": "BFH IV R 39/10 (2018-07-19)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-07-19",
+  "reference": "IV R 39/10",
+  "ecli": "ECLI:DE:BFH:2018:U.190718.IVR39.10.0",
+  "chars": 21747
+ },
+ "tax/bfh-2018-07-19-iv-r-316": {
+  "domain": "tax",
+  "case_id": "59436",
+  "title": "BFH IV R 3/16 (2018-07-19)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-07-19",
+  "reference": "IV R 3/16",
+  "ecli": "ECLI:DE:BFH:2018:U.190718.IVR3.16.0",
+  "chars": 8371
+ },
+ "tax/bfh-2018-07-11-xi-r-3316": {
+  "domain": "tax",
+  "case_id": "59428",
+  "title": "BFH XI R 33/16 (2018-07-11)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-07-11",
+  "reference": "XI R 33/16",
+  "ecli": "ECLI:DE:BFH:2018:B.110718.XIR33.16.0",
+  "chars": 28946
+ },
+ "tax/bfh-2018-07-09-vi-b-11317": {
+  "domain": "tax",
+  "case_id": "59418",
+  "title": "BFH VI B 113/17 (2018-07-09)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-07-09",
+  "reference": "VI B 113/17",
+  "ecli": "ECLI:DE:BFH:2018:B.090718.VIB113.17.0",
+  "chars": 7287
+ },
+ "tax/bfh-2018-07-06-vii-b-12617": {
+  "domain": "tax",
+  "case_id": "59429",
+  "title": "BFH VII B 126/17 (2018-07-06)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-07-06",
+  "reference": "VII B 126/17",
+  "ecli": "ECLI:DE:BFH:2018:B.060718.VIIB126.17.0",
+  "chars": 10552
+ },
+ "tax/bfh-2018-07-05-ii-b-12217": {
+  "domain": "tax",
+  "case_id": "59412",
+  "title": "BFH II B 122/17 (2018-07-05)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-07-05",
+  "reference": "II B 122/17",
+  "ecli": "ECLI:DE:BFH:2018:B.050718.IIB122.17.0",
+  "chars": 15455
+ },
+ "tax/bfh-2018-07-05-xi-b-1718": {
+  "domain": "tax",
+  "case_id": "59430",
+  "title": "BFH XI B 17/18 (2018-07-05)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-07-05",
+  "reference": "XI B 17/18",
+  "ecli": "ECLI:DE:BFH:2018:B.050718.XIB17.18.0",
+  "chars": 12763
+ },
+ "tax/bfh-2018-07-05-x-b-2418": {
+  "domain": "tax",
+  "case_id": "59431",
+  "title": "BFH X B 24/18 (2018-07-05)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-07-05",
+  "reference": "X B 24/18",
+  "ecli": "ECLI:DE:BFH:2018:B.050718.XB24.18.0",
+  "chars": 6433
+ },
+ "tax/bfh-2018-07-05-vi-r-6715": {
+  "domain": "tax",
+  "case_id": "59433",
+  "title": "BFH VI R 67/15 (2018-07-05)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-07-05",
+  "reference": "VI R 67/15",
+  "ecli": "ECLI:DE:BFH:2018:U.050718.VIR67.15.0",
+  "chars": 16042
+ },
+ "tax/bfh-2018-07-05-xi-b-1818": {
+  "domain": "tax",
+  "case_id": "59434",
+  "title": "BFH XI B 18/18 (2018-07-05)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-07-05",
+  "reference": "XI B 18/18",
+  "ecli": "ECLI:DE:BFH:2018:B.050718.XIB18.18.0",
+  "chars": 12447
+ },
+ "tax/bfh-2018-07-04-vi-r-1617": {
+  "domain": "tax",
+  "case_id": "59419",
+  "title": "BFH VI R 16/17 (2018-07-04)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-07-04",
+  "reference": "VI R 16/17",
+  "ecli": "ECLI:DE:BFH:2018:U.040718.VIR16.17.0",
+  "chars": 17742
+ },
+ "tax/bfh-2018-07-04-ix-b-11417": {
+  "domain": "tax",
+  "case_id": "59420",
+  "title": "BFH IX B 114/17 (2018-07-04)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-07-04",
+  "reference": "IX B 114/17",
+  "ecli": "ECLI:DE:BFH:2018:B.040718.IXB114.17.0",
+  "chars": 7786
+ },
+ "tax/bfh-2018-07-03-viii-r-2815": {
+  "domain": "tax",
+  "case_id": "59427",
+  "title": "BFH VIII R 28/15 (2018-07-03)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-07-03",
+  "reference": "VIII R 28/15",
+  "ecli": "ECLI:DE:BFH:2018:U.030718.VIIIR28.15.0",
+  "chars": 15997
+ },
+ "tax/bfh-2018-07-03-vi-r-5516": {
+  "domain": "tax",
+  "case_id": "59441",
+  "title": "BFH VI R 55/16 (2018-07-03)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-07-03",
+  "reference": "VI R 55/16",
+  "ecli": "ECLI:DE:BFH:2018:B.030718.VIR55.16.0",
+  "chars": 16780
+ },
+ "tax/bfh-2018-07-03-viii-r-1016": {
+  "domain": "tax",
+  "case_id": "87453",
+  "title": "BFH VIII R 10/16 (2018-07-03)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-07-03",
+  "reference": "VIII R 10/16",
+  "ecli": "ECLI:DE:BFH:2018:U.030718.VIIIR10.16.0",
+  "chars": 28035
+ },
+ "tax/bfh-2018-07-03-viii-r-916": {
+  "domain": "tax",
+  "case_id": "87454",
+  "title": "BFH VIII R 9/16 (2018-07-03)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-07-03",
+  "reference": "VIII R 9/16",
+  "ecli": "ECLI:DE:BFH:2018:U.030718.VIIIR9.16.0",
+  "chars": 29239
+ },
+ "tax/bfh-2018-07-02-ix-r-3116": {
+  "domain": "tax",
+  "case_id": "59445",
+  "title": "BFH IX R 31/16 (2018-07-02)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-07-02",
+  "reference": "IX R 31/16",
+  "ecli": "ECLI:DE:BFH:2018:U.020718.IXR31.16.0",
+  "chars": 16397
+ },
+ "tax/bfh-2018-06-29-vii-b-18917": {
+  "domain": "tax",
+  "case_id": "59439",
+  "title": "BFH VII B 189/17 (2018-06-29)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-06-29",
+  "reference": "VII B 189/17",
+  "ecli": "ECLI:DE:BFH:2018:B.290618.VIIB189.17.0",
+  "chars": 10483
+ },
+ "tax/bfh-2018-06-27-x-r-217": {
+  "domain": "tax",
+  "case_id": "59450",
+  "title": "BFH X R 2/17 (2018-06-27)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-06-27",
+  "reference": "X R 2/17",
+  "ecli": "ECLI:DE:BFH:2018:U.270618.XR2.17.0",
+  "chars": 15912
+ },
+ "tax/bfh-2018-06-27-x-r-4416": {
+  "domain": "tax",
+  "case_id": "59454",
+  "title": "BFH X R 44/16 (2018-06-27)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-06-27",
+  "reference": "X R 44/16",
+  "ecli": "ECLI:DE:BFH:2018:U.270618.XR44.16.0",
+  "chars": 14604
+ },
+ "tax/bfh-2018-06-27-x-r-2617": {
+  "domain": "tax",
+  "case_id": "59459",
+  "title": "BFH X R 26/17 (2018-06-27)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-06-27",
+  "reference": "X R 26/17",
+  "ecli": "ECLI:DE:BFH:2018:U.270618.XR26.17.0",
+  "chars": 30664
+ },
+ "tax/bfh-2018-06-27-x-k-3-617-x-k-317": {
+  "domain": "tax",
+  "case_id": "87455",
+  "title": "BFH X K 3-6/17, X K 3/17, X K 4/17, X K 5/17, X K 6/17 (2018-06-27)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-06-27",
+  "reference": "X K 3-6/17, X K 3/17, X K 4/17, X K 5/17, X K 6/17",
+  "ecli": "ECLI:DE:BFH:2018:U.270618.XK3.17.0",
+  "chars": 59190
+ },
+ "tax/bfh-2018-06-26-vii-r-4717": {
+  "domain": "tax",
+  "case_id": "59448",
+  "title": "BFH VII R 47/17 (2018-06-26)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-06-26",
+  "reference": "VII R 47/17",
+  "ecli": "ECLI:DE:BFH:2018:U.260618.VIIR47.17.0",
+  "chars": 16389
+ },
+ "tax/bfh-2018-06-25-ix-b-13817": {
+  "domain": "tax",
+  "case_id": "59443",
+  "title": "BFH IX B 138/17 (2018-06-25)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-06-25",
+  "reference": "IX B 138/17",
+  "ecli": "ECLI:DE:BFH:2018:B.250618.IXB138.17.0",
+  "chars": 6131
+ },
+ "tax/bfh-2018-06-21-v-r-2515": {
+  "domain": "tax",
+  "case_id": "59442",
+  "title": "BFH V R 25/15 (2018-06-21)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-06-21",
+  "reference": "V R 25/15",
+  "ecli": "ECLI:DE:BFH:2018:U.210618.VR25.15.0",
+  "chars": 12337
+ },
+ "tax/bfh-2018-06-21-v-r-2017": {
+  "domain": "tax",
+  "case_id": "59444",
+  "title": "BFH V R 20/17 (2018-06-21)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-06-21",
+  "reference": "V R 20/17",
+  "ecli": "ECLI:DE:BFH:2018:VE.210618.VR20.17.0",
+  "chars": 31796
+ },
+ "tax/bfh-2018-06-21-v-r-2816": {
+  "domain": "tax",
+  "case_id": "59456",
+  "title": "BFH V R 28/16 (2018-06-21)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-06-21",
+  "reference": "V R 28/16",
+  "ecli": "ECLI:DE:BFH:2018:U.210618.VR28.16.0",
+  "chars": 15497
+ },
+ "tax/bfh-2018-06-14-iii-r-2017": {
+  "domain": "tax",
+  "case_id": "59438",
+  "title": "BFH III R 20/17 (2018-06-14)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-06-14",
+  "reference": "III R 20/17",
+  "ecli": "ECLI:DE:BFH:2018:U.140618.IIIR20.17.0",
+  "chars": 12793
+ },
+ "tax/bfh-2018-06-14-iii-r-3515": {
+  "domain": "tax",
+  "case_id": "59451",
+  "title": "BFH III R 35/15 (2018-06-14)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-06-14",
+  "reference": "III R 35/15",
+  "ecli": "ECLI:DE:BFH:2018:U.140618.IIIR35.15.0",
+  "chars": 32082
+ },
+ "tax/bfh-2018-06-14-iii-r-2717": {
+  "domain": "tax",
+  "case_id": "59455",
+  "title": "BFH III R 27/17 (2018-06-14)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-06-14",
+  "reference": "III R 27/17",
+  "ecli": "ECLI:DE:BFH:2018:U.140618.IIIR27.17.0",
+  "chars": 13375
+ },
+ "tax/bfh-2018-06-14-iii-r-2616": {
+  "domain": "tax",
+  "case_id": "59458",
+  "title": "BFH III R 26/16 (2018-06-14)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-06-14",
+  "reference": "III R 26/16",
+  "ecli": "ECLI:DE:BFH:2018:U.140618.IIIR26.16.0",
+  "chars": 13151
+ },
+ "tax/bfh-2018-06-13-xi-r-617": {
+  "domain": "tax",
+  "case_id": "59437",
+  "title": "BFH XI R 6/17 (2018-06-13)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-06-13",
+  "reference": "XI R 6/17",
+  "ecli": "ECLI:DE:BFH:2018:VE.130618.XIR6.17.0",
+  "chars": 29820
+ },
+ "tax/bfh-2018-06-13-i-r-9415": {
+  "domain": "tax",
+  "case_id": "59440",
+  "title": "BFH I R 94/15 (2018-06-13)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-06-13",
+  "reference": "I R 94/15",
+  "ecli": "ECLI:DE:BFH:2018:U.130618.IR94.15.0",
+  "chars": 33961
+ },
+ "tax/bfh-2018-06-13-xi-r-2014": {
+  "domain": "tax",
+  "case_id": "59447",
+  "title": "BFH XI R 20/14 (2018-06-13)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-06-13",
+  "reference": "XI R 20/14",
+  "ecli": "ECLI:DE:BFH:2018:U.130618.XIR20.14.0",
+  "chars": 38039
+ },
+ "tax/bfh-2018-06-13-xi-r-2016": {
+  "domain": "tax",
+  "case_id": "59449",
+  "title": "BFH XI R 20/16 (2018-06-13)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-06-13",
+  "reference": "XI R 20/16",
+  "ecli": "ECLI:DE:BFH:2018:U.130618.XIR20.16.0",
+  "chars": 37550
+ },
+ "tax/bfh-2018-06-13-xi-r-517": {
+  "domain": "tax",
+  "case_id": "59452",
+  "title": "BFH XI R 5/17 (2018-06-13)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-06-13",
+  "reference": "XI R 5/17",
+  "ecli": "ECLI:DE:BFH:2018:VE.130618.XIR5.17.0",
+  "chars": 41067
+ },
+ "tax/bfh-2018-06-13-xi-r-216": {
+  "domain": "tax",
+  "case_id": "59461",
+  "title": "BFH XI R 2/16 (2018-06-13)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-06-13",
+  "reference": "XI R 2/16",
+  "ecli": "ECLI:DE:BFH:2018:U.130618.XIR2.16.0",
+  "chars": 15880
+ },
+ "tax/bfh-2018-06-12-vii-r-1916": {
+  "domain": "tax",
+  "case_id": "59446",
+  "title": "BFH VII R 19/16 (2018-06-12)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-06-12",
+  "reference": "VII R 19/16",
+  "ecli": "ECLI:DE:BFH:2018:U.120618.VIIR19.16.0",
+  "chars": 11798
+ },
+ "tax/bfh-2018-06-12-viii-r-1415": {
+  "domain": "tax",
+  "case_id": "59453",
+  "title": "BFH VIII R 14/15 (2018-06-12)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-06-12",
+  "reference": "VIII R 14/15",
+  "ecli": "ECLI:DE:BFH:2018:U.120618.VIIIR14.15.0",
+  "chars": 23917
+ },
+ "tax/bfh-2018-06-12-viii-r-3216": {
+  "domain": "tax",
+  "case_id": "59457",
+  "title": "BFH VIII R 32/16 (2018-06-12)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-06-12",
+  "reference": "VIII R 32/16",
+  "ecli": "ECLI:DE:BFH:2018:U.120618.VIIIR32.16.0",
+  "chars": 13740
+ },
+ "tax/bfh-2018-06-12-viii-b-15417": {
+  "domain": "tax",
+  "case_id": "59460",
+  "title": "BFH VIII B 154/17 (2018-06-12)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-06-12",
+  "reference": "VIII B 154/17",
+  "ecli": "ECLI:DE:BFH:2018:B.120618.VIIIB154.17.0",
+  "chars": 18607
+ },
+ "tax/bfh-2018-06-12-viii-r-4615": {
+  "domain": "tax",
+  "case_id": "59464",
+  "title": "BFH VIII R 46/15 (2018-06-12)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-06-12",
+  "reference": "VIII R 46/15",
+  "ecli": "ECLI:DE:BFH:2018:U.120618.VIIIR46.15.0",
+  "chars": 41951
+ },
+ "tax/bfh-2018-06-12-viii-r-3814": {
+  "domain": "tax",
+  "case_id": "59485",
+  "title": "BFH VIII R 38/14 (2018-06-12)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-06-12",
+  "reference": "VIII R 38/14",
+  "ecli": "ECLI:DE:BFH:2018:B.120618.VIIIR38.14.0",
+  "chars": 23304
+ },
+ "tax/bfh-2018-06-08-x-b-11217": {
+  "domain": "tax",
+  "case_id": "59484",
+  "title": "BFH X B 112/17 (2018-06-08)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-06-08",
+  "reference": "X B 112/17",
+  "ecli": "ECLI:DE:BFH:2018:B.080618.XB112.17.0",
+  "chars": 10812
+ },
+ "tax/bfh-2018-06-07-vi-r-1316": {
+  "domain": "tax",
+  "case_id": "59465",
+  "title": "BFH VI R 13/16 (2018-06-07)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-06-07",
+  "reference": "VI R 13/16",
+  "ecli": "ECLI:DE:BFH:2018:U.070618.VIR13.16.0",
+  "chars": 15337
+ },
+ "tax/bfh-2018-06-07-iv-r-3715": {
+  "domain": "tax",
+  "case_id": "59470",
+  "title": "BFH IV R 37/15 (2018-06-07)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-06-07",
+  "reference": "IV R 37/15",
+  "ecli": "ECLI:DE:BFH:2018:U.070618.IVR37.15.0",
+  "chars": 23473
+ },
+ "tax/bfh-2018-06-07-iv-r-1114": {
+  "domain": "tax",
+  "case_id": "59474",
+  "title": "BFH IV R 11/14 (2018-06-07)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-06-07",
+  "reference": "IV R 11/14",
+  "ecli": "ECLI:DE:BFH:2018:B.070618.IVR11.14.0",
+  "chars": 18428
+ },
+ "tax/bfh-2018-06-07-iv-r-1616": {
+  "domain": "tax",
+  "case_id": "59477",
+  "title": "BFH IV R 16/16 (2018-06-07)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-06-07",
+  "reference": "IV R 16/16",
+  "ecli": "ECLI:DE:BFH:2018:U.070618.IVR16.16.0",
+  "chars": 13140
+ },
+ "tax/bfh-2018-06-07-iv-r-1116": {
+  "domain": "tax",
+  "case_id": "59478",
+  "title": "BFH IV R 11/16 (2018-06-07)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-06-07",
+  "reference": "IV R 11/16",
+  "ecli": "ECLI:DE:BFH:2018:U.070618.IVR11.16.0",
+  "chars": 17352
+ },
+ "tax/bfh-2018-06-07-vi-b-10117": {
+  "domain": "tax",
+  "case_id": "59479",
+  "title": "BFH VI B 101/17 (2018-06-07)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-06-07",
+  "reference": "VI B 101/17",
+  "ecli": "ECLI:DE:BFH:2018:B.070618.VIB101.17.0",
+  "chars": 11662
+ },
+ "tax/bfh-2018-06-06-i-r-3616": {
+  "domain": "tax",
+  "case_id": "59466",
+  "title": "BFH I R 36/16 (2018-06-06)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-06-06",
+  "reference": "I R 36/16",
+  "ecli": "ECLI:DE:BFH:2018:B.060618.IR36.16.0",
+  "chars": 12154
+ },
+ "tax/bfh-2018-06-06-x-k-216": {
+  "domain": "tax",
+  "case_id": "59467",
+  "title": "BFH X K 2/16 (2018-06-06)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-06-06",
+  "reference": "X K 2/16",
+  "ecli": "ECLI:DE:BFH:2018:U.060618.XK2716.0",
+  "chars": 23262
+ },
+ "tax/bfh-2018-06-06-vi-r-3216": {
+  "domain": "tax",
+  "case_id": "59473",
+  "title": "BFH VI R 32/16 (2018-06-06)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-06-06",
+  "reference": "VI R 32/16",
+  "ecli": "ECLI:DE:BFH:2018:U.060618.VIR32.16.0",
+  "chars": 20425
+ },
+ "tax/bfh-2018-06-06-x-r-4117": {
+  "domain": "tax",
+  "case_id": "59482",
+  "title": "BFH X R 41/17 (2018-06-06)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-06-06",
+  "reference": "X R 41/17",
+  "ecli": "ECLI:DE:BFH:2018:U.060618.XR41.17.0",
+  "chars": 20735
+ },
+ "tax/bfh-2018-05-29-ix-b-10617": {
+  "domain": "tax",
+  "case_id": "59462",
+  "title": "BFH IX B 106/17 (2018-05-29)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-05-29",
+  "reference": "IX B 106/17",
+  "ecli": "ECLI:DE:BFH:2018:B.290518.IXB106.17.0",
+  "chars": 3261
+ },
+ "tax/bfh-2018-05-29-vii-b-11217": {
+  "domain": "tax",
+  "case_id": "59463",
+  "title": "BFH VII B 112/17 (2018-05-29)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-05-29",
+  "reference": "VII B 112/17",
+  "ecli": "ECLI:DE:BFH:2018:B.290518.VIIB112.17.0",
+  "chars": 7721
+ },
+ "tax/bfh-2018-05-29-ix-b-12217": {
+  "domain": "tax",
+  "case_id": "59469",
+  "title": "BFH IX B 122/17 (2018-05-29)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-05-29",
+  "reference": "IX B 122/17",
+  "ecli": "ECLI:DE:BFH:2018:B.290518.IXB122.17.0",
+  "chars": 6004
+ },
+ "tax/bfh-2018-05-29-ix-r-3316": {
+  "domain": "tax",
+  "case_id": "59475",
+  "title": "BFH IX R 33/16 (2018-05-29)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-05-29",
+  "reference": "IX R 33/16",
+  "ecli": "ECLI:DE:BFH:2018:U.290518.IXR33.16.0",
+  "chars": 11932
+ },
+ "tax/bfh-2018-05-29-ix-r-4017": {
+  "domain": "tax",
+  "case_id": "59480",
+  "title": "BFH IX R 40/17 (2018-05-29)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-05-29",
+  "reference": "IX R 40/17",
+  "ecli": "ECLI:DE:BFH:2018:U.290518.IXR40.17.0",
+  "chars": 6182
+ },
+ "tax/bfh-2018-05-22-xi-r-2217": {
+  "domain": "tax",
+  "case_id": "59468",
+  "title": "BFH XI R 22/17 (2018-05-22)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-05-22",
+  "reference": "XI R 22/17",
+  "ecli": "ECLI:DE:BFH:2018:B.220518.XIR22.17.0",
+  "chars": 11325
+ },
+ "tax/bfh-2018-05-18-ix-b-818": {
+  "domain": "tax",
+  "case_id": "59481",
+  "title": "BFH IX B 8/18 (2018-05-18)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-05-18",
+  "reference": "IX B 8/18",
+  "ecli": "ECLI:DE:BFH:2018:B.180518.IXB8.18.0",
+  "chars": 4958
+ },
+ "tax/bfh-2018-05-17-vi-r-6615": {
+  "domain": "tax",
+  "case_id": "59471",
+  "title": "BFH VI R 66/15 (2018-05-17)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-05-17",
+  "reference": "VI R 66/15",
+  "ecli": "ECLI:DE:BFH:2018:U.170518.VIR66.15.0",
+  "chars": 31900
+ },
+ "tax/bfh-2018-05-17-vi-r-7315": {
+  "domain": "tax",
+  "case_id": "59483",
+  "title": "BFH VI R 73/15 (2018-05-17)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-05-17",
+  "reference": "VI R 73/15",
+  "ecli": "ECLI:DE:BFH:2018:U.170518.VIR73.15.0",
+  "chars": 39212
+ },
+ "tax/bfh-2018-05-16-ii-r-1613": {
+  "domain": "tax",
+  "case_id": "59472",
+  "title": "BFH II R 16/13 (2018-05-16)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-05-16",
+  "reference": "II R 16/13",
+  "ecli": "ECLI:DE:BFH:2018:U.160518.IIR16.13.0",
+  "chars": 7908
+ },
+ "tax/bfh-2018-05-16-xi-r-5017": {
+  "domain": "tax",
+  "case_id": "59476",
+  "title": "BFH XI R 50/17 (2018-05-16)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-05-16",
+  "reference": "XI R 50/17",
+  "ecli": "ECLI:DE:BFH:2018:U.160518.XIR50.17.0",
+  "chars": 17295
+ },
+ "tax/bfh-2018-05-16-ii-r-1413": {
+  "domain": "tax",
+  "case_id": "59491",
+  "title": "BFH II R 14/13 (2018-05-16)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-05-16",
+  "reference": "II R 14/13",
+  "ecli": "ECLI:DE:BFH:2018:U.160518.IIR14.13.0",
+  "chars": 7255
+ },
+ "tax/bfh-2018-05-16-vi-r-4516": {
+  "domain": "tax",
+  "case_id": "59494",
+  "title": "BFH VI R 45/16 (2018-05-16)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-05-16",
+  "reference": "VI R 45/16",
+  "ecli": "ECLI:DE:BFH:2018:U.160518.VIR45.16.0",
+  "chars": 22953
+ },
+ "tax/bfh-2018-05-16-ii-r-3714": {
+  "domain": "tax",
+  "case_id": "60098",
+  "title": "BFH II R 37/14 (2018-05-16)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-05-16",
+  "reference": "II R 37/14",
+  "ecli": "ECLI:DE:BFH:2018:U.160518.IIR37.14.0",
+  "chars": 10710
+ },
+ "tax/bfh-2018-05-15-x-r-1816": {
+  "domain": "tax",
+  "case_id": "59488",
+  "title": "BFH X R 18/16 (2018-05-15)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-05-15",
+  "reference": "X R 18/16",
+  "ecli": "ECLI:DE:BFH:2018:U.150518.XR18.16.0",
+  "chars": 23403
+ },
+ "tax/bfh-2018-05-15-vii-r-1417": {
+  "domain": "tax",
+  "case_id": "59490",
+  "title": "BFH VII R 14/17 (2018-05-15)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-05-15",
+  "reference": "VII R 14/17",
+  "ecli": "ECLI:DE:BFH:2018:U.150518.VIIR14.17.0",
+  "chars": 13013
+ },
+ "tax/bfh-2018-05-15-i-b-11417": {
+  "domain": "tax",
+  "case_id": "59501",
+  "title": "BFH I B 114/17 (2018-05-15)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-05-15",
+  "reference": "I B 114/17",
+  "ecli": "ECLI:DE:BFH:2018:B.150518.IB114.17.0",
+  "chars": 13423
+ },
+ "tax/bfh-2018-05-15-x-r-2815": {
+  "domain": "tax",
+  "case_id": "59507",
+  "title": "BFH X R 28/15 (2018-05-15)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-05-15",
+  "reference": "X R 28/15",
+  "ecli": "ECLI:DE:BFH:2018:U.150518.XR28.15.0",
+  "chars": 18431
+ },
+ "tax/bfh-2018-05-15-x-r-4217": {
+  "domain": "tax",
+  "case_id": "59508",
+  "title": "BFH X R 42/17 (2018-05-15)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-05-15",
+  "reference": "X R 42/17",
+  "ecli": "ECLI:DE:BFH:2018:U.150518.XR42.17.0",
+  "chars": 13663
+ },
+ "tax/bfh-2018-05-09-x-b-14317": {
+  "domain": "tax",
+  "case_id": "59505",
+  "title": "BFH X B 143/17 (2018-05-09)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-05-09",
+  "reference": "X B 143/17",
+  "ecli": "ECLI:DE:BFH:2018:B.090518.XB143.17.0",
+  "chars": 26439
+ },
+ "tax/bfh-2018-05-08-viii-b-12417": {
+  "domain": "tax",
+  "case_id": "59503",
+  "title": "BFH VIII B 124/17 (2018-05-08)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-05-08",
+  "reference": "VIII B 124/17",
+  "ecli": "ECLI:DE:BFH:2018:B.080518.VIIIB124.17.0",
+  "chars": 14980
+ },
+ "tax/bfh-2018-05-08-xi-b-518": {
+  "domain": "tax",
+  "case_id": "59510",
+  "title": "BFH XI B 5/18 (2018-05-08)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-05-08",
+  "reference": "XI B 5/18",
+  "ecli": "ECLI:DE:BFH:2018:B.080518.XIB5.18.0",
+  "chars": 12871
+ },
+ "tax/bfh-2018-04-26-iii-r-2516": {
+  "domain": "tax",
+  "case_id": "59486",
+  "title": "BFH III R 25/16 (2018-04-26)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-04-26",
+  "reference": "III R 25/16",
+  "ecli": "ECLI:DE:BFH:2018:U.260418.IIIR25.16.0",
+  "chars": 24780
+ },
+ "tax/bfh-2018-04-26-iv-r-3315": {
+  "domain": "tax",
+  "case_id": "59487",
+  "title": "BFH IV R 33/15 (2018-04-26)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-04-26",
+  "reference": "IV R 33/15",
+  "ecli": "ECLI:DE:BFH:2018:U.260418.IVR33.15.0",
+  "chars": 27126
+ },
+ "tax/bfh-2018-04-26-x-r-2417": {
+  "domain": "tax",
+  "case_id": "59495",
+  "title": "BFH X R 24/17 (2018-04-26)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-04-26",
+  "reference": "X R 24/17",
+  "ecli": "ECLI:DE:BFH:2018:U.260418.XR24.17.0",
+  "chars": 10509
+ },
+ "tax/bfh-2018-04-26-iii-r-1217": {
+  "domain": "tax",
+  "case_id": "59498",
+  "title": "BFH III R 12/17 (2018-04-26)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-04-26",
+  "reference": "III R 12/17",
+  "ecli": "ECLI:DE:BFH:2018:U.260418.IIIR12.17.0",
+  "chars": 18544
+ },
+ "tax/bfh-2018-04-26-iii-r-516": {
+  "domain": "tax",
+  "case_id": "59499",
+  "title": "BFH III R 5/16 (2018-04-26)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-04-26",
+  "reference": "III R 5/16",
+  "ecli": "ECLI:DE:BFH:2018:U.260418.IIIR5.16.0",
+  "chars": 18904
+ },
+ "tax/bfh-2018-04-26-xi-b-11717": {
+  "domain": "tax",
+  "case_id": "59502",
+  "title": "BFH XI B 117/17 (2018-04-26)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-04-26",
+  "reference": "XI B 117/17",
+  "ecli": "ECLI:DE:BFH:2018:B.260418.XIB117.17.0",
+  "chars": 28955
+ },
+ "tax/bfh-2018-04-26-v-r-2316": {
+  "domain": "tax",
+  "case_id": "59506",
+  "title": "BFH V R 23/16 (2018-04-26)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-04-26",
+  "reference": "V R 23/16",
+  "ecli": "ECLI:DE:BFH:2018:U.260418.VR23.16.0",
+  "chars": 20539
+ },
+ "tax/bfh-2018-04-26-vi-r-3916": {
+  "domain": "tax",
+  "case_id": "59509",
+  "title": "BFH VI R 39/16 (2018-04-26)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-04-26",
+  "reference": "VI R 39/16",
+  "ecli": "ECLI:DE:BFH:2018:U.260418.VIR39.16.0",
+  "chars": 21177
+ },
+ "tax/bfh-2018-04-25-iii-r-2417": {
+  "domain": "tax",
+  "case_id": "59489",
+  "title": "BFH III R 24/17 (2018-04-25)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-04-25",
+  "reference": "III R 24/17",
+  "ecli": "ECLI:DE:BFH:2018:U.250418.IIIR24.17.0",
+  "chars": 15281
+ },
+ "tax/bfh-2018-04-25-iii-r-4017": {
+  "domain": "tax",
+  "case_id": "59492",
+  "title": "BFH III R 40/17 (2018-04-25)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-04-25",
+  "reference": "III R 40/17",
+  "ecli": "ECLI:DE:BFH:2018:U.250418.IIIR40.17.0",
+  "chars": 9597
+ },
+ "tax/bfh-2018-04-25-ii-r-4315": {
+  "domain": "tax",
+  "case_id": "59493",
+  "title": "BFH II R 43/15 (2018-04-25)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-04-25",
+  "reference": "II R 43/15",
+  "ecli": "ECLI:DE:BFH:2018:U.250418.IIR43.15.0",
+  "chars": 23970
+ },
+ "tax/bfh-2018-04-25-iv-r-816": {
+  "domain": "tax",
+  "case_id": "59496",
+  "title": "BFH IV R 8/16 (2018-04-25)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-04-25",
+  "reference": "IV R 8/16",
+  "ecli": "ECLI:DE:BFH:2018:U.250418.IVR8.16.0",
+  "chars": 15235
+ },
+ "tax/bfh-2018-04-25-vi-r-3516": {
+  "domain": "tax",
+  "case_id": "59497",
+  "title": "BFH VI R 35/16 (2018-04-25)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-04-25",
+  "reference": "VI R 35/16",
+  "ecli": "ECLI:DE:BFH:2018:U.250418.VIR35.16.0",
+  "chars": 18108
+ },
+ "tax/bfh-2018-04-25-xi-r-2116": {
+  "domain": "tax",
+  "case_id": "59500",
+  "title": "BFH XI R 21/16 (2018-04-25)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-04-25",
+  "reference": "XI R 21/16",
+  "ecli": "ECLI:DE:BFH:2018:U.250418.XIR21.16.0",
+  "chars": 21302
+ },
+ "tax/bfh-2018-04-25-ix-b-2118": {
+  "domain": "tax",
+  "case_id": "59504",
+  "title": "BFH IX B 21/18 (2018-04-25)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-04-25",
+  "reference": "IX B 21/18",
+  "ecli": "ECLI:DE:BFH:2018:BA.250418.IXB21.18.0",
+  "chars": 25482
+ },
+ "tax/bfh-2018-04-25-vi-r-5116": {
+  "domain": "tax",
+  "case_id": "59513",
+  "title": "BFH VI R 51/16 (2018-04-25)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-04-25",
+  "reference": "VI R 51/16",
+  "ecli": "ECLI:DE:BFH:2018:U.250418.VIR51.16.0",
+  "chars": 18586
+ },
+ "tax/bfh-2018-04-25-vii-r-1816": {
+  "domain": "tax",
+  "case_id": "59515",
+  "title": "BFH VII R 18/16 (2018-04-25)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-04-25",
+  "reference": "VII R 18/16",
+  "ecli": "ECLI:DE:BFH:2018:B.250418.VIIR18.16.0",
+  "chars": 8674
+ },
+ "tax/bfh-2018-04-25-i-r-5915": {
+  "domain": "tax",
+  "case_id": "59517",
+  "title": "BFH I R 59/15 (2018-04-25)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-04-25",
+  "reference": "I R 59/15",
+  "ecli": "ECLI:DE:BFH:2018:U.250418.IR59.15.0",
+  "chars": 33945
+ },
+ "tax/bfh-2018-04-25-vi-r-3416": {
+  "domain": "tax",
+  "case_id": "59522",
+  "title": "BFH VI R 34/16 (2018-04-25)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-04-25",
+  "reference": "VI R 34/16",
+  "ecli": "ECLI:DE:BFH:2018:U.250418.VIR34.16.0",
+  "chars": 16192
+ },
+ "tax/bfh-2018-04-25-ii-r-4215": {
+  "domain": "tax",
+  "case_id": "59523",
+  "title": "BFH II R 42/15 (2018-04-25)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-04-25",
+  "reference": "II R 42/15",
+  "ecli": "ECLI:DE:BFH:2018:U.250418.IIR42.15.0",
+  "chars": 23549
+ },
+ "tax/bfh-2018-04-25-vi-r-6415": {
+  "domain": "tax",
+  "case_id": "59524",
+  "title": "BFH VI R 64/15 (2018-04-25)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-04-25",
+  "reference": "VI R 64/15",
+  "ecli": "ECLI:DE:BFH:2018:B.250418.VIR64.15.0",
+  "chars": 13810
+ },
+ "tax/bfh-2018-04-25-vii-r-1517": {
+  "domain": "tax",
+  "case_id": "59529",
+  "title": "BFH VII R 15/17 (2018-04-25)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-04-25",
+  "reference": "VII R 15/17",
+  "ecli": "ECLI:DE:BFH:2018:B.250418.VIIR15.17.0",
+  "chars": 16804
+ },
+ "tax/bfh-2018-04-25-ii-r-4715": {
+  "domain": "tax",
+  "case_id": "59530",
+  "title": "BFH II R 47/15 (2018-04-25)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-04-25",
+  "reference": "II R 47/15",
+  "ecli": "ECLI:DE:BFH:2018:U.250418.IIR47.15.0",
+  "chars": 14823
+ },
+ "tax/bfh-2018-04-25-ii-r-5015": {
+  "domain": "tax",
+  "case_id": "59533",
+  "title": "BFH II R 50/15 (2018-04-25)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-04-25",
+  "reference": "II R 50/15",
+  "ecli": "ECLI:DE:BFH:2018:U.250418.IIR50.15.0",
+  "chars": 13213
+ },
+ "tax/bfh-2018-04-18-i-r-3716": {
+  "domain": "tax",
+  "case_id": "59520",
+  "title": "BFH I R 37/16 (2018-04-18)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-04-18",
+  "reference": "I R 37/16",
+  "ecli": "ECLI:DE:BFH:2018:U.180418.IR37.16.0",
+  "chars": 23990
+ },
+ "tax/bfh-2018-04-18-iv-e-118": {
+  "domain": "tax",
+  "case_id": "59527",
+  "title": "BFH IV E 1/18 (2018-04-18)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-04-18",
+  "reference": "IV E 1/18",
+  "ecli": "ECLI:DE:BFH:2018:B.180418.IVE1.18.0",
+  "chars": 7828
+ },
+ "tax/bfh-2018-04-18-i-r-216": {
+  "domain": "tax",
+  "case_id": "59528",
+  "title": "BFH I R 2/16 (2018-04-18)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-04-18",
+  "reference": "I R 2/16",
+  "ecli": "ECLI:DE:BFH:2018:B.180418.IR2.16.0",
+  "chars": 25757
+ },
+ "tax/bfh-2018-04-18-x-b-12417": {
+  "domain": "tax",
+  "case_id": "59534",
+  "title": "BFH X B 124/17 (2018-04-18)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-04-18",
+  "reference": "X B 124/17",
+  "ecli": "ECLI:DE:BFH:2018:B.180418.XB124.17.0",
+  "chars": 6694
+ },
+ "tax/bfh-2018-04-17-ix-r-2717": {
+  "domain": "tax",
+  "case_id": "59511",
+  "title": "BFH IX R 27/17 (2018-04-17)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-04-17",
+  "reference": "IX R 27/17",
+  "ecli": "ECLI:DE:BFH:2018:U.170418.IXR27.17.0",
+  "chars": 15725
+ },
+ "tax/bfh-2018-04-17-ix-r-917": {
+  "domain": "tax",
+  "case_id": "59512",
+  "title": "BFH IX R 9/17 (2018-04-17)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-04-17",
+  "reference": "IX R 9/17",
+  "ecli": "ECLI:DE:BFH:2018:U.170418.IXR9.17.0",
+  "chars": 15885
+ },
+ "tax/bfh-2018-04-17-ix-r-1917": {
+  "domain": "tax",
+  "case_id": "59518",
+  "title": "BFH IX R 19/17 (2018-04-17)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-04-17",
+  "reference": "IX R 19/17",
+  "ecli": "ECLI:DE:BFH:2018:U.170418.IXR19.17.0",
+  "chars": 8992
+ },
+ "tax/bfh-2018-04-17-ix-r-1717": {
+  "domain": "tax",
+  "case_id": "59521",
+  "title": "BFH IX R 17/17 (2018-04-17)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-04-17",
+  "reference": "IX R 17/17",
+  "ecli": "ECLI:DE:BFH:2018:U.170418.IXR17.17.0",
+  "chars": 8936
+ },
+ "tax/bfh-2018-04-17-ix-r-2417": {
+  "domain": "tax",
+  "case_id": "59531",
+  "title": "BFH IX R 24/17 (2018-04-17)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-04-17",
+  "reference": "IX R 24/17",
+  "ecli": "ECLI:DE:BFH:2018:U.170418.IXR24.17.0",
+  "chars": 16865
+ },
+ "tax/bfh-2018-04-16-x-b-1318": {
+  "domain": "tax",
+  "case_id": "59514",
+  "title": "BFH X B 13/18 (2018-04-16)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-04-16",
+  "reference": "X B 13/18",
+  "ecli": "ECLI:DE:BFH:2018:B.160418.XB13.18.0",
+  "chars": 4598
+ },
+ "tax/bfh-2018-04-12-iv-r-515": {
+  "domain": "tax",
+  "case_id": "59525",
+  "title": "BFH IV R 5/15 (2018-04-12)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-04-12",
+  "reference": "IV R 5/15",
+  "ecli": "ECLI:DE:BFH:2018:U.120418.IVR5.15.0",
+  "chars": 24432
+ },
+ "tax/bfh-2018-04-12-x-b-144-14517-x-b": {
+  "domain": "tax",
+  "case_id": "59526",
+  "title": "BFH X B 144, 145/17, X B 144/17, X B 145/17 (2018-04-12)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-04-12",
+  "reference": "X B 144, 145/17, X B 144/17, X B 145/17",
+  "ecli": "ECLI:DE:BFH:2018:B.120418.XB144.17.0",
+  "chars": 33273
+ },
+ "tax/bfh-2018-04-11-x-r-3916": {
+  "domain": "tax",
+  "case_id": "59516",
+  "title": "BFH X R 39/16 (2018-04-11)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-04-11",
+  "reference": "X R 39/16",
+  "ecli": "ECLI:DE:BFH:2018:U.110418.XR39.16.0",
+  "chars": 34753
+ },
+ "tax/bfh-2018-04-11-iii-r-1817": {
+  "domain": "tax",
+  "case_id": "59519",
+  "title": "BFH III R 18/17 (2018-04-11)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-04-11",
+  "reference": "III R 18/17",
+  "ecli": "ECLI:DE:BFH:2018:U.110418.IIIR18.17.0",
+  "chars": 15177
+ },
+ "tax/bfh-2018-04-11-i-r-516": {
+  "domain": "tax",
+  "case_id": "59535",
+  "title": "BFH I R 5/16 (2018-04-11)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-04-11",
+  "reference": "I R 5/16",
+  "ecli": "ECLI:DE:BFH:2018:U.110418.IR5.16.0",
+  "chars": 17642
+ },
+ "tax/bfh-2018-04-09-x-r-918": {
+  "domain": "tax",
+  "case_id": "59532",
+  "title": "BFH X R 9/18 (2018-04-09)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-04-09",
+  "reference": "X R 9/18",
+  "ecli": "ECLI:DE:BFH:2018:B.090418.XR9.18.0",
+  "chars": 21810
+ },
+ "tax/bfh-2018-03-28-vi-b-10617": {
+  "domain": "tax",
+  "case_id": "59545",
+  "title": "BFH VI B 106/17 (2018-03-28)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-03-28",
+  "reference": "VI B 106/17",
+  "ecli": "ECLI:DE:BFH:2018:B.280318.VIB106.17.0",
+  "chars": 5413
+ },
+ "tax/bfh-2018-03-28-i-r-9015": {
+  "domain": "tax",
+  "case_id": "59546",
+  "title": "BFH I R 90/15 (2018-03-28)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-03-28",
+  "reference": "I R 90/15",
+  "ecli": "ECLI:DE:BFH:2018:B.280318.IR90.15.0",
+  "chars": 14749
+ },
+ "tax/bfh-2018-03-28-i-r-1017": {
+  "domain": "tax",
+  "case_id": "59548",
+  "title": "BFH I R 10/17 (2018-03-28)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-03-28",
+  "reference": "I R 10/17",
+  "ecli": "ECLI:DE:BFH:2018:B.280318.IR10.17.0",
+  "chars": 15742
+ },
+ "tax/bfh-2018-03-27-v-b-12017": {
+  "domain": "tax",
+  "case_id": "59547",
+  "title": "BFH V B 120/17 (2018-03-27)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-03-27",
+  "reference": "V B 120/17",
+  "ecli": "ECLI:DE:BFH:2018:BA.270318.VB120.17.0",
+  "chars": 4859
+ },
+ "tax/bfh-2018-03-27-viii-r-115": {
+  "domain": "tax",
+  "case_id": "59558",
+  "title": "BFH VIII R 1/15 (2018-03-27)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-03-27",
+  "reference": "VIII R 1/15",
+  "ecli": "ECLI:DE:BFH:2018:U.270318.VIIIR1.15.0",
+  "chars": 21746
+ },
+ "tax/bfh-2018-03-22-x-r-516": {
+  "domain": "tax",
+  "case_id": "59536",
+  "title": "BFH X R 5/16 (2018-03-22)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-03-22",
+  "reference": "X R 5/16",
+  "ecli": "ECLI:DE:BFH:2018:U.220318.XR5.16.0",
+  "chars": 31889
+ },
+ "tax/bfh-2018-03-21-xi-b-11317": {
+  "domain": "tax",
+  "case_id": "59540",
+  "title": "BFH XI B 113/17 (2018-03-21)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-03-21",
+  "reference": "XI B 113/17",
+  "ecli": "ECLI:DE:BFH:2018:B.210318.XIB113.17.0",
+  "chars": 15163
+ },
+ "tax/bfh-2018-03-21-v-b-14417": {
+  "domain": "tax",
+  "case_id": "59550",
+  "title": "BFH V B 144/17 (2018-03-21)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-03-21",
+  "reference": "V B 144/17",
+  "ecli": "ECLI:DE:BFH:2018:B.210318.VB144.17.0",
+  "chars": 3952
+ },
+ "tax/bfh-2018-03-21-i-b-6317": {
+  "domain": "tax",
+  "case_id": "59555",
+  "title": "BFH I B 63/17 (2018-03-21)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-03-21",
+  "reference": "I B 63/17",
+  "ecli": "ECLI:DE:BFH:2018:B.210318.IB63.17.0",
+  "chars": 9173
+ },
+ "tax/bfh-2018-03-20-iii-b-13517": {
+  "domain": "tax",
+  "case_id": "59542",
+  "title": "BFH III B 135/17 (2018-03-20)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-03-20",
+  "reference": "III B 135/17",
+  "ecli": "ECLI:DE:BFH:2018:B.200318.IIIB135.17.0",
+  "chars": 8399
+ },
+ "tax/bfh-2018-03-19-vi-b-9717": {
+  "domain": "tax",
+  "case_id": "59556",
+  "title": "BFH VI B 97/17 (2018-03-19)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-03-19",
+  "reference": "VI B 97/17",
+  "ecli": "ECLI:DE:BFH:2018:B.190318.VIB97.17.0",
+  "chars": 5880
+ },
+ "tax/bfh-2018-03-15-vi-r-816": {
+  "domain": "tax",
+  "case_id": "59549",
+  "title": "BFH VI R 8/16 (2018-03-15)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-03-15",
+  "reference": "VI R 8/16",
+  "ecli": "ECLI:DE:BFH:2018:U.150318.VIR8.16.0",
+  "chars": 28176
+ },
+ "tax/bfh-2018-03-14-v-b-14217": {
+  "domain": "tax",
+  "case_id": "59537",
+  "title": "BFH V B 142/17 (2018-03-14)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-03-14",
+  "reference": "V B 142/17",
+  "ecli": "ECLI:DE:BFH:2018:B.140318.VB142.17.0",
+  "chars": 9355
+ },
+ "tax/bfh-2018-03-14-iv-b-4617": {
+  "domain": "tax",
+  "case_id": "59539",
+  "title": "BFH IV B 46/17 (2018-03-14)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-03-14",
+  "reference": "IV B 46/17",
+  "ecli": "ECLI:DE:BFH:2018:B.140318.IVB46.17.0",
+  "chars": 26950
+ },
+ "tax/bfh-2018-03-14-x-r-1616": {
+  "domain": "tax",
+  "case_id": "59541",
+  "title": "BFH X R 16/16 (2018-03-14)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-03-14",
+  "reference": "X R 16/16",
+  "ecli": "ECLI:DE:BFH:2018:U.140318.XR16.16.0",
+  "chars": 34967
+ },
+ "tax/bfh-2018-03-14-iii-r-517": {
+  "domain": "tax",
+  "case_id": "59551",
+  "title": "BFH III R 5/17 (2018-03-14)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-03-14",
+  "reference": "III R 5/17",
+  "ecli": "ECLI:DE:BFH:2018:U.140318.IIIR5.17.0",
+  "chars": 11128
+ },
+ "tax/bfh-2018-03-14-x-r-1716": {
+  "domain": "tax",
+  "case_id": "59553",
+  "title": "BFH X R 17/16 (2018-03-14)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-03-14",
+  "reference": "X R 17/16",
+  "ecli": "ECLI:DE:BFH:2018:U.140318.XR17.16.0",
+  "chars": 35615
+ },
+ "tax/bfh-2018-03-14-v-r-3616": {
+  "domain": "tax",
+  "case_id": "59554",
+  "title": "BFH V R 36/16 (2018-03-14)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-03-14",
+  "reference": "V R 36/16",
+  "ecli": "ECLI:DE:BFH:2018:U.140318.VR36.16.0",
+  "chars": 29629
+ },
+ "tax/bfh-2018-03-13-ix-r-3816": {
+  "domain": "tax",
+  "case_id": "59538",
+  "title": "BFH IX R 38/16 (2018-03-13)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-03-13",
+  "reference": "IX R 38/16",
+  "ecli": "ECLI:DE:BFH:2018:U.130318.IXR38.16.0",
+  "chars": 12422
+ },
+ "tax/bfh-2018-03-13-ix-r-4117": {
+  "domain": "tax",
+  "case_id": "59543",
+  "title": "BFH IX R 41/17 (2018-03-13)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-03-13",
+  "reference": "IX R 41/17",
+  "ecli": "ECLI:DE:BFH:2018:U.130318.IXR41.17.0",
+  "chars": 13797
+ },
+ "tax/bfh-2018-03-13-x-r-2515": {
+  "domain": "tax",
+  "case_id": "59544",
+  "title": "BFH X R 25/15 (2018-03-13)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-03-13",
+  "reference": "X R 25/15",
+  "ecli": "ECLI:DE:BFH:2018:U.130318.XR25.15.0",
+  "chars": 16689
+ },
+ "tax/bfh-2018-03-13-ix-r-1217": {
+  "domain": "tax",
+  "case_id": "59552",
+  "title": "BFH IX R 12/17 (2018-03-13)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-03-13",
+  "reference": "IX R 12/17",
+  "ecli": "ECLI:DE:BFH:2018:U.130318.IXR12.17.0",
+  "chars": 9361
+ },
+ "tax/bfh-2018-03-13-ix-r-1617": {
+  "domain": "tax",
+  "case_id": "59557",
+  "title": "BFH IX R 16/17 (2018-03-13)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-03-13",
+  "reference": "IX R 16/17",
+  "ecli": "ECLI:DE:BFH:2018:U.130318.IXR16.17.0",
+  "chars": 16337
+ },
+ "tax/bfh-2018-03-13-ix-r-2317": {
+  "domain": "tax",
+  "case_id": "59559",
+  "title": "BFH IX R 23/17 (2018-03-13)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-03-13",
+  "reference": "IX R 23/17",
+  "ecli": "ECLI:DE:BFH:2018:U.130318.IXR23.17.0",
+  "chars": 20539
+ },
+ "tax/bfh-2018-03-13-ix-r-1817": {
+  "domain": "tax",
+  "case_id": "59560",
+  "title": "BFH IX R 18/17 (2018-03-13)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-03-13",
+  "reference": "IX R 18/17",
+  "ecli": "ECLI:DE:BFH:2018:U.130318.IXR18.17.0",
+  "chars": 11291
+ },
+ "tax/bfh-2018-03-13-ix-r-3516": {
+  "domain": "tax",
+  "case_id": "59570",
+  "title": "BFH IX R 35/16 (2018-03-13)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-03-13",
+  "reference": "IX R 35/16",
+  "ecli": "ECLI:DE:BFH:2018:U.130318.IXR35.16.0",
+  "chars": 18246
+ },
+ "tax/bfh-2018-03-07-i-r-8915": {
+  "domain": "tax",
+  "case_id": "59561",
+  "title": "BFH I R 89/15 (2018-03-07)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-03-07",
+  "reference": "I R 89/15",
+  "ecli": "ECLI:DE:BFH:2018:U.070318.IR89.15.0",
+  "chars": 18923
+ },
+ "tax/bfh-2018-03-07-xi-r-1316": {
+  "domain": "tax",
+  "case_id": "59567",
+  "title": "BFH XI R 13/16 (2018-03-07)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-03-07",
+  "reference": "XI R 13/16",
+  "ecli": "ECLI:DE:BFH:2018:U.070318.XIR13.16.0",
+  "chars": 8284
+ },
+ "tax/bfh-2018-03-07-i-r-1216": {
+  "domain": "tax",
+  "case_id": "59574",
+  "title": "BFH I R 12/16 (2018-03-07)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-03-07",
+  "reference": "I R 12/16",
+  "ecli": "ECLI:DE:BFH:2018:U.070318.IR12.16.0",
+  "chars": 19742
+ },
+ "tax/bfh-2018-03-05-x-b-4417": {
+  "domain": "tax",
+  "case_id": "59576",
+  "title": "BFH X B 44/17 (2018-03-05)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-03-05",
+  "reference": "X B 44/17",
+  "ecli": "ECLI:DE:BFH:2018:B.050318.XB44.17.0",
+  "chars": 25380
+ },
+ "tax/bfh-2018-03-01-v-r-2517": {
+  "domain": "tax",
+  "case_id": "59563",
+  "title": "BFH V R 25/17 (2018-03-01)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-03-01",
+  "reference": "V R 25/17",
+  "ecli": "ECLI:DE:BFH:2018:U.010318.VR25.17.0",
+  "chars": 16251
+ },
+ "tax/bfh-2018-03-01-v-r-2317": {
+  "domain": "tax",
+  "case_id": "59569",
+  "title": "BFH V R 23/17 (2018-03-01)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-03-01",
+  "reference": "V R 23/17",
+  "ecli": "ECLI:DE:BFH:2018:U.010318.VR23.17.0",
+  "chars": 12873
+ },
+ "tax/bfh-2018-03-01-iv-r-1515": {
+  "domain": "tax",
+  "case_id": "59573",
+  "title": "BFH IV R 15/15 (2018-03-01)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-03-01",
+  "reference": "IV R 15/15",
+  "ecli": "ECLI:DE:BFH:2018:U.010318.IVR15.15.0",
+  "chars": 50523
+ },
+ "tax/bfh-2018-03-01-v-r-3517": {
+  "domain": "tax",
+  "case_id": "59575",
+  "title": "BFH V R 35/17 (2018-03-01)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-03-01",
+  "reference": "V R 35/17",
+  "ecli": "ECLI:DE:BFH:2018:U.010318.VR35.17.0",
+  "chars": 12586
+ },
+ "tax/bfh-2018-03-01-iv-r-1615": {
+  "domain": "tax",
+  "case_id": "59578",
+  "title": "BFH IV R 16/15 (2018-03-01)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-03-01",
+  "reference": "IV R 16/15",
+  "ecli": "ECLI:DE:BFH:2018:U.010318.IVR16.15.0",
+  "chars": 26653
+ },
+ "tax/bfh-2018-03-01-iv-r-3815": {
+  "domain": "tax",
+  "case_id": "59583",
+  "title": "BFH IV R 38/15 (2018-03-01)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-03-01",
+  "reference": "IV R 38/15",
+  "ecli": "ECLI:DE:BFH:2018:U.010318.IVR38.15.0",
+  "chars": 40866
+ },
+ "tax/bfh-2018-03-01-v-r-1817": {
+  "domain": "tax",
+  "case_id": "59584",
+  "title": "BFH V R 18/17 (2018-03-01)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-03-01",
+  "reference": "V R 18/17",
+  "ecli": "ECLI:DE:BFH:2018:U.010318.VR18.17.0",
+  "chars": 15152
+ },
+ "tax/bfh-2018-02-28-viii-r-4115": {
+  "domain": "tax",
+  "case_id": "59562",
+  "title": "BFH VIII R 41/15 (2018-02-28)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-02-28",
+  "reference": "VIII R 41/15",
+  "ecli": "ECLI:DE:BFH:2018:U.280218.VIIIR41.15.0",
+  "chars": 13830
+ },
+ "tax/bfh-2018-02-28-x-s-118": {
+  "domain": "tax",
+  "case_id": "59568",
+  "title": "BFH X S 1/18 (2018-02-28)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-02-28",
+  "reference": "X S 1/18",
+  "ecli": "ECLI:DE:BFH:2018:B.280218.XS1.18.0",
+  "chars": 11896
+ },
+ "tax/bfh-2018-02-28-vii-b-8917": {
+  "domain": "tax",
+  "case_id": "59572",
+  "title": "BFH VII B 89/17 (2018-02-28)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-02-28",
+  "reference": "VII B 89/17",
+  "ecli": "ECLI:DE:BFH:2018:B.280218.VIIB89.17.0",
+  "chars": 6307
+ },
+ "tax/bfh-2018-02-28-viii-r-5314": {
+  "domain": "tax",
+  "case_id": "59577",
+  "title": "BFH VIII R 53/14 (2018-02-28)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-02-28",
+  "reference": "VIII R 53/14",
+  "ecli": "ECLI:DE:BFH:2018:U.280218.VIIIR53.14.0",
+  "chars": 23394
+ },
+ "tax/bfh-2018-02-28-v-b-14516": {
+  "domain": "tax",
+  "case_id": "59579",
+  "title": "BFH V B 145/16 (2018-02-28)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-02-28",
+  "reference": "V B 145/16",
+  "ecli": "ECLI:DE:BFH:2018:B.280218.VB145.16.0",
+  "chars": 10244
+ },
+ "tax/bfh-2018-02-28-viii-r-3015": {
+  "domain": "tax",
+  "case_id": "59582",
+  "title": "BFH VIII R 30/15 (2018-02-28)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-02-28",
+  "reference": "VIII R 30/15",
+  "ecli": "ECLI:DE:BFH:2018:U.280218.VIIIR30.15.0",
+  "chars": 16200
+ },
+ "tax/bfh-2018-02-28-ii-r-316": {
+  "domain": "tax",
+  "case_id": "59585",
+  "title": "BFH II R 3/16 (2018-02-28)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-02-28",
+  "reference": "II R 3/16",
+  "ecli": "ECLI:DE:BFH:2018:U.280218.IIR3.16.0",
+  "chars": 20335
+ },
+ "tax/bfh-2018-02-27-xi-b-9717": {
+  "domain": "tax",
+  "case_id": "59564",
+  "title": "BFH XI B 97/17 (2018-02-27)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-02-27",
+  "reference": "XI B 97/17",
+  "ecli": "ECLI:DE:BFH:2018:B.270218.XIB97.17.0",
+  "chars": 9435
+ },
+ "tax/bfh-2018-02-27-i-b-3717": {
+  "domain": "tax",
+  "case_id": "59565",
+  "title": "BFH I B 37/17 (2018-02-27)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-02-27",
+  "reference": "I B 37/17",
+  "ecli": "ECLI:DE:BFH:2018:B.270218.IB37.17.0",
+  "chars": 17037
+ },
+ "tax/bfh-2018-02-26-x-b-5317": {
+  "domain": "tax",
+  "case_id": "59566",
+  "title": "BFH X B 53/17 (2018-02-26)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-02-26",
+  "reference": "X B 53/17",
+  "ecli": "ECLI:DE:BFH:2018:B.260218.XB53.17.0",
+  "chars": 9656
+ },
+ "tax/bfh-2018-02-23-x-b-6517": {
+  "domain": "tax",
+  "case_id": "59580",
+  "title": "BFH X B 65/17 (2018-02-23)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-02-23",
+  "reference": "X B 65/17",
+  "ecli": "ECLI:DE:BFH:2018:B.230218.XB65.17.0",
+  "chars": 26355
+ },
+ "tax/bfh-2018-02-23-x-b-6117": {
+  "domain": "tax",
+  "case_id": "59581",
+  "title": "BFH X B 61/17 (2018-02-23)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-02-23",
+  "reference": "X B 61/17",
+  "ecli": "ECLI:DE:BFH:2018:B.230218.XB61.17.0",
+  "chars": 6617
+ },
+ "tax/bfh-2018-02-22-vi-r-1716": {
+  "domain": "tax",
+  "case_id": "59571",
+  "title": "BFH VI R 17/16 (2018-02-22)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-02-22",
+  "reference": "VI R 17/16",
+  "ecli": "ECLI:DE:BFH:2018:U.220218.VIR17.16.0",
+  "chars": 31307
+ },
+ "tax/bfh-2018-02-22-iii-r-1017": {
+  "domain": "tax",
+  "case_id": "61338",
+  "title": "BFH III R 10/17 (2018-02-22)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-02-22",
+  "reference": "III R 10/17",
+  "ecli": "ECLI:DE:BFH:2018:U.220218.IIIR10.17.0",
+  "chars": 24640
+ },
+ "tax/bfh-2018-02-21-ii-r-2115": {
+  "domain": "tax",
+  "case_id": "59588",
+  "title": "BFH II R 21/15 (2018-02-21)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-02-21",
+  "reference": "II R 21/15",
+  "ecli": "ECLI:DE:BFH:2018:U.210218.IIR21.15.0",
+  "chars": 63991
+ },
+ "tax/bfh-2018-02-21-i-r-6016": {
+  "domain": "tax",
+  "case_id": "59589",
+  "title": "BFH I R 60/16 (2018-02-21)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-02-21",
+  "reference": "I R 60/16",
+  "ecli": "ECLI:DE:BFH:2018:U.210218.IR60.16.0",
+  "chars": 21385
+ },
+ "tax/bfh-2018-02-21-vi-r-2516": {
+  "domain": "tax",
+  "case_id": "59594",
+  "title": "BFH VI R 25/16 (2018-02-21)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-02-21",
+  "reference": "VI R 25/16",
+  "ecli": "ECLI:DE:BFH:2018:U.210218.VIR25.16.0",
+  "chars": 14204
+ },
+ "tax/bfh-2018-02-21-vi-r-1116": {
+  "domain": "tax",
+  "case_id": "59597",
+  "title": "BFH VI R 11/16 (2018-02-21)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-02-21",
+  "reference": "VI R 11/16",
+  "ecli": "ECLI:DE:BFH:2018:B.210218.VIR11.16.0",
+  "chars": 54063
+ },
+ "tax/bfh-2018-02-21-iii-r-317": {
+  "domain": "tax",
+  "case_id": "59599",
+  "title": "BFH III R 3/17 (2018-02-21)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-02-21",
+  "reference": "III R 3/17",
+  "ecli": "ECLI:DE:BFH:2018:U.210218.IIIR3.17.0",
+  "chars": 14575
+ },
+ "tax/bfh-2018-02-21-vi-r-1816": {
+  "domain": "tax",
+  "case_id": "59606",
+  "title": "BFH VI R 18/16 (2018-02-21)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-02-21",
+  "reference": "VI R 18/16",
+  "ecli": "ECLI:DE:BFH:2018:U.210218.VIR18.16.0",
+  "chars": 11830
+ },
+ "tax/bfh-2018-02-21-i-r-4616": {
+  "domain": "tax",
+  "case_id": "59607",
+  "title": "BFH I R 46/16 (2018-02-21)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-02-21",
+  "reference": "I R 46/16",
+  "ecli": "ECLI:DE:BFH:2018:U.210218.IR46.16.0",
+  "chars": 20000
+ },
+ "tax/bfh-2018-02-21-iii-r-1417": {
+  "domain": "tax",
+  "case_id": "59609",
+  "title": "BFH III R 14/17 (2018-02-21)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-02-21",
+  "reference": "III R 14/17",
+  "ecli": "ECLI:DE:BFH:2018:U.210218.IIIR14.17.0",
+  "chars": 10448
+ },
+ "tax/bfh-2018-02-20-xi-b-12917": {
+  "domain": "tax",
+  "case_id": "59591",
+  "title": "BFH XI B 129/17 (2018-02-20)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-02-20",
+  "reference": "XI B 129/17",
+  "ecli": "ECLI:DE:BFH:2018:B.200218.XIB129.17.0",
+  "chars": 11673
+ },
+ "tax/bfh-2018-02-20-vii-r-2217": {
+  "domain": "tax",
+  "case_id": "59596",
+  "title": "BFH VII R 22/17 (2018-02-20)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-02-20",
+  "reference": "VII R 22/17",
+  "ecli": "ECLI:DE:BFH:2018:U.200218.VIIR22.17.0",
+  "chars": 10369
+ },
+ "tax/bfh-2018-02-20-xi-b-11017": {
+  "domain": "tax",
+  "case_id": "59600",
+  "title": "BFH XI B 110/17 (2018-02-20)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-02-20",
+  "reference": "XI B 110/17",
+  "ecli": "ECLI:DE:BFH:2018:B.200218.XIB110.17.0",
+  "chars": 7901
+ },
+ "tax/bfh-2018-02-20-vii-r-2116": {
+  "domain": "tax",
+  "case_id": "59608",
+  "title": "BFH VII R 21/16 (2018-02-20)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-02-20",
+  "reference": "VII R 21/16",
+  "ecli": "ECLI:DE:BFH:2018:U.200218.VIIR21.16.0",
+  "chars": 18347
+ },
+ "tax/bfh-2018-02-19-ii-b-7516": {
+  "domain": "tax",
+  "case_id": "59590",
+  "title": "BFH II B 75/16 (2018-02-19)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-02-19",
+  "reference": "II B 75/16",
+  "ecli": "ECLI:DE:BFH:2018:BA.190218.IIB75.16.0",
+  "chars": 39318
+ },
+ "tax/bfh-2018-02-12-x-b-6417": {
+  "domain": "tax",
+  "case_id": "59586",
+  "title": "BFH X B 64/17 (2018-02-12)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-02-12",
+  "reference": "X B 64/17",
+  "ecli": "ECLI:DE:BFH:2018:B.120218.XB64.17.0",
+  "chars": 7912
+ },
+ "tax/bfh-2018-02-12-x-b-818": {
+  "domain": "tax",
+  "case_id": "59603",
+  "title": "BFH X B 8/18 (2018-02-12)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-02-12",
+  "reference": "X B 8/18",
+  "ecli": "ECLI:DE:BFH:2018:B.120218.XB8.18.0",
+  "chars": 8065
+ },
+ "tax/bfh-2018-02-08-v-r-5516": {
+  "domain": "tax",
+  "case_id": "59602",
+  "title": "BFH V R 55/16 (2018-02-08)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-02-08",
+  "reference": "V R 55/16",
+  "ecli": "ECLI:DE:BFH:2018:U.080218.VR55.16.0",
+  "chars": 17470
+ },
+ "tax/bfh-2018-02-08-v-r-4215": {
+  "domain": "tax",
+  "case_id": "59604",
+  "title": "BFH V R 42/15 (2018-02-08)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-02-08",
+  "reference": "V R 42/15",
+  "ecli": "ECLI:DE:BFH:2018:U.080218.VR42.15.0",
+  "chars": 8438
+ },
+ "tax/bfh-2018-02-07-v-b-10517": {
+  "domain": "tax",
+  "case_id": "59587",
+  "title": "BFH V B 105/17 (2018-02-07)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-02-07",
+  "reference": "V B 105/17",
+  "ecli": "ECLI:DE:BFH:2018:B.070218.VB105.17.0",
+  "chars": 9538
+ },
+ "tax/bfh-2018-02-07-xi-k-117": {
+  "domain": "tax",
+  "case_id": "59593",
+  "title": "BFH XI K 1/17 (2018-02-07)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-02-07",
+  "reference": "XI K 1/17",
+  "ecli": "ECLI:DE:BFH:2018:U.070218.XIK1.17.0",
+  "chars": 26683
+ },
+ "tax/bfh-2018-02-07-v-b-11917": {
+  "domain": "tax",
+  "case_id": "59595",
+  "title": "BFH V B 119/17 (2018-02-07)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-02-07",
+  "reference": "V B 119/17",
+  "ecli": "ECLI:DE:BFH:2018:B.070218.VB119.17.0",
+  "chars": 10957
+ },
+ "tax/bfh-2018-02-07-xi-r-1717": {
+  "domain": "tax",
+  "case_id": "59598",
+  "title": "BFH XI R 17/17 (2018-02-07)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-02-07",
+  "reference": "XI R 17/17",
+  "ecli": "ECLI:DE:BFH:2018:U.070218.XIR17.17.0",
+  "chars": 11600
+ },
+ "tax/bfh-2018-02-07-xi-r-716": {
+  "domain": "tax",
+  "case_id": "59601",
+  "title": "BFH XI R 7/16 (2018-02-07)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-02-07",
+  "reference": "XI R 7/16",
+  "ecli": "ECLI:DE:BFH:2018:VE.070218.XIR7.16.0",
+  "chars": 19678
+ },
+ "tax/bfh-2018-02-07-x-r-1016": {
+  "domain": "tax",
+  "case_id": "59605",
+  "title": "BFH X R 10/16 (2018-02-07)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-02-07",
+  "reference": "X R 10/16",
+  "ecli": "ECLI:DE:BFH:2018:U.070218.XR10.16.0",
+  "chars": 46590
+ },
+ "tax/bfh-2018-02-07-x-b-12617": {
+  "domain": "tax",
+  "case_id": "59610",
+  "title": "BFH X B 126/17 (2018-02-07)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-02-07",
+  "reference": "X B 126/17",
+  "ecli": "ECLI:DE:BFH:2018:B.070218.XB126.17.0",
+  "chars": 11282
+ },
+ "tax/bfh-2018-02-06-ix-r-1417": {
+  "domain": "tax",
+  "case_id": "59613",
+  "title": "BFH IX R 14/17 (2018-02-06)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-02-06",
+  "reference": "IX R 14/17",
+  "ecli": "ECLI:DE:BFH:2018:U.060218.IXR14.17.0",
+  "chars": 20408
+ },
+ "tax/bfh-2018-02-06-ix-r-3317": {
+  "domain": "tax",
+  "case_id": "61347",
+  "title": "BFH IX R 33/17 (2018-02-06)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-02-06",
+  "reference": "IX R 33/17",
+  "ecli": "ECLI:DE:BFH:2018:U.060218.IXR33.17.0",
+  "chars": 13279
+ },
+ "tax/bfh-2018-02-05-x-b-16117": {
+  "domain": "tax",
+  "case_id": "59618",
+  "title": "BFH X B 161/17 (2018-02-05)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-02-05",
+  "reference": "X B 161/17",
+  "ecli": "ECLI:DE:BFH:2018:B.050218.XB161.17.0",
+  "chars": 8201
+ },
+ "tax/bfh-2018-02-05-x-b-11417": {
+  "domain": "tax",
+  "case_id": "59619",
+  "title": "BFH X B 114/17 (2018-02-05)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-02-05",
+  "reference": "X B 114/17",
+  "ecli": "ECLI:DE:BFH:2018:B.050218.XB114.17.0",
+  "chars": 15046
+ },
+ "tax/bfh-2018-02-01-x-b-13617": {
+  "domain": "tax",
+  "case_id": "59633",
+  "title": "BFH X B 136/17 (2018-02-01)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-02-01",
+  "reference": "X B 136/17",
+  "ecli": "ECLI:DE:BFH:2018:B.010218.XB136.17.0",
+  "chars": 12778
+ },
+ "tax/bfh-2018-01-31-i-r-2516": {
+  "domain": "tax",
+  "case_id": "59612",
+  "title": "BFH I R 25/16 (2018-01-31)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-01-31",
+  "reference": "I R 25/16",
+  "ecli": "ECLI:DE:BFH:2018:U.310118.IR25.16.0",
+  "chars": 19509
+ },
+ "tax/bfh-2018-01-30-viii-r-1516": {
+  "domain": "tax",
+  "case_id": "59617",
+  "title": "BFH VIII R 15/16 (2018-01-30)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-01-30",
+  "reference": "VIII R 15/16",
+  "ecli": "ECLI:DE:BFH:2018:U.300118.VIIIR15.16.0",
+  "chars": 24935
+ },
+ "tax/bfh-2018-01-30-viii-r-4215": {
+  "domain": "tax",
+  "case_id": "59624",
+  "title": "BFH VIII R 42/15 (2018-01-30)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-01-30",
+  "reference": "VIII R 42/15",
+  "ecli": "ECLI:DE:BFH:2018:U.300118.VIIIR42.15.0",
+  "chars": 31206
+ },
+ "tax/bfh-2018-01-30-viii-r-2014": {
+  "domain": "tax",
+  "case_id": "59630",
+  "title": "BFH VIII R 20/14 (2018-01-30)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-01-30",
+  "reference": "VIII R 20/14",
+  "ecli": "ECLI:DE:BFH:2018:U.300118.VIIIR20.14.0",
+  "chars": 29671
+ },
+ "tax/bfh-2018-01-30-viii-r-7513": {
+  "domain": "tax",
+  "case_id": "59632",
+  "title": "BFH VIII R 75/13 (2018-01-30)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-01-30",
+  "reference": "VIII R 75/13",
+  "ecli": "ECLI:DE:BFH:2018:U.300118.VIIIR75.13.0",
+  "chars": 34519
+ },
+ "tax/bfh-2018-01-29-x-b-12217": {
+  "domain": "tax",
+  "case_id": "59620",
+  "title": "BFH X B 122/17 (2018-01-29)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-01-29",
+  "reference": "X B 122/17",
+  "ecli": "ECLI:DE:BFH:2018:B.290118.XB122.17.0",
+  "chars": 24774
+ },
+ "tax/bfh-2018-01-24-i-b-8117": {
+  "domain": "tax",
+  "case_id": "59615",
+  "title": "BFH I B 81/17 (2018-01-24)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-01-24",
+  "reference": "I B 81/17",
+  "ecli": "ECLI:DE:BFH:2018:B.240118.IB81.17.0",
+  "chars": 10875
+ },
+ "tax/bfh-2018-01-24-i-r-4916": {
+  "domain": "tax",
+  "case_id": "59616",
+  "title": "BFH I R 49/16 (2018-01-24)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-01-24",
+  "reference": "I R 49/16",
+  "ecli": "ECLI:DE:BFH:2018:U.240118.IR49.16.0",
+  "chars": 16686
+ },
+ "tax/bfh-2018-01-24-ii-r-5915": {
+  "domain": "tax",
+  "case_id": "59622",
+  "title": "BFH II R 59/15 (2018-01-24)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-01-24",
+  "reference": "II R 59/15",
+  "ecli": "ECLI:DE:BFH:2018:U.240118.IIR59.15.0",
+  "chars": 17360
+ },
+ "tax/bfh-2018-01-24-i-r-4815": {
+  "domain": "tax",
+  "case_id": "59628",
+  "title": "BFH I R 48/15 (2018-01-24)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-01-24",
+  "reference": "I R 48/15",
+  "ecli": "ECLI:DE:BFH:2018:U.240118.IR48.15.0",
+  "chars": 15703
+ },
+ "tax/bfh-2018-01-23-xi-s-2817": {
+  "domain": "tax",
+  "case_id": "59611",
+  "title": "BFH XI S 28/17 (2018-01-23)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-01-23",
+  "reference": "XI S 28/17",
+  "ecli": "ECLI:DE:BFH:2018:B.230118.XIS28.17.0",
+  "chars": 4940
+ },
+ "tax/bfh-2018-01-19-x-b-6017": {
+  "domain": "tax",
+  "case_id": "59627",
+  "title": "BFH X B 60/17 (2018-01-19)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-01-19",
+  "reference": "X B 60/17",
+  "ecli": "ECLI:DE:BFH:2018:B.190118.XB60.17.0",
+  "chars": 17309
+ },
+ "tax/bfh-2018-01-18-iii-r-1617": {
+  "domain": "tax",
+  "case_id": "59631",
+  "title": "BFH III R 16/17 (2018-01-18)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-01-18",
+  "reference": "III R 16/17",
+  "ecli": "ECLI:DE:BFH:2018:U.180118.IIIR16.17.0",
+  "chars": 9393
+ },
+ "tax/bfh-2018-01-17-i-r-2716": {
+  "domain": "tax",
+  "case_id": "59626",
+  "title": "BFH I R 27/16 (2018-01-17)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-01-17",
+  "reference": "I R 27/16",
+  "ecli": "ECLI:DE:BFH:2018:U.170118.IR27.16.0",
+  "chars": 19361
+ },
+ "tax/bfh-2018-01-17-i-r-7415": {
+  "domain": "tax",
+  "case_id": "59629",
+  "title": "BFH I R 74/15 (2018-01-17)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-01-17",
+  "reference": "I R 74/15",
+  "ecli": "ECLI:DE:BFH:2018:U.170118.IR74.15.0",
+  "chars": 13839
+ },
+ "tax/bfh-2018-01-16-vi-r-216": {
+  "domain": "tax",
+  "case_id": "59614",
+  "title": "BFH VI R 2/16 (2018-01-16)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-01-16",
+  "reference": "VI R 2/16",
+  "ecli": "ECLI:DE:BFH:2018:U.160118.VIR2.16.0",
+  "chars": 21404
+ },
+ "tax/bfh-2018-01-16-vi-r-3816": {
+  "domain": "tax",
+  "case_id": "59625",
+  "title": "BFH VI R 38/16 (2018-01-16)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-01-16",
+  "reference": "VI R 38/16",
+  "ecli": "ECLI:DE:BFH:2018:U.160118.VIR38.16.0",
+  "chars": 10546
+ },
+ "tax/bfh-2018-01-16-vi-r-4116": {
+  "domain": "tax",
+  "case_id": "59634",
+  "title": "BFH VI R 41/16 (2018-01-16)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-01-16",
+  "reference": "VI R 41/16",
+  "ecli": "ECLI:DE:BFH:2018:U.160118.VIR41.16.0",
+  "chars": 9003
+ },
+ "tax/bfh-2018-01-15-vi-b-7717": {
+  "domain": "tax",
+  "case_id": "59635",
+  "title": "BFH VI B 77/17 (2018-01-15)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-01-15",
+  "reference": "VI B 77/17",
+  "ecli": "ECLI:DE:BFH:2018:B.150118.VIB77.17.0",
+  "chars": 5172
+ },
+ "tax/bfh-2018-01-11-viii-b-6717": {
+  "domain": "tax",
+  "case_id": "59621",
+  "title": "BFH VIII B 67/17 (2018-01-11)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-01-11",
+  "reference": "VIII B 67/17",
+  "ecli": "ECLI:DE:BFH:2018:BA.110118.VIIIB67.17.0",
+  "chars": 32642
+ },
+ "tax/bfh-2018-01-11-x-r-2117": {
+  "domain": "tax",
+  "case_id": "59623",
+  "title": "BFH X R 21/17 (2018-01-11)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-01-11",
+  "reference": "X R 21/17",
+  "ecli": "ECLI:DE:BFH:2018:B.110118.XR21.17.0",
+  "chars": 5621
+ },
+ "tax/bfh-2018-01-10-i-r-4516": {
+  "domain": "tax",
+  "case_id": "61537",
+  "title": "BFH I R 45/16 (2018-01-10)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-01-10",
+  "reference": "I R 45/16",
+  "ecli": "ECLI:DE:BFH:2018:B.100118.IR45.16.0",
+  "chars": 3562
+ },
+ "tax/bfh-2018-01-09-ix-s-2617": {
+  "domain": "tax",
+  "case_id": "59640",
+  "title": "BFH IX S 26/17 (2018-01-09)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-01-09",
+  "reference": "IX S 26/17",
+  "ecli": "ECLI:DE:BFH:2018:B.090118.IXS26.17.0",
+  "chars": 1389
+ },
+ "tax/bfh-2018-01-09-ix-r-3416": {
+  "domain": "tax",
+  "case_id": "59643",
+  "title": "BFH IX R 34/16 (2018-01-09)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-01-09",
+  "reference": "IX R 34/16",
+  "ecli": "ECLI:DE:BFH:2018:U.090118.IXR34.16.0",
+  "chars": 27687
+ },
+ "tax/bfh-2018-01-02-xi-b-8117": {
+  "domain": "tax",
+  "case_id": "59647",
+  "title": "BFH XI B 81/17 (2018-01-02)",
+  "court": "Bundesfinanzhof",
+  "date": "2018-01-02",
+  "reference": "XI B 81/17",
+  "ecli": "ECLI:DE:BFH:2018:B.020118.XIB81.17.0",
+  "chars": 9752
+ },
+ "tax/bfh-2017-12-21-iv-r-4414": {
+  "domain": "tax",
+  "case_id": "59637",
+  "title": "BFH IV R 44/14 (2017-12-21)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-12-21",
+  "reference": "IV R 44/14",
+  "ecli": "ECLI:DE:BFH:2017:U.211217.IVR44.14.0",
+  "chars": 21937
+ },
+ "tax/bfh-2017-12-21-iv-r-5616": {
+  "domain": "tax",
+  "case_id": "59646",
+  "title": "BFH IV R 56/16 (2017-12-21)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-12-21",
+  "reference": "IV R 56/16",
+  "ecli": "ECLI:DE:BFH:2017:U.211217.IVR56.16.0",
+  "chars": 29085
+ },
+ "tax/bfh-2017-12-21-iv-r-5516": {
+  "domain": "tax",
+  "case_id": "59652",
+  "title": "BFH IV R 55/16 (2017-12-21)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-12-21",
+  "reference": "IV R 55/16",
+  "ecli": "ECLI:DE:BFH:2017:U.211217.IVR55.16.0",
+  "chars": 29409
+ },
+ "tax/bfh-2017-12-21-iii-r-1416": {
+  "domain": "tax",
+  "case_id": "59655",
+  "title": "BFH III R 14/16 (2017-12-21)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-12-21",
+  "reference": "III R 14/16",
+  "ecli": "ECLI:DE:BFH:2017:U.211217.IIIR14.16.0",
+  "chars": 16671
+ },
+ "tax/bfh-2017-12-21-iii-b-2717": {
+  "domain": "tax",
+  "case_id": "59657",
+  "title": "BFH III B 27/17 (2017-12-21)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-12-21",
+  "reference": "III B 27/17",
+  "ecli": "ECLI:DE:BFH:2017:B.211217.IIIB27.17.0",
+  "chars": 8136
+ },
+ "tax/bfh-2017-12-20-iii-r-217": {
+  "domain": "tax",
+  "case_id": "59638",
+  "title": "BFH III R 2/17 (2017-12-20)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-12-20",
+  "reference": "III R 2/17",
+  "ecli": "ECLI:DE:BFH:2017:U.201217.IIIR2.17.0",
+  "chars": 8950
+ },
+ "tax/bfh-2017-12-20-iii-r-2315": {
+  "domain": "tax",
+  "case_id": "59641",
+  "title": "BFH III R 23/15 (2017-12-20)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-12-20",
+  "reference": "III R 23/15",
+  "ecli": "ECLI:DE:BFH:2017:U.201217.IIIR23.15.0",
+  "chars": 16622
+ },
+ "tax/bfh-2017-12-20-i-r-916": {
+  "domain": "tax",
+  "case_id": "59651",
+  "title": "BFH I R 9/16 (2017-12-20)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-12-20",
+  "reference": "I R 9/16",
+  "ecli": "ECLI:DE:BFH:2017:U.201217.IR9.16.0",
+  "chars": 10073
+ },
+ "tax/bfh-2017-12-20-i-r-816": {
+  "domain": "tax",
+  "case_id": "59654",
+  "title": "BFH I R 8/16 (2017-12-20)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-12-20",
+  "reference": "I R 8/16",
+  "ecli": "ECLI:DE:BFH:2017:U.201217.IR8.16.0",
+  "chars": 10058
+ },
+ "tax/bfh-2017-12-20-i-r-9815": {
+  "domain": "tax",
+  "case_id": "59656",
+  "title": "BFH I R 98/15 (2017-12-20)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-12-20",
+  "reference": "I R 98/15",
+  "ecli": "ECLI:DE:BFH:2017:U.201217.IR98.15.0",
+  "chars": 33659
+ },
+ "tax/bfh-2017-12-18-vi-b-6617": {
+  "domain": "tax",
+  "case_id": "59649",
+  "title": "BFH VI B 66/17 (2017-12-18)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-12-18",
+  "reference": "VI B 66/17",
+  "ecli": "ECLI:DE:BFH:2017:B.181217.VIB66.17.0",
+  "chars": 7716
+ },
+ "tax/bfh-2017-12-15-ix-s-3117": {
+  "domain": "tax",
+  "case_id": "59636",
+  "title": "BFH IX S 31/17 (2017-12-15)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-12-15",
+  "reference": "IX S 31/17",
+  "ecli": "ECLI:DE:BFH:2017:B.151217.IXS31.17.0",
+  "chars": 1041
+ },
+ "tax/bfh-2017-12-15-ix-b-13017": {
+  "domain": "tax",
+  "case_id": "59650",
+  "title": "BFH IX B 130/17 (2017-12-15)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-12-15",
+  "reference": "IX B 130/17",
+  "ecli": "ECLI:DE:BFH:2017:B.151217.IXB130.17.0",
+  "chars": 1417
+ },
+ "tax/bfh-2017-12-14-v-b-5717": {
+  "domain": "tax",
+  "case_id": "59660",
+  "title": "BFH V B 57/17 (2017-12-14)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-12-14",
+  "reference": "V B 57/17",
+  "ecli": "ECLI:DE:BFH:2017:B.141217.VB57.17.0",
+  "chars": 6107
+ },
+ "tax/bfh-2017-12-13-xi-r-1216": {
+  "domain": "tax",
+  "case_id": "59639",
+  "title": "BFH XI R 12/16 (2017-12-13)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-12-13",
+  "reference": "XI R 12/16",
+  "ecli": "ECLI:DE:BFH:2017:U.131217.XIR12.16.0",
+  "chars": 12011
+ },
+ "tax/bfh-2017-12-13-xi-r-316": {
+  "domain": "tax",
+  "case_id": "59653",
+  "title": "BFH XI R 3/16 (2017-12-13)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-12-13",
+  "reference": "XI R 3/16",
+  "ecli": "ECLI:DE:BFH:2017:U.131217.XIR3.16.0",
+  "chars": 28157
+ },
+ "tax/bfh-2017-12-13-xi-r-416": {
+  "domain": "tax",
+  "case_id": "59659",
+  "title": "BFH XI R 4/16 (2017-12-13)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-12-13",
+  "reference": "XI R 4/16",
+  "ecli": "ECLI:DE:BFH:2017:U.131217.XIR4.16.0",
+  "chars": 31676
+ },
+ "tax/bfh-2017-12-12-viii-r-914": {
+  "domain": "tax",
+  "case_id": "59642",
+  "title": "BFH VIII R 9/14 (2017-12-12)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-12-12",
+  "reference": "VIII R 9/14",
+  "ecli": "ECLI:DE:BFH:2017:U.121217.VIIIR9.14.0",
+  "chars": 15346
+ },
+ "tax/bfh-2017-12-12-x-b-10617": {
+  "domain": "tax",
+  "case_id": "59644",
+  "title": "BFH X B 106/17 (2017-12-12)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-12-12",
+  "reference": "X B 106/17",
+  "ecli": "ECLI:DE:BFH:2017:B.121217.XB106.17.0",
+  "chars": 12762
+ },
+ "tax/bfh-2017-12-12-viii-r-514": {
+  "domain": "tax",
+  "case_id": "59645",
+  "title": "BFH VIII R 5/14 (2017-12-12)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-12-12",
+  "reference": "VIII R 5/14",
+  "ecli": "ECLI:DE:BFH:2017:U.121217.VIIIR5.14.0",
+  "chars": 25013
+ },
+ "tax/bfh-2017-12-12-x-r-3915": {
+  "domain": "tax",
+  "case_id": "59648",
+  "title": "BFH X R 39/15 (2017-12-12)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-12-12",
+  "reference": "X R 39/15",
+  "ecli": "ECLI:DE:BFH:2017:U.121217.XR39.15.0",
+  "chars": 17703
+ },
+ "tax/bfh-2017-12-12-viii-r-614": {
+  "domain": "tax",
+  "case_id": "59658",
+  "title": "BFH VIII R 6/14 (2017-12-12)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-12-12",
+  "reference": "VIII R 6/14",
+  "ecli": "ECLI:DE:BFH:2017:U.121217.VIIIR6.14.0",
+  "chars": 37222
+ },
+ "tax/bfh-2017-12-12-x-r-4616": {
+  "domain": "tax",
+  "case_id": "61580",
+  "title": "BFH X R 46/16 (2017-12-12)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-12-12",
+  "reference": "X R 46/16",
+  "ecli": "ECLI:DE:BFH:2017:U.121217.XR46.16.0",
+  "chars": 20252
+ },
+ "tax/bfh-2017-12-12-x-r-2516": {
+  "domain": "tax",
+  "case_id": "61593",
+  "title": "BFH X R 25/16 (2017-12-12)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-12-12",
+  "reference": "X R 25/16",
+  "ecli": "ECLI:DE:BFH:2017:U.121217.XR25.16.0",
+  "chars": 17894
+ },
+ "tax/bfh-2017-12-11-vi-b-7517": {
+  "domain": "tax",
+  "case_id": "61588",
+  "title": "BFH VI B 75/17 (2017-12-11)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-12-11",
+  "reference": "VI B 75/17",
+  "ecli": "ECLI:DE:BFH:2017:B.111217.VIB75.17.0",
+  "chars": 6387
+ },
+ "tax/bfh-2017-12-11-vi-b-2117": {
+  "domain": "tax",
+  "case_id": "61589",
+  "title": "BFH VI B 21/17 (2017-12-11)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-12-11",
+  "reference": "VI B 21/17",
+  "ecli": "ECLI:DE:BFH:2017:B.111217.VIB21.17.0",
+  "chars": 8108
+ },
+ "tax/bfh-2017-12-08-vi-b-5317": {
+  "domain": "tax",
+  "case_id": "61579",
+  "title": "BFH VI B 53/17 (2017-12-08)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-12-08",
+  "reference": "VI B 53/17",
+  "ecli": "ECLI:DE:BFH:2017:B.081217.VIB53.17.0",
+  "chars": 12713
+ },
+ "tax/bfh-2017-12-07-iv-r-2314": {
+  "domain": "tax",
+  "case_id": "61581",
+  "title": "BFH IV R 23/14 (2017-12-07)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-12-07",
+  "reference": "IV R 23/14",
+  "ecli": "ECLI:DE:BFH:2017:U.071217.IVR23.14.0",
+  "chars": 30240
+ },
+ "tax/bfh-2017-12-07-iv-r-3716": {
+  "domain": "tax",
+  "case_id": "61587",
+  "title": "BFH IV R 37/16 (2017-12-07)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-12-07",
+  "reference": "IV R 37/16",
+  "ecli": "ECLI:DE:BFH:2017:U.071217.IVR37.16.0",
+  "chars": 33999
+ },
+ "tax/bfh-2017-12-06-vi-r-4115": {
+  "domain": "tax",
+  "case_id": "61582",
+  "title": "BFH VI R 41/15 (2017-12-06)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-12-06",
+  "reference": "VI R 41/15",
+  "ecli": "ECLI:DE:BFH:2017:U.061217.VIR41.15.0",
+  "chars": 17114
+ },
+ "tax/bfh-2017-12-06-ii-r-2615": {
+  "domain": "tax",
+  "case_id": "61584",
+  "title": "BFH II R 26/15 (2017-12-06)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-12-06",
+  "reference": "II R 26/15",
+  "ecli": "ECLI:DE:BFH:2017:U.061217.IIR26.15.0",
+  "chars": 24440
+ },
+ "tax/bfh-2017-12-06-ix-r-417": {
+  "domain": "tax",
+  "case_id": "61592",
+  "title": "BFH IX R 4/17 (2017-12-06)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-12-06",
+  "reference": "IX R 4/17",
+  "ecli": "ECLI:DE:BFH:2017:U.061217.IXR4.17.0",
+  "chars": 20455
+ },
+ "tax/bfh-2017-12-06-ix-r-717": {
+  "domain": "tax",
+  "case_id": "61594",
+  "title": "BFH IX R 7/17 (2017-12-06)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-12-06",
+  "reference": "IX R 7/17",
+  "ecli": "ECLI:DE:BFH:2017:U.061217.IXR7.17.0",
+  "chars": 15470
+ },
+ "tax/bfh-2017-12-06-ii-r-5515": {
+  "domain": "tax",
+  "case_id": "61598",
+  "title": "BFH II R 55/15 (2017-12-06)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-12-06",
+  "reference": "II R 55/15",
+  "ecli": "ECLI:DE:BFH:2017:U.061217.IIR55.15.0",
+  "chars": 10505
+ },
+ "tax/bfh-2017-12-06-vi-r-6815": {
+  "domain": "tax",
+  "case_id": "61600",
+  "title": "BFH VI R 68/15 (2017-12-06)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-12-06",
+  "reference": "VI R 68/15",
+  "ecli": "ECLI:DE:BFH:2017:U.061217.VIR68.15.0",
+  "chars": 17018
+ },
+ "tax/bfh-2017-12-06-vi-r-6515": {
+  "domain": "tax",
+  "case_id": "61602",
+  "title": "BFH VI R 65/15 (2017-12-06)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-12-06",
+  "reference": "VI R 65/15",
+  "ecli": "ECLI:DE:BFH:2017:U.061217.VIR65.15.0",
+  "chars": 16104
+ },
+ "tax/bfh-2017-12-05-vii-b-8517": {
+  "domain": "tax",
+  "case_id": "61597",
+  "title": "BFH VII B 85/17 (2017-12-05)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-12-05",
+  "reference": "VII B 85/17",
+  "ecli": "ECLI:DE:BFH:2017:B.051217.VIIB85.17.0",
+  "chars": 8895
+ },
+ "tax/bfh-2017-12-04-x-b-9117": {
+  "domain": "tax",
+  "case_id": "61596",
+  "title": "BFH X B 91/17 (2017-12-04)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-12-04",
+  "reference": "X B 91/17",
+  "ecli": "ECLI:DE:BFH:2017:B.041217.XB91.17.0",
+  "chars": 23586
+ },
+ "tax/bfh-2017-11-30-iv-r-3314": {
+  "domain": "tax",
+  "case_id": "61590",
+  "title": "BFH IV R 33/14 (2017-11-30)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-11-30",
+  "reference": "IV R 33/14",
+  "ecli": "ECLI:DE:BFH:2017:U.301117.IVR33.14.0",
+  "chars": 16373
+ },
+ "tax/bfh-2017-11-30-iv-r-2215": {
+  "domain": "tax",
+  "case_id": "61591",
+  "title": "BFH IV R 22/15 (2017-11-30)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-11-30",
+  "reference": "IV R 22/15",
+  "ecli": "ECLI:DE:BFH:2017:U.301117.IVR22.15.0",
+  "chars": 17939
+ },
+ "tax/bfh-2017-11-30-x-e-1217": {
+  "domain": "tax",
+  "case_id": "61599",
+  "title": "BFH X E 12/17 (2017-11-30)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-11-30",
+  "reference": "X E 12/17",
+  "ecli": "ECLI:DE:BFH:2017:B.301117.XE12.17.0",
+  "chars": 3448
+ },
+ "tax/bfh-2017-11-29-ii-r-1416": {
+  "domain": "tax",
+  "case_id": "61929",
+  "title": "BFH II R 14/16 (2017-11-29)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-11-29",
+  "reference": "II R 14/16",
+  "ecli": "ECLI:DE:BFH:2017:U.291117.IIR14.16.0",
+  "chars": 18655
+ },
+ "tax/bfh-2017-11-29-ii-r-5215": {
+  "domain": "tax",
+  "case_id": "61932",
+  "title": "BFH II R 52/15 (2017-11-29)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-11-29",
+  "reference": "II R 52/15",
+  "ecli": "ECLI:DE:BFH:2017:U.291117.IIR52.15.0",
+  "chars": 16915
+ },
+ "tax/bfh-2017-11-29-x-r-816": {
+  "domain": "tax",
+  "case_id": "61935",
+  "title": "BFH X R 8/16 (2017-11-29)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-11-29",
+  "reference": "X R 8/16",
+  "ecli": "ECLI:DE:BFH:2017:U.291117.XR8.16.0",
+  "chars": 79971
+ },
+ "tax/bfh-2017-11-29-x-r-2616": {
+  "domain": "tax",
+  "case_id": "61939",
+  "title": "BFH X R 26/16 (2017-11-29)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-11-29",
+  "reference": "X R 26/16",
+  "ecli": "ECLI:DE:BFH:2017:U.291117.XR26.16.0",
+  "chars": 24506
+ },
+ "tax/bfh-2017-11-29-i-r-8315": {
+  "domain": "tax",
+  "case_id": "61940",
+  "title": "BFH I R 83/15 (2017-11-29)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-11-29",
+  "reference": "I R 83/15",
+  "ecli": "ECLI:DE:BFH:2017:U.291117.IR83.15.0",
+  "chars": 17584
+ },
+ "tax/bfh-2017-11-29-x-r-3415": {
+  "domain": "tax",
+  "case_id": "61942",
+  "title": "BFH X R 34/15 (2017-11-29)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-11-29",
+  "reference": "X R 34/15",
+  "ecli": "ECLI:DE:BFH:2017:U.291117.XR34.15.0",
+  "chars": 47590
+ },
+ "tax/bfh-2017-11-29-x-r-316": {
+  "domain": "tax",
+  "case_id": "61946",
+  "title": "BFH X R 3/16 (2017-11-29)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-11-29",
+  "reference": "X R 3/16",
+  "ecli": "ECLI:DE:BFH:2017:U.291117.XR3.16.0",
+  "chars": 14090
+ },
+ "tax/bfh-2017-11-29-i-r-5815": {
+  "domain": "tax",
+  "case_id": "61948",
+  "title": "BFH I R 58/15 (2017-11-29)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-11-29",
+  "reference": "I R 58/15",
+  "ecli": "ECLI:DE:BFH:2017:U.291117.IR58.15.0",
+  "chars": 27442
+ },
+ "tax/bfh-2017-11-29-x-r-517": {
+  "domain": "tax",
+  "case_id": "61949",
+  "title": "BFH X R 5/17 (2017-11-29)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-11-29",
+  "reference": "X R 5/17",
+  "ecli": "ECLI:DE:BFH:2017:U.291117.XR5.17.0",
+  "chars": 16179
+ },
+ "tax/bfh-2017-11-29-vi-b-4517": {
+  "domain": "tax",
+  "case_id": "61950",
+  "title": "BFH VI B 45/17 (2017-11-29)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-11-29",
+  "reference": "VI B 45/17",
+  "ecli": "ECLI:DE:BFH:2017:B.291117.VIB45.17.0",
+  "chars": 8246
+ },
+ "tax/bfh-2017-11-29-i-r-716": {
+  "domain": "tax",
+  "case_id": "61951",
+  "title": "BFH I R 7/16 (2017-11-29)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-11-29",
+  "reference": "I R 7/16",
+  "ecli": "ECLI:DE:BFH:2017:U.291117.IR7.16.0",
+  "chars": 32492
+ },
+ "tax/bfh-2017-11-28-vii-r-3015": {
+  "domain": "tax",
+  "case_id": "61928",
+  "title": "BFH VII R 30/15 (2017-11-28)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-11-28",
+  "reference": "VII R 30/15",
+  "ecli": "ECLI:DE:BFH:2017:U.281117.VIIR30.15.0",
+  "chars": 14491
+ },
+ "tax/bfh-2017-11-28-vii-r-116": {
+  "domain": "tax",
+  "case_id": "61930",
+  "title": "BFH VII R 1/16 (2017-11-28)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-11-28",
+  "reference": "VII R 1/16",
+  "ecli": "ECLI:DE:BFH:2017:U.281117.VIIR1.16.0",
+  "chars": 24527
+ },
+ "tax/bfh-2017-11-28-iii-b-8617": {
+  "domain": "tax",
+  "case_id": "61933",
+  "title": "BFH III B 86/17 (2017-11-28)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-11-28",
+  "reference": "III B 86/17",
+  "ecli": "ECLI:DE:BFH:2017:B.281117.IIIB86.17.0",
+  "chars": 8456
+ },
+ "tax/bfh-2017-11-28-vii-r-1017": {
+  "domain": "tax",
+  "case_id": "61937",
+  "title": "BFH VII R 10/17 (2017-11-28)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-11-28",
+  "reference": "VII R 10/17",
+  "ecli": "ECLI:DE:BFH:2017:U.281117.VIIR10.17.0",
+  "chars": 8001
+ },
+ "tax/bfh-2017-11-28-v-b-6017": {
+  "domain": "tax",
+  "case_id": "61941",
+  "title": "BFH V B 60/17 (2017-11-28)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-11-28",
+  "reference": "V B 60/17",
+  "ecli": "ECLI:DE:BFH:2017:B.281117.VB60.17.0",
+  "chars": 3107
+ },
+ "tax/bfh-2017-11-27-ix-b-14416": {
+  "domain": "tax",
+  "case_id": "61931",
+  "title": "BFH IX B 144/16 (2017-11-27)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-11-27",
+  "reference": "IX B 144/16",
+  "ecli": "ECLI:DE:BFH:2017:B.271117.IXB144.16.0",
+  "chars": 6987
+ },
+ "tax/bfh-2017-11-27-iii-b-17916": {
+  "domain": "tax",
+  "case_id": "61936",
+  "title": "BFH III B 179/16 (2017-11-27)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-11-27",
+  "reference": "III B 179/16",
+  "ecli": "ECLI:DE:BFH:2017:B.271117.IIIB179.16.0",
+  "chars": 10683
+ },
+ "tax/bfh-2017-11-22-v-s-1817-pkh": {
+  "domain": "tax",
+  "case_id": "61944",
+  "title": "BFH V S 18/17 (PKH) (2017-11-22)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-11-22",
+  "reference": "V S 18/17 (PKH)",
+  "ecli": "ECLI:DE:BFH:2017:B.221117.VS18.17.0",
+  "chars": 10743
+ },
+ "tax/bfh-2017-11-22-xi-r-1416": {
+  "domain": "tax",
+  "case_id": "61952",
+  "title": "BFH XI R 14/16 (2017-11-22)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-11-22",
+  "reference": "XI R 14/16",
+  "ecli": "ECLI:DE:BFH:2017:U.221117.XIR14.16.0",
+  "chars": 16125
+ },
+ "tax/bfh-2017-11-21-viii-r-1715": {
+  "domain": "tax",
+  "case_id": "61945",
+  "title": "BFH VIII R 17/15 (2017-11-21)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-11-21",
+  "reference": "VIII R 17/15",
+  "ecli": "ECLI:DE:BFH:2017:U.211117.VIIIR17.15.0",
+  "chars": 31087
+ },
+ "tax/bfh-2017-11-16-vi-r-6315": {
+  "domain": "tax",
+  "case_id": "61938",
+  "title": "BFH VI R 63/15 (2017-11-16)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-11-16",
+  "reference": "VI R 63/15",
+  "ecli": "ECLI:DE:BFH:2017:U.161117.VIR63.15.0",
+  "chars": 15236
+ },
+ "tax/bfh-2017-11-16-ix-b-8617": {
+  "domain": "tax",
+  "case_id": "61943",
+  "title": "BFH IX B 86/17 (2017-11-16)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-11-16",
+  "reference": "IX B 86/17",
+  "ecli": "ECLI:DE:BFH:2017:B.161117.IXB86.17.0",
+  "chars": 2335
+ },
+ "tax/bfh-2017-11-16-vi-r-3116": {
+  "domain": "tax",
+  "case_id": "61947",
+  "title": "BFH VI R 31/16 (2017-11-16)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-11-16",
+  "reference": "VI R 31/16",
+  "ecli": "ECLI:DE:BFH:2017:U.161117.VIR31.16.0",
+  "chars": 13177
+ },
+ "tax/bfh-2017-11-15-vi-r-4416": {
+  "domain": "tax",
+  "case_id": "61934",
+  "title": "BFH VI R 44/16 (2017-11-15)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-11-15",
+  "reference": "VI R 44/16",
+  "ecli": "ECLI:DE:BFH:2017:B.151117.VIR44.16.0",
+  "chars": 18356
+ },
+ "tax/bfh-2017-11-15-i-b-2717": {
+  "domain": "tax",
+  "case_id": "61958",
+  "title": "BFH I B 27/17 (2017-11-15)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-11-15",
+  "reference": "I B 27/17",
+  "ecli": "ECLI:DE:BFH:2017:B.151117.IB27.17.0",
+  "chars": 9929
+ },
+ "tax/bfh-2017-11-15-i-r-3915": {
+  "domain": "tax",
+  "case_id": "61977",
+  "title": "BFH I R 39/15 (2017-11-15)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-11-15",
+  "reference": "I R 39/15",
+  "ecli": "ECLI:DE:BFH:2017:U.151117.IR39.15.0",
+  "chars": 19673
+ },
+ "tax/bfh-2017-11-14-v-b-6517": {
+  "domain": "tax",
+  "case_id": "61963",
+  "title": "BFH V B 65/17 (2017-11-14)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-11-14",
+  "reference": "V B 65/17",
+  "ecli": "ECLI:DE:BFH:2017:B.141117.VB65.17.0",
+  "chars": 5930
+ },
+ "tax/bfh-2017-11-14-ix-b-7817": {
+  "domain": "tax",
+  "case_id": "61970",
+  "title": "BFH IX B 78/17 (2017-11-14)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-11-14",
+  "reference": "IX B 78/17",
+  "ecli": "ECLI:DE:BFH:2017:B.141117.IXB78.17.0",
+  "chars": 4940
+ },
+ "tax/bfh-2017-11-14-ix-b-6617": {
+  "domain": "tax",
+  "case_id": "61976",
+  "title": "BFH IX B 66/17 (2017-11-14)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-11-14",
+  "reference": "IX B 66/17",
+  "ecli": "ECLI:DE:BFH:2017:B.141117.IXB66.17.0",
+  "chars": 6817
+ },
+ "tax/bfh-2017-11-09-iv-r-1914": {
+  "domain": "tax",
+  "case_id": "61953",
+  "title": "BFH IV R 19/14 (2017-11-09)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-11-09",
+  "reference": "IV R 19/14",
+  "ecli": "ECLI:DE:BFH:2017:U.091117.IVR19.14.0",
+  "chars": 28010
+ },
+ "tax/bfh-2017-11-09-iii-r-1016": {
+  "domain": "tax",
+  "case_id": "61957",
+  "title": "BFH III R 10/16 (2017-11-09)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-11-09",
+  "reference": "III R 10/16",
+  "ecli": "ECLI:DE:BFH:2017:U.091117.IIIR10.16.0",
+  "chars": 48522
+ },
+ "tax/bfh-2017-11-09-iv-r-3714": {
+  "domain": "tax",
+  "case_id": "61962",
+  "title": "BFH IV R 37/14 (2017-11-09)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-11-09",
+  "reference": "IV R 37/14",
+  "ecli": "ECLI:DE:BFH:2017:U.091117.IVR37.14.0",
+  "chars": 18126
+ },
+ "tax/bfh-2017-11-09-iii-r-2016": {
+  "domain": "tax",
+  "case_id": "61968",
+  "title": "BFH III R 20/16 (2017-11-09)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-11-09",
+  "reference": "III R 20/16",
+  "ecli": "ECLI:DE:BFH:2017:U.091117.IIIR20.16.0",
+  "chars": 20026
+ },
+ "tax/bfh-2017-11-08-ix-r-3515": {
+  "domain": "tax",
+  "case_id": "61955",
+  "title": "BFH IX R 35/15 (2017-11-08)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-11-08",
+  "reference": "IX R 35/15",
+  "ecli": "ECLI:DE:BFH:2017:U.081117.IXR35.15.0",
+  "chars": 21038
+ },
+ "tax/bfh-2017-11-08-ix-r-2515": {
+  "domain": "tax",
+  "case_id": "61960",
+  "title": "BFH IX R 25/15 (2017-11-08)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-11-08",
+  "reference": "IX R 25/15",
+  "ecli": "ECLI:DE:BFH:2017:U.081117.IXR25.15.0",
+  "chars": 19619
+ },
+ "tax/bfh-2017-11-08-ix-r-3616": {
+  "domain": "tax",
+  "case_id": "61964",
+  "title": "BFH IX R 36/16 (2017-11-08)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-11-08",
+  "reference": "IX R 36/16",
+  "ecli": "ECLI:DE:BFH:2017:U.081117.IXR36.16.0",
+  "chars": 6842
+ },
+ "tax/bfh-2017-11-08-iii-r-216": {
+  "domain": "tax",
+  "case_id": "61965",
+  "title": "BFH III R 2/16 (2017-11-08)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-11-08",
+  "reference": "III R 2/16",
+  "ecli": "ECLI:DE:BFH:2017:U.081117.IIIR2.16.0",
+  "chars": 13887
+ },
+ "tax/bfh-2017-11-08-ix-r-2516": {
+  "domain": "tax",
+  "case_id": "61967",
+  "title": "BFH IX R 25/16 (2017-11-08)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-11-08",
+  "reference": "IX R 25/16",
+  "ecli": "ECLI:DE:BFH:2017:U.081117.IXR25.16.0",
+  "chars": 14192
+ },
+ "tax/bfh-2017-11-08-ix-r-3216": {
+  "domain": "tax",
+  "case_id": "61974",
+  "title": "BFH IX R 32/16 (2017-11-08)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-11-08",
+  "reference": "IX R 32/16",
+  "ecli": "ECLI:DE:BFH:2017:U.081117.IXR32.16.0",
+  "chars": 12361
+ },
+ "tax/bfh-2017-11-07-iii-b-3117": {
+  "domain": "tax",
+  "case_id": "61959",
+  "title": "BFH III B 31/17 (2017-11-07)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-11-07",
+  "reference": "III B 31/17",
+  "ecli": "ECLI:DE:BFH:2017:B.071117.IIIB31.17.0",
+  "chars": 9483
+ },
+ "tax/bfh-2017-10-27-ix-s-2117": {
+  "domain": "tax",
+  "case_id": "61971",
+  "title": "BFH IX S 21/17 (2017-10-27)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-10-27",
+  "reference": "IX S 21/17",
+  "ecli": "ECLI:DE:BFH:2017:B.271017.IXS21.17.0",
+  "chars": 3808
+ },
+ "tax/bfh-2017-10-27-ix-b-9017": {
+  "domain": "tax",
+  "case_id": "61975",
+  "title": "BFH IX B 90/17 (2017-10-27)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-10-27",
+  "reference": "IX B 90/17",
+  "ecli": "ECLI:DE:BFH:2017:B.271017.IXB90.17.0",
+  "chars": 3126
+ },
+ "tax/bfh-2017-10-24-viii-r-3515": {
+  "domain": "tax",
+  "case_id": "61954",
+  "title": "BFH VIII R 35/15 (2017-10-24)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-10-24",
+  "reference": "VIII R 35/15",
+  "ecli": "ECLI:DE:BFH:2017:U.241017.VIIIR35.15.0",
+  "chars": 13095
+ },
+ "tax/bfh-2017-10-24-viii-r-1315": {
+  "domain": "tax",
+  "case_id": "61956",
+  "title": "BFH VIII R 13/15 (2017-10-24)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-10-24",
+  "reference": "VIII R 13/15",
+  "ecli": "ECLI:DE:BFH:2017:U.241017.VIIIR13.15.0",
+  "chars": 13264
+ },
+ "tax/bfh-2017-10-24-ii-r-4015": {
+  "domain": "tax",
+  "case_id": "61961",
+  "title": "BFH II R 40/15 (2017-10-24)",
+  "court": "Bundesfinanzhof",
+  "date": "2017-10-24",
+  "reference": "II R 40/15",
+  "ecli": "ECLI:DE:BFH:2017:U.241017.IIR40.15.0",
+  "chars": 16222
+ }
+}

@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the AIES 2026 paper below."
+title: "knowledge-probe-legal-ai: code and data for Selective Overconfidence in legal AI"
+type: software
+authors:
+  - family-names: Potka
+    given-names: Shera
+    orcid: "https://orcid.org/0009-0003-4341-5986"
+  - family-names: Thomo
+    given-names: Alex
+license: MIT
+repository-code: "https://github.com/sherapotka/knowledge-probe-legal-ai"
+preferred-citation:
+  type: conference-paper
+  title: "Selective Overconfidence: How Large Language Models Underserve Social Welfare Law Across Jurisdictions"
+  authors:
+    - family-names: Potka
+      given-names: Shera
+    - family-names: Thomo
+      given-names: Alex
+    - family-names: Helm
+      given-names: Paula
+    - family-names: Loh
+      given-names: Wulf
+  collection-title: "Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society (AIES 2026)"
+  volume: 9
+  issue: 3
+  start: 2130
+  end: 2141
+  year: 2026
+  doi: "10.1609/aies.v9i3.43294"
